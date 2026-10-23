@@ -16,9 +16,10 @@ Python Startup Hooks let an attacker run code every time Python starts. A file d
 - [Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised](https://docs.litellm.ai/blog/security-incident-oct-21-2026), LiteLLM (BerriAI)
 - [PYSEC-2026-2 litellm advisory](https://raw.githubusercontent.com/pypa/advisory-database/main/vulns/litellm/PYSEC-2026-2.yaml), Python Packaging Authority advisory database
 - [SECURITY: litellm 1.82.8 on PyPI contains malicious credential-stealing payload (litellm_init.pth), Issue #24521](https://github.com/BerriAI/litellm/issues/24521), BerriAI/litellm on GitHub
+- [Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/), Microsoft Security
 
 ## Full profile
 
 Timeline, attribution notes, defences and FAQ: **[Python Startup Hooks: .pth and sitecustomize.py Persistence (T1546.018) on Brandefense](https://brandefense.io/knowledge-hub/techniques/t1546-018-python-startup-hooks/)**
 
-_Last updated 2026-10-21. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

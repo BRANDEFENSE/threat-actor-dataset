@@ -668,7 +668,7 @@
       "name": "Python Startup Hooks: .pth and sitecustomize.py Persistence (T1546.018)",
       "slug": "t1546-018-python-startup-hooks",
       "url": "https://brandefense.io/knowledge-hub/techniques/t1546-018-python-startup-hooks/",
-      "last_updated": "2026-10-21",
+      "last_updated": "2026-10-23",
       "mitre_attack_id": "T1546.018",
       "tactic": "Persistence, Privilege Escalation",
       "summary": "Python Startup Hooks let an attacker run code every time Python starts. A file dropped into the Python packages folder is processed by the interpreter itself, so the code runs even if the program never imports anything from it. MITRE tracks this as T1546.018.",
@@ -707,6 +707,11 @@
           "title": "SECURITY: litellm 1.82.8 on PyPI contains malicious credential-stealing payload (litellm_init.pth), Issue #24521",
           "publisher": "BerriAI/litellm on GitHub",
           "url": "https://github.com/BerriAI/litellm/issues/24521"
+        },
+        {
+          "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+          "publisher": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
         }
       ]
     },
