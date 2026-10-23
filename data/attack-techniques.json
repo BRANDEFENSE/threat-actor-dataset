@@ -1,0 +1,954 @@
+{
+  "meta": {
+    "dataset": "attack-techniques",
+    "title": "MITRE ATT&CK techniques",
+    "publisher": "Brandefense",
+    "homepage": "https://brandefense.io",
+    "license": "CC-BY-4.0",
+    "generated": "2026-10-23",
+    "count": 41
+  },
+  "items": [
+    {
+      "name": "OS Credential Dumping",
+      "slug": "t1003-os-credential-dumping",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1003-os-credential-dumping/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1003",
+      "tactic": "Credential Access",
+      "summary": "OS credential dumping is when an attacker pulls account login material out of a computer. This is usually a password hash, sometimes a clear text password. The attacker can then use it to move to other systems and reach restricted information.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1003: OS Credential Dumping",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1003/"
+        },
+        {
+          "title": "MITRE ATT&CK Credential Access (TA0006)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0006/"
+        }
+      ]
+    },
+    {
+      "name": "Data from Local System",
+      "slug": "t1005-data-from-local-system",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1005-data-from-local-system/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1005",
+      "tactic": "Collection",
+      "summary": "Data from local system is when an attacker searches a computer they already control to find files and other data worth taking. This usually happens before the data is sent out of the network. It can cover documents, settings files, databases and more.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1005: Data from Local System",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1005/"
+        },
+        {
+          "title": "MITRE ATT&CK Collection (TA0009)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0009/"
+        }
+      ]
+    },
+    {
+      "name": "Remote Services",
+      "slug": "t1021-remote-services",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1021-remote-services/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1021",
+      "tactic": "Lateral Movement",
+      "summary": "Remote Services is when an attacker uses a valid account to log in to a service built for remote access, such as SSH, RDP or VNC. Once in, the attacker can act as that user. It is a common way to move from one system to another inside a network.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1021: Remote Services",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1021/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0008: Lateral Movement",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0008/"
+        }
+      ]
+    },
+    {
+      "name": "Obfuscated Files or Information",
+      "slug": "t1027-obfuscated-files-or-information",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1027-obfuscated-files-or-information/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1027",
+      "tactic": "Stealth",
+      "summary": "Obfuscated Files or Information is a technique where an attacker hides the real content of a file, program or command by encrypting, encoding or packing it. The goal is to slip past security tools and make analysis harder. Tools look for known patterns, so changing how content looks can stop the patterns matching while it still runs.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1027: Obfuscated Files or Information",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1027/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0005: Stealth",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0005/"
+        }
+      ]
+    },
+    {
+      "name": "Masquerading",
+      "slug": "t1036-masquerading",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1036-masquerading/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1036",
+      "tactic": "Stealth",
+      "summary": "Masquerading is when an attacker changes how a file, program, service or account looks so it seems legitimate. They may change its name, where it sits or its descriptive details. The aim is to avoid being noticed by people and by security tools.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1036: Masquerading",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1036/"
+        },
+        {
+          "title": "MITRE ATT&CK T1036.005: Masquerading: Match Legitimate Resource Name or Location",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1036/005/"
+        }
+      ]
+    },
+    {
+      "name": "Exfiltration Over C2 Channel",
+      "slug": "t1041-exfiltration-over-c2-channel",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1041-exfiltration-over-c2-channel/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1041",
+      "tactic": "Exfiltration",
+      "summary": "Exfiltration over a C2 channel is when an attacker sends stolen data out through the same channel they already use to control the infected system. The data is hidden inside what looks like normal control traffic, so no second route out of the network is needed. MITRE ATT&CK tracks it as T1041 under Exfiltration.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1041: Exfiltration Over C2 Channel",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1041/"
+        },
+        {
+          "title": "MITRE ATT&CK Exfiltration (TA0010)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0010/"
+        }
+      ]
+    },
+    {
+      "name": "Scheduled Task/Job",
+      "slug": "t1053-scheduled-task-job",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1053-scheduled-task-job/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1053",
+      "tactic": "Execution, Persistence, Privilege Escalation",
+      "summary": "Scheduled Task/Job is a technique where an attacker uses the task scheduling feature built into an operating system. The feature runs a program or script at a set time or on a repeat. Attackers use it to start malicious code, to keep their access after a restart, or to run code with higher privileges.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1053: Scheduled Task/Job",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1053/"
+        },
+        {
+          "title": "MITRE ATT&CK T1053.005: Scheduled Task/Job: Scheduled Task",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1053/005/"
+        }
+      ]
+    },
+    {
+      "name": "Process Injection",
+      "slug": "t1055-process-injection",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1055-process-injection/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1055",
+      "tactic": "Stealth, Privilege Escalation",
+      "summary": "Process injection is when an attacker runs their own code inside another program that is already running. The code then borrows the identity of that program. This can help it avoid security tools and, in some cases, gain more access.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1055: Process Injection",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1055/"
+        },
+        {
+          "title": "MITRE ATT&CK T1055.012: Process Injection: Process Hollowing",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1055/012/"
+        }
+      ]
+    },
+    {
+      "name": "Input Capture",
+      "slug": "t1056-input-capture",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1056-input-capture/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1056",
+      "tactic": "Collection, Credential Access",
+      "summary": "Input capture is when an attacker records what a user types or enters, to steal passwords or other information. It can happen silently in the background or by tricking the user into typing into a fake prompt or page. MITRE lists four forms: keylogging, GUI input capture, web portal capture and credential API hooking.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1056: Input Capture",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1056/"
+        },
+        {
+          "title": "MITRE ATT&CK T1056.001: Input Capture: Keylogging",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1056/001/"
+        }
+      ]
+    },
+    {
+      "name": "Process Discovery",
+      "slug": "t1057-process-discovery",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1057-process-discovery/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1057",
+      "tactic": "Discovery",
+      "summary": "Process Discovery is a technique where attackers list the programs running on a system. The result tells them what software is present and helps them decide what to do next, for example whether to fully infect the target. MITRE tracks it as T1057 under the Discovery tactic.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1057: Process Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1057/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0007: Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "Command and Scripting Interpreter",
+      "slug": "t1059-command-and-scripting-interpreter",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1059-command-and-scripting-interpreter/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1059",
+      "tactic": "Execution",
+      "summary": "Command and Scripting Interpreter is a technique where an attacker uses the built-in shells and scripting languages of a system to run commands, scripts or programs. Most systems already include these tools, so the activity can look like normal administration.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1059: Command and Scripting Interpreter",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1059/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0002: Execution",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0002/"
+        }
+      ]
+    },
+    {
+      "name": "Exploitation for Privilege Escalation",
+      "slug": "t1068-exploitation-for-privilege-escalation",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1068-exploitation-for-privilege-escalation/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1068",
+      "tactic": "Privilege Escalation",
+      "summary": "Exploitation for privilege escalation is when an attacker uses a flaw in software to gain higher permissions than they started with. For example, they may go from a normal user account to full control of the system. The flaw can be in the operating system, in software running with higher permissions, or in a signed driver. MITRE ATT&CK tracks it as T1068.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1068: Exploitation for Privilege Escalation",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1068/"
+        },
+        {
+          "title": "MITRE ATT&CK Privilege Escalation (TA0004)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0004/"
+        }
+      ]
+    },
+    {
+      "name": "Indicator Removal",
+      "slug": "t1070-indicator-removal",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1070-indicator-removal/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1070",
+      "tactic": "Stealth",
+      "summary": "Indicator Removal is a technique where an attacker deletes or changes the traces that their activity leaves behind. These traces include logs, command histories and file details. The aim is to blend in with normal activity and make the intrusion harder to spot.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1070: Indicator Removal",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1070/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0005: Stealth",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0005/"
+        }
+      ]
+    },
+    {
+      "name": "Application Layer Protocol",
+      "slug": "t1071-application-layer-protocol",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1071-application-layer-protocol/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1071",
+      "tactic": "Command and Control",
+      "summary": "Application Layer Protocol is a technique where attackers talk to a system they control using ordinary network protocols, such as those used for web browsing, file transfer, email or DNS. Because the traffic looks like normal traffic, it is harder to spot and block. MITRE tracks it as T1071 under the Command and Control tactic.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1071: Application Layer Protocol",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1071/"
+        },
+        {
+          "title": "MITRE ATT&CK T1071.004: DNS",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1071/004/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0011: Command and Control",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0011/"
+        }
+      ]
+    },
+    {
+      "name": "Valid Accounts",
+      "slug": "t1078-valid-accounts",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1078-valid-accounts/",
+      "last_updated": "2026-10-07",
+      "mitre_attack_id": "T1078",
+      "tactic": "Stealth, Persistence, Privilege Escalation, Initial Access",
+      "summary": "Valid Accounts means an attacker logs in with real credentials that were stolen or bought. Because the login is genuine, the activity can look like a normal user. MITRE says the access can be used to get in, stay in the network, gain higher privileges or avoid detection, so defenders watch how an account behaves.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1078: Valid Accounts",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1078/"
+        },
+        {
+          "title": "Weak Security Controls and Practices Routinely Exploited for Initial Access (AA22-137A)",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-137a"
+        }
+      ]
+    },
+    {
+      "name": "System Information Discovery",
+      "slug": "t1082-system-information-discovery",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1082-system-information-discovery/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1082",
+      "tactic": "Discovery",
+      "summary": "System Information Discovery is when an attacker collects details about a device, such as its operating system version, patch level and hardware. The attacker uses this to decide what to do next on that device. It is a Discovery technique in MITRE ATT&CK.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1082: System Information Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1082/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0007: Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "File and Directory Discovery",
+      "slug": "t1083-file-and-directory-discovery",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1083-file-and-directory-discovery/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1083",
+      "tactic": "Discovery",
+      "summary": "File and Directory Discovery is a technique where an attacker lists files and folders on a system or a network share to learn what is there. The results help the attacker decide what to do next, such as which data to take.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1083: File and Directory Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1083/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0007: Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "Account Discovery",
+      "slug": "t1087-account-discovery",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1087-account-discovery/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1087",
+      "tactic": "Discovery",
+      "summary": "Account Discovery is when an attacker builds a list of valid accounts, usernames or email addresses on a system or inside a compromised environment. Knowing which accounts exist helps them plan what to do next. MITRE ATT&CK lists it as a Discovery technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1087: Account Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1087/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic: Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "Ingress Tool Transfer",
+      "slug": "t1105-ingress-tool-transfer",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1105-ingress-tool-transfer/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1105",
+      "tactic": "Command and Control",
+      "summary": "Ingress Tool Transfer is a technique where attackers bring tools or other files from outside into a network they have already broken into. The files are used for later steps of the attack. They can arrive through the attacker's control channel, FTP or other protocols, often using utilities the operating system already includes. MITRE ATT&CK tracks it as T1105.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1105: Ingress Tool Transfer",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1105/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0011: Command and Control",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0011/"
+        }
+      ]
+    },
+    {
+      "name": "Modify Registry",
+      "slug": "t1112-modify-registry",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1112-modify-registry/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1112",
+      "tactic": "Defense Impairment, Persistence",
+      "summary": "Modify Registry is a technique where an attacker changes settings in the Windows Registry. The Registry holds configuration for the system and its software. Changes can help an attacker stay on a machine, hide data or weaken security settings. MITRE ATT&CK tracks it as T1112 under Defense Impairment and Persistence.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1112: Modify Registry",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1112/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0112: Defense Impairment",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0112/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0003: Persistence",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0003/"
+        }
+      ]
+    },
+    {
+      "name": "External Remote Services",
+      "slug": "t1133-external-remote-services",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1133-external-remote-services/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1133",
+      "tactic": "Persistence, Initial Access",
+      "summary": "External Remote Services is a technique where an attacker uses a remote access service that faces the internet, such as a VPN or Citrix, to enter a network or to keep access to it. These services exist so staff can reach internal systems from outside. An attacker who gets valid logins can use them in the same way.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1133: External Remote Services",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1133/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0003: Persistence",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0003/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0001: Initial Access",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0001/"
+        }
+      ]
+    },
+    {
+      "name": "Deobfuscate/Decode Files or Information",
+      "slug": "t1140-deobfuscate-decode-files-or-information",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1140-deobfuscate-decode-files-or-information/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1140",
+      "tactic": "Stealth",
+      "summary": "Deobfuscate/Decode Files or Information is a technique where attackers unpack, decode or decrypt content they had hidden earlier, so it can be used on the target system. The malware itself or built-in system utilities can do the work. MITRE tracks it as T1140 under the Stealth tactic.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1140: Deobfuscate/Decode Files or Information",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1140/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0005: Stealth",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0005/"
+        }
+      ]
+    },
+    {
+      "name": "Drive-by Compromise",
+      "slug": "t1189-drive-by-compromise",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1189-drive-by-compromise/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1189",
+      "tactic": "Initial Access",
+      "summary": "Drive-by Compromise is a way for attackers to gain access to a computer when a person visits a website during normal browsing. The site, or something it loads, delivers malicious code to the browser. MITRE ATT&CK lists it as an Initial Access technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1189: Drive-by Compromise",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1189/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic: Initial Access",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0001/"
+        }
+      ]
+    },
+    {
+      "name": "Exploit Public-Facing Application",
+      "slug": "t1190-exploit-public-facing-application",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1190-exploit-public-facing-application/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1190",
+      "tactic": "Initial Access",
+      "summary": "Exploit Public-Facing Application is when an attacker abuses a weakness in a system that is reachable from the Internet to get into a network. The weakness can be a software bug, a temporary glitch or a misconfiguration. It is an Initial Access technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1190: Exploit Public-Facing Application",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1190/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0001: Initial Access",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0001/"
+        }
+      ]
+    },
+    {
+      "name": "Compromise Software Supply Chain",
+      "slug": "t1195-002-compromise-software-supply-chain",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1195-002-compromise-software-supply-chain/",
+      "last_updated": "2026-10-19",
+      "mitre_attack_id": "T1195.002",
+      "tactic": "Initial Access",
+      "summary": "Compromise Software Supply Chain is a way for attackers to reach many computers through software they already trust. They change an application before it gets to the user, for example in its source code, its update system or its download. MITRE ATT&CK lists it as an Initial Access technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1195.002: Supply Chain Compromise: Compromise Software Supply Chain",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1195/002/"
+        },
+        {
+          "title": "MITRE ATT&CK T1195: Supply Chain Compromise",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1195/"
+        }
+      ]
+    },
+    {
+      "name": "User Execution",
+      "slug": "t1204-user-execution",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1204-user-execution/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1204",
+      "tactic": "Execution",
+      "summary": "User Execution is when an attacker gets a person to run malicious code for them. The person might open a file, click a link or turn on a remote access tool without knowing the risk. It is an Execution technique in MITRE ATT&CK.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1204: User Execution",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1204/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic TA0002: Execution",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0002/"
+        }
+      ]
+    },
+    {
+      "name": "ClickFix: Malicious Copy and Paste (T1204.004)",
+      "slug": "t1204-004-malicious-copy-and-paste",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1204-004-malicious-copy-and-paste/",
+      "last_updated": "2026-10-21",
+      "mitre_attack_id": "T1204.004",
+      "tactic": "Execution",
+      "summary": "Malicious Copy and Paste lets an attacker run code without an exploit and without a browser download. The user pastes the command into a terminal or the Windows Run box. MITRE names ClickFix, where a fake error or CAPTCHA tells the user to do exactly that, as one such strategy.",
+      "sources": [
+        {
+          "title": "User Execution: Malicious Copy and Paste, T1204.004",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1204/004/"
+        },
+        {
+          "title": "ROMULUS: Analysis of a New Multi-Payload ClickFix Delivery Platform",
+          "publisher": "Forescout Research, Vedere Labs",
+          "url": "https://www.forescout.com/blog/romulus-analysis-of-a-new-multi-payload-clickfix-delivery-platform"
+        },
+        {
+          "title": "Our latest defenses against evolving web scams",
+          "publisher": "Google Security Blog",
+          "url": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/"
+        },
+        {
+          "title": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
+          "publisher": "Siemens ProductCERT",
+          "url": "https://productcert.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/"
+        }
+      ]
+    },
+    {
+      "name": "Data Encrypted for Impact",
+      "slug": "t1486-data-encrypted-for-impact",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1486-data-encrypted-for-impact/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1486",
+      "tactic": "Impact",
+      "summary": "Data Encrypted for Impact is when attackers encrypt files or whole systems so the owner can no longer use them, and then hold back the key. It is the core step of ransomware. MITRE ATT&CK lists it as an Impact technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1486: Data Encrypted for Impact",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1486/"
+        },
+        {
+          "title": "MITRE ATT&CK Tactic: Impact",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0040/"
+        }
+      ]
+    },
+    {
+      "name": "Virtualization/Sandbox Evasion",
+      "slug": "t1497-virtualization-sandbox-evasion",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1497-virtualization-sandbox-evasion/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1497",
+      "tactic": "Stealth, Discovery",
+      "summary": "Virtualization/Sandbox Evasion is when malware checks whether it is running inside a virtual machine or an analysis sandbox, and changes what it does if it is. The aim is to avoid being studied. MITRE lists it under both Stealth and Discovery.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1497: Virtualization/Sandbox Evasion",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1497/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0007: Discovery",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "Server Software Component: Web Shell (T1505.003)",
+      "slug": "t1505-003-web-shell",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1505-003-web-shell/",
+      "last_updated": "2026-10-10",
+      "mitre_attack_id": "T1505.003",
+      "tactic": "Persistence",
+      "summary": "A web shell is a small script that an attacker places on a web server. It lets the attacker run commands on that server from a distance. Because it sits on the server itself, it keeps working even if the first way in is closed, which is why attackers use it to keep access to the network over time.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1505.003: Server Software Component: Web Shell",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1505/003/"
+        },
+        {
+          "title": "MITRE ATT&CK T1505: Server Software Component",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1505/"
+        }
+      ]
+    },
+    {
+      "name": "Python Startup Hooks: .pth and sitecustomize.py Persistence (T1546.018)",
+      "slug": "t1546-018-python-startup-hooks",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1546-018-python-startup-hooks/",
+      "last_updated": "2026-10-21",
+      "mitre_attack_id": "T1546.018",
+      "tactic": "Persistence, Privilege Escalation",
+      "summary": "Python Startup Hooks let an attacker run code every time Python starts. A file dropped into the Python packages folder is processed by the interpreter itself, so the code runs even if the program never imports anything from it. MITRE tracks this as T1546.018.",
+      "sources": [
+        {
+          "title": "Event Triggered Execution: Python Startup Hooks, T1546.018",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1546/018/"
+        },
+        {
+          "title": "Event Triggered Execution, T1546",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1546/"
+        },
+        {
+          "title": "LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials",
+          "publisher": "Socket",
+          "url": "https://socket.dev/blog/litellm-compromise"
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "publisher": "SafeDep",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+        },
+        {
+          "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
+          "publisher": "LiteLLM (BerriAI)",
+          "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
+        },
+        {
+          "title": "PYSEC-2026-2 litellm advisory",
+          "publisher": "Python Packaging Authority advisory database",
+          "url": "https://raw.githubusercontent.com/pypa/advisory-database/main/vulns/litellm/PYSEC-2026-2.yaml"
+        },
+        {
+          "title": "SECURITY: litellm 1.82.8 on PyPI contains malicious credential-stealing payload (litellm_init.pth), Issue #24521",
+          "publisher": "BerriAI/litellm on GitHub",
+          "url": "https://github.com/BerriAI/litellm/issues/24521"
+        }
+      ]
+    },
+    {
+      "name": "Boot or Logon Autostart Execution",
+      "slug": "t1547-boot-or-logon-autostart-execution",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1547-boot-or-logon-autostart-execution/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1547",
+      "tactic": "Persistence, Privilege Escalation",
+      "summary": "Boot or logon autostart execution is when an attacker sets up a computer so that their program starts by itself when the system boots or a user logs on. This lets the attacker stay on the system after a restart. Some of these startup items run with higher privileges, so it can also help the attacker gain more control.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1547: Boot or Logon Autostart Execution",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1547/"
+        },
+        {
+          "title": "MITRE ATT&CK Persistence (TA0003)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0003/"
+        }
+      ]
+    },
+    {
+      "name": "Registry Run Keys / Startup Folder",
+      "slug": "t1547-001-registry-run-keys-startup-folder",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1547-001-registry-run-keys-startup-folder/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1547.001",
+      "tactic": "Persistence, Privilege Escalation",
+      "summary": "Windows can start programs on its own when a user logs in. Attackers add their own program to the places that control this, the Registry run keys or the Startup folder. The program then starts again after every restart or logon.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1547.001: Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1547/001/"
+        },
+        {
+          "title": "MITRE ATT&CK T1547: Boot or Logon Autostart Execution",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1547/"
+        }
+      ]
+    },
+    {
+      "name": "Credentials in Files: Stealing Secrets from Config Files (T1552.001)",
+      "slug": "t1552-001-credentials-in-files",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1552-001-credentials-in-files/",
+      "last_updated": "2026-10-21",
+      "mitre_attack_id": "T1552.001",
+      "tactic": "Credential Access",
+      "summary": "Credentials in Files means an attacker reads passwords, keys and tokens that sit in ordinary files on a disk or a file share. Config files, .env files and cloud credential files are common targets. The stolen secret is then used to sign in somewhere else. MITRE tracks it as T1552.001.",
+      "sources": [
+        {
+          "title": "Unsecured Credentials: Credentials In Files, T1552.001",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1552/001/"
+        },
+        {
+          "title": "Unsecured Credentials, T1552",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1552/"
+        },
+        {
+          "title": "LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials",
+          "publisher": "Socket",
+          "url": "https://socket.dev/blog/litellm-compromise"
+        },
+        {
+          "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
+          "publisher": "LiteLLM (BerriAI)",
+          "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
+        }
+      ]
+    },
+    {
+      "name": "Credentials from Password Stores",
+      "slug": "t1555-credentials-from-password-stores",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1555-credentials-from-password-stores/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1555",
+      "tactic": "Credential Access",
+      "summary": "Credentials from password stores is when an attacker looks in the places where passwords are saved and takes the logins they find. These places include system password storage, saved browser logins, password managers and cloud secrets vaults. Stolen logins can then be used to move to other systems.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1555: Credentials from Password Stores",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1555/"
+        },
+        {
+          "title": "MITRE ATT&CK Credential Access (TA0006)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0006/"
+        }
+      ]
+    },
+    {
+      "name": "Archive Collected Data",
+      "slug": "t1560-archive-collected-data",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1560-archive-collected-data/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1560",
+      "tactic": "Collection",
+      "summary": "Archive collected data is when an attacker packs stolen files into compressed or encrypted bundles before sending them out. This makes the data smaller and harder for a defender to read or notice. The attacker can use a utility already on the system, a third party library or a custom method. MITRE ATT&CK tracks it as T1560 under Collection.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1560: Archive Collected Data",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1560/"
+        },
+        {
+          "title": "MITRE ATT&CK Exfiltration (TA0010)",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0010/"
+        }
+      ]
+    },
+    {
+      "name": "Hide Artifacts",
+      "slug": "t1564-hide-artifacts",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1564-hide-artifacts/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1564",
+      "tactic": "Stealth",
+      "summary": "Hide Artifacts is a technique where attackers hide the traces of their activity, such as files, folders, user accounts or running tasks. The aim is to avoid being noticed by users and security tools. Attackers abuse operating system features that already hide items, so what is hidden is harder to find during a routine check. MITRE ATT&CK tracks it as T1564.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1564: Hide Artifacts",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1564/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0005: Stealth",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0005/"
+        }
+      ]
+    },
+    {
+      "name": "Phishing (T1566): ATT&CK Technique",
+      "slug": "t1566-phishing",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1566-phishing/",
+      "last_updated": "2026-10-10",
+      "mitre_attack_id": "T1566",
+      "tactic": "Initial Access",
+      "summary": "Phishing is when an attacker sends a message that tricks someone into opening a malicious file, following a link or giving away a password. It is a common first step into a network. Defenders check attachments and links before delivery, use multi-factor authentication and make it easy for staff to report suspicious messages.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1566",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1566/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        },
+        {
+          "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+          "publisher": "FBI and CISA (alert I-101626-PSA)",
+          "url": "https://www.ic3.gov/PSA/2026/PSA261016"
+        }
+      ]
+    },
+    {
+      "name": "Encrypted Channel",
+      "slug": "t1573-encrypted-channel",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1573-encrypted-channel/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1573",
+      "tactic": "Command and Control",
+      "summary": "Encrypted Channel is a technique where attackers encrypt the traffic they use to control a compromised system. The encryption hides what is being sent, so security tools that read network traffic see only scrambled data. MITRE ATT&CK tracks it as T1573 under Command and Control, and lists Emotet, gh0st RAT and NETWIRE as using it.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1573: Encrypted Channel",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1573/"
+        },
+        {
+          "title": "MITRE ATT&CK TA0011: Command and Control",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/tactics/TA0011/"
+        }
+      ]
+    },
+    {
+      "name": "DLL",
+      "slug": "t1574-001-dll",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1574-001-dll/",
+      "last_updated": "2026-10-08",
+      "mitre_attack_id": "T1574.001",
+      "tactic": "Stealth, Execution",
+      "summary": "DLL hijacking is when an attacker abuses the shared library files (DLLs) that Windows programs load. A trusted program is made to load a harmful DLL instead of, or alongside, the real one. This helps the attacker stay in place, gain higher privileges and avoid detection.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1574.001: Hijack Execution Flow: DLL",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1574/001/"
+        },
+        {
+          "title": "MITRE ATT&CK T1574: Hijack Execution Flow",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1574/"
+        }
+      ]
+    },
+    {
+      "name": "Reflective Code Loading",
+      "slug": "t1620-reflective-code-loading",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1620-reflective-code-loading/",
+      "last_updated": "2026-10-21",
+      "mitre_attack_id": "T1620",
+      "tactic": "Stealth",
+      "summary": "Reflective code loading is a way for malware to run a program straight from memory, without starting a new process or putting the program on disk as a normal file. The payload can stay encrypted until the moment it runs. MITRE ATT&CK lists it as a Stealth technique.",
+      "sources": [
+        {
+          "title": "MITRE ATT&CK T1620: Reflective Code Loading",
+          "publisher": "MITRE",
+          "url": "https://attack.mitre.org/techniques/T1620/"
+        },
+        {
+          "title": "Assembly.Load Method (System.Reflection)",
+          "publisher": "Microsoft Learn",
+          "url": "https://learn.microsoft.com/en-us/dotnet/api/system.reflection.assembly.load"
+        },
+        {
+          "title": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
+          "publisher": "Symantec Threat Hunter Team",
+          "url": "https://www.security.com/blog-post/swallowtail-russia-nato-targets"
+        },
+        {
+          "title": "BlueDelta Targets Defense and Diplomacy with HOOKEDGE",
+          "publisher": "Recorded Future Insikt Group",
+          "url": "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge"
+        },
+        {
+          "title": "about_Logging_Windows",
+          "publisher": "Microsoft Learn",
+          "url": "https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows"
+        }
+      ]
+    }
+  ]
+}

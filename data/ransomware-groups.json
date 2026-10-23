@@ -1,0 +1,1237 @@
+{
+  "meta": {
+    "dataset": "ransomware-groups",
+    "title": "Ransomware groups",
+    "publisher": "Brandefense",
+    "homepage": "https://brandefense.io",
+    "license": "CC-BY-4.0",
+    "generated": "2026-10-23",
+    "count": 26
+  },
+  "items": [
+    {
+      "name": "8Base",
+      "slug": "8base",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/8base/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Affiliate 2803",
+        "Phobos affiliate group"
+      ],
+      "summary": "8Base is the name of a ransomware affiliate group that used the Phobos ransomware. In February 2025 the US Justice Department said it had charged two Russian nationals who allegedly ran it, and that it had hit more than 1,000 public and private entities and received over 16 million US dollars in ransom payments. The department also said Europol and German authorities announced an operation against the network's servers.",
+      "status": "disrupted",
+      "first_seen": "2019",
+      "model": "Ransomware affiliate group using Phobos (Phobos itself is a ransomware as a service)",
+      "extortion": "Double extortion, per the US Justice Department: the group allegedly stole files, encrypted the originals with Phobos, left a ransom note and contacted victims to negotiate. It threatened to expose stolen files to the public or to victims' clients, customers or constituents, and ran a darknet website where it published stolen data if a victim did not pay.",
+      "target_sectors": [
+        "Healthcare",
+        "Government and public sector",
+        "Education"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Phobos Ransomware Affiliates Arrested in Coordinated International Disruption",
+          "publisher": "US Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption"
+        },
+        {
+          "title": "#StopRansomware: Phobos Ransomware (AA24-060A)",
+          "publisher": "CISA, FBI, MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-060a"
+        }
+      ]
+    },
+    {
+      "name": "Akira ransomware group",
+      "slug": "akira",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/akira/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Storm-1567",
+        "Howling Scorpius",
+        "Punk Spider",
+        "Gold Sahara"
+      ],
+      "summary": "Akira is a ransomware group active since March 2023. A joint advisory (AA24-109A, first published April 18, 2024, revised 13 November 2025) from the FBI, CISA, Europol and agencies in France, Germany and the Netherlands says it has hit businesses and critical infrastructure in North America, Europe and Australia. As of late September 2025 it had claimed about 244.17 million US dollars in proceeds, per the advisory.",
+      "status": "active",
+      "first_seen": "2023",
+      "model": "Ransomware as a service (per MITRE ATT&CK)",
+      "extortion": "Double extortion, per the advisory: data is stolen first, then systems are encrypted and victims are threatened with a leak. The ransom note gives a unique code and a Tor address. No demand is left on the network. Payment is requested in Bitcoin.",
+      "target_sectors": [
+        "Education",
+        "Manufacturing",
+        "Technology and IT",
+        "Healthcare",
+        "Financial services"
+      ],
+      "malware": [],
+      "sources": [
+        {
+          "title": "#StopRansomware: Akira Ransomware (AA24-109A)",
+          "publisher": "CISA, FBI, DC3, HHS, Europol EC3 and partners",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a"
+        },
+        {
+          "title": "Akira, Software S1129",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1129/"
+        }
+      ]
+    },
+    {
+      "name": "ALPHV / BlackCat",
+      "slug": "alphv-blackcat",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/alphv-blackcat/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "ALPHV",
+        "BlackCat",
+        "Noberus"
+      ],
+      "summary": "ALPHV Blackcat is a ransomware as a service operation. The FBI, CISA and the US Department of Health and Human Services describe it in a joint advisory (AA23-353A, first issued December 19, 2023, revised 27 February 2024). Operators run the ransomware and affiliates carry out the attacks.",
+      "status": "disrupted",
+      "first_seen": "2021",
+      "model": "Ransomware as a service",
+      "extortion": "Per the FBI, CISA and HHS: affiliates steal data, may or may not encrypt, and then contact victims through Tor, Tox, email or encrypted apps. Some affiliates extort victims without deploying ransomware at all. Victim-specific emails have been used to announce a compromise.",
+      "target_sectors": [
+        "Healthcare",
+        "Critical infrastructure organizations (all sectors)"
+      ],
+      "malware": [
+        {
+          "name": "BlackCat",
+          "url": "https://brandefense.io/knowledge-hub/malware/blackcat/"
+        },
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: ALPHV Blackcat (AA23-353A)",
+          "publisher": "CISA, FBI, HHS",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a"
+        },
+        {
+          "title": "BlackCat, Software S1068",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1068/"
+        }
+      ]
+    },
+    {
+      "name": "BianLian",
+      "slug": "bianlian",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/bianlian/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "BianLian group"
+      ],
+      "summary": "BianLian is a ransomware and data extortion group that the FBI, CISA and Australia's ACSC say is likely based in Russia. It has hit US and Australian organizations since June 2022 and, by about January 2024, had dropped encryption for pure data theft.",
+      "status": "active",
+      "first_seen": "2022",
+      "model": "Developer and deployer group with Russia-based affiliates",
+      "extortion": "Steals data, then threatens to publish it unless paid. It used to encrypt files too, but the agencies say it moved to data theft only around January 2024. Contact is through a Tox chat.",
+      "target_sectors": [
+        "Critical infrastructure (US and Australia)",
+        "Professional services",
+        "Property development"
+      ],
+      "malware": [
+        {
+          "name": "Impacket",
+          "url": "https://brandefense.io/knowledge-hub/malware/impacket/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: BianLian Ransomware Group (AA23-136A)",
+          "publisher": "CISA, FBI and ASD's ACSC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a"
+        },
+        {
+          "title": "Stop Ransomware",
+          "publisher": "CISA",
+          "url": "https://stopransomware.gov/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        },
+        {
+          "title": "CVE-2022-37969 record",
+          "publisher": "NIST NVD",
+          "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2022-37969"
+        },
+        {
+          "title": "CVE-2021-34473 record",
+          "publisher": "NIST NVD",
+          "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2021-34473"
+        }
+      ]
+    },
+    {
+      "name": "Black Basta ransomware group",
+      "slug": "black-basta",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Basta"
+      ],
+      "summary": "Black Basta is a ransomware as a service operation, first identified in April 2022. The FBI, CISA, HHS and MS-ISAC reported in a joint advisory (AA24-131A, first published May 10, 2024) that its affiliates had hit over 500 organizations worldwide by May 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates, who carry out the attacks.",
+      "status": "",
+      "first_seen": "2022",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, as the joint advisory describes it: affiliates encrypt systems and also steal data. The ransom note gives no price or payment steps. It gives the victim a unique code and a Tor address (a hidden site reached with the Tor browser), and typically allows 10 to 12 days to pay before the stolen data is published on the group's leak site, Basta News.",
+      "target_sectors": [
+        "Healthcare",
+        "Critical infrastructure, 12 of 16 US sectors",
+        "Businesses in North America, Europe and Australia"
+      ],
+      "malware": [
+        {
+          "name": "Black Basta",
+          "url": "https://brandefense.io/knowledge-hub/malware/black-basta/"
+        },
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: Black Basta (AA24-131A)",
+          "publisher": "CISA, FBI, HHS, MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a"
+        },
+        {
+          "title": "Black Basta, Software S1070",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1070/"
+        },
+        {
+          "title": "Qilin, Software S1242",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1242/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        }
+      ]
+    },
+    {
+      "name": "Cl0p",
+      "slug": "cl0p",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/cl0p/",
+      "last_updated": "2026-10-07",
+      "aliases": [
+        "CL0P",
+        "Clop",
+        "TA505"
+      ],
+      "summary": "Cl0p is a ransomware operation first seen in February 2019 and, per a joint FBI and CISA advisory (AA23-158A, June 2023), also known as TA505. It is best known for stealing data from many organizations at once by exploiting flaws in file transfer software, including Accellion, GoAnywhere and MOVEit.",
+      "status": "active",
+      "first_seen": "2019",
+      "model": "Ransomware as a service, and data theft campaigns (per the advisory)",
+      "extortion": "Data theft first. Per the advisory, since 2021 Cl0p has relied mostly on exfiltration over encryption. Ransom notes go to senior executives of victim companies and threaten to publish the stolen files on the Cl0p leak site if no payment is made. Earlier campaigns also used double extortion.",
+      "target_sectors": [],
+      "malware": [
+        {
+          "name": "Clop",
+          "url": "https://brandefense.io/knowledge-hub/malware/clop/"
+        },
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability (AA23-158A)",
+          "publisher": "CISA and FBI",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a"
+        },
+        {
+          "title": "INTERPOL-led operation takes down prolific cybercrime ring",
+          "publisher": "INTERPOL",
+          "url": "https://www.interpol.int/en/News-and-Events/News/2021/INTERPOL-led-operation-takes-down-prolific-cybercrime-ring"
+        },
+        {
+          "title": "Cleo's Harmony, VLTrader and Lexicom Multiple Zero-Day Vulnerabilities",
+          "publisher": "California Governor's Office of Emergency Services",
+          "url": "https://www.caloes.ca.gov/wp-content/uploads/Homeland-Security/Documents/Cyber-Advisories/Cleos-Harmony-VLTrader-and-Lexicom-Multiple-Zero-Day-Vulnerabilities.pdf"
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog (13 December 2024)",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2024/12/13/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog (17 December 2024)",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "title": "Clop, Software S0611",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S0611/"
+        },
+        {
+          "title": "TA505, Group G0092",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/G0092/"
+        }
+      ]
+    },
+    {
+      "name": "Conti ransomware group",
+      "slug": "conti",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/conti/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Wizard Spider (per Rewards for Justice and the UK government)"
+      ],
+      "summary": "Conti was a ransomware as a service operation first observed in December 2019, per MITRE ATT&CK. A joint advisory (AA21-265A) from CISA, the FBI and the NSA, first published September 22, 2021, says it hit U.S. and international organizations in more than 400 attacks at first and above 1,000 by March 2022. The U.S. Department of Justice says the conspiracy ran until about June 2022.",
+      "status": "inactive",
+      "first_seen": "2019",
+      "model": "Ransomware as a service, with a wage model per CISA",
+      "extortion": "Double extortion, per CISA: files are stolen and servers and workstations are encrypted. The victim is told to pay for the release of the data and is threatened with public release if it does not. Rewards for Justice says the stolen data is sold or published on a leak site if the ransom is not paid, and that some demands reached 25 million US dollars.",
+      "target_sectors": [
+        "Healthcare",
+        "Government and public sector",
+        "Emergency services and first responders",
+        "Financial services"
+      ],
+      "malware": [
+        {
+          "name": "Conti",
+          "url": "https://brandefense.io/knowledge-hub/malware/conti/"
+        },
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Conti Ransomware (AA21-265A)",
+          "publisher": "CISA, FBI, NSA, USSS",
+          "url": "https://www.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf"
+        },
+        {
+          "title": "Updated: Conti Ransomware",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/news/updated-conti-ransomware"
+        },
+        {
+          "title": "Conti, Software S0575",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S0575/"
+        },
+        {
+          "title": "Conti reward offer",
+          "publisher": "Rewards for Justice",
+          "url": "https://rewardsforjustice.net/rewards/conti/"
+        },
+        {
+          "title": "UK cracks down on ransomware actors",
+          "publisher": "UK Government",
+          "url": "https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors"
+        },
+        {
+          "title": "United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang",
+          "publisher": "U.S. Department of the Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/jy1256"
+        },
+        {
+          "title": "Multiple foreign nationals charged in connection with Trickbot malware and Conti ransomware",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware"
+        },
+        {
+          "title": "Ukrainian National Extradited from Ireland in Connection with Conti Ransomware",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/ukrainian-national-extradited-ireland-connection-conti-ransomware"
+        },
+        {
+          "title": "Financial Trend Analysis: Ransomware",
+          "publisher": "FinCEN",
+          "url": "https://www.fincen.gov/sites/default/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf"
+        }
+      ]
+    },
+    {
+      "name": "DarkSide",
+      "slug": "darkside",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/darkside/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Darkside",
+        "BlackMatter (possible rebrand)"
+      ],
+      "summary": "DarkSide was a ransomware as a service group that CISA and the FBI named in advisory AA21-131A, first published May 11, 2021, after an attack on a U.S. pipeline company's IT network. A later advisory (AA21-291A, October 18, 2021) says it was active from September 2020 through May 2021 and that BlackMatter is a possible rebrand.",
+      "status": "inactive",
+      "first_seen": "2020",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per CISA and the FBI: data is encrypted and stolen, then the actors threaten to release it if the ransom is not paid. The group publicly said it preferred organizations able to pay large ransoms over hospitals, schools, non-profits and governments.",
+      "target_sectors": [
+        "Energy and pipelines",
+        "Food and agriculture (BlackMatter)",
+        "Large, high-revenue organizations across sectors"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DarkSide Ransomware: Best Practices for Preventing Business Disruption from Ransomware Attacks (AA21-131A)",
+          "publisher": "CISA, FBI",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-131a"
+        },
+        {
+          "title": "BlackMatter Ransomware (AA21-291A)",
+          "publisher": "CISA, FBI, NSA",
+          "url": "https://www.cisa.gov/sites/default/files/publications/Joint-CISA-FBI-NSA_CSA_AA21-291A_BlackMatter_Ransomware.pdf"
+        },
+        {
+          "title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the Ransomware Extortionists DarkSide",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"
+        },
+        {
+          "title": "Financial Trend Analysis: Ransomware",
+          "publisher": "FinCEN",
+          "url": "https://www.fincen.gov/sites/default/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf"
+        }
+      ]
+    },
+    {
+      "name": "DearCry",
+      "slug": "dearcry",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/dearcry/",
+      "last_updated": "2026-10-09",
+      "aliases": [],
+      "summary": "DearCry is ransomware that CISA said, in a March 12, 2021 update, was being used on compromised on-premises Exchange servers. The servers had been broken into through the Exchange flaws disclosed in March 2021. The sources opened do not name who operated it.",
+      "status": "",
+      "first_seen": "March 2021",
+      "model": "Ransomware family deployed after Exchange server compromise",
+      "extortion": "",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "Alert AA21-062A: Mitigate Microsoft Exchange Server Vulnerabilities",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-062a"
+        },
+        {
+          "title": "CVE-2021-26855 record",
+          "publisher": "NIST National Vulnerability Database",
+          "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2021-26855"
+        },
+        {
+          "title": "Malware Analysis Report MAR-10330097-1.v1: DearCry Ransomware (AR21-102B)",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/analysis-reports/ar21-102b"
+        }
+      ]
+    },
+    {
+      "name": "DragonForce",
+      "slug": "dragonforce",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/dragonforce/",
+      "last_updated": "2026-10-09",
+      "aliases": [],
+      "summary": "DragonForce is a ransomware family that, per a July 29, 2025 update to a joint advisory from agencies including CISA, the FBI and the UK's NCSC, Scattered Spider actors have most recently been deploying. The update is attributed to trusted third parties. The UK's NCSC also names the DragonForce group in its 2025 annual review, in connection with attacks on UK retail.",
+      "status": "active",
+      "first_seen": "Not dated in official sources",
+      "model": "Not described in official sources",
+      "extortion": "The July 2025 advisory update says Scattered Spider actors typically steal data for extortion and also use several ransomware variants. It lists DragonForce as ransomware that infiltrates networks, encrypts data and demands a ransom. It adds that the actors may have deployed it to encrypt VMware ESXi servers.",
+      "target_sectors": [
+        "Retail and ecommerce",
+        "Commercial facilities",
+        "Critical national infrastructure"
+      ],
+      "malware": [],
+      "sources": [
+        {
+          "title": "Scattered Spider (AA23-320A)",
+          "publisher": "CISA, FBI, RCMP, ACSC, AFP, CCCS, NCSC-UK",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a"
+        },
+        {
+          "title": "NCSC Annual Review 2025, chapter 1: Cyber threat to the UK",
+          "publisher": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk"
+        },
+        {
+          "title": "Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups",
+          "publisher": "Cyber Security Agency of Singapore",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/"
+        },
+        {
+          "title": "CISA and Partners Release Updated Advisory on Scattered Spider Group",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-and-partners-release-updated-advisory-scattered-spider-group"
+        }
+      ]
+    },
+    {
+      "name": "Everest",
+      "slug": "everest",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/everest/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Everest ransomware group",
+        "EverBe 2.0 (earlier family, per HHS HC3)"
+      ],
+      "summary": "Everest is a financially motivated ransomware and data extortion group. The US Department of Health and Human Services (HHS) says it has been active since 2020, steals and threatens to publish data, runs ransomware, and also acts as an initial access broker, meaning it sells entry into company networks to other criminals.",
+      "status": "active",
+      "first_seen": "2020",
+      "model": "Extortion group with ransomware and initial access broker activity",
+      "extortion": "Data theft and ransomware, per HHS HC3 (August 2024): the group encrypts files, renames them with the .EVEREST extension and threatens to publish stolen data on its leak site. It has also sold network access to other actors.",
+      "target_sectors": [
+        "Financial services",
+        "Healthcare",
+        "Government",
+        "Construction and engineering",
+        "Legal and professional services"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Threat Actor Profile: Everest Ransomware Group (HC3, 20 August 2024, copy hosted by the American Hospital Association)",
+          "publisher": "US Department of Health and Human Services, HC3",
+          "url": "https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf"
+        },
+        {
+          "title": "Cobalt Strike, Software S0154",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S0154/"
+        },
+        {
+          "title": "Data Encrypted for Impact, Technique T1486",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1486/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        }
+      ]
+    },
+    {
+      "name": "Hive",
+      "slug": "hive",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/hive/",
+      "last_updated": "2026-10-09",
+      "aliases": [],
+      "summary": "Hive was a ransomware as a service operation active from June 2021. A joint advisory (AA22-321A) from the FBI, CISA and HHS says it hit over 1,300 companies and received about 100 million US dollars in ransom. The UK National Crime Agency reports its servers were taken offline in an FBI and German-led operation on 26 January 2023.",
+      "status": "disrupted",
+      "first_seen": "2021",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per the advisory: data is copied out, then systems are encrypted. A note named HOW_TO_DECRYPT.txt links to a live chat panel on Tor. Victims who refuse are threatened with publication on the HiveLeaks site. Demands are in US dollars, paid in Bitcoin. Some victims were also contacted by phone or email.",
+      "target_sectors": [
+        "Government facilities",
+        "Communications",
+        "Critical manufacturing",
+        "Information technology",
+        "Healthcare and public health"
+      ],
+      "malware": [],
+      "sources": [
+        {
+          "title": "#StopRansomware: Hive Ransomware (AA22-321A)",
+          "publisher": "CISA, FBI and HHS",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a"
+        },
+        {
+          "title": "HIVE takedown: NCA in international operation to shut down $100m ransomware threat",
+          "publisher": "UK National Crime Agency",
+          "url": "https://www.nationalcrimeagency.gov.uk/news/hive-takedown-nca-in-international-operation-to-shut-down-100m-ransomware-threat"
+        }
+      ]
+    },
+    {
+      "name": "Interlock",
+      "slug": "interlock",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/interlock/",
+      "last_updated": "2026-10-09",
+      "aliases": [],
+      "summary": "Interlock is a ransomware group first observed in late September 2024. A joint advisory (AA25-203A, released July 22, 2025) from the FBI, CISA, HHS and MS-ISAC says it has hit businesses and critical infrastructure in North America and Europe, and that it often gets in through fake browser updates on compromised websites.",
+      "status": "active",
+      "first_seen": "2024",
+      "model": "Not stated in the advisory (opportunistic and financially motivated, per the FBI)",
+      "extortion": "Double extortion, per the advisory: data is stolen first, then systems are encrypted. The ransom note carries no demand, only a unique code and a Tor address. Payment is requested in Bitcoin. The actors threaten to publish stolen data on a leak site and have done so before.",
+      "target_sectors": [],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: Interlock (AA25-203A)",
+          "publisher": "CISA, FBI, HHS and MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-203a"
+        },
+        {
+          "title": "Drive-by Compromise, Technique T1189 - Enterprise",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1189/"
+        }
+      ]
+    },
+    {
+      "name": "KillSec",
+      "slug": "killsec",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/killsec/",
+      "last_updated": "2026-10-18",
+      "aliases": [
+        "KillSec ransomware"
+      ],
+      "summary": "KillSec is a ransomware and data extortion group that Europol says has been active since around 2024. On 30 September 2026 law enforcement took control of its leak site, securing at least 110 terabytes of data, in an operation led by German authorities.",
+      "status": "disrupted",
+      "first_seen": "2024",
+      "model": "Data theft and extortion by a group whose suspected members held administrator, developer, negotiator and affiliate roles (attributed by Europol)",
+      "extortion": "Data theft and threats, per Europol: victims were named on the group's dark web leak site and threatened with publication of their data unless they paid. Where a victim did not pay, the stolen files could be made available for free download. In some cases the group obtained substantial ransom payments.",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "Teenager suspected of leading KillSec ransomware group as law enforcement seizes servers and leak site",
+          "publisher": "Europol",
+          "url": "https://www.europol.europa.eu/media-press/newsroom/news/teenager-suspected-of-leading-killsec-ransomware-group-law-enforcement-seizes-servers-and-leak-site"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        }
+      ]
+    },
+    {
+      "name": "LockBit",
+      "slug": "lockbit",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/lockbit/",
+      "last_updated": "2026-10-07",
+      "aliases": [
+        "LockBit 2.0 (LockBit Red)",
+        "LockBit 3.0 (LockBit Black)",
+        "LockBit Green"
+      ],
+      "summary": "LockBit is a ransomware as a service operation first seen in January 2020. A joint advisory (AA23-165A, June 14, 2023) calls it the most deployed ransomware variant in the world in 2022. The UK National Crime Agency took control of its services in February 2024 and, in May 2024, assessed the group as running at limited capacity.",
+      "status": "disrupted",
+      "first_seen": "2020",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per the advisory: affiliates encrypt data and also copy it out, then threaten to post it on leak sites. The advisory says leak sites show only part of the real victim count. The NCA says LockBit did not routinely delete stolen data after a ransom was paid.",
+      "target_sectors": [
+        "Financial services",
+        "Education",
+        "Energy",
+        "Government and emergency services",
+        "Healthcare",
+        "Manufacturing"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        },
+        {
+          "name": "Impacket",
+          "url": "https://brandefense.io/knowledge-hub/malware/impacket/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Understanding Ransomware Threat Actors: LockBit (AA23-165A)",
+          "publisher": "CISA, FBI, MS-ISAC and international partners",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a"
+        },
+        {
+          "title": "International investigation disrupts the world's most harmful cyber crime group",
+          "publisher": "UK National Crime Agency",
+          "url": "https://www.nationalcrimeagency.gov.uk/news/nca-leads-international-investigation-targeting-worlds-most-harmful-ransomware-group"
+        },
+        {
+          "title": "LockBit leader unmasked and sanctioned",
+          "publisher": "UK National Crime Agency",
+          "url": "https://www.nationalcrimeagency.gov.uk/news/lockbit-leader-unmasked-and-sanctioned"
+        },
+        {
+          "title": "LockBit 3.0, Software S1202",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1202/"
+        },
+        {
+          "title": "LockBit 2.0, Software S1199",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1199/"
+        }
+      ]
+    },
+    {
+      "name": "Lynx",
+      "slug": "lynx",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/lynx/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Lynx ransomware",
+        "Lynx Group"
+      ],
+      "summary": "Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. Official material on Lynx is thin: we found no CISA or FBI advisory and no MITRE ATT&CK entry for it.",
+      "status": "active",
+      "first_seen": "",
+      "model": "Not stated in official sources",
+      "extortion": "Official sources opened for this page do not describe how Lynx extorts its victims.",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups",
+          "publisher": "Cyber Security Agency of Singapore",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/"
+        },
+        {
+          "title": "INC Ransomware, Software S1139",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1139/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        }
+      ]
+    },
+    {
+      "name": "Medusa",
+      "slug": "medusa",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/medusa/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Medusa ransomware",
+        "Medusa Group"
+      ],
+      "summary": "Medusa is a ransomware-as-a-service operation first identified in June 2021, according to the FBI, CISA and HHS. As of April 2026 they count over 500 victims, with healthcare a frequent target. It steals data and encrypts files, then threatens to publish the data.",
+      "status": "active",
+      "first_seen": "2021",
+      "model": "Ransomware as a service (closed group until at least early 2023)",
+      "extortion": "Double extortion. Files are encrypted and stolen data is held for ransom. A leak site shows countdown timers, and a note gives 48 hours to make contact. The group may also phone or email victims.",
+      "target_sectors": [
+        "Healthcare",
+        "Education",
+        "Insurance",
+        "Technology",
+        "Manufacturing"
+      ],
+      "malware": [
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: Medusa Ransomware (AA25-071A)",
+          "publisher": "CISA, FBI and HHS",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a"
+        },
+        {
+          "title": "Medusa Group, G1051",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/G1051/"
+        },
+        {
+          "title": "CVE-2024-1709 record",
+          "publisher": "NIST NVD",
+          "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2024-1709"
+        },
+        {
+          "title": "Stop Ransomware",
+          "publisher": "CISA",
+          "url": "https://stopransomware.gov/"
+        }
+      ]
+    },
+    {
+      "name": "Play",
+      "slug": "play",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/play/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Playcrypt"
+      ],
+      "summary": "Play, also called Playcrypt, is a ransomware group active since June 2022. A joint advisory (AA23-352A, December 18, 2023, revised 4 June 2025) from the FBI, CISA and the Australian Cyber Security Centre says it was among the most active groups in 2024 and that, as of May 2025, the FBI knew of about 900 affected entities.",
+      "status": "active",
+      "first_seen": "2022",
+      "model": "Closed group (presumed, per the advisory)",
+      "extortion": "Double extortion: data is stolen, then systems are encrypted. Notes carry no demand, only an email address. Victims who refuse are threatened with publication on a Tor leak site, and some are phoned.",
+      "target_sectors": [
+        "Government and public sector",
+        "Healthcare",
+        "Business services (all sectors)"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: Play Ransomware (AA23-352A)",
+          "publisher": "CISA, FBI, ACSC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a"
+        },
+        {
+          "title": "Playcrypt, Software S1162",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1162/"
+        }
+      ]
+    },
+    {
+      "name": "Qilin",
+      "slug": "qilin",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/qilin/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Agenda",
+        "Water Galura (operators)"
+      ],
+      "summary": "Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE ATT&CK says has been active since at least 2022. It has Go and Rust versions that target Windows, Linux and VMware ESXi. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
+      "status": "active",
+      "first_seen": "2022",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per MITRE ATT&CK: the operators demand payment for decryption keys and for not publishing stolen data on their leak site. They also run a Telegram news channel to announce Qilin activity.",
+      "target_sectors": [
+        "Manufacturing",
+        "Technology",
+        "Financial services",
+        "Healthcare"
+      ],
+      "malware": [
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Qilin, Software S1242",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1242/"
+        },
+        {
+          "title": "Water Galura, Group G1050",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/G1050/"
+        },
+        {
+          "title": "Cyber incident involving Synnovis system within two NHS England Trusts",
+          "publisher": "Cardiff and Vale University Health Board (NHS Wales)",
+          "url": "https://cavuhb.nhs.wales/news/latest-news/cyber-incident-involving-synnovis-system-within-some-nhs-england-trust/"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        },
+        {
+          "title": "Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups",
+          "publisher": "Cyber Security Agency of Singapore",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/"
+        }
+      ]
+    },
+    {
+      "name": "RansomHub",
+      "slug": "ransomhub",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/ransomhub/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Cyclops",
+        "Knight"
+      ],
+      "summary": "RansomHub is a ransomware as a service operation, formerly known as Cyclops and Knight, according to a joint advisory (AA24-242A) from the FBI, CISA, MS-ISAC and HHS released on August 29, 2024. The advisory says it had encrypted and stolen data from at least 210 victims since its start in February 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
+      "status": "",
+      "first_seen": "2024",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per the advisory: affiliates encrypt systems and steal data. The ransom note gives a client ID and a unique Tor address (a hidden site reached with the Tor browser) rather than a price. It typically allows between three and 90 days, depending on the affiliate, before data is published on the RansomHub leak site.",
+      "target_sectors": [
+        "Healthcare and public health",
+        "Government services and facilities",
+        "Financial services",
+        "Critical manufacturing",
+        "Information technology",
+        "Water and wastewater"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: RansomHub Ransomware (AA24-242A)",
+          "publisher": "CISA, FBI, MS-ISAC, HHS",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a"
+        },
+        {
+          "title": "RansomHub, Software S1212",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1212/"
+        }
+      ]
+    },
+    {
+      "name": "REvil ransomware group",
+      "slug": "revil",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/revil/",
+      "last_updated": "2026-10-10",
+      "aliases": [
+        "Sodinokibi",
+        "Sodin"
+      ],
+      "summary": "REvil, also called Sodinokibi, is a ransomware as a service operation that MITRE ATT&CK says ran since at least April 2019. The U.S. Department of Justice says it was used in thousands of attacks, including the July 2021 attack on Kaseya, an IT software company, that reached its customers. Between November 2021 and May 2024 the United States sanctioned, charged, extradited and sentenced people tied to it.",
+      "status": "disrupted",
+      "first_seen": "2019",
+      "model": "Ransomware as a service",
+      "extortion": "Double extortion, per the Department of Justice: data was encrypted and victims who did not pay saw their data exposed. Ransoms were demanded in cryptocurrency, and the group used exchangers and mixing services to hide the proceeds. Treasury says the group received more than 200 million US dollars in Bitcoin and Monero.",
+      "target_sectors": [
+        "Technology and managed service providers",
+        "Manufacturing",
+        "Energy and electric utilities",
+        "Transportation",
+        "Government and public sector"
+      ],
+      "malware": [
+        {
+          "name": "REvil",
+          "url": "https://brandefense.io/knowledge-hub/malware/revil/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "REvil, Software S0496",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S0496/"
+        },
+        {
+          "title": "Kaseya VSA Supply-Chain Ransomware Attack",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2021/07/02/kaseya-vsa-supply-chain-ransomware-attack"
+        },
+        {
+          "title": "CISA-FBI Guidance for MSPs and their Customers Affected by the Kaseya VSA Supply-Chain Ransomware Attack",
+          "publisher": "CISA, FBI",
+          "url": "https://www.cisa.gov/news-events/alerts/2021/07/04/cisa-fbi-guidance-msps-and-their-customers-affected-kaseya-vsa-supply-chain-ransomware-attack"
+        },
+        {
+          "title": "Justice Department Seizes $6.1 million Related to Alleged Ransomware Extortionists",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/ukrainian-arrested-and-charged-ransomware-attack-kaseya"
+        },
+        {
+          "title": "Sodinokibi/REvil ransomware defendant extradited to the United States and arraigned in Texas",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/sodinokibirevil-ransomware-defendant-extradited-united-states-and-arraigned-texas"
+        },
+        {
+          "title": "Sodinokibi/REvil affiliate sentenced for role in $700M ransomware scheme",
+          "publisher": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/archives/opa/pr/sodinokibirevil-affiliate-sentenced-role-700m-ransomware-scheme"
+        },
+        {
+          "title": "Treasury Continues to Counter Ransomware as Part of Whole-of-Government Effort",
+          "publisher": "U.S. Department of the Treasury",
+          "url": "https://home.treasury.gov/news/press-releases/jy0471"
+        },
+        {
+          "title": "Financial Trend Analysis: Ransomware",
+          "publisher": "FinCEN",
+          "url": "https://www.fincen.gov/sites/default/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Rhysida",
+      "slug": "rhysida",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/rhysida/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Rhysida ransomware"
+      ],
+      "summary": "Rhysida is a ransomware operation that CISA, the FBI and the MS-ISAC say has mainly been deployed against education, healthcare, manufacturing, IT and government organizations since May 2023. Open source reporting describes it as a ransomware-as-a-service model where any ransom is split with associates. Rhysida uses double extortion: victims pay to decrypt files and pay again to stop stolen data being published.",
+      "status": "active",
+      "first_seen": "2023",
+      "model": "Ransomware as a service (profit-sharing with associates)",
+      "extortion": "Double extortion. Victims are told to pay in Bitcoin both to decrypt files and to stop stolen data being published. A PDF ransom note points to a Tor portal.",
+      "target_sectors": [
+        "Education",
+        "Healthcare",
+        "Manufacturing",
+        "Information technology",
+        "Government"
+      ],
+      "malware": [],
+      "sources": [
+        {
+          "title": "#StopRansomware: Rhysida Ransomware (AA23-319A)",
+          "publisher": "CISA, FBI and MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a"
+        },
+        {
+          "title": "#StopRansomware: Vice Society (AA22-249A)",
+          "publisher": "CISA, FBI and MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-249a"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        },
+        {
+          "title": "Stop Ransomware",
+          "publisher": "CISA",
+          "url": "https://stopransomware.gov/"
+        }
+      ]
+    },
+    {
+      "name": "Royal",
+      "slug": "royal",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/royal/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "BlackSuit"
+      ],
+      "summary": "Royal is a ransomware group that, according to a joint FBI and CISA advisory (AA23-061A, first published March 2, 2023), rebranded as BlackSuit. The advisory says BlackSuit is the evolution of Royal and shares numerous coding similarities with it. In August 2025 the US Justice Department announced the takedown of BlackSuit (Royal) servers and domains.",
+      "status": "rebranded",
+      "first_seen": "2022",
+      "model": "Not stated as ransomware as a service in the sources; operated by the group itself",
+      "extortion": "Double extortion, per the advisory: data is stolen before encryption, then published to a leak site if the ransom is not paid. The ransom note holds no amount. Victims must contact the actors through a Tor address. The advisory also reports phone and email contact with victims.",
+      "target_sectors": [
+        "Manufacturing",
+        "Government and public sector",
+        "Healthcare",
+        "Retail and commercial facilities"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        },
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: BlackSuit (Royal) Ransomware (AA23-061A)",
+          "publisher": "CISA, FBI",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a"
+        },
+        {
+          "title": "Justice Department Announces Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware Operations",
+          "publisher": "US Department of Justice",
+          "url": "https://justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal"
+        },
+        {
+          "title": "Royal, Software S1073",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S1073/"
+        }
+      ]
+    },
+    {
+      "name": "SafePay Ransomware Group",
+      "slug": "safepay",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/safepay/",
+      "last_updated": "2026-10-21",
+      "aliases": [],
+      "summary": "SafePay is a ransomware group that the FBI, CISA and partners say has been highly active since August 2024. A joint advisory published on 20 October 2026 counts at least 600 separate victims, from multiple critical infrastructure sectors.",
+      "status": "active",
+      "first_seen": "2024",
+      "model": "Data theft and encryption, then a threat to publish the data on a leak site (per advisory AA26-293A)",
+      "extortion": "Double extortion in effect: data is copied out before encryption, and data of victims who do not pay is posted on the SafePay leak site. The ransom note says SafePay locked the system and points to a chat portal on a TOR address, where the victim logs in with an ID. The advisory says a representative also makes phone calls to pressure the victim, and that actors typically demand a subset of company revenue in cryptocurrency.",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "#StopRansomware: SafePay Ransomware (AA26-293A)",
+          "publisher": "CISA, FBI, US Secret Service, LKA Rheinland-Pfalz, UK NCA, NW ROCU",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a"
+        },
+        {
+          "title": "Known Exploited Vulnerabilities catalog",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "title": "Cisco ASA and FTD information disclosure (CVE-2020-3259)",
+          "publisher": "Cisco",
+          "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-info-disclose-9eJtycMB"
+        },
+        {
+          "title": "Cisco ASA and FTD remote access VPN unauthorized access (CVE-2023-20269)",
+          "publisher": "Cisco",
+          "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ravpn-auth-8LyfCkeC"
+        },
+        {
+          "title": "Veeam Backup & Replication credential exposure (CVE-2023-27532)",
+          "publisher": "Veeam",
+          "url": "https://www.veeam.com/kb4424"
+        },
+        {
+          "title": "Veeam security fixes of September 2024 (CVE-2024-40711)",
+          "publisher": "Veeam",
+          "url": "https://www.veeam.com/kb4649"
+        },
+        {
+          "title": "CVE-2024-40766 record",
+          "publisher": "CVE Program",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2024-40766"
+        }
+      ]
+    },
+    {
+      "name": "Vice Society",
+      "slug": "vice-society",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/vice-society/",
+      "last_updated": "2026-10-09",
+      "aliases": [],
+      "summary": "Vice Society is an intrusion, exfiltration and extortion group that first appeared in summer 2021, per joint advisory AA22-249A (FBI, CISA and MS-ISAC, September 6, 2022). The advisory says its actors disproportionately targeted the education sector and used other groups' ransomware rather than their own.",
+      "status": "",
+      "first_seen": "2021",
+      "model": "Not stated in the advisory",
+      "extortion": "Double extortion, per the advisory: data is copied out before ransomware is deployed, and victims are threatened with public release of sensitive data unless they pay. The advisory lists a Tor address and OnionMail email accounts as indicators.",
+      "target_sectors": [
+        "Education (K-12 in particular)"
+      ],
+      "malware": [
+        {
+          "name": "Cobalt Strike",
+          "url": "https://brandefense.io/knowledge-hub/malware/cobalt-strike/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "#StopRansomware: Vice Society (AA22-249A)",
+          "publisher": "CISA, FBI and MS-ISAC",
+          "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-249a"
+        },
+        {
+          "title": "#StopRansomware Guide",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/stopransomware/ransomware-guide"
+        },
+        {
+          "title": "Cobalt Strike, Software S0154",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/software/S0154/"
+        },
+        {
+          "title": "Known Exploited Vulnerabilities Catalog",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        }
+      ]
+    },
+    {
+      "name": "Warlock",
+      "slug": "warlock",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/warlock/",
+      "last_updated": "2026-10-09",
+      "aliases": [
+        "Storm-2603"
+      ],
+      "summary": "Warlock is a ransomware family that Microsoft says a China-based actor it tracks as Storm-2603 deployed in July 2025 after exploiting on-premises SharePoint servers. CISA's alert on the same flaws says actors were seen encrypting files and distributing Warlock on compromised systems.",
+      "status": "",
+      "first_seen": "2025",
+      "model": "Not stated by the sources",
+      "extortion": "The opened sources describe file encryption and distribution of the ransomware through Group Policy. They do not describe a leak site or ransom note, so none is claimed here.",
+      "target_sectors": [
+        "Financial services",
+        "Education",
+        "Energy and utilities",
+        "Healthcare"
+      ],
+      "malware": [
+        {
+          "name": "Mimikatz",
+          "url": "https://brandefense.io/knowledge-hub/malware/mimikatz/"
+        },
+        {
+          "name": "Impacket",
+          "url": "https://brandefense.io/knowledge-hub/malware/impacket/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Disrupting active exploitation of on-premises SharePoint vulnerabilities",
+          "publisher": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/"
+        },
+        {
+          "title": "UPDATE: Microsoft Releases Guidance on Exploitation of SharePoint Vulnerabilities",
+          "publisher": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2025/07/20/update-microsoft-releases-guidance-exploitation-sharepoint-vulnerabilities"
+        },
+        {
+          "title": "SharePoint ToolShell Exploitation, Campaign C0058",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/campaigns/C0058/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Threat Actor Dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques"
+abstract: "Open threat actor dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques with aliases, TTPs and sources. JSON, CSV, STIX 2.1."
+authors:
+  - name: Brandefense
+    website: "https://brandefense.io"
+    email: info@brandefense.io
+repository-code: "https://github.com/BRANDEFENSE/threat-actor-dataset"
+url: "https://brandefense.io/knowledge-hub/apt-groups/"
+license: CC-BY-4.0
+version: "2026.10"
+date-released: "2026-10-23"
+keywords:
+  - threat-intelligence
+  - cyber-threat-intelligence
+  - cti
+  - threatintel
+  - threat-actors
+  - apt
+  - apt-groups
+  - ransomware
+  - ransomware-groups
+  - mitre-attack
+  - ttp
+  - malware
+  - stix2
+  - osint
+  - dataset
+  - open-data
+  - threat-hunting
+  - cybersecurity
+  - infosec
+  - json
