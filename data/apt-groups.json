@@ -8188,7 +8188,7 @@
       "name": "Lazarus Group",
       "slug": "lazarus-group",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/lazarus-group/",
-      "last_updated": "2026-10-07",
+      "last_updated": "2026-10-23",
       "aliases": [
         {
           "name": "HIDDEN COBRA",
@@ -8227,7 +8227,8 @@
         "Entertainment",
         "Defense",
         "Energy",
-        "Online gambling"
+        "Online gambling",
+        "Software, construction and communication equipment (South Korea)"
       ],
       "target_regions": [
         "Worldwide",
@@ -8363,6 +8364,14 @@
         {
           "name": "Dtrack",
           "type": "Malware"
+        },
+        {
+          "name": "LPEClient",
+          "type": "Profiler and payload loader"
+        },
+        {
+          "name": "TechHub",
+          "type": "Downloader"
         }
       ],
       "sources": [
@@ -8455,6 +8464,16 @@
           "title": "Alert: Cyberattack by North Korean Cyber Actors, TraderTraitor",
           "publisher": "National Police Agency, Japan",
           "url": "https://www.npa.go.jp/bureau/cyber/pdf/20250204_tt.pdf"
+        },
+        {
+          "title": "Operation FlashHole: Lazarus breaks security, defies control",
+          "publisher": "Kaspersky Securelist",
+          "url": "https://securelist.com/lazarus-operation-flashhole/121541/"
+        },
+        {
+          "title": "Kaspersky identifies new Lazarus APT campaign utilizing AI and post-quantum encryption",
+          "publisher": "Kaspersky",
+          "url": "https://www.kaspersky.com/about/press-releases/kaspersky-identifies-new-lazarus-apt-campaign-utilizing-ai-and-post-quantum-encryption"
         }
       ]
     },

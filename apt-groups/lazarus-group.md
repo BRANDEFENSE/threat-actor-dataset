@@ -10,7 +10,7 @@ Lazarus Group is the name used by MITRE, the US Treasury and the US Department o
 | Suspected origin | North Korea |
 | Attributed by | the US Treasury, the US Department of Justice, MITRE ATT&CK and the EU Council |
 | MITRE ATT&CK ID | G0032 |
-| Targets | Financial institutions, Cryptocurrency, Entertainment, Defense, Energy, Online gambling |
+| Targets | Financial institutions, Cryptocurrency, Entertainment, Defense, Energy, Online gambling, Software, construction and communication equipment (South Korea) |
 | Target regions | Worldwide, United States, South Korea, Southeast and South Asia, Europe, Latin America, Over 30 countries (crypto), Türkiye, United Kingdom, Germany, Italy, Saudi Arabia, Indonesia, India, Singapore, Japan, Taiwan, Canada, Australia, Brazil |
 
 ## Tools and malware
@@ -25,6 +25,8 @@ Lazarus Group is the name used by MITRE, the US Treasury and the US Department o
 - RATANKBA (Remote access tool)
 - Responder (Open tool)
 - Dtrack (Malware)
+- LPEClient (Profiler and payload loader)
+- TechHub (Downloader)
 
 ## MITRE ATT&CK techniques
 
@@ -65,9 +67,11 @@ Lazarus Group is the name used by MITRE, the US Treasury and the US Department o
 - [Foreign Office Minister condemns North Korean actor for WannaCry attacks](https://www.gov.uk/government/news/foreign-office-minister-condemns-north-korean-actor-for-wannacry-attacks), Foreign & Commonwealth Office (GOV.UK)
 - [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks (AA20-239A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a), CISA
 - [Alert: Cyberattack by North Korean Cyber Actors, TraderTraitor](https://www.npa.go.jp/bureau/cyber/pdf/20250204_tt.pdf), National Police Agency, Japan
+- [Operation FlashHole: Lazarus breaks security, defies control](https://securelist.com/lazarus-operation-flashhole/121541/), Kaspersky Securelist
+- [Kaspersky identifies new Lazarus APT campaign utilizing AI and post-quantum encryption](https://www.kaspersky.com/about/press-releases/kaspersky-identifies-new-lazarus-apt-campaign-utilizing-ai-and-post-quantum-encryption), Kaspersky
 
 ## Full profile
 
 Timeline, attribution notes, defences and FAQ: **[Lazarus Group on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/lazarus-group/)**
 
-_Last updated 2026-10-07. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._
