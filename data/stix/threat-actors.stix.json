@@ -6692,7 +6692,7 @@
    "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Lynx",
-   "description": "Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. Official material on Lynx is thin: we found no CISA or FBI advisory and no MITRE ATT&CK entry for it.",
+   "description": "Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. MITRE ATT&CK has no entry for it.",
    "external_references": [
     {
      "source_name": "brandefense",
@@ -8067,11 +8067,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Supply Chain Compromise: Compromise Software Supply Chain, T1195.002",
      "url": "https://attack.mitre.org/techniques/T1195/002/"
-    },
-    {
-     "source_name": "AOMEI Technology",
-     "description": "AOMEI Backupper changelog (latest version 8.5.0 listed)",
-     "url": "https://www.aomeitech.com/ab/changelog.html"
     }
    ]
   },

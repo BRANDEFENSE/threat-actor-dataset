@@ -1,6 +1,6 @@
 # Lynx
 
-Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. Official material on Lynx is thin: we found no CISA or FBI advisory and no MITRE ATT&CK entry for it.
+Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. MITRE ATT&CK has no entry for it.
 
 | Field | Value |
 |---|---|
