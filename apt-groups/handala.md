@@ -4,7 +4,7 @@ Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), 
 
 | Field | Value |
 |---|---|
-| Also known as | VOID MANTICORE, Handala Hack, Handala Hack Team, Homeland Justice, Karma, Karmabelow80, COBALT MYSTIQUE, BANISHED KITTEN, Red Sandstorm |
+| Also known as | Handala Hack, Handala Hack Team |
 | Status | active |
 | Motivation | a:2:{i:0;s:8:"sabotage";i:1;s:9:"influence";} |
 | Suspected origin | Iran |

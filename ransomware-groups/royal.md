@@ -4,7 +4,6 @@ Royal is a ransomware group that, according to a joint FBI and CISA advisory (AA
 
 | Field | Value |
 |---|---|
-| Also known as | BlackSuit |
 | Status | rebranded |
 | First seen | 2022 |
 | Model | Not stated as ransomware as a service in the sources; operated by the group itself |
@@ -25,4 +24,4 @@ Royal is a ransomware group that, according to a joint FBI and CISA advisory (AA
 
 Timeline, attribution notes, defences and FAQ: **[Royal on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/royal/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

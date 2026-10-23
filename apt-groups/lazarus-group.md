@@ -4,7 +4,7 @@ Lazarus Group is the name used by MITRE, the US Treasury and the US Department o
 
 | Field | Value |
 |---|---|
-| Also known as | HIDDEN COBRA, Guardians of Peace, Labyrinth Chollima, ZINC, NICKEL ACADEMY, Diamond Sleet, APT38, Bluenoroff, Andariel, TraderTraitor |
+| Also known as | HIDDEN COBRA, Guardians of Peace, Labyrinth Chollima, ZINC, NICKEL ACADEMY, Diamond Sleet |
 | Status | active |
 | Motivation | financial, espionage, sabotage |
 | Suspected origin | North Korea |

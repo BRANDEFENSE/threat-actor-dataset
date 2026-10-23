@@ -4,7 +4,7 @@ Attributed by the UK, US, Australian, Canadian and New Zealand governments to Ru
 
 | Field | Value |
 |---|---|
-| Also known as | SEABORGIUM, Callisto Group, TA446, COLDRIVER, TAG-53, BlueCharlie, Cold River, Gossamer Bear, ReUse Team, Dancing Salome |
+| Also known as | SEABORGIUM, Callisto Group, TA446, COLDRIVER, TAG-53, BlueCharlie, Gossamer Bear, ReUse Team, Dancing Salome |
 | Status | active |
 | Motivation | a:2:{i:0;s:9:"espionage";i:1;s:9:"influence";} |
 | Suspected origin | Russia |

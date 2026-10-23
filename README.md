@@ -73,7 +73,7 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 |---|---|---|---|
 | [Andariel](apt-groups/andariel.md) | Silent Chollima, PLUTONIUM, Onyx Sleet, … | North Korea | G0138 |
 | [APT-C-60](apt-groups/apt-c-60.md) |  |  |  |
-| [APT1](apt-groups/apt1.md) | Comment Crew, Comment Group, Comment Panda, … | China | G0006 |
+| [APT1](apt-groups/apt1.md) | Comment Crew, Comment Group, Comment Panda | China | G0006 |
 | [APT18](apt-groups/apt18.md) | TG-0416, Dynamite Panda, Threat Group-0416, … |  | G0026 |
 | [APT19](apt-groups/apt19.md) | Codoso, C0d0so0, Codoso Team, … | China | G0073 |
 | [APT27](apt-groups/apt27.md) | Threat Group-3390, TG-3390, Emissary Panda, … | China | G0027 |
@@ -85,74 +85,74 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [APT35](apt-groups/apt35-charming-kitten.md) | Magic Hound, TA453, COBALT ILLUSION, … | Iran | G0059 |
 | [APT36](apt-groups/apt36-transparent-tribe.md) | Transparent Tribe, COPPER FIELDSTONE, Mythic Leopard, … | Pakistan | G0134 |
 | [APT37](apt-groups/apt37.md) | ScarCruft, InkySquid, Reaper, … | North Korea | G0067 |
-| [APT38](apt-groups/apt38.md) | BeagleBoyz, Bluenoroff, Stardust Chollima, … | North Korea | G0082 |
+| [APT38](apt-groups/apt38.md) | Bluenoroff, Stardust Chollima, NICKEL GLADSTONE, … | North Korea | G0082 |
 | [APT39](apt-groups/apt39.md) | Advanced Persistent Threat 39, Chafer, ITG07, … | Iran | G0087 |
 | [APT40](apt-groups/apt40.md) | Leviathan, MUDCARP, Kryptonite Panda, … | China | G0065 |
 | [APT41](apt-groups/apt41.md) | Wicked Panda, Brass Typhoon, BARIUM, … | China | G0096 |
 | [APT42](apt-groups/apt42.md) | TA453, Mint Sandstorm, Educated Manticore, … | Iran | G1044 |
-| [ARMORY CASTLE](apt-groups/armory-castle.md) | UNC5221, UNC5337 | China (suspected) |  |
-| [BITTER](apt-groups/bitter.md) | T-APT-17, Bitter |  | G1002 |
+| [ARMORY CASTLE](apt-groups/armory-castle.md) | UNC5221 | China (suspected) |  |
+| [BITTER](apt-groups/bitter.md) | T-APT-17 |  | G1002 |
 | [BlackTech](apt-groups/blacktech.md) | Palmerworm, Temp.Overboard, Circuit Panda, … | China | G0098 |
 | [CyberAv3ngers](apt-groups/cyberav3ngers.md) | CyberAveng3rs, Cyber Avengers, Shahid Kaveh Group, … | Iran | G1027 |
 | [Dragonfly](apt-groups/dragonfly.md) | TEMP.Isotope, DYMALLOY, Berserk Bear, … | Russia | G0035 |
 | [Ember Bear](apt-groups/ember-bear.md) | Cadet Blizzard, UAC-0056, UNC2589, … | Russia | G1003 |
-| [FIN7](apt-groups/fin7.md) | Carbanak Group, Navigator Group, GOLD NIAGARA, … |  | G0046 |
+| [FIN7](apt-groups/fin7.md) | Navigator Group, GOLD NIAGARA, Carbon Spider, … |  | G0046 |
 | [Gamaredon](apt-groups/gamaredon.md) | Gamaredon Group, IRON TILDEN, Primitive Bear, … | Russia | G0047 |
-| [HAFNIUM](apt-groups/hafnium.md) | Silk Typhoon, Operation Exchange Marauder | China | G0125 |
-| [Handala](apt-groups/handala.md) | VOID MANTICORE, Handala Hack, Handala Hack Team, … | Iran | G1055 |
+| [HAFNIUM](apt-groups/hafnium.md) | Silk Typhoon | China | G0125 |
+| [Handala](apt-groups/handala.md) | Handala Hack, Handala Hack Team | Iran | G1055 |
 | [Indrik Spider](apt-groups/indrik-spider.md) | Evil Corp, Manatee Tempest, DEV-0243, … | Russia | G0119 |
 | [Kimsuky](apt-groups/kimsuky.md) | Black Banshee, Velvet Chollima, Emerald Sleet, … | North Korea | G0094 |
 | [LAPSUS$](apt-groups/lapsus.md) | DEV-0537, Strawberry Tempest, Lapsus Group | Based mainly in the United Kingdom and Brazil, per the US Cyber Safety Review Board | G1004 |
-| [LAUNDRY BEAR](apt-groups/laundry-bear.md) | Void Blizzard, CL-STA-1114, TA488, … | Russia |  |
+| [LAUNDRY BEAR](apt-groups/laundry-bear.md) | Void Blizzard, CL-STA-1114, TA488 | Russia |  |
 | [Lazarus Group](apt-groups/lazarus-group.md) | HIDDEN COBRA, Guardians of Peace, Labyrinth Chollima, … | North Korea | G0032 |
 | [menuPass](apt-groups/menupass.md) | APT10, Stone Panda, Red Apollo, … | China | G0045 |
 | [MirrorFace](apt-groups/mirrorface.md) | Earth Kasha |  | G1054 |
 | [MuddyWater](apt-groups/muddywater.md) | Earth Vetala, MERCURY, Static Kitten, … | Iran | G0069 |
 | [Mustang Panda](apt-groups/mustang-panda.md) | TA416, RedDelta, BRONZE PRESIDENT, … | China | G0129 |
-| [Salt Typhoon](apt-groups/salt-typhoon.md) | OPERATOR PANDA, RedMike, UNC5807, … | China | G1045 |
+| [Salt Typhoon](apt-groups/salt-typhoon.md) | OPERATOR PANDA, RedMike, GhostEmperor, … | China | G1045 |
 | [Sandworm](apt-groups/sandworm.md) | Sandworm Team, Telebots, Voodoo Bear, … | Russia | G0034 |
 | [Scattered Spider](apt-groups/scattered-spider.md) | Roasted 0ktapus, Octo Tempest, Storm-0875, … | Not attributed to a state | G1015 |
-| [ShinyHunters](apt-groups/shinyhunters.md) | ShinyCorp, UNC6240, Bling Libra, … | Not stated in the sources opened | G1057 |
+| [ShinyHunters](apt-groups/shinyhunters.md) | UNC6240, Bling Libra | Not stated in the sources opened | G1057 |
 | [SideWinder](apt-groups/sidewinder.md) | Sidewinder, T-APT-04, Rattlesnake, … | India | G0121 |
 | [Silent Lynx](apt-groups/silent-lynx.md) | UAT-6275, TAG-193 | Kazakhstan (suspected) |  |
 | [Star Blizzard](apt-groups/star-blizzard.md) | SEABORGIUM, Callisto Group, TA446, … | Russia | G1033 |
 | [TA505](apt-groups/ta505.md) | CL0P, Hive0065, Spandex Tempest, … |  | G0092 |
 | [TeamPCP](apt-groups/teampcp.md) | PCPCat, ShellForce, DeadCatx3, … |  | G1056 |
 | [Turla](apt-groups/turla.md) | Waterbug, Venomous Bear, Snake, … | Russia | G0010 |
-| [UNC3886](apt-groups/unc3886.md) | UNC prefix |  | G1048 |
+| [UNC3886](apt-groups/unc3886.md) |  |  | G1048 |
 | [Volt Typhoon](apt-groups/volt-typhoon.md) | Vanguard Panda, BRONZE SILHOUETTE, DEV-0391, … | China | G1017 |
-| [Wizard Spider](apt-groups/wizard-spider.md) | Trickbot group, Trickman, UNC1878, … | Russia | G0102 |
+| [Wizard Spider](apt-groups/wizard-spider.md) | Trickbot group, UNC1878, GOLD BLACKBURN, … | Russia | G0102 |
 
 ## Ransomware groups
 
 | Group | Also known as | Status | First seen |
 |---|---|---|---|
-| [8Base](ransomware-groups/8base.md) | Affiliate 2803, Phobos affiliate group | disrupted | 2019 |
-| [Akira](ransomware-groups/akira.md) | Storm-1567, Howling Scorpius, Punk Spider, … | active | 2023 |
+| [8Base](ransomware-groups/8base.md) | Affiliate 2803 | disrupted | 2019 |
+| [Akira](ransomware-groups/akira.md) |  | active | 2023 |
 | [ALPHV / BlackCat](ransomware-groups/alphv-blackcat.md) | ALPHV, BlackCat, Noberus | disrupted | 2021 |
-| [BianLian](ransomware-groups/bianlian.md) | BianLian group | active | 2022 |
-| [Black Basta](ransomware-groups/black-basta.md) | Basta |  | 2022 |
-| [Cl0p](ransomware-groups/cl0p.md) | CL0P, Clop, TA505 | active | 2019 |
-| [Conti](ransomware-groups/conti.md) | Wizard Spider (per Rewards for Justice and the UK government) | inactive | 2019 |
-| [DarkSide](ransomware-groups/darkside.md) | Darkside, BlackMatter (possible rebrand) | inactive | 2020 |
+| [BianLian](ransomware-groups/bianlian.md) |  | active | 2022 |
+| [Black Basta](ransomware-groups/black-basta.md) |  |  | 2022 |
+| [Cl0p](ransomware-groups/cl0p.md) | Clop | active | 2019 |
+| [Conti](ransomware-groups/conti.md) |  | inactive | 2019 |
+| [DarkSide](ransomware-groups/darkside.md) |  | inactive | 2020 |
 | [DearCry](ransomware-groups/dearcry.md) |  |  | March 2021 |
 | [DragonForce](ransomware-groups/dragonforce.md) |  | active | Not dated in official sources |
-| [Everest](ransomware-groups/everest.md) | Everest ransomware group, EverBe 2.0 (earlier family, per HHS HC3) | active | 2020 |
+| [Everest](ransomware-groups/everest.md) |  | active | 2020 |
 | [Hive](ransomware-groups/hive.md) |  | disrupted | 2021 |
 | [Interlock](ransomware-groups/interlock.md) |  | active | 2024 |
-| [KillSec](ransomware-groups/killsec.md) | KillSec ransomware | disrupted | 2024 |
-| [LockBit](ransomware-groups/lockbit.md) | LockBit 2.0 (LockBit Red), LockBit 3.0 (LockBit Black), LockBit Green | disrupted | 2020 |
-| [Lynx](ransomware-groups/lynx.md) | Lynx ransomware, Lynx Group | active |  |
-| [Medusa](ransomware-groups/medusa.md) | Medusa ransomware, Medusa Group | active | 2021 |
+| [KillSec](ransomware-groups/killsec.md) |  | disrupted | 2024 |
+| [LockBit](ransomware-groups/lockbit.md) |  | disrupted | 2020 |
+| [Lynx](ransomware-groups/lynx.md) |  | active |  |
+| [Medusa](ransomware-groups/medusa.md) |  | active | 2021 |
 | [Play](ransomware-groups/play.md) | Playcrypt | active | 2022 |
-| [Qilin](ransomware-groups/qilin.md) | Agenda, Water Galura (operators) | active | 2022 |
-| [RansomHub](ransomware-groups/ransomhub.md) | Cyclops, Knight |  | 2024 |
+| [Qilin](ransomware-groups/qilin.md) | Agenda | active | 2022 |
+| [RansomHub](ransomware-groups/ransomhub.md) |  |  | 2024 |
 | [REvil](ransomware-groups/revil.md) | Sodinokibi, Sodin | disrupted | 2019 |
-| [Rhysida](ransomware-groups/rhysida.md) | Rhysida ransomware | active | 2023 |
-| [Royal](ransomware-groups/royal.md) | BlackSuit | rebranded | 2022 |
+| [Rhysida](ransomware-groups/rhysida.md) |  | active | 2023 |
+| [Royal](ransomware-groups/royal.md) |  | rebranded | 2022 |
 | [SafePay](ransomware-groups/safepay.md) |  | active | 2024 |
 | [Vice Society](ransomware-groups/vice-society.md) |  |  | 2021 |
-| [Warlock](ransomware-groups/warlock.md) | Storm-2603 |  | 2025 |
+| [Warlock](ransomware-groups/warlock.md) |  |  | 2025 |
 
 ## Malware
 

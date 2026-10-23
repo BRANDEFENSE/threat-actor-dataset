@@ -4,7 +4,7 @@ Attributed by MITRE ATT&CK to a Russia-based criminal group, which it also lists
 
 | Field | Value |
 |---|---|
-| Also known as | Evil Corp, Manatee Tempest, DEV-0243, UNC2165, Doppel Spider |
+| Also known as | Evil Corp, Manatee Tempest, DEV-0243, UNC2165 |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:9:"financial";} |
 | Suspected origin | Russia |

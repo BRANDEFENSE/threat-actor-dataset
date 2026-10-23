@@ -4,7 +4,6 @@ DarkSide was a ransomware as a service group that CISA and the FBI named in advi
 
 | Field | Value |
 |---|---|
-| Also known as | Darkside, BlackMatter (possible rebrand) |
 | Status | inactive |
 | First seen | 2020 |
 | Model | Ransomware as a service |
@@ -25,4 +24,4 @@ DarkSide was a ransomware as a service group that CISA and the FBI named in advi
 
 Timeline, attribution notes, defences and FAQ: **[DarkSide on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/darkside/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

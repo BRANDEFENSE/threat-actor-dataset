@@ -4,7 +4,6 @@ Medusa is a ransomware-as-a-service operation first identified in June 2021, acc
 
 | Field | Value |
 |---|---|
-| Also known as | Medusa ransomware, Medusa Group |
 | Status | active |
 | First seen | 2021 |
 | Model | Ransomware as a service (closed group until at least early 2023) |
@@ -25,4 +24,4 @@ Medusa is a ransomware-as-a-service operation first identified in June 2021, acc
 
 Timeline, attribution notes, defences and FAQ: **[Medusa on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/medusa/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

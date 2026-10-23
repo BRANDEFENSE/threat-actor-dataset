@@ -4,7 +4,7 @@ Google Threat Intelligence Group attributes the zero-day exploitation of BeyondT
 
 | Field | Value |
 |---|---|
-| Also known as | UNC5221, UNC5337 |
+| Also known as | UNC5221 |
 | Status | active |
 | Motivation | espionage |
 | Suspected origin | China (suspected) |
@@ -61,6 +61,7 @@ Google Threat Intelligence Group attributes the zero-day exploitation of BeyondT
 - [Account Manipulation, Technique T1098](https://attack.mitre.org/techniques/T1098/), MITRE ATT&CK
 - [Remote Access Tools, Technique T1219](https://attack.mitre.org/techniques/T1219/), MITRE ATT&CK
 - [Protocol Tunneling, Technique T1572](https://attack.mitre.org/techniques/T1572/), MITRE ATT&CK
+- [Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global), US Department of Justice
 
 ## Full profile
 

@@ -4,7 +4,7 @@ Attributed by MITRE ATT&CK to PLA Unit 61398 in China, APT1 is the subject of a 
 
 | Field | Value |
 |---|---|
-| Also known as | Comment Crew, Comment Group, Comment Panda, Unit 61398 (PLA General Staff Department 3rd Department, 2nd Bureau) |
+| Also known as | Comment Crew, Comment Group, Comment Panda |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:10:"espionage";} |
 | Suspected origin | China |

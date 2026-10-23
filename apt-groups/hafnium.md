@@ -1,10 +1,10 @@
 # HAFNIUM
 
-Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name given to the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.
+Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name of the actor behind the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.
 
 | Field | Value |
 |---|---|
-| Also known as | Silk Typhoon, Operation Exchange Marauder |
+| Also known as | Silk Typhoon |
 | Status | dormant |
 | Motivation | espionage |
 | Suspected origin | China |
@@ -68,6 +68,7 @@ Attributed by the US and UK governments (19 July 2021) to the Chinese state, and
 - [Brute Force: Password Spraying, T1110.003](https://attack.mitre.org/techniques/T1110/003/), MITRE ATT&CK
 - [Trusted Relationship, T1199](https://attack.mitre.org/techniques/T1199/), MITRE ATT&CK
 - [Valid Accounts: Cloud Accounts, T1078.004](https://attack.mitre.org/techniques/T1078/004/), MITRE ATT&CK
+- [Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global), US Department of Justice
 
 ## Full profile
 

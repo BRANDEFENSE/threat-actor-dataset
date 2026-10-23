@@ -13,10 +13,9 @@
       "name": "8Base",
       "slug": "8base",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/8base/",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-23",
       "aliases": [
-        "Affiliate 2803",
-        "Phobos affiliate group"
+        "Affiliate 2803"
       ],
       "summary": "8Base is the name of a ransomware affiliate group that used the Phobos ransomware. In February 2025 the US Justice Department said it had charged two Russian nationals who allegedly ran it, and that it had hit more than 1,000 public and private entities and received over 16 million US dollars in ransom payments. The department also said Europol and German authorities announced an operation against the network's servers.",
       "status": "disrupted",
@@ -55,13 +54,8 @@
       "name": "Akira",
       "slug": "akira",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/akira/",
-      "last_updated": "2026-10-10",
-      "aliases": [
-        "Storm-1567",
-        "Howling Scorpius",
-        "Punk Spider",
-        "Gold Sahara"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Akira is a ransomware group active since March 2023. A joint advisory (AA24-109A, first published April 18, 2024, revised 13 November 2025) from the FBI, CISA, Europol and agencies in France, Germany and the Netherlands says it has hit businesses and critical infrastructure in North America, Europe and Australia. As of late September 2025 it had claimed about 244.17 million US dollars in proceeds, per the advisory.",
       "status": "active",
       "first_seen": "2023",
@@ -85,6 +79,11 @@
           "title": "Akira, Software S1129",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/software/S1129/"
+        },
+        {
+          "title": "Akira, Group G1024",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/G1024/"
         }
       ]
     },
@@ -134,10 +133,8 @@
       "name": "BianLian",
       "slug": "bianlian",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/bianlian/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "BianLian group"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "BianLian is a ransomware and data extortion group that the FBI, CISA and Australia's ACSC say is likely based in Russia. It has hit US and Australian organizations since June 2022 and, by about January 2024, had dropped encryption for pure data theft.",
       "status": "active",
       "first_seen": "2022",
@@ -186,10 +183,8 @@
       "name": "Black Basta",
       "slug": "black-basta",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/",
-      "last_updated": "2026-10-10",
-      "aliases": [
-        "Basta"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Black Basta is a ransomware as a service operation, first identified in April 2022. The FBI, CISA, HHS and MS-ISAC reported in a joint advisory (AA24-131A, first published May 10, 2024) that its affiliates had hit over 500 organizations worldwide by May 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates, who carry out the attacks.",
       "status": "",
       "first_seen": "2022",
@@ -241,11 +236,9 @@
       "name": "Cl0p",
       "slug": "cl0p",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/cl0p/",
-      "last_updated": "2026-10-07",
+      "last_updated": "2026-10-23",
       "aliases": [
-        "CL0P",
-        "Clop",
-        "TA505"
+        "Clop"
       ],
       "summary": "Cl0p is a ransomware operation first seen in February 2019 and, per a joint FBI and CISA advisory (AA23-158A, June 2023), also known as TA505. It is best known for stealing data from many organizations at once by exploiting flaws in file transfer software, including Accellion, GoAnywhere and MOVEit.",
       "status": "active",
@@ -305,10 +298,8 @@
       "name": "Conti",
       "slug": "conti",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/conti/",
-      "last_updated": "2026-10-10",
-      "aliases": [
-        "Wizard Spider (per Rewards for Justice and the UK government)"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Conti was a ransomware as a service operation first observed in December 2019, per MITRE ATT&CK. A joint advisory (AA21-265A) from CISA, the FBI and the NSA, first published September 22, 2021, says it hit U.S. and international organizations in more than 400 attacks at first and above 1,000 by March 2022. The U.S. Department of Justice says the conspiracy ran until about June 2022.",
       "status": "inactive",
       "first_seen": "2019",
@@ -386,11 +377,8 @@
       "name": "DarkSide",
       "slug": "darkside",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/darkside/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "Darkside",
-        "BlackMatter (possible rebrand)"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "DarkSide was a ransomware as a service group that CISA and the FBI named in advisory AA21-131A, first published May 11, 2021, after an attack on a U.S. pipeline company's IT network. A later advisory (AA21-291A, October 18, 2021) says it was active from September 2020 through May 2021 and that BlackMatter is a possible rebrand.",
       "status": "inactive",
       "first_seen": "2020",
@@ -505,11 +493,8 @@
       "name": "Everest",
       "slug": "everest",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/everest/",
-      "last_updated": "2026-10-10",
-      "aliases": [
-        "Everest ransomware group",
-        "EverBe 2.0 (earlier family, per HHS HC3)"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Everest is a financially motivated ransomware and data extortion group. The US Department of Health and Human Services (HHS) says it has been active since 2020, steals and threatens to publish data, runs ransomware, and also acts as an initial access broker, meaning it sells entry into company networks to other criminals.",
       "status": "active",
       "first_seen": "2020",
@@ -618,10 +603,8 @@
       "name": "KillSec",
       "slug": "killsec",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/killsec/",
-      "last_updated": "2026-10-18",
-      "aliases": [
-        "KillSec ransomware"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "KillSec is a ransomware and data extortion group that Europol says has been active since around 2024. On 30 September 2026 law enforcement took control of its leak site, securing at least 110 terabytes of data, in an operation led by German authorities.",
       "status": "disrupted",
       "first_seen": "2024",
@@ -646,12 +629,8 @@
       "name": "LockBit",
       "slug": "lockbit",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/lockbit/",
-      "last_updated": "2026-10-07",
-      "aliases": [
-        "LockBit 2.0 (LockBit Red)",
-        "LockBit 3.0 (LockBit Black)",
-        "LockBit Green"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "LockBit is a ransomware as a service operation first seen in January 2020. A joint advisory (AA23-165A, June 14, 2023) calls it the most deployed ransomware variant in the world in 2022. The UK National Crime Agency took control of its services in February 2024 and, in May 2024, assessed the group as running at limited capacity.",
       "status": "disrupted",
       "first_seen": "2020",
@@ -711,11 +690,8 @@
       "name": "Lynx",
       "slug": "lynx",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/lynx/",
-      "last_updated": "2026-10-10",
-      "aliases": [
-        "Lynx ransomware",
-        "Lynx Group"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. Official material on Lynx is thin: we found no CISA or FBI advisory and no MITRE ATT&CK entry for it.",
       "status": "active",
       "first_seen": "",
@@ -745,11 +721,8 @@
       "name": "Medusa",
       "slug": "medusa",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/medusa/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "Medusa ransomware",
-        "Medusa Group"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Medusa is a ransomware-as-a-service operation first identified in June 2021, according to the FBI, CISA and HHS. As of April 2026 they count over 500 victims, with healthcare a frequent target. It steals data and encrypts files, then threatens to publish the data.",
       "status": "active",
       "first_seen": "2021",
@@ -836,10 +809,9 @@
       "name": "Qilin",
       "slug": "qilin",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/qilin/",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-23",
       "aliases": [
-        "Agenda",
-        "Water Galura (operators)"
+        "Agenda"
       ],
       "summary": "Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE ATT&CK says has been active since at least 2022. It has Go and Rust versions that target Windows, Linux and VMware ESXi. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
       "status": "active",
@@ -890,11 +862,8 @@
       "name": "RansomHub",
       "slug": "ransomhub",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/ransomhub/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "Cyclops",
-        "Knight"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "RansomHub is a ransomware as a service operation, formerly known as Cyclops and Knight, according to a joint advisory (AA24-242A) from the FBI, CISA, MS-ISAC and HHS released on August 29, 2024. The advisory says it had encrypted and stolen data from at least 210 victims since its start in February 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
       "status": "",
       "first_seen": "2024",
@@ -1005,10 +974,8 @@
       "name": "Rhysida",
       "slug": "rhysida",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/rhysida/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "Rhysida ransomware"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Rhysida is a ransomware operation that CISA, the FBI and the MS-ISAC say has mainly been deployed against education, healthcare, manufacturing, IT and government organizations since May 2023. Open source reporting describes it as a ransomware-as-a-service model where any ransom is split with associates. Rhysida uses double extortion: victims pay to decrypt files and pay again to stop stolen data being published.",
       "status": "active",
       "first_seen": "2023",
@@ -1049,10 +1016,8 @@
       "name": "Royal",
       "slug": "royal",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/royal/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "BlackSuit"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Royal is a ransomware group that, according to a joint FBI and CISA advisory (AA23-061A, first published March 2, 2023), rebranded as BlackSuit. The advisory says BlackSuit is the evolution of Royal and shares numerous coding similarities with it. In August 2025 the US Justice Department announced the takedown of BlackSuit (Royal) servers and domains.",
       "status": "rebranded",
       "first_seen": "2022",
@@ -1190,10 +1155,8 @@
       "name": "Warlock",
       "slug": "warlock",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/warlock/",
-      "last_updated": "2026-10-09",
-      "aliases": [
-        "Storm-2603"
-      ],
+      "last_updated": "2026-10-23",
+      "aliases": [],
       "summary": "Warlock is a ransomware family that Microsoft says a China-based actor it tracks as Storm-2603 deployed in July 2025 after exploiting on-premises SharePoint servers. CISA's alert on the same flaws says actors were seen encrypting files and distributing Warlock on compromised systems.",
       "status": "",
       "first_seen": "2025",

@@ -4,7 +4,7 @@ APT40 (tracked by MITRE as Leviathan) is attributed by the US and UK governments
 
 | Field | Value |
 |---|---|
-| Also known as | Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, TEMP.Periscope, Gingham Typhoon, Periscope, FEVERDREAM, GreenCrash, Hellsing |
+| Also known as | Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, TEMP.Periscope, Gingham Typhoon, Periscope, FEVERDREAM, Hellsing |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:10:"espionage";} |
 | Suspected origin | China |

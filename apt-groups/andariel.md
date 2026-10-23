@@ -4,7 +4,7 @@ Attributed by the US, UK and South Korean governments to North Korea's Reconnais
 
 | Field | Value |
 |---|---|
-| Also known as | Silent Chollima, PLUTONIUM, Onyx Sleet, DarkSeoul, Stonefly/Clasiopa |
+| Also known as | Silent Chollima, PLUTONIUM, Onyx Sleet, DarkSeoul, Stonefly |
 | Suspected origin | North Korea |
 | Attributed by | the US, UK and South Korean governments, and MITRE ATT&CK |
 | MITRE ATT&CK ID | G0138 |
@@ -54,6 +54,8 @@ Attributed by the US, UK and South Korean governments to North Korea's Reconnais
 - [Sanctions Imposed on DPRK IT Workers Generating Revenue for the Kim Regime](https://home.treasury.gov/news/press-releases/sb0190), US Department of the Treasury
 - [North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector (AA22-187A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-187a), FBI, CISA, Treasury
 - [StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities (AA23-040A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a), NSA, FBI, CISA, HHS, South Korea NIS and DSA
+- [Stonefly: Extortion Attacks Continue Against U.S. Targets](https://www.security.com/threat-intelligence/stonefly-north-korea-extortion), Symantec
+- [Clasiopa: New Group Targets Materials Research](https://www.security.com/threat-intelligence/clasiopa-materials-research), Symantec
 
 ## Full profile
 

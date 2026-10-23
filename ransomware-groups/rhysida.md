@@ -4,7 +4,6 @@ Rhysida is a ransomware operation that CISA, the FBI and the MS-ISAC say has mai
 
 | Field | Value |
 |---|---|
-| Also known as | Rhysida ransomware |
 | Status | active |
 | First seen | 2023 |
 | Model | Ransomware as a service (profit-sharing with associates) |
@@ -21,4 +20,4 @@ Rhysida is a ransomware operation that CISA, the FBI and the MS-ISAC say has mai
 
 Timeline, attribution notes, defences and FAQ: **[Rhysida on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/rhysida/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

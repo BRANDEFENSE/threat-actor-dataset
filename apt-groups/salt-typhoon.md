@@ -4,7 +4,7 @@ Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt
 
 | Field | Value |
 |---|---|
-| Also known as | OPERATOR PANDA, RedMike, UNC5807, GhostEmperor, FamousSparrow, APT actors |
+| Also known as | OPERATOR PANDA, RedMike, GhostEmperor, FamousSparrow |
 | Status | active |
 | Suspected origin | China |
 | Attributed by | MITRE ATT&CK, the US Treasury, and the 13 countries behind joint advisory AA25-239A |
@@ -69,6 +69,8 @@ Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt
 - [FCC Corrects Course, Outlines Improved Cybersecurity Measures](https://docs.fcc.gov/public/attachments/DOC-415455A1.pdf), US Federal Communications Commission
 - [Order on Reconsideration (FCC 25-81)](https://docs.fcc.gov/public/attachments/FCC-25-81A1.pdf), US Federal Communications Commission
 - [Nederlandse providers doelwit van Salt Typhoon](https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon), AIVD
+- [OPERATOR PANDA adversary page](https://www.crowdstrike.com/adversaries/operator-panda/), CrowdStrike
+- [You will always remember this as the day you finally caught FamousSparrow](https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/), ESET
 
 ## Full profile
 

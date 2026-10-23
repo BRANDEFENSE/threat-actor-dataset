@@ -4,7 +4,6 @@ RansomHub is a ransomware as a service operation, formerly known as Cyclops and 
 
 | Field | Value |
 |---|---|
-| Also known as | Cyclops, Knight |
 | First seen | 2024 |
 | Model | Ransomware as a service |
 | Targets | Healthcare and public health, Government services and facilities, Financial services, Critical manufacturing, Information technology, Water and wastewater |
@@ -23,4 +22,4 @@ RansomHub is a ransomware as a service operation, formerly known as Cyclops and 
 
 Timeline, attribution notes, defences and FAQ: **[RansomHub on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/ransomhub/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

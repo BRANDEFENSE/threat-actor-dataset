@@ -4,7 +4,7 @@ Attributed by MITRE ATT&CK as a suspected Indian threat actor group active since
 
 | Field | Value |
 |---|---|
-| Also known as | Sidewinder, T-APT-04, Rattlesnake, Razor Tiger, APT-C-17, Hardcore Nationalist (HN2) |
+| Also known as | Sidewinder, T-APT-04, Rattlesnake, Razor Tiger, APT-C-17, Hardcore Nationalist, HN2 |
 | Status | active |
 | Suspected origin | India |
 | Attributed by | MITRE ATT&CK, the national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA |

@@ -4,7 +4,7 @@ Wizard Spider is a Russia-based criminal group behind the Trickbot malware, attr
 
 | Field | Value |
 |---|---|
-| Also known as | Trickbot group, Trickman, UNC1878, GOLD BLACKBURN, Grim Spider, TEMP.MixMaster, FIN12, ITG23, Periwinkle Tempest, DEV-0193, Pistachio Tempest, DEV-0237, Conti |
+| Also known as | Trickbot group, UNC1878, GOLD BLACKBURN, Grim Spider, TEMP.MixMaster, FIN12, ITG23, Periwinkle Tempest, DEV-0193, Pistachio Tempest, DEV-0237 |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:9:"financial";} |
 | Suspected origin | Russia |

@@ -4,7 +4,7 @@ Attributed by the US, UK and EU governments to Russian military intelligence (GR
 
 | Field | Value |
 |---|---|
-| Also known as | Sandworm Team, Telebots, Voodoo Bear, Iron Viking, BlackEnergy Group, Quedagh, ELECTRUM, APT44, IRIDIUM, Seashell Blizzard, FROZENBARENTS, GTsST, Main Center for Special Technologies, military unit 74455, Olympic Destroyer |
+| Also known as | Sandworm Team, Telebots, Voodoo Bear, Iron Viking, BlackEnergy Group, Quedagh, ELECTRUM, APT44, IRIDIUM, Seashell Blizzard, FROZENBARENTS |
 | Status | active |
 | Motivation | sabotage, espionage |
 | Suspected origin | Russia |

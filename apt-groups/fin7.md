@@ -4,7 +4,7 @@ Attributed by the US Department of Justice to a financially motivated criminal c
 
 | Field | Value |
 |---|---|
-| Also known as | Carbanak Group, Navigator Group, GOLD NIAGARA, ITG14, Carbon Spider, ELBRUS, Sangria Tempest |
+| Also known as | Navigator Group, GOLD NIAGARA, Carbon Spider, ELBRUS, Sangria Tempest |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:9:"financial";} |
 | Attributed by | the US Department of Justice and the FBI |

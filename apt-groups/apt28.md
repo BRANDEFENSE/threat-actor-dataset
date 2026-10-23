@@ -4,7 +4,7 @@ The US, UK, EU and other governments attribute APT28 to Russia's military intell
 
 | Field | Value |
 |---|---|
-| Also known as | Fancy Bear, Forest Blizzard, Sofacy, Sednit, Pawn Storm, STRONTIUM, Tsar Team, Threat Group-4127 (TG-4127), IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, GruesomeLarch, FROZENLAKE, BlueDelta |
+| Also known as | Fancy Bear, Forest Blizzard, Sofacy, Sednit, Pawn Storm, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, GruesomeLarch, FROZENLAKE |
 | Status | active |
 | Motivation | espionage, influence |
 | Suspected origin | Russia |

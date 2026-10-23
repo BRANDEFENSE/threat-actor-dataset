@@ -27,7 +27,7 @@
     "PLUTONIUM",
     "Onyx Sleet",
     "DarkSeoul",
-    "Stonefly/Clasiopa"
+    "Stonefly"
    ],
    "external_references": [
     {
@@ -93,6 +93,16 @@
      "source_name": "NSA, FBI, CISA, HHS, South Korea NIS and DSA",
      "description": "StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities (AA23-040A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a"
+    },
+    {
+     "source_name": "Symantec",
+     "description": "Stonefly: Extortion Attacks Continue Against U.S. Targets",
+     "url": "https://www.security.com/threat-intelligence/stonefly-north-korea-extortion"
+    },
+    {
+     "source_name": "Symantec",
+     "description": "Clasiopa: New Group Targets Materials Research",
+     "url": "https://www.security.com/threat-intelligence/clasiopa-materials-research"
     }
    ]
   },
@@ -199,8 +209,7 @@
    "aliases": [
     "Comment Crew",
     "Comment Group",
-    "Comment Panda",
-    "Unit 61398 (PLA General Staff Department 3rd Department, 2nd Bureau)"
+    "Comment Panda"
    ],
    "external_references": [
     {
@@ -544,7 +553,9 @@
     "Silk Typhoon",
     "UTA0178",
     "UNC 5221",
-    "ZipToken, Group 35, TEMP.Hippo"
+    "ZipToken",
+    "Group 35",
+    "TEMP.Hippo"
    ],
    "external_references": [
     {
@@ -630,6 +641,16 @@
      "source_name": "CERT-EU",
      "description": "Cyber Brief 24-07 June 2024",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-07/"
+    },
+    {
+     "source_name": "MITRE ATT&CK",
+     "description": "HAFNIUM, Group G0125",
+     "url": "https://attack.mitre.org/groups/G0125/"
+    },
+    {
+     "source_name": "Google Threat Intelligence Group",
+     "description": "ARMORY CASTLE Exploits BeyondTrust",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust"
     }
    ]
   },
@@ -650,14 +671,14 @@
     "Pawn Storm",
     "STRONTIUM",
     "Tsar Team",
-    "Threat Group-4127 (TG-4127)",
+    "Threat Group-4127",
+    "TG-4127",
     "IRON TWILIGHT",
     "SNAKEMACKEREL",
     "Swallowtail",
     "Group 74",
     "GruesomeLarch",
-    "FROZENLAKE",
-    "BlueDelta"
+    "FROZENLAKE"
    ],
    "external_references": [
     {
@@ -1323,12 +1344,8 @@
     "Charming Kitten",
     "ITG18",
     "Phosphorus",
-    "Newscaster",
     "Mint Sandstorm",
-    "APT42",
-    "Yellow Garuda",
-    "Nemesis Kitten, Tunnel Vision",
-    "Educated Manticore, CharmingCypress"
+    "Yellow Garuda"
    ],
    "external_references": [
     {
@@ -1454,6 +1471,11 @@
      "source_name": "MITRE ATT&CK",
      "description": "Email Collection: Remote Email Collection (T1114.002)",
      "url": "https://attack.mitre.org/techniques/T1114/002/"
+    },
+    {
+     "source_name": "MITRE ATT&CK, APT42 group page G1044",
+     "description": "Magic Hound and APT42",
+     "url": "https://attack.mitre.org/groups/G1044/"
     }
    ]
   },
@@ -1668,14 +1690,11 @@
    "name": "APT38",
    "description": "APT38 is a North Korean state-sponsored group focused on financial theft, attributed by MITRE ATT&CK to North Korea's Reconnaissance General Bureau. MITRE lists banks, cryptocurrency exchanges and SWIFT system endpoints among its targets. The US Department of Justice named APT38 in November 2025 forfeiture cases over four 2023 cryptocurrency heists.",
    "aliases": [
-    "BeagleBoyz",
     "Bluenoroff",
     "Stardust Chollima",
     "NICKEL GLADSTONE",
     "Sapphire Sleet",
-    "COPERNICIUM",
-    "APT 38",
-    "Lazarus Group"
+    "COPERNICIUM"
    ],
    "external_references": [
     {
@@ -1772,10 +1791,7 @@
     "Advanced Persistent Threat 39",
     "Chafer",
     "ITG07",
-    "Remix Kitten",
-    "Cadelspy",
-    "Remexi",
-    "Rana Intelligence Computing Company"
+    "Remix Kitten"
    ],
    "external_references": [
     {
@@ -1869,7 +1885,6 @@
     "Gingham Typhoon",
     "Periscope",
     "FEVERDREAM",
-    "GreenCrash",
     "Hellsing"
    ],
    "external_references": [
@@ -1987,7 +2002,6 @@
     "Wicked Panda",
     "Brass Typhoon",
     "BARIUM",
-    "Winnti",
     "Wicked Spider"
    ],
    "external_references": [
@@ -2206,8 +2220,7 @@
    "name": "ARMORY CASTLE",
    "description": "Google Threat Intelligence Group attributes the zero-day exploitation of BeyondTrust Remote Support (CVE-2026-102764), which it dates to late August 2026, to ARMORY CASTLE, a suspected China-linked spying group it formerly tracked as UNC5221. No government has named the group.",
    "aliases": [
-    "UNC5221",
-    "UNC5337"
+    "UNC5221"
    ],
    "external_references": [
     {
@@ -2298,6 +2311,11 @@
      "source_name": "MITRE ATT&CK",
      "description": "Protocol Tunneling, Technique T1572",
      "url": "https://attack.mitre.org/techniques/T1572/"
+    },
+    {
+     "source_name": "US Department of Justice",
+     "description": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
+     "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
     }
    ]
   },
@@ -2311,8 +2329,7 @@
    "name": "BITTER",
    "description": "MITRE ATT&CK describes BITTER as a suspected South Asian cyber espionage group, active since at least 2013, that has targeted government, energy and engineering organizations in Pakistan, China, Bangladesh and Saudi Arabia. It sends spearphishing emails with malicious attachments and exploits known flaws in Microsoft Office.",
    "aliases": [
-    "T-APT-17",
-    "Bitter"
+    "T-APT-17"
    ],
    "external_references": [
     {
@@ -2531,15 +2548,11 @@
     "CyberAveng3rs",
     "Cyber Avengers",
     "Shahid Kaveh Group",
-    "Soldiers of Soloman",
-    "Soldiers of Solomon",
     "Hydro Kitten",
     "Storm-0784",
     "APT Iran",
     "Bauxite",
-    "UNC5691",
-    "Mr. Soul",
-    "IRGC Cyber-Electronic Command (IRGC-CEC)"
+    "UNC5691"
    ],
    "external_references": [
     {
@@ -2611,7 +2624,6 @@
     "TEMP.Isotope",
     "DYMALLOY",
     "Berserk Bear",
-    "Berzerk Bear",
     "TG-4192",
     "Crouching Yeti",
     "IRON LIBERTY",
@@ -2619,11 +2631,7 @@
     "Ghost Blizzard",
     "BROMINE",
     "TeamSpy",
-    "Koala",
-    "Havex",
-    "Dragonfly 2.0",
-    "CASSTLE",
-    "Static Tundra"
+    "Koala"
    ],
    "external_references": [
     {
@@ -2757,11 +2765,7 @@
     "UNC2589",
     "Bleeding Bear",
     "DEV-0586",
-    "Frozenvista",
-    "STORM-0587",
-    "STORM-0711",
-    "GRU Unit 29155 (161st Specialist Training Center, TsPS)",
-    "Saint Bear"
+    "Frozenvista"
    ],
    "external_references": [
     {
@@ -2865,10 +2869,8 @@
    "name": "FIN7",
    "description": "Attributed by the US Department of Justice to a financially motivated criminal conspiracy of dozens of computer specialists, FIN7 is described in US court papers as stealing tens of millions of payment card records from US businesses, and the FBI has warned about its mailed USB devices used to deliver ransomware. It hacks company networks to steal card data and, in later years, to deploy ransomware.",
    "aliases": [
-    "Carbanak Group",
     "Navigator Group",
     "GOLD NIAGARA",
-    "ITG14",
     "Carbon Spider",
     "ELBRUS",
     "Sangria Tempest"
@@ -2970,18 +2972,11 @@
     "Primitive Bear",
     "ACTINIUM",
     "Armageddon",
-    "ARMAGEDON",
     "Shuckworm",
     "DEV-0157",
     "Aqua Blizzard",
     "NastyShrew",
-    "UAC-0010",
-    "Winterflouder",
-    "BlueAlpha",
-    "BlueOtso",
-    "IronTiden",
-    "SectorC08",
-    "Callisto"
+    "UAC-0010"
    ],
    "external_references": [
     {
@@ -2997,31 +2992,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Gamaredon Group, Group G0047",
      "url": "https://attack.mitre.org/groups/G0047/"
-    },
-    {
-     "source_name": "Security Service of Ukraine (SSU), 4 November 2021, English",
-     "description": "SSU identifies FSB hackers responsible for over 5,000 cyber attacks against Ukraine",
-     "url": "https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
-    },
-    {
-     "source_name": "Security Service of Ukraine (SSU), 4 November 2021, Ukrainian",
-     "description": "СБУ встановила хакерів ФСБ, які здійснили понад 5 тис. кібератак на державні органи України",
-     "url": "https://ssu.gov.ua/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
-    },
-    {
-     "source_name": "Security Service of Ukraine (SSU), 2021",
-     "description": "Technical report on the activity of the hacker group Armageddon",
-     "url": "https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf"
-    },
-    {
-     "source_name": "Security Service of Ukraine (SSU), 12 September 2023",
-     "description": "Following SSU and SBI's investigation, russian FSB officer to be tried for cyberattacks on Ukrainian government websites",
-     "url": "https://ssu.gov.ua/en/novyny/za-materialamy-sbu-i-dbr-sudytymut-spivrobitnyka-fsb-rf-yakyi-zdiisniuvav-kiberataky-na-derzhavni-orhany-ukrainy"
-    },
-    {
-     "source_name": "Security Service of Ukraine (SSU), 8 October 2024",
-     "description": "Following SSU investigation, FSB hackers sentenced in absentia for over 5,000 cyberattacks on Ukrainian authorities",
-     "url": "https://ssu.gov.ua/en/novyny/za-materialamy-sbu-zaochni-tiuremni-vyroky-otrymaly-khakery-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
     },
     {
      "source_name": "Office of the Prosecutor General of Ukraine, 8 October 2024",
@@ -3112,6 +3082,16 @@
      "source_name": "MITRE ATT&CK",
      "description": "Remcos, Software S0332",
      "url": "https://attack.mitre.org/software/S0332/"
+    },
+    {
+     "source_name": "Sophos",
+     "description": "IRON TILDEN threat profile",
+     "url": "https://www.sophos.com/en-us/threat-profiles/iron-tilden"
+    },
+    {
+     "source_name": "Recorded Future Insikt Group",
+     "description": "BlueAlpha abuses Cloudflare Tunneling service",
+     "url": "https://www.recordedfuture.com/research/bluealpha-abuses-cloudflare-tunneling-service"
     }
    ]
   },
@@ -3123,10 +3103,9 @@
    "modified": "2026-10-09T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "HAFNIUM",
-   "description": "Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name given to the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.",
+   "description": "Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name of the actor behind the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.",
    "aliases": [
-    "Silk Typhoon",
-    "Operation Exchange Marauder"
+    "Silk Typhoon"
    ],
    "external_references": [
     {
@@ -3262,6 +3241,11 @@
      "source_name": "MITRE ATT&CK",
      "description": "Valid Accounts: Cloud Accounts, T1078.004",
      "url": "https://attack.mitre.org/techniques/T1078/004/"
+    },
+    {
+     "source_name": "US Department of Justice",
+     "description": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
+     "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
     }
    ]
   },
@@ -3275,15 +3259,8 @@
    "name": "Handala",
    "description": "Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), a group assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled, and the FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.",
    "aliases": [
-    "VOID MANTICORE",
     "Handala Hack",
-    "Handala Hack Team",
-    "Homeland Justice",
-    "Karma",
-    "Karmabelow80",
-    "COBALT MYSTIQUE",
-    "BANISHED KITTEN",
-    "Red Sandstorm"
+    "Handala Hack Team"
    ],
    "external_references": [
     {
@@ -3380,8 +3357,7 @@
     "Evil Corp",
     "Manatee Tempest",
     "DEV-0243",
-    "UNC2165",
-    "Doppel Spider"
+    "UNC2165"
    ],
    "external_references": [
     {
@@ -3655,7 +3631,7 @@
     {
      "source_name": "Polícia Federal (Brazil)",
      "description": "PF prende brasileiro suspeito de integrar organização criminosa internacional",
-     "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2022/10/pf-prende-brasileiro-suspeito-de-integrar-organizacao-criminosa-internacional"
+     "url": "https://web.archive.org/web/20221126103358/https://www.gov.br/pf/pt-br/assuntos/noticias/2022/10/pf-prende-brasileiro-suspeito-de-integrar-organizacao-criminosa-internacional"
     },
     {
      "source_name": "Polícia Federal (Brazil)",
@@ -3711,8 +3687,7 @@
    "aliases": [
     "Void Blizzard",
     "CL-STA-1114",
-    "TA488",
-    "UNK_PitStop"
+    "TA488"
    ],
    "external_references": [
     {
@@ -3791,11 +3766,7 @@
     "Labyrinth Chollima",
     "ZINC",
     "NICKEL ACADEMY",
-    "Diamond Sleet",
-    "APT38",
-    "Bluenoroff",
-    "Andariel",
-    "TraderTraitor"
+    "Diamond Sleet"
    ],
    "external_references": [
     {
@@ -4461,10 +4432,8 @@
    "aliases": [
     "OPERATOR PANDA",
     "RedMike",
-    "UNC5807",
     "GhostEmperor",
-    "FamousSparrow",
-    "APT actors"
+    "FamousSparrow"
    ],
    "external_references": [
     {
@@ -4605,6 +4574,16 @@
      "source_name": "AIVD",
      "description": "Nederlandse providers doelwit van Salt Typhoon",
      "url": "https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon"
+    },
+    {
+     "source_name": "CrowdStrike",
+     "description": "OPERATOR PANDA adversary page",
+     "url": "https://www.crowdstrike.com/adversaries/operator-panda/"
+    },
+    {
+     "source_name": "ESET",
+     "description": "You will always remember this as the day you finally caught FamousSparrow",
+     "url": "https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/"
     }
    ]
   },
@@ -4628,9 +4607,7 @@
     "APT44",
     "IRIDIUM",
     "Seashell Blizzard",
-    "FROZENBARENTS",
-    "GTsST, Main Center for Special Technologies, military unit 74455",
-    "Olympic Destroyer"
+    "FROZENBARENTS"
    ],
    "external_references": [
     {
@@ -4815,11 +4792,8 @@
    "name": "ShinyHunters",
    "description": "The FBI describes ShinyHunters as a cyber criminal group that specializes in large-scale data breaches and extortion, and Europol describes a coalition of it with Scattered Spider and LAPSUS$ called Scattered LAPSUS$ Hunters (SLSH). The US Department of Justice prosecuted a member in 2023 and 2024, and the Dutch National Police arrested a suspect in September 2026.",
    "aliases": [
-    "ShinyCorp",
     "UNC6240",
-    "Bling Libra",
-    "The Community (The Com)",
-    "Scattered Lapsus Hunters, Scattered Lapsus Shiny Hunters, SLSH"
+    "Bling Libra"
    ],
    "external_references": [
     {
@@ -4933,7 +4907,8 @@
     "Rattlesnake",
     "Razor Tiger",
     "APT-C-17",
-    "Hardcore Nationalist (HN2)"
+    "Hardcore Nationalist",
+    "HN2"
    ],
    "external_references": [
     {
@@ -5133,7 +5108,6 @@
     "COLDRIVER",
     "TAG-53",
     "BlueCharlie",
-    "Cold River",
     "Gossamer Bear",
     "ReUse Team",
     "Dancing Salome"
@@ -5244,12 +5218,7 @@
     "Hive0065",
     "Spandex Tempest",
     "CHIMBORAZO",
-    "GRACEFUL SPIDER",
-    "Lace Tempest",
-    "DEV-0950",
-    "FIN11",
     "GOLD TAHOE",
-    "GOLD EVERGREEN",
     "ATK103"
    ],
    "external_references": [
@@ -5269,7 +5238,7 @@
     },
     {
      "source_name": "CISA and FBI",
-     "description": "#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability (AA23-158A)",
+     "description": "CISA alert: #StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability (AA23-158A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a"
     },
     {
@@ -5386,6 +5355,26 @@
      "source_name": "MITRE ATT&CK",
      "description": "Ingress Tool Transfer, T1105",
      "url": "https://attack.mitre.org/techniques/T1105/"
+    },
+    {
+     "source_name": "Sophos",
+     "description": "GOLD TAHOE threat profile",
+     "url": "https://www.sophos.com/en-us/threat-profiles/gold-tahoe"
+    },
+    {
+     "source_name": "Microsoft",
+     "description": "How Microsoft names threat actors",
+     "url": "https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming"
+    },
+    {
+     "source_name": "Mandiant",
+     "description": "FIN11: Widespread Email Campaigns as Precursor for Ransomware and Data Theft",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/fin11-email-campaigns-precursor-for-ransomware-data-theft"
+    },
+    {
+     "source_name": "Thales",
+     "description": "ATK103",
+     "url": "https://web.archive.org/web/20260309122247/https://cds.thalesgroup.com/en/node/643"
     }
    ]
   },
@@ -5520,10 +5509,8 @@
     "Waterbug",
     "Venomous Bear",
     "Snake",
-    "Uroburos",
     "Secret Blizzard",
     "Krypton",
-    "WhiteBear",
     "IRON HUNTER",
     "Group 88",
     "BELUGASTURGEON"
@@ -5619,9 +5606,6 @@
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "UNC3886",
    "description": "Singapore's cyber agency (CSA) calls UNC3886 a state-sponsored group without naming a state, and MITRE ATT&CK describes it as China-nexus, in entries dated 2025 and 2026. The group is reported to break into firewalls, routers and virtualization hosts for espionage, and CSA says it targeted all four major Singapore telecom operators.",
-   "aliases": [
-    "UNC prefix"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -5900,7 +5884,6 @@
    "description": "Wizard Spider is a Russia-based criminal group behind the Trickbot malware, attributed by the US Department of Justice and Treasury, the UK government and Germany's BKA. Its work is stealing money and data and installing ransomware such as Ryuk and Conti. In 2023 the US charged nine members and the US and UK sanctioned 18 people.",
    "aliases": [
     "Trickbot group",
-    "Trickman",
     "UNC1878",
     "GOLD BLACKBURN",
     "Grim Spider",
@@ -5910,8 +5893,7 @@
     "Periwinkle Tempest",
     "DEV-0193",
     "Pistachio Tempest",
-    "DEV-0237",
-    "Conti"
+    "DEV-0237"
    ],
    "external_references": [
     {
@@ -6054,14 +6036,13 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--97875595-1d74-5312-bbb1-6b8eb38d346a",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "8Base",
    "description": "8Base is the name of a ransomware affiliate group that used the Phobos ransomware. In February 2025 the US Justice Department said it had charged two Russian nationals who allegedly ran it, and that it had hit more than 1,000 public and private entities and received over 16 million US dollars in ransom payments. The department also said Europol and German authorities announced an operation against the network's servers.",
    "aliases": [
-    "Affiliate 2803",
-    "Phobos affiliate group"
+    "Affiliate 2803"
    ],
    "external_references": [
     {
@@ -6084,17 +6065,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--f1457be5-e68d-5459-91f5-f80ad94e9baa",
-   "created": "2026-10-10T00:00:00.000Z",
-   "modified": "2026-10-10T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Akira",
    "description": "Akira is a ransomware group active since March 2023. A joint advisory (AA24-109A, first published April 18, 2024, revised 13 November 2025) from the FBI, CISA, Europol and agencies in France, Germany and the Netherlands says it has hit businesses and critical infrastructure in North America, Europe and Australia. As of late September 2025 it had claimed about 244.17 million US dollars in proceeds, per the advisory.",
-   "aliases": [
-    "Storm-1567",
-    "Howling Scorpius",
-    "Punk Spider",
-    "Gold Sahara"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6109,6 +6084,11 @@
      "source_name": "MITRE ATT&CK",
      "description": "Akira, Software S1129",
      "url": "https://attack.mitre.org/software/S1129/"
+    },
+    {
+     "source_name": "MITRE ATT&CK",
+     "description": "Akira, Group G1024",
+     "url": "https://attack.mitre.org/groups/G1024/"
     }
    ]
   },
@@ -6147,14 +6127,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--d70b06d9-61e5-5803-a28f-975189c6fd0b",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "BianLian",
    "description": "BianLian is a ransomware and data extortion group that the FBI, CISA and Australia's ACSC say is likely based in Russia. It has hit US and Australian organizations since June 2022 and, by about January 2024, had dropped encryption for pure data theft.",
-   "aliases": [
-    "BianLian group"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6191,14 +6168,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--d587fc33-87a5-527b-8ef2-b4124c0178bc",
-   "created": "2026-10-10T00:00:00.000Z",
-   "modified": "2026-10-10T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Black Basta",
    "description": "Black Basta is a ransomware as a service operation, first identified in April 2022. The FBI, CISA, HHS and MS-ISAC reported in a joint advisory (AA24-131A, first published May 10, 2024) that its affiliates had hit over 500 organizations worldwide by May 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates, who carry out the attacks.",
-   "aliases": [
-    "Basta"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6230,15 +6204,13 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--081cd66a-01c5-57d5-9d5e-841209efe44b",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Cl0p",
    "description": "Cl0p is a ransomware operation first seen in February 2019 and, per a joint FBI and CISA advisory (AA23-158A, June 2023), also known as TA505. It is best known for stealing data from many organizations at once by exploiting flaws in file transfer software, including Accellion, GoAnywhere and MOVEit.",
    "aliases": [
-    "CL0P",
-    "Clop",
-    "TA505"
+    "Clop"
    ],
    "external_references": [
     {
@@ -6286,14 +6258,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--9c62b255-f296-5b2a-83f7-deeaa5ed1494",
-   "created": "2026-10-10T00:00:00.000Z",
-   "modified": "2026-10-10T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Conti",
    "description": "Conti was a ransomware as a service operation first observed in December 2019, per MITRE ATT&CK. A joint advisory (AA21-265A) from CISA, the FBI and the NSA, first published September 22, 2021, says it hit U.S. and international organizations in more than 400 attacks at first and above 1,000 by March 2022. The U.S. Department of Justice says the conspiracy ran until about June 2022.",
-   "aliases": [
-    "Wizard Spider (per Rewards for Justice and the UK government)"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6350,15 +6319,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--be329253-7c81-5e5e-be33-50551a0bf313",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "DarkSide",
    "description": "DarkSide was a ransomware as a service group that CISA and the FBI named in advisory AA21-131A, first published May 11, 2021, after an attack on a U.S. pipeline company's IT network. A later advisory (AA21-291A, October 18, 2021) says it was active from September 2020 through May 2021 and that BlackMatter is a possible rebrand.",
-   "aliases": [
-    "Darkside",
-    "BlackMatter (possible rebrand)"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6457,15 +6422,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--947fbefc-ba81-5d64-9b8c-320001c447cb",
-   "created": "2026-10-10T00:00:00.000Z",
-   "modified": "2026-10-10T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Everest",
    "description": "Everest is a financially motivated ransomware and data extortion group. The US Department of Health and Human Services (HHS) says it has been active since 2020, steals and threatens to publish data, runs ransomware, and also acts as an initial access broker, meaning it sells entry into company networks to other criminals.",
-   "aliases": [
-    "Everest ransomware group",
-    "EverBe 2.0 (earlier family, per HHS HC3)"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6549,14 +6510,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--80aedd8a-aae0-5af3-8501-4ae61e1d9108",
-   "created": "2026-10-18T00:00:00.000Z",
-   "modified": "2026-10-18T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "KillSec",
    "description": "KillSec is a ransomware and data extortion group that Europol says has been active since around 2024. On 30 September 2026 law enforcement took control of its leak site, securing at least 110 terabytes of data, in an operation led by German authorities.",
-   "aliases": [
-    "KillSec ransomware"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6578,16 +6536,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--2f25aa8c-e7ff-5a12-be9f-95b911b7b6c6",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "LockBit",
    "description": "LockBit is a ransomware as a service operation first seen in January 2020. A joint advisory (AA23-165A, June 14, 2023) calls it the most deployed ransomware variant in the world in 2022. The UK National Crime Agency took control of its services in February 2024 and, in May 2024, assessed the group as running at limited capacity.",
-   "aliases": [
-    "LockBit 2.0 (LockBit Red)",
-    "LockBit 3.0 (LockBit Black)",
-    "LockBit Green"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6624,15 +6577,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--4671cbb2-f5e7-556f-b56f-02e37b126d22",
-   "created": "2026-10-10T00:00:00.000Z",
-   "modified": "2026-10-10T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Lynx",
    "description": "Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 16 August 2025 as one of at least eight groups using a tool that switches off endpoint security software. Official material on Lynx is thin: we found no CISA or FBI advisory and no MITRE ATT&CK entry for it.",
-   "aliases": [
-    "Lynx ransomware",
-    "Lynx Group"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6659,15 +6608,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--60d4bd00-4cc8-5fef-be0e-bd1472113581",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Medusa",
    "description": "Medusa is a ransomware-as-a-service operation first identified in June 2021, according to the FBI, CISA and HHS. As of April 2026 they count over 500 victims, with healthcare a frequent target. It steals data and encrypts files, then threatens to publish the data.",
-   "aliases": [
-    "Medusa ransomware",
-    "Medusa Group"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6728,14 +6673,13 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--9ca4170f-f7b4-583f-8aea-1afd29683711",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Qilin",
    "description": "Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE ATT&CK says has been active since at least 2022. It has Go and Rust versions that target Windows, Linux and VMware ESXi. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
    "aliases": [
-    "Agenda",
-    "Water Galura (operators)"
+    "Agenda"
    ],
    "external_references": [
     {
@@ -6773,15 +6717,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--4c5176ea-d018-5d6a-96f6-24aeead32c36",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "RansomHub",
    "description": "RansomHub is a ransomware as a service operation, formerly known as Cyclops and Knight, according to a joint advisory (AA24-242A) from the FBI, CISA, MS-ISAC and HHS released on August 29, 2024. The advisory says it had encrypted and stolen data from at least 210 victims since its start in February 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates.",
-   "aliases": [
-    "Cyclops",
-    "Knight"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6863,14 +6803,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--e8416487-9f0a-509a-83b4-bc0377193b1c",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Rhysida",
    "description": "Rhysida is a ransomware operation that CISA, the FBI and the MS-ISAC say has mainly been deployed against education, healthcare, manufacturing, IT and government organizations since May 2023. Open source reporting describes it as a ransomware-as-a-service model where any ransom is split with associates. Rhysida uses double extortion: victims pay to decrypt files and pay again to stop stolen data being published.",
-   "aliases": [
-    "Rhysida ransomware"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -6902,14 +6839,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--1693a1b7-b136-5077-959d-1abbc65a22b7",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Royal",
    "description": "Royal is a ransomware group that, according to a joint FBI and CISA advisory (AA23-061A, first published March 2, 2023), rebranded as BlackSuit. The advisory says BlackSuit is the evolution of Royal and shares numerous coding similarities with it. In August 2025 the US Justice Department announced the takedown of BlackSuit (Royal) servers and domains.",
-   "aliases": [
-    "BlackSuit"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -7023,14 +6957,11 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--e0b9daf5-5ebe-5959-906b-7eac90b1726b",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Warlock",
    "description": "Warlock is a ransomware family that Microsoft says a China-based actor it tracks as Storm-2603 deployed in July 2025 after exploiting on-premises SharePoint servers. CISA's alert on the same flaws says actors were seen encrypting files and distributing Warlock on compromised systems.",
-   "aliases": [
-    "Storm-2603"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -7132,17 +7063,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--11c9dab7-9cde-5781-b809-55869e8c581a",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Akira",
    "description": "Akira is ransomware that locks files on a victim network and is used to demand payment. CISA and its partners describe an operation that also steals data first and threatens to publish it. Versions exist for Windows and for VMware ESXi virtual machines.",
    "is_family": true,
-   "aliases": [
-    "Megazord",
-    "Akira_v2",
-    "w.exe"
-   ],
    "malware_types": [
     "ransomware"
    ],
@@ -7301,15 +7227,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--087dba1c-23d0-531e-ba52-cd9e75d59213",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Black Basta",
    "description": "Black Basta is ransomware, offered to criminal affiliates as a service, that encrypts files on Windows and VMware ESXi systems and steals data to pressure victims into paying. CISA and its partners say it was first identified in April 2022 and had affected over 500 organizations by May 2024.",
    "is_family": true,
-   "aliases": [
-    "Basta News"
-   ],
    "malware_types": [
     "ransomware"
    ],
@@ -7369,8 +7292,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--574e531f-6d67-5c3c-98ab-4b7a58caa0b1",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "BlackCat",
    "description": "BlackCat is ransomware written in Rust that was offered to criminal affiliates as a ransomware-as-a-service. MITRE says it was first observed in November 2021, and it can encrypt Windows devices, Linux devices and VMware instances. In December 2023 the US Justice Department announced a disruption campaign against the group behind it.",
@@ -7378,8 +7301,7 @@
    "aliases": [
     "ALPHV",
     "Noberus",
-    "ALPHV Blackcat",
-    "ALPHV Blackcat Ransomware 2.0 Sphynx"
+    "ALPHV Blackcat"
    ],
    "malware_types": [
     "ransomware"
@@ -7435,16 +7357,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--9789f371-e618-5388-b9dd-b91d7df75b62",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "BlackEnergy",
    "description": "BlackEnergy is a malware toolkit for Windows. MITRE ATT&CK says it dates back to at least 2007 and was first built to create botnets for DDoS attacks, and that its use grew to support plug-ins. It was found on the networks of Ukrainian power companies in December 2015, though CISA says it could not confirm that BlackEnergy caused the outages.",
    "is_family": true,
    "aliases": [
-    "Black Energy",
-    "BlackEnergy 2",
-    "BlackEnergy 3"
+    "Black Energy"
    ],
    "external_references": [
     {
@@ -7502,18 +7422,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--cf02f387-5235-5515-920a-a39cc71420ee",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "BRICKSTORM backdoor",
    "description": "BRICKSTORM is a backdoor that hides on VMware vCenter servers, ESXi hosts and network appliances. CISA, the NSA and the Canadian Cyber Centre assess that PRC state-sponsored cyber actors use it for long-term persistence on victim systems, mainly in the government services and information technology sectors. Google Threat Intelligence Group attributes the activity to UNC5221 and closely related, suspected China-nexus clusters.",
    "is_family": true,
    "aliases": [
-    "BRICKSTORM",
-    "vami-httpd",
-    "vmsrc, vmware-sphere",
-    "updatemgr",
-    "sqiud"
+    "BRICKSTORM"
    ],
    "external_references": [
     {
@@ -7556,15 +7472,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--eae4de27-dc17-5778-8205-5f74a9538565",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "CaddyWiper",
    "description": "CaddyWiper is destructive malware for Windows that overwrites files and drive structures. CISA says its purpose is to destroy user data so the victim cannot reach it. MITRE says it has been used in attacks on organizations in Ukraine since at least March 2022.",
    "is_family": true,
-   "aliases": [
-    "Caddy Wiper"
-   ],
    "malware_types": [
     "wiper"
    ],
@@ -7614,19 +7527,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--3064c8e7-de49-580e-934f-1586e95884e2",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Candiru spyware",
    "description": "Candiru spyware is surveillance software made by Candiru, an Israeli company that the Citizen Lab says sells spyware only to governments. In October 2026 the Citizen Lab said, with high confidence, that this spyware infected devices at an international news network through targeted online ads that needed no click.",
    "is_family": true,
    "aliases": [
-    "Candiru",
-    "Integrity Labs",
-    "Saito Tech Ltd.",
-    "Taveta Ltd.",
-    "Grindavik Solutions Ltd.",
-    "DF Associates Ltd."
+    "Candiru"
    ],
    "external_references": [
     {
@@ -7716,15 +7624,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--22663bd9-1de7-52fe-9ec2-91f714d17a9e",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "China Chopper",
    "description": "China Chopper is a small web shell that attackers place on a web server to get remote access to it. It has a client the attacker runs and a server part that sits on the victim server. UK and partner agencies describe it as a publicly available tool used by hostile actors to manage files and open a terminal on compromised web servers.",
    "is_family": true,
-   "aliases": [
-    "caidao.exe"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -7830,16 +7735,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--e5fb1799-1442-58b9-a806-e79f8b8e940f",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Cobalt Strike",
    "description": "Cobalt Strike is a commercial remote access tool sold for adversary simulation, which means security teams use it to test their own networks. CISA, the FBI and the NCSC also report attackers using it after a break-in to control machines, move across the network and take data. Its main payload is called Beacon.",
    "is_family": true,
-   "aliases": [
-    "Beacon",
-    "Team Server"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -8022,15 +7923,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--55275f49-9c94-5777-aa1d-0bfeb7087042",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "CROSSROAD downloader",
    "description": "CROSSROAD is the name Google Threat Intelligence Group and Mandiant give to a downloader used in a 2026 tampering of AOMEI Backupper updates. It ran on a computer when the backup program fetched a tampered update, then set up a backdoor that they name SHINYROAD.",
    "is_family": true,
    "aliases": [
-    "CROSSROAD",
-    "upgrade-now"
+    "CROSSROAD"
    ],
    "external_references": [
     {
@@ -8115,8 +8015,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--ec765a94-7c12-5377-a598-587c46c71c85",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Derusbi",
    "description": "Derusbi is malware that MITRE ATT&CK says is used by multiple Chinese APT groups. Both Windows and Linux variants have been observed. MITRE records abilities such as logging keystrokes, capturing screen, audio and video, running a remote shell and deleting files.",
@@ -8257,15 +8157,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--7e3d6e5d-46d0-52e4-a507-21d21d5e50c6",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Evilginx",
    "description": "Evilginx is a free, open source toolkit that sits between a victim and a real website and copies what passes through, including passwords and login session cookies. It was built for security testing, but attackers also use it to take over accounts and get around multifactor authentication that is not phishing resistant. MITRE tracks it as evilginx2.",
    "is_family": true,
    "aliases": [
-    "evilginx2",
-    "EvilGinx"
+    "evilginx2"
    ],
    "external_references": [
     {
@@ -8313,17 +8212,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--a6c635ce-bc2f-5aa9-a71e-9d0ddfd7e6d5",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "FASTCash",
    "description": "FASTCash is the name the US Government gives to an ATM cash-out scheme and the malware behind it. The malware runs on a bank payment switch server, reads card request messages and sends back fake approvals, so cash can leave ATMs in many countries at once.",
    "is_family": true,
-   "aliases": [
-    "FASTCash 2.0",
-    "FASTCash for UNIX",
-    "FASTCash for Windows"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -8360,8 +8254,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--f9da8a2e-8137-5390-9b36-558b5f13ad39",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Gh0st RAT",
    "description": "gh0st RAT is a remote access tool for Windows and macOS. MITRE ATT&CK says its source code is public and that multiple groups have used it. It can open a remote shell, log keystrokes, capture the screen and download more files.",
@@ -8369,8 +8263,7 @@
    "aliases": [
     "gh0st RAT",
     "Mydoor",
-    "Moudoor",
-    "Gh0stRAT"
+    "Moudoor"
    ],
    "external_references": [
     {
@@ -8423,17 +8316,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--1c02716a-0559-51b5-ae1c-08aae5c3acb0",
-   "created": "2026-10-21T00:00:00.000Z",
-   "modified": "2026-10-21T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "HOOKEDGE Backdoor",
    "description": "HOOKEDGE is a lightweight Windows backdoor made of batch scripts, delivered through Word documents that carry a macro. It takes its commands from the webhook.site service and sends the results back to it. Recorded Future's Insikt Group attributes it with moderate confidence to BlueDelta, which overlaps with APT28. Symantec's researchers found it in attacks on organizations in two NATO countries.",
    "is_family": true,
    "aliases": [
-    "HOOKEDGE",
-    "HEADLACE",
-    "Operation MacroMaze",
-    "ld.exe"
+    "HOOKEDGE"
    ],
    "external_references": [
     {
@@ -8718,17 +8608,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--20648eb3-18f8-5fe1-ad1c-521bb790e487",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Kazuar",
    "description": "Kazuar is a backdoor Trojan that runs on Windows and macOS. MITRE ATT&CK describes it as fully featured and written in .NET. MITRE lists the Turla group as a user, and CERT-EU reported in 2024 and 2025 that Turla used versions of it against targets in Ukraine.",
    "is_family": true,
-   "aliases": [
-    "Kazuar v2",
-    "KazuarV2",
-    "Kazuar v3"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -8790,14 +8675,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--fefaaaf5-0343-54e6-8e7c-6c530a9a87fc",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "KV botnet",
    "description": "KV Botnet is malware that took over small office and home office routers and linked them into a botnet. The US Department of Justice says Chinese state-sponsored hackers used it to hide where their attacks on critical infrastructure came from. A court-authorized operation disrupted it in December 2023, and the US announced this on 31 January 2024.",
    "is_family": true,
    "aliases": [
-    "KV Botnet Activity"
+    "KV Botnet"
    ],
    "external_references": [
     {
@@ -8845,8 +8730,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--dac874b5-598b-5900-8a1f-1e4547a50bd8",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "LAPLAS implant",
    "description": "LAPLAS is a Windows implant used by the group Silent Lynx. Cisco Talos calls it a lightweight reverse shell. Seqrite describes a C++ implant with TCP and TLS versions that talks to the operators' servers.",
@@ -8960,16 +8845,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--967488e1-fa8d-58c2-8994-f9499b2b4db7",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Mini Shai-Hulud",
    "description": "Mini Shai-Hulud is a credential stealer and self-replicating worm that spreads through software packages and build pipelines. MITRE says it derives from Shai-Hulud and that the group TeamPCP has used it against CI/CD workflows. It steals cloud, container and developer credentials and uses stolen publishing tokens to push itself into more packages.",
    "is_family": true,
-   "aliases": [
-    "Shai-Hulud",
-    "Miasma"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -9073,8 +8954,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--32e2252b-2423-537f-afac-3379d1f6df8a",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "NotPetya",
    "description": "NotPetya is destructive malware that looks like ransomware. MITRE says the attackers never intended the encrypted data to be recoverable, so it is better thought of as a wiper. It spread across networks from 27 June 2017 and has been attributed by the UK, the US and others to the Russian military.",
@@ -9200,15 +9081,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--0703517d-7bcd-5f24-8a50-2fb691a943a5",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "PEERSTITCH malware",
    "description": "PEERSTITCH is a small Linux program that Palo Alto Networks Unit 42 found on Fortinet FortiGate firewalls. It injects code into two running system processes and leaves no file on disk. Unit 42 ties it to an intrusion that began with a FortiManager flaw.",
    "is_family": true,
    "aliases": [
-    "PEERSTITCH",
-    "lldprx"
+    "PEERSTITCH"
    ],
    "external_references": [
     {
@@ -9256,11 +9136,11 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--74c65ada-8bf6-5379-b849-6e1ffeab5760",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "PickleShell reverse shell",
-   "description": "PickleShell is a lightweight reverse shell on Windows. It lets an operator type commands on an infected PC from afar. Cisco Talos found it in campaigns against government bodies in Central Asia and nearby countries, which it attributes to the group UAT-6275, also called Silent Lynx.",
+   "description": "PickleShell is a lightweight reverse shell on Windows. It lets an operator type commands on an infected PC from afar. Cisco Talos found it in campaigns against government bodies in Central Asia and nearby countries, which it attributes to the cluster UAT-6275. Talos says this cluster overlaps with Silent Lynx (first reported by Seqrite).",
    "is_family": true,
    "aliases": [
     "PickleShell"
@@ -9306,8 +9186,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--d3b89491-5c90-5fa5-8226-a7aea4a4e359",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "PlugX",
    "description": "PlugX is a remote access tool for Windows, built from plugins. It lets an operator run commands, capture screens and keystrokes, and move files on an infected computer. MITRE lists many threat groups that have used it, and the FBI has observed it since at least 2012.",
@@ -9318,8 +9198,7 @@
     "DestroyRAT",
     "Sogu",
     "Kaba",
-    "Korplug",
-    "PLUGX/SOGU"
+    "Korplug"
    ],
    "external_references": [
     {
@@ -9419,16 +9298,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--53ab6406-f5c3-588f-8edd-de6443aef423",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "RedLine Stealer",
    "description": "RedLine Stealer is information-stealing malware that MITRE says was first identified in 2020. It takes saved browser passwords, cookies, card details and cryptocurrency wallet data from infected Windows computers. It was sold to criminals as a service, and in October 2024 an international police operation took down its servers.",
    "is_family": true,
    "aliases": [
-    "RedLine",
-    "META",
-    "Operation Magnus"
+    "RedLine"
    ],
    "external_references": [
     {
@@ -9582,16 +9459,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--00c043e3-eef0-5810-871f-0a0e17b475bd",
-   "created": "2026-10-21T00:00:00.000Z",
-   "modified": "2026-10-21T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "ROMULUS ClickFix Delivery Platform: LegionLoader and Other Payloads",
    "description": "ROMULUS is a ClickFix delivery platform that Forescout's Vedere Labs described on 15 October 2026. One backend serves several payloads, including LegionLoader and a DLL side-loading chain that Huntress had reported. Siemens names a Romulus ClickFix campaign in its warning about CVE-2026-110936.",
    "is_family": true,
    "aliases": [
-    "ROMULUS",
-    "Romulus multi-platform ClickFix campaign",
-    "LegionLoader (CurlyGate, RobotDropper, Satacom)"
+    "ROMULUS"
    ],
    "external_references": [
     {
@@ -9639,15 +9514,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--740982e1-5985-55ea-b903-706739fb168d",
-   "created": "2026-10-19T00:00:00.000Z",
-   "modified": "2026-10-19T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "SAWFLY web shell",
    "description": "SAWFLY is a small PHP web shell that Google Threat Intelligence Group says a suspected China-nexus espionage group used on BeyondTrust Remote Support appliances in 2026. It hides its commands in encrypted traffic and stays silent when a request lacks the right parameter.",
    "is_family": true,
    "aliases": [
-    "SAWFLY",
-    "mangoapi.php"
+    "SAWFLY"
    ],
    "external_references": [
     {
@@ -9695,17 +9569,14 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--e1e77eed-f172-525c-b41c-8510bf263913",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "ShadowPad",
    "description": "ShadowPad is a modular backdoor for Windows. MITRE ATT&CK says it was first identified in a supply chain compromise of NetSarang software in mid-July 2017. MITRE also says it has since been seen in use by various Chinese threat activity groups.",
    "is_family": true,
    "aliases": [
-    "POISONPLUG.SHADOW",
-    "PoisonPlug",
-    "Barlaiy",
-    "Poison Plug"
+    "POISONPLUG.SHADOW"
    ],
    "external_references": [
     {
@@ -9763,15 +9634,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--70e36525-1903-5972-aee8-189615f68319",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Shai-Hulud",
    "description": "Shai-Hulud is a self-replicating worm that spreads through npm packages and code repositories. It steals credentials and access tokens from developer and build accounts, then uses them to publish infected package versions. CISA reported over 500 npm packages compromised in September 2025.",
    "is_family": true,
-   "aliases": [
-    "Shai-Hulud 2.0"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -10081,15 +9949,12 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--db572fe5-5640-50e2-8981-ceaeff351aba",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "TruffleHog",
    "description": "TruffleHog is a legitimate open source tool that searches for leaked passwords, API keys and other secrets in code, logs, chats and cloud storage. It is not malware. MITRE lists it as software because attackers can run it to find credentials, and CERT-EU reports that an actor launched it during the European Commission cloud breach in March 2026.",
    "is_family": true,
-   "aliases": [
-    "Trufflehog"
-   ],
    "external_references": [
     {
      "source_name": "brandefense",
@@ -10116,20 +9981,15 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--a2c30aaf-c0b6-5d5c-beb3-c13db19a4f1f",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Ulej",
    "description": "Ulej (Russian for beehive) is a custom data theft capability that the joint advisory AA26-204A describes as used by the Russian state-supported group LAUNDRY BEAR against Zimbra Collaboration Suite webmail. When a user views a malicious email in a vulnerable version, it attempts to send the last 90 days of email, the address directory and account secrets to servers running a collection framework called Flowerbed.",
    "is_family": true,
    "aliases": [
     "Улей",
-    "Beehive",
-    "Flowerbed",
-    "Catcher",
-    "Certbot",
-    "Nginx",
-    "Gardener"
+    "beehive"
    ],
    "external_references": [
     {
@@ -10234,8 +10094,8 @@
    "type": "malware",
    "spec_version": "2.1",
    "id": "malware--ab1157b7-6023-5397-9bdf-17d1af8e0a44",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "WannaCry",
    "description": "WannaCry is ransomware that spreads on its own across a network like a worm and encrypts the files it finds. MITRE says it was first seen in a global attack in May 2017 that affected more than 150 countries. The US and UK governments have attributed that attack to North Korean actors.",
@@ -10246,9 +10106,7 @@
     "WanaCrypt0r",
     "WCry",
     "WannaCrypt",
-    "Wanna Decryptor",
-    ".wnCry",
-    "WannaCry 2.0"
+    "Wanna Decryptor"
    ],
    "malware_types": [
     "ransomware"

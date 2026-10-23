@@ -4,7 +4,6 @@ Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 
 
 | Field | Value |
 |---|---|
-| Also known as | Lynx ransomware, Lynx Group |
 | Status | active |
 | Model | Not stated in official sources |
 
@@ -18,4 +17,4 @@ Lynx is a ransomware group that the Cyber Security Agency of Singapore named on 
 
 Timeline, attribution notes, defences and FAQ: **[Lynx on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/lynx/)**
 
-_Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

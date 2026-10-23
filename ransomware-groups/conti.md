@@ -4,7 +4,6 @@ Conti was a ransomware as a service operation first observed in December 2019, p
 
 | Field | Value |
 |---|---|
-| Also known as | Wizard Spider (per Rewards for Justice and the UK government) |
 | Status | inactive |
 | First seen | 2019 |
 | Model | Ransomware as a service, with a wage model per CISA |
@@ -32,4 +31,4 @@ Conti was a ransomware as a service operation first observed in December 2019, p
 
 Timeline, attribution notes, defences and FAQ: **[Conti on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/conti/)**
 
-_Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

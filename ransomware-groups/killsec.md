@@ -4,7 +4,6 @@ KillSec is a ransomware and data extortion group that Europol says has been acti
 
 | Field | Value |
 |---|---|
-| Also known as | KillSec ransomware |
 | Status | disrupted |
 | First seen | 2024 |
 | Model | Data theft and extortion by a group whose suspected members held administrator, developer, negotiator and affiliate roles (attributed by Europol) |
@@ -18,4 +17,4 @@ KillSec is a ransomware and data extortion group that Europol says has been acti
 
 Timeline, attribution notes, defences and FAQ: **[KillSec on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/killsec/)**
 
-_Last updated 2026-10-18. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

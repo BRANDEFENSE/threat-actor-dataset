@@ -4,7 +4,7 @@ Attributed by MITRE ATT&CK to Russia's FSB, Turla has run espionage against gove
 
 | Field | Value |
 |---|---|
-| Also known as | Waterbug, Venomous Bear, Snake, Uroburos, Secret Blizzard, Krypton, WhiteBear, IRON HUNTER, Group 88, BELUGASTURGEON |
+| Also known as | Waterbug, Venomous Bear, Snake, Secret Blizzard, Krypton, IRON HUNTER, Group 88, BELUGASTURGEON |
 | Status | active |
 | Motivation | espionage |
 | Suspected origin | Russia |

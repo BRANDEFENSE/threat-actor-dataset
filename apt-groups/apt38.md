@@ -4,7 +4,7 @@ APT38 is a North Korean state-sponsored group focused on financial theft, attrib
 
 | Field | Value |
 |---|---|
-| Also known as | BeagleBoyz, Bluenoroff, Stardust Chollima, NICKEL GLADSTONE, Sapphire Sleet, COPERNICIUM, APT 38, Lazarus Group |
+| Also known as | Bluenoroff, Stardust Chollima, NICKEL GLADSTONE, Sapphire Sleet, COPERNICIUM |
 | Status | active |
 | Motivation | a:1:{i:0;s:9:"financial";} |
 | Suspected origin | North Korea |

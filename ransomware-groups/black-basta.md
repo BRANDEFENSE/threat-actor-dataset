@@ -4,7 +4,6 @@ Black Basta is a ransomware as a service operation, first identified in April 20
 
 | Field | Value |
 |---|---|
-| Also known as | Basta |
 | First seen | 2022 |
 | Model | Ransomware as a service |
 | Targets | Healthcare, Critical infrastructure, 12 of 16 US sectors, Businesses in North America, Europe and Australia |
@@ -26,4 +25,4 @@ Black Basta is a ransomware as a service operation, first identified in April 20
 
 Timeline, attribution notes, defences and FAQ: **[Black Basta on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/)**
 
-_Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

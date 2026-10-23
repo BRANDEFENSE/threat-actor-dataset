@@ -4,7 +4,7 @@ The US Treasury, FBI and Department of Justice attributed APT39, also called Cha
 
 | Field | Value |
 |---|---|
-| Also known as | Advanced Persistent Threat 39, Chafer, ITG07, Remix Kitten, Cadelspy, Remexi, Rana Intelligence Computing Company |
+| Also known as | Advanced Persistent Threat 39, Chafer, ITG07, Remix Kitten |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:10:"espionage";} |
 | Suspected origin | Iran |

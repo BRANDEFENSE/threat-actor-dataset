@@ -4,7 +4,6 @@ BianLian is a ransomware and data extortion group that the FBI, CISA and Austral
 
 | Field | Value |
 |---|---|
-| Also known as | BianLian group |
 | Status | active |
 | First seen | 2022 |
 | Model | Developer and deployer group with Russia-based affiliates |
@@ -26,4 +25,4 @@ BianLian is a ransomware and data extortion group that the FBI, CISA and Austral
 
 Timeline, attribution notes, defences and FAQ: **[BianLian on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/bianlian/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

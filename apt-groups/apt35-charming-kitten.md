@@ -4,7 +4,7 @@ MITRE ATT&CK describes APT35, also called Charming Kitten or Magic Hound, as an 
 
 | Field | Value |
 |---|---|
-| Also known as | Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, Mint Sandstorm, APT42, Yellow Garuda, Nemesis Kitten, Tunnel Vision, Educated Manticore, CharmingCypress |
+| Also known as | Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Mint Sandstorm, Yellow Garuda |
 | Status | active |
 | Suspected origin | Iran |
 | Attributed by | MITRE ATT&CK, the UK NCSC, Germany's BfV and the Canadian Cyber Centre |
@@ -66,6 +66,7 @@ MITRE ATT&CK describes APT35, also called Charming Kitten or Magic Hound, as an 
 - [OS Credential Dumping: LSASS Memory (T1003.001)](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
 - [Remote Services: Remote Desktop Protocol (T1021.001)](https://attack.mitre.org/techniques/T1021/001/), MITRE ATT&CK
 - [Email Collection: Remote Email Collection (T1114.002)](https://attack.mitre.org/techniques/T1114/002/), MITRE ATT&CK
+- [Magic Hound and APT42](https://attack.mitre.org/groups/G1044/), MITRE ATT&CK, APT42 group page G1044
 
 ## Full profile
 

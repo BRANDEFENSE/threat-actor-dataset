@@ -32,8 +32,8 @@
           "source": "AA24-207A (not on the MITRE Associated Groups list)"
         },
         {
-          "name": "Stonefly/Clasiopa",
-          "source": "AA24-207A (not on the MITRE Associated Groups list)"
+          "name": "Stonefly",
+          "source": "Symantec name: Symantec writes \"Stonefly group (aka Andariel, APT45, Silent Chollima, Onyx Sleet)\"; AA24-207A writes \"Stonefly/Clasiopa\" without naming a vendor"
         }
       ],
       "summary": "Attributed by the US, UK and South Korean governments to North Korea's Reconnaissance General Bureau, Andariel is described in a July 2024 joint advisory as stealing defense, aerospace and nuclear secrets and funding that work with ransomware against US healthcare. MITRE ATT&CK describes it as a sub-set of Lazarus Group; the advisory does not use that term.",
@@ -217,6 +217,16 @@
           "title": "StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities (AA23-040A)",
           "publisher": "NSA, FBI, CISA, HHS, South Korea NIS and DSA",
           "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a"
+        },
+        {
+          "title": "Stonefly: Extortion Attacks Continue Against U.S. Targets",
+          "publisher": "Symantec",
+          "url": "https://www.security.com/threat-intelligence/stonefly-north-korea-extortion"
+        },
+        {
+          "title": "Clasiopa: New Group Targets Materials Research",
+          "publisher": "Symantec",
+          "url": "https://www.security.com/threat-intelligence/clasiopa-materials-research"
         }
       ]
     },
@@ -409,10 +419,6 @@
         {
           "name": "Comment Panda",
           "source": "MITRE ATT&CK G0006 (Associated Groups)"
-        },
-        {
-          "name": "Unit 61398 (PLA General Staff Department 3rd Department, 2nd Bureau)",
-          "source": "MITRE ATT&CK G0006 and US indictment of 19 May 2014"
         }
       ],
       "summary": "Attributed by MITRE ATT&CK to PLA Unit 61398 in China, APT1 is the subject of a US indictment of 19 May 2014 charging five Unit 61398 officers with hacking six US organizations. The Department of Justice alleges the aim was commercial gain for China's state-owned firms.",
@@ -1066,7 +1072,7 @@
         },
         {
           "name": "Silk Typhoon",
-          "source": "US Department of Justice press release of 5 March 2025 (not on the MITRE list)"
+          "source": "US Department of Justice press release of 5 March 2025 (not on the MITRE list for APT27). MITRE lists Silk Typhoon under HAFNIUM (G0125); see the HAFNIUM profile"
         },
         {
           "name": "UTA0178",
@@ -1074,10 +1080,18 @@
         },
         {
           "name": "UNC 5221",
-          "source": "US Department of Justice press release of 5 March 2025 (not on the MITRE list)"
+          "source": "US Department of Justice press release of 5 March 2025 (not on the MITRE list); see the ARMORY CASTLE profile, which uses the name UNC5221"
         },
         {
-          "name": "ZipToken, Group 35, TEMP.Hippo",
+          "name": "ZipToken",
+          "source": "CERT-EU and ENISA publication JP-23-01 of 15 February 2023 (not on the MITRE list)"
+        },
+        {
+          "name": "Group 35",
+          "source": "CERT-EU and ENISA publication JP-23-01 of 15 February 2023 (not on the MITRE list)"
+        },
+        {
+          "name": "TEMP.Hippo",
           "source": "CERT-EU and ENISA publication JP-23-01 of 15 February 2023 (not on the MITRE list)"
         }
       ],
@@ -1274,6 +1288,16 @@
           "title": "Cyber Brief 24-07 June 2024",
           "publisher": "CERT-EU",
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-07/"
+        },
+        {
+          "title": "HAFNIUM, Group G0125",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/G0125/"
+        },
+        {
+          "title": "ARMORY CASTLE Exploits BeyondTrust",
+          "publisher": "Google Threat Intelligence Group",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust"
         }
       ]
     },
@@ -1285,7 +1309,7 @@
       "aliases": [
         {
           "name": "Fancy Bear",
-          "source": "MITRE ATT&CK; UK 2018 statement; EU Council decision 2020/1537"
+          "source": "MITRE ATT&CK; UK 2018 statement (a list of names for the GRU as a whole); EU Council decision 2020/1537"
         },
         {
           "name": "Forest Blizzard",
@@ -1309,10 +1333,14 @@
         },
         {
           "name": "Tsar Team",
-          "source": "MITRE ATT&CK; UK 2018 statement"
+          "source": "MITRE ATT&CK; UK 2018 statement (a list of names for the GRU as a whole)"
         },
         {
-          "name": "Threat Group-4127 (TG-4127)",
+          "name": "Threat Group-4127",
+          "source": "MITRE ATT&CK"
+        },
+        {
+          "name": "TG-4127",
           "source": "MITRE ATT&CK"
         },
         {
@@ -1338,10 +1366,6 @@
         {
           "name": "FROZENLAKE",
           "source": "MITRE ATT&CK; CERT-FR report (also lists UAC-0028)"
-        },
-        {
-          "name": "BlueDelta",
-          "source": "Recorded Future (name for the HOOKEDGE activity; assessed with moderate confidence to overlap with APT28)"
         }
       ],
       "summary": "The US, UK, EU and other governments attribute APT28 to Russia's military intelligence service, the GRU, specifically its 85th Main Special Service Center (military unit 26165). MITRE says the group has been active since at least 2004, and government advisories describe espionage against governments, militaries, political parties, media and logistics firms.",
@@ -2690,7 +2714,7 @@
         },
         {
           "name": "TA453",
-          "source": "MITRE ATT&CK Associated Groups; UK NCSC"
+          "source": "MITRE ATT&CK Associated Groups; UK NCSC, which writes \"TA453 (APT42/Charming Kitten/Yellow Garuda/ITG18)\"; also on the APT42 profile"
         },
         {
           "name": "COBALT ILLUSION",
@@ -2698,39 +2722,23 @@
         },
         {
           "name": "Charming Kitten",
-          "source": "MITRE ATT&CK Associated Groups; UK NCSC; US Treasury 2022; Canadian Cyber Centre; BfV"
+          "source": "MITRE ATT&CK Associated Groups; UK NCSC; Canadian Cyber Centre; BfV"
         },
         {
           "name": "ITG18",
-          "source": "MITRE ATT&CK Associated Groups; UK NCSC"
+          "source": "MITRE ATT&CK Associated Groups; UK NCSC; also on the APT42 profile"
         },
         {
           "name": "Phosphorus",
-          "source": "MITRE ATT&CK Associated Groups; US Treasury 2022; BfV"
-        },
-        {
-          "name": "Newscaster",
-          "source": "MITRE ATT&CK Associated Groups (potential relationship with an older campaign); CERT-EU memo 2019"
+          "source": "MITRE ATT&CK Associated Groups; BfV"
         },
         {
           "name": "Mint Sandstorm",
-          "source": "MITRE ATT&CK Associated Groups; BfV; Israel National Digital Agency"
-        },
-        {
-          "name": "APT42",
-          "source": "Not on the MITRE list. UK NCSC, BfV, CERT-EU brief 24-03 and the Israeli agency list it beside the names above"
+          "source": "MITRE ATT&CK Associated Groups; BfV; Israel National Digital Agency (lists it with APT42); also on the APT42 profile"
         },
         {
           "name": "Yellow Garuda",
-          "source": "UK NCSC and BfV, not on the MITRE list"
-        },
-        {
-          "name": "Nemesis Kitten, Tunnel Vision",
-          "source": "US Treasury 2022 lists them with APT 35 as sets that some of the sanctioned activity can partly be attributed to"
-        },
-        {
-          "name": "Educated Manticore, CharmingCypress",
-          "source": "Israel National Digital Agency, listed with APT42 and Mint Sandstorm"
+          "source": "UK NCSC and BfV, not on the MITRE list; also on the APT42 profile"
         }
       ],
       "summary": "MITRE ATT&CK describes APT35, also called Charming Kitten or Magic Hound, as an Iranian-sponsored espionage group likely working for the IRGC, and the UK NCSC and Germany's BfV describe its spear-phishing of academics, journalists, NGOs and critics of Iran. Start with multi-factor authentication on email and checking unexpected contact through another channel.",
@@ -2971,6 +2979,11 @@
           "title": "Email Collection: Remote Email Collection (T1114.002)",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/techniques/T1114/002/"
+        },
+        {
+          "title": "Magic Hound and APT42",
+          "publisher": "MITRE ATT&CK, APT42 group page G1044",
+          "url": "https://attack.mitre.org/groups/G1044/"
         }
       ]
     },
@@ -3416,10 +3429,6 @@
       "last_updated": "2026-10-08",
       "aliases": [
         {
-          "name": "BeagleBoyz",
-          "source": "MITRE ATT&CK Associated Groups; the US Government name used in the 2020 FASTCash 2.0 advisory"
-        },
-        {
           "name": "Bluenoroff",
           "source": "MITRE ATT&CK Associated Groups; US Treasury release of 13 September 2019; US sanctions list entry"
         },
@@ -3438,14 +3447,6 @@
         {
           "name": "COPERNICIUM",
           "source": "MITRE ATT&CK Associated Groups"
-        },
-        {
-          "name": "APT 38",
-          "source": "Alias, written with a space, on the US sanctions list entry for BLUENOROFF"
-        },
-        {
-          "name": "Lazarus Group",
-          "source": "Not on MITRE's APT38 alias list. Named in the 2020 and 2022 advisories as a name that overlaps with or is commonly used for this activity; see Related groups"
         }
       ],
       "summary": "APT38 is a North Korean state-sponsored group focused on financial theft, attributed by MITRE ATT&CK to North Korea's Reconnaissance General Bureau. MITRE lists banks, cryptocurrency exchanges and SWIFT system endpoints among its targets. The US Department of Justice named APT38 in November 2025 forfeiture cases over four 2023 cryptocurrency heists.",
@@ -3675,31 +3676,19 @@
       "aliases": [
         {
           "name": "Advanced Persistent Threat 39",
-          "source": "Full form of the name in the Treasury press release and the OFAC list entry"
+          "source": "Full form of the name in the Treasury press release; the OFAC list entry is \"ADVANCED PERSISTENT THREAT 39\" with the aliases APT39, Cadelspy, Chafer, ITG07 and Remexi"
         },
         {
           "name": "Chafer",
-          "source": "MITRE Associated Groups list, which says APT39 activity largely aligns with a group publicly called Chafer; also named in the FBI alert, DOJ release and OFAC entry"
+          "source": "MITRE Associated Groups list, which says APT39 activity largely aligns with a group publicly called Chafer; also named in the FBI alert, the DOJ release and the OFAC entry for ADVANCED PERSISTENT THREAT 39"
         },
         {
           "name": "ITG07",
-          "source": "MITRE Associated Groups list; also named in the FBI alert, DOJ release and OFAC entry"
+          "source": "MITRE Associated Groups list; also named in the FBI alert, the DOJ release and the OFAC entry for ADVANCED PERSISTENT THREAT 39"
         },
         {
           "name": "Remix Kitten",
           "source": "MITRE Associated Groups list"
-        },
-        {
-          "name": "Cadelspy",
-          "source": "Listed as a name for the actor in the FBI alert, DOJ release and OFAC entry; MITRE lists it as a separate backdoor (S0454)"
-        },
-        {
-          "name": "Remexi",
-          "source": "Listed as a name for the actor in the FBI alert, DOJ release and OFAC entry; MITRE lists it as a separate Trojan (S0375)"
-        },
-        {
-          "name": "Rana Intelligence Computing Company",
-          "source": "Front company named by the FBI, Treasury and DOJ; also called Rana Corp (FBI) and Rana Institute (OFAC)"
         }
       ],
       "summary": "The US Treasury, FBI and Department of Justice attributed APT39, also called Chafer, to Iran's Ministry of Intelligence and Security (MOIS), working through the front company Rana Intelligence Computing Company, in September 2020. The US sanctioned the company and 45 people.",
@@ -3950,10 +3939,6 @@
           "source": "AA21-200A and the 2021 US indictment list it as a label; it is not on the MITRE Associated Groups list"
         },
         {
-          "name": "GreenCrash",
-          "source": "AA21-200A and the 2021 US indictment list it as a label; the indictment also uses it as another name for the BADFLICK malware"
-        },
-        {
           "name": "Hellsing",
           "source": "AA21-200A and the 2021 US indictment list it as a label; it is not on the MITRE Associated Groups list"
         }
@@ -4201,10 +4186,6 @@
           "source": "MITRE ATT&CK Associated Groups; FBI notice \"APT 41 Group\""
         },
         {
-          "name": "Winnti",
-          "source": "Named by MITRE as a group APT41 partly overlaps with; listed as a label in the 2020 US indictment"
-        },
-        {
           "name": "Wicked Spider",
           "source": "2020 US indictment"
         }
@@ -4446,11 +4427,11 @@
       "aliases": [
         {
           "name": "TA453",
-          "source": "UK NCSC advisory of 26 January 2023, which lists it with APT42, Charming Kitten, Yellow Garuda and ITG18"
+          "source": "UK NCSC advisory of 26 January 2023, which writes \"TA453 (APT42/Charming Kitten/Yellow Garuda/ITG18)\". MITRE lists it under Magic Hound (APT35, G0059), which it tracks as a separate entity from APT42; see the APT35 profile"
         },
         {
           "name": "Mint Sandstorm",
-          "source": "Israel National Digital Agency; US Treasury (as a name reported by private firms)"
+          "source": "Israel National Digital Agency; US Treasury (as a name reported by private firms). MITRE lists it under Magic Hound (APT35), see the APT35 profile"
         },
         {
           "name": "Educated Manticore",
@@ -4462,11 +4443,11 @@
         },
         {
           "name": "Yellow Garuda",
-          "source": "UK NCSC advisory of 26 January 2023"
+          "source": "UK NCSC advisory of 26 January 2023 (same list as TA453). Not on the MITRE list for APT42 or Magic Hound; also on the APT35 profile"
         },
         {
           "name": "ITG18",
-          "source": "UK NCSC advisory of 26 January 2023"
+          "source": "UK NCSC advisory of 26 January 2023 (same list as TA453). MITRE lists it under Magic Hound (APT35), see the APT35 profile"
         }
       ],
       "summary": "MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts cyber espionage and surveillance, active since at least 2015. Israel's National Digital Agency says it works in line with the IRGC Intelligence Organization, and the UK NCSC warned in 2023 about its patient spear-phishing of academics, officials, journalists and NGOs.",
@@ -4665,11 +4646,7 @@
       "aliases": [
         {
           "name": "UNC5221",
-          "source": "Earlier GTIG and Mandiant name, used in the 2025 reports on Ivanti flaws and BRICKSTORM"
-        },
-        {
-          "name": "UNC5337",
-          "source": "Cluster that Mandiant says it merged into UNC5221"
+          "source": "Earlier GTIG and Mandiant name, used in the 2025 reports on Ivanti flaws and BRICKSTORM. The US Department of Justice (5 March 2025) writes \"UNC 5221\" among the names of APT27; see the APT27 profile"
         }
       ],
       "summary": "Google Threat Intelligence Group attributes the zero-day exploitation of BeyondTrust Remote Support (CVE-2026-102764), which it dates to late August 2026, to ARMORY CASTLE, a suspected China-linked spying group it formerly tracked as UNC5221. No government has named the group.",
@@ -4881,6 +4858,11 @@
           "title": "Protocol Tunneling, Technique T1572",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/techniques/T1572/"
+        },
+        {
+          "title": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
+          "publisher": "US Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
         }
       ]
     },
@@ -4893,10 +4875,6 @@
         {
           "name": "T-APT-17",
           "source": "Listed under Associated Groups on the MITRE ATT&CK group page"
-        },
-        {
-          "name": "Bitter",
-          "source": "Name used in the CERT-EU Cyber Brief 26-05 (April 2026)"
         }
       ],
       "summary": "MITRE ATT&CK describes BITTER as a suspected South Asian cyber espionage group, active since at least 2013, that has targeted government, energy and engineering organizations in Pakistan, China, Bangladesh and Saudi Arabia. It sends spearphishing emails with malicious attachments and exploits known flaws in Microsoft Office.",
@@ -5374,14 +5352,6 @@
           "source": "AA26-097A (\"CyberAv3ngers (aka Shahid Kaveh Group)\")"
         },
         {
-          "name": "Soldiers of Soloman",
-          "source": "MITRE ATT&CK Associated Groups; MITRE says CyberAv3ngers reportedly has connections to this IRGC-linked group"
-        },
-        {
-          "name": "Soldiers of Solomon",
-          "source": "AA23-335A and AA26-097A (spelling in the advisories; AA23-335A says \"connections to\", AA26-097A lists it as a name)"
-        },
-        {
           "name": "Hydro Kitten",
           "source": "AA26-097A (listed as a name used by private industry and open sources)"
         },
@@ -5400,14 +5370,6 @@
         {
           "name": "UNC5691",
           "source": "AA26-097A (listed as a name used by private industry and open sources)"
-        },
-        {
-          "name": "Mr. Soul",
-          "source": "AA26-097A (listed as a name used by private industry and open sources); Rewards for Justice lists it as an associated organization"
-        },
-        {
-          "name": "IRGC Cyber-Electronic Command (IRGC-CEC)",
-          "source": "Treasury: also known as the IRGC Electronic Warfare and Cyber Defense Organization. Rewards for Justice also lists the IRGC Jangal Organization. This is the unit the sources link to the name, not a name of the group."
         }
       ],
       "summary": "CyberAv3ngers (also called Shahid Kaveh Group in a 2026 advisory) is attributed by US, Israeli, Canadian and UK agencies to the Iranian IRGC, and is tied to defacing internet-exposed industrial controllers at US water facilities from November 2023. A 2026 US advisory on Iranian-affiliated attacks on US industrial controllers refers to this group as earlier activity but does not say the two are the same.",
@@ -5574,10 +5536,6 @@
           "source": "MITRE ATT&CK; UK release of 24 March 2022; CISA advisories; UK factsheet; joint advisory of July 2026"
         },
         {
-          "name": "Berzerk Bear",
-          "source": "Spelling used by the US Department of Justice, 24 March 2022"
-        },
-        {
           "name": "TG-4192",
           "source": "MITRE ATT&CK, associated groups; UK factsheet"
         },
@@ -5603,27 +5561,11 @@
         },
         {
           "name": "TeamSpy",
-          "source": "CISA advisories AA20-296A and AA22-083A"
+          "source": "CISA advisories AA20-296A and AA22-083A, in the same list as Koala; no vendor is named"
         },
         {
           "name": "Koala",
-          "source": "CISA advisories AA20-296A and AA22-083A"
-        },
-        {
-          "name": "Havex",
-          "source": "Listed as a name for the actor in CISA advisories AA20-296A and AA22-083A. The US Department of Justice uses it for malware and for phase one of the campaign"
-        },
-        {
-          "name": "Dragonfly 2.0",
-          "source": "US Department of Justice name for the 2014 to 2017 phase of the energy campaign"
-        },
-        {
-          "name": "CASSTLE",
-          "source": "UK factsheet, in its list of public names for Center 16"
-        },
-        {
-          "name": "Static Tundra",
-          "source": "Joint advisory of July 2026 and UK NCSC release, in lists of names used for Center 16 activity. The advisory says the list may not match the agencies' view 1 to 1"
+          "source": "CISA advisory AA20-296A, which writes \"known variously as ... in open-source reporting\", and AA22-083A, which writes \"also known as\"; neither names a vendor"
         }
       ],
       "summary": "Attributed by the US and UK governments to Russia's FSB Center 16 (Military Unit 71330), this group is tied to supply chain, phishing and website attacks on energy and industrial control system companies, and to the abuse of weak routers. Its work is espionage and lasting access to networks.",
@@ -5886,22 +5828,6 @@
         {
           "name": "Frozenvista",
           "source": "MITRE Associated Groups; US advisory of 5 September 2024"
-        },
-        {
-          "name": "STORM-0587",
-          "source": "Listed as an associated organization on the Rewards for Justice page"
-        },
-        {
-          "name": "STORM-0711",
-          "source": "Listed as an associated organization on the Rewards for Justice page"
-        },
-        {
-          "name": "GRU Unit 29155 (161st Specialist Training Center, TsPS)",
-          "source": "The unit named by MITRE, the US, the UK, the EU and Estonia"
-        },
-        {
-          "name": "Saint Bear",
-          "source": "Not an alias. MITRE says it is a distinct actor"
         }
       ],
       "summary": "The US, UK, EU and Estonian governments attribute this activity to GRU Unit 29155, a Russian military intelligence unit, and MITRE tracks it as Ember Bear. It is described as using public tools and flaws in internet-facing systems to spy, leak data and wipe data, with a focus on Ukraine and those who aid it.",
@@ -6123,20 +6049,12 @@
       "last_updated": "2026-10-09",
       "aliases": [
         {
-          "name": "Carbanak Group",
-          "source": "US Department of Justice court papers (named as another name for the conspiracy). MITRE says FIN7 may be linked to it and tracks the two separately"
-        },
-        {
           "name": "Navigator Group",
           "source": "US Department of Justice court papers"
         },
         {
           "name": "GOLD NIAGARA",
           "source": "MITRE ATT&CK Associated Groups"
-        },
-        {
-          "name": "ITG14",
-          "source": "MITRE ATT&CK Associated Groups (MITRE says it shares campaign overlap with FIN7)"
         },
         {
           "name": "Carbon Spider",
@@ -6372,11 +6290,7 @@
         },
         {
           "name": "Armageddon",
-          "source": "MITRE ATT&CK Associated Groups; SSU technical report; Canadian Cyber Centre bulletin; CERT-UA reports"
-        },
-        {
-          "name": "ARMAGEDON",
-          "source": "SSU press release of 4 November 2021 (the SSU's own spelling)"
+          "source": "MITRE ATT&CK Associated Groups; Canadian Cyber Centre bulletin; CERT-UA reports (written \"UAC-0010 (Armageddon)\"); the SSU technical report writes it \"Armagedon\""
         },
         {
           "name": "Shuckworm",
@@ -6397,30 +6311,6 @@
         {
           "name": "UAC-0010",
           "source": "CERT-UA reports (its own tracking number for the group)"
-        },
-        {
-          "name": "Winterflouder",
-          "source": "SSU technical report (spelling as printed there)"
-        },
-        {
-          "name": "BlueAlpha",
-          "source": "SSU technical report"
-        },
-        {
-          "name": "BlueOtso",
-          "source": "SSU technical report"
-        },
-        {
-          "name": "IronTiden",
-          "source": "SSU technical report (spelling as printed there)"
-        },
-        {
-          "name": "SectorC08",
-          "source": "SSU technical report"
-        },
-        {
-          "name": "Callisto",
-          "source": "SSU technical report (a common word; check the context before linking it to this group)"
         }
       ],
       "summary": "Attributed by Ukraine's Security Service (SSU, 2021) to Russia's FSB, and described by MITRE ATT&CK as a suspected Russian group that has targeted Ukrainian organizations since at least 2013. It mostly gets in through emails with Office files or archives, and a Ukrainian court convicted two members in absentia on 8 October 2024.",
@@ -6546,31 +6436,6 @@
           "url": "https://attack.mitre.org/groups/G0047/"
         },
         {
-          "title": "SSU identifies FSB hackers responsible for over 5,000 cyber attacks against Ukraine",
-          "publisher": "Security Service of Ukraine (SSU), 4 November 2021, English",
-          "url": "https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
-        },
-        {
-          "title": "СБУ встановила хакерів ФСБ, які здійснили понад 5 тис. кібератак на державні органи України",
-          "publisher": "Security Service of Ukraine (SSU), 4 November 2021, Ukrainian",
-          "url": "https://ssu.gov.ua/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
-        },
-        {
-          "title": "Technical report on the activity of the hacker group Armageddon",
-          "publisher": "Security Service of Ukraine (SSU), 2021",
-          "url": "https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf"
-        },
-        {
-          "title": "Following SSU and SBI's investigation, russian FSB officer to be tried for cyberattacks on Ukrainian government websites",
-          "publisher": "Security Service of Ukraine (SSU), 12 September 2023",
-          "url": "https://ssu.gov.ua/en/novyny/za-materialamy-sbu-i-dbr-sudytymut-spivrobitnyka-fsb-rf-yakyi-zdiisniuvav-kiberataky-na-derzhavni-orhany-ukrainy"
-        },
-        {
-          "title": "Following SSU investigation, FSB hackers sentenced in absentia for over 5,000 cyberattacks on Ukrainian authorities",
-          "publisher": "Security Service of Ukraine (SSU), 8 October 2024",
-          "url": "https://ssu.gov.ua/en/novyny/za-materialamy-sbu-zaochni-tiuremni-vyroky-otrymaly-khakery-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy"
-        },
-        {
           "title": "Здійснювали хакерські атаки на державні органи України: до 15 років позбавлення волі засуджено двох співробітників фсб рф",
           "publisher": "Office of the Prosecutor General of Ukraine, 8 October 2024",
           "url": "https://gp.gov.ua/ua/posts/zdiisnyuvali-xakerski-ataki-na-derzavni-organi-ukrayini-do-15-rokiv-pozbavlennya-voli-zasudzeno-dvox-spivrobitnikiv-fsb-rf"
@@ -6659,6 +6524,16 @@
           "title": "Remcos, Software S0332",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/software/S0332/"
+        },
+        {
+          "title": "IRON TILDEN threat profile",
+          "publisher": "Sophos",
+          "url": "https://www.sophos.com/en-us/threat-profiles/iron-tilden"
+        },
+        {
+          "title": "BlueAlpha abuses Cloudflare Tunneling service",
+          "publisher": "Recorded Future Insikt Group",
+          "url": "https://www.recordedfuture.com/research/bluealpha-abuses-cloudflare-tunneling-service"
         }
       ]
     },
@@ -6670,14 +6545,10 @@
       "aliases": [
         {
           "name": "Silk Typhoon",
-          "source": "MITRE ATT&CK G0125 (associated group)"
-        },
-        {
-          "name": "Operation Exchange Marauder",
-          "source": "MITRE ATT&CK G0125 (associated group)"
+          "source": "MITRE ATT&CK G0125 (associated group). The US Department of Justice (5 March 2025) writes it among the names of APT27; see the APT27 profile"
         }
       ],
-      "summary": "Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name given to the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.",
+      "summary": "Attributed by the US and UK governments (19 July 2021) to the Chinese state, and charged by the US Department of Justice (8 July 2025) as directed by officers of China's Ministry of State Security, HAFNIUM is the name of the actor behind the campaign that exploited Microsoft Exchange Server flaws in early 2021. MITRE describes it as a likely state-sponsored espionage group that targets US universities, law firms, defense contractors and research bodies.",
       "status": "dormant",
       "motivation": "espionage",
       "suspected_origin": "China",
@@ -6916,6 +6787,11 @@
           "title": "Valid Accounts: Cloud Accounts, T1078.004",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/techniques/T1078/004/"
+        },
+        {
+          "title": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
+          "publisher": "US Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
         }
       ]
     },
@@ -6926,40 +6802,12 @@
       "last_updated": "2026-10-09",
       "aliases": [
         {
-          "name": "VOID MANTICORE",
-          "source": "MITRE ATT&CK group name (G1055)"
-        },
-        {
           "name": "Handala Hack",
           "source": "MITRE ATT&CK Associated Groups, where it is called the group's current primary persona; FBI FLASH of 20 March 2026; Department of Justice release of 19 March 2026"
         },
         {
           "name": "Handala Hack Team",
           "source": "Department of Justice release (the persona's own wording in a threat email); CERT-EU Cyber Brief 26-04"
-        },
-        {
-          "name": "Homeland Justice",
-          "source": "MITRE ATT&CK Associated Groups; FBI FLASH of 20 March 2026; AA22-264A (as HomeLand Justice)"
-        },
-        {
-          "name": "Karma",
-          "source": "MITRE ATT&CK Associated Groups"
-        },
-        {
-          "name": "Karmabelow80",
-          "source": "MITRE ATT&CK Associated Groups; name of a domain in the Department of Justice release"
-        },
-        {
-          "name": "COBALT MYSTIQUE",
-          "source": "MITRE ATT&CK Associated Groups"
-        },
-        {
-          "name": "BANISHED KITTEN",
-          "source": "MITRE ATT&CK Associated Groups"
-        },
-        {
-          "name": "Red Sandstorm",
-          "source": "MITRE ATT&CK Associated Groups"
         }
       ],
       "summary": "Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), a group assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled, and the FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.",
@@ -7186,10 +7034,6 @@
         {
           "name": "UNC2165",
           "source": "MITRE ATT&CK (Associated Groups)"
-        },
-        {
-          "name": "Doppel Spider",
-          "source": "German BKA wanted notice of March 2023, which says Indrik Spider is also known as Doppel Spider"
         }
       ],
       "summary": "Attributed by MITRE ATT&CK to a Russia-based criminal group, which it also lists as Evil Corp. The US Treasury, the US Department of Justice and UK authorities name people behind the Dridex banking malware and later ransomware, and have sanctioned or charged them. Its work is stealing money from banks and extorting companies with ransomware.",
@@ -7854,7 +7698,7 @@
         {
           "title": "PF prende brasileiro suspeito de integrar organização criminosa internacional",
           "publisher": "Polícia Federal (Brazil)",
-          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2022/10/pf-prende-brasileiro-suspeito-de-integrar-organizacao-criminosa-internacional"
+          "url": "https://web.archive.org/web/20221126103358/https://www.gov.br/pf/pt-br/assuntos/noticias/2022/10/pf-prende-brasileiro-suspeito-de-integrar-organizacao-criminosa-internacional"
         },
         {
           "title": "PF realiza operação para apurar ataques a sites do Governo Federal",
@@ -7914,11 +7758,7 @@
         },
         {
           "name": "TA488",
-          "source": "Listed in CISA advisory AA26-204A under \"Cybersecurity industry tracking\", \"formerly UNK_PitStop\""
-        },
-        {
-          "name": "UNK_PitStop",
-          "source": "Earlier name of TA488 as printed in CISA advisory AA26-204A"
+          "source": "Listed in CISA advisory AA26-204A under \"Cybersecurity industry tracking\", written \"TA488 (formerly UNK_PitStop)\""
         }
       ],
       "summary": "Attributed by the Dutch AIVD and MIVD (2025) and by US, UK, Canadian and other allied agencies (July 2026) to Russian state-supported actors, LAUNDRY BEAR steals email from government, defense and technology bodies. The July 2026 joint advisory describes a view-based attack on Zimbra webmail that took 90 days of mail without a click.",
@@ -8134,22 +7974,6 @@
         {
           "name": "Diamond Sleet",
           "source": "MITRE ATT&CK (Associated Groups)"
-        },
-        {
-          "name": "APT38",
-          "source": "DOJ indictment, EU Council Implementing Regulation 2020/1125 and CISA AA22-108A name it alongside Lazarus Group"
-        },
-        {
-          "name": "Bluenoroff",
-          "source": "Treasury press release of 13 Sep 2019 lists it as a separate group that worked with Lazarus Group; CISA AA22-108A lists it as another tracking name"
-        },
-        {
-          "name": "Andariel",
-          "source": "Treasury press release of 13 Sep 2019 lists it as a third RGB-controlled group"
-        },
-        {
-          "name": "TraderTraitor",
-          "source": "FBI name for the crypto-theft activity behind Bybit, and CISA name for the malicious apps, in AA22-108A and the FBI notice of 26 Feb 2025"
         }
       ],
       "summary": "Lazarus Group is the name used by MITRE, the US Treasury and the US Department of Justice for North Korean hacking units that, they say, work for the Reconnaissance General Bureau. The US charged three RGB members in 2020 and 2021 with attempts to steal or extort more than $1.3 billion, and the FBI attributed the 2025 Bybit theft to North Korean actors it tracks as TraderTraitor.",
@@ -9530,15 +9354,11 @@
       "aliases": [
         {
           "name": "OPERATOR PANDA",
-          "source": "AA25-239A, listed as an industry name whose reporting partly overlaps with the activity"
+          "source": "CrowdStrike name; its adversary page lists Salt Typhoon among community identifiers; AA25-239A lists it among partly overlapping names"
         },
         {
           "name": "RedMike",
           "source": "AA25-239A; German BfV text"
-        },
-        {
-          "name": "UNC5807",
-          "source": "AA25-239A, listed as an industry name whose reporting partly overlaps with the activity"
         },
         {
           "name": "GhostEmperor",
@@ -9547,10 +9367,6 @@
         {
           "name": "FamousSparrow",
           "source": "German BND text, given as an alias of Salt Typhoon"
-        },
-        {
-          "name": "APT actors",
-          "source": "The label AA25-239A uses for the activity it describes, because the agencies do not adopt a commercial name"
         }
       ],
       "summary": "Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt Typhoon compromised network equipment at major US telecommunications and internet providers. A joint advisory by 13 countries (27 August 2025) says PRC state-sponsored actors with partly overlapping activity mostly exploit known flaws in routers and edge devices; patch and lock down those devices first.",
@@ -9809,6 +9625,16 @@
           "title": "Nederlandse providers doelwit van Salt Typhoon",
           "publisher": "AIVD",
           "url": "https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon"
+        },
+        {
+          "title": "OPERATOR PANDA adversary page",
+          "publisher": "CrowdStrike",
+          "url": "https://www.crowdstrike.com/adversaries/operator-panda/"
+        },
+        {
+          "title": "You will always remember this as the day you finally caught FamousSparrow",
+          "publisher": "ESET",
+          "url": "https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/"
         }
       ]
     },
@@ -9861,14 +9687,6 @@
         {
           "name": "FROZENBARENTS",
           "source": "MITRE ATT&CK (Associated Groups)"
-        },
-        {
-          "name": "GTsST, Main Center for Special Technologies, military unit 74455",
-          "source": "MITRE; US indictment; UK; EU annex; CISA"
-        },
-        {
-          "name": "Olympic Destroyer",
-          "source": "EU Implementing Regulation 2020/1125 lists it as a name of the actor. MITRE and the US indictment treat it as a malware name."
         }
       ],
       "summary": "Attributed by the US, UK and EU governments to Russian military intelligence (GRU Unit 74455), this group is linked to the 2015 and 2016 power grid attacks in Ukraine, the 2017 NotPetya attack and the 2018 Winter Olympics attack. Its work is destructive: wipers and attacks on industrial control systems.",
@@ -10324,24 +10142,12 @@
       "last_updated": "2026-10-10",
       "aliases": [
         {
-          "name": "ShinyCorp",
-          "source": "MITRE ATT&CK G1057 (persona the group operates under)"
-        },
-        {
           "name": "UNC6240",
           "source": "MITRE ATT&CK G1057 (Associated Groups)"
         },
         {
           "name": "Bling Libra",
           "source": "MITRE ATT&CK G1057 (Associated Groups)"
-        },
-        {
-          "name": "The Community (The Com)",
-          "source": "MITRE ATT&CK G1057 (broader collective the group has been associated with)"
-        },
-        {
-          "name": "Scattered Lapsus Hunters, Scattered Lapsus Shiny Hunters, SLSH",
-          "source": "MITRE ATT&CK G1057 (names used for operations with members of other groups); Europol IOCTA 2026 uses Scattered LAPSUS$ Hunters (SLSH)"
         }
       ],
       "summary": "The FBI describes ShinyHunters as a cyber criminal group that specializes in large-scale data breaches and extortion, and Europol describes a coalition of it with Scattered Spider and LAPSUS$ called Scattered LAPSUS$ Hunters (SLSH). The US Department of Justice prosecuted a member in 2023 and 2024, and the Dutch National Police arrested a suspect in September 2026.",
@@ -10574,8 +10380,12 @@
           "source": "Bangladesh CIRT alert of 4 January 2024"
         },
         {
-          "name": "Hardcore Nationalist (HN2)",
-          "source": "Bangladesh CIRT alert of 4 January 2024"
+          "name": "Hardcore Nationalist",
+          "source": "Bangladesh CIRT alert of 4 January 2024, which writes \"Hardcore Nationalist (HN2)\""
+        },
+        {
+          "name": "HN2",
+          "source": "Bangladesh CIRT alert of 4 January 2024, which writes \"Hardcore Nationalist (HN2)\""
         }
       ],
       "summary": "Attributed by MITRE ATT&CK as a suspected Indian threat actor group active since at least 2012, SideWinder is reported by the national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA to send spearphishing emails to government, military and diplomatic bodies, mainly in South Asia. Sources differ on how sure they are about the India link, and none names a sponsor.",
@@ -10996,7 +10806,7 @@
         },
         {
           "name": "COLDRIVER",
-          "source": "MITRE Associated Groups; the advisory; UK Foreign Office; US Treasury"
+          "source": "MITRE Associated Groups; the advisory; UK Foreign Office; US Treasury (writes \"Coldriver\"); the UK sanctions notice writes \"Cold River\""
         },
         {
           "name": "TAG-53",
@@ -11005,10 +10815,6 @@
         {
           "name": "BlueCharlie",
           "source": "The advisory and the UK Foreign Office press release (not in MITRE's list)"
-        },
-        {
-          "name": "Cold River",
-          "source": "Spelling used in the UK sanctions notice"
         },
         {
           "name": "Gossamer Bear",
@@ -11244,32 +11050,12 @@
           "source": "MITRE ATT&CK Associated Groups; the Canadian Cyber Centre writes Chimborazo"
         },
         {
-          "name": "GRACEFUL SPIDER",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
-        },
-        {
-          "name": "Lace Tempest",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
-        },
-        {
-          "name": "DEV-0950",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
-        },
-        {
-          "name": "FIN11",
-          "source": "Listed as an alias only by the Canadian Cyber Centre. A CISA analyst note ties the Clop ransomware to FIN11. Not in MITRE's list"
-        },
-        {
           "name": "GOLD TAHOE",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
-        },
-        {
-          "name": "GOLD EVERGREEN",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
+          "source": "Sophos name, listed by the Canadian Cyber Centre; not in MITRE's list"
         },
         {
           "name": "ATK103",
-          "source": "Listed as an alias only by the Canadian Cyber Centre, not in MITRE's list"
+          "source": "Thales name: Thales writes \"ATK103 (aka: TA505)\"; also listed by the Canadian Cyber Centre; not in MITRE's list"
         }
       ],
       "summary": "CISA and the FBI say, \"according to open source information\", that the CL0P ransomware gang is also known as TA505, and MITRE ATT&CK describes TA505 as a cyber criminal group active since at least 2014. As attributed by those bodies, it steals data and runs ransomware, including through zero-day flaws in file transfer software such as MOVEit Transfer.",
@@ -11398,7 +11184,7 @@
           "url": "https://attack.mitre.org/groups/G0092/"
         },
         {
-          "title": "#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability (AA23-158A)",
+          "title": "CISA alert: #StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability (AA23-158A)",
           "publisher": "CISA and FBI",
           "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a"
         },
@@ -11516,6 +11302,26 @@
           "title": "Ingress Tool Transfer, T1105",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/techniques/T1105/"
+        },
+        {
+          "title": "GOLD TAHOE threat profile",
+          "publisher": "Sophos",
+          "url": "https://www.sophos.com/en-us/threat-profiles/gold-tahoe"
+        },
+        {
+          "title": "How Microsoft names threat actors",
+          "publisher": "Microsoft",
+          "url": "https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming"
+        },
+        {
+          "title": "FIN11: Widespread Email Campaigns as Precursor for Ransomware and Data Theft",
+          "publisher": "Mandiant",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/fin11-email-campaigns-precursor-for-ransomware-data-theft"
+        },
+        {
+          "title": "ATK103",
+          "publisher": "Thales",
+          "url": "https://web.archive.org/web/20260309122247/https://cds.thalesgroup.com/en/node/643"
         }
       ]
     },
@@ -11770,20 +11576,12 @@
           "source": "MITRE Associated Groups; also the malware name in CISA advisory \"Hunting Russian Intelligence \"Snake\" Malware\""
         },
         {
-          "name": "Uroburos",
-          "source": "Original name of the Snake malware in the CISA advisory; MITRE software S0022"
-        },
-        {
           "name": "Secret Blizzard",
           "source": "MITRE Associated Groups"
         },
         {
           "name": "Krypton",
           "source": "MITRE Associated Groups"
-        },
-        {
-          "name": "WhiteBear",
-          "source": "MITRE Associated Groups (described there as overlapping with Turla activity)"
         },
         {
           "name": "IRON HUNTER",
@@ -12007,12 +11805,7 @@
       "slug": "unc3886",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/unc3886/",
       "last_updated": "2026-10-09",
-      "aliases": [
-        {
-          "name": "UNC prefix",
-          "source": "The Singapore minister said the UNC label stands for uncategorized or unclassified, meaning not formally classified"
-        }
-      ],
+      "aliases": [],
       "summary": "Singapore's cyber agency (CSA) calls UNC3886 a state-sponsored group without naming a state, and MITRE ATT&CK describes it as China-nexus, in entries dated 2025 and 2026. The group is reported to break into firewalls, routers and virtualization hosts for espionage, and CSA says it targeted all four major Singapore telecom operators.",
       "status": "active",
       "motivation": "espionage",
@@ -12528,11 +12321,7 @@
       "aliases": [
         {
           "name": "Trickbot group",
-          "source": "US Treasury 9 Feb and 7 Sep 2023; US Department of Justice 7 Sep 2023; BKA wanted notice"
-        },
-        {
-          "name": "Trickman",
-          "source": "UK government statement of 9 Feb 2023"
+          "source": "US Treasury 9 Feb and 7 Sep 2023; BKA wanted notice"
         },
         {
           "name": "UNC1878",
@@ -12573,10 +12362,6 @@
         {
           "name": "DEV-0237",
           "source": "MITRE ATT&CK (Associated Groups)"
-        },
-        {
-          "name": "Conti",
-          "source": "MITRE lists Conti as ransomware used by the group. The UK government and Rewards for Justice use Conti as a group name next to Wizard Spider. See \"Where sources differ\"."
         }
       ],
       "summary": "Wizard Spider is a Russia-based criminal group behind the Trickbot malware, attributed by the US Department of Justice and Treasury, the UK government and Germany's BKA. Its work is stealing money and data and installing ransomware such as Ryuk and Conti. In 2023 the US charged nine members and the US and UK sanctioned 18 people.",

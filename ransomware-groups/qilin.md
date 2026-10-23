@@ -4,7 +4,7 @@ Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE AT
 
 | Field | Value |
 |---|---|
-| Also known as | Agenda, Water Galura (operators) |
+| Also known as | Agenda |
 | Status | active |
 | First seen | 2022 |
 | Model | Ransomware as a service |
@@ -26,4 +26,4 @@ Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE AT
 
 Timeline, attribution notes, defences and FAQ: **[Qilin on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/qilin/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

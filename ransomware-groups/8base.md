@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| Also known as | Affiliate 2803, Phobos affiliate group |
+| Also known as | Affiliate 2803 |
 | Status | disrupted |
 | First seen | 2019 |
 | Model | Ransomware affiliate group using Phobos (Phobos itself is a ransomware as a service) |
@@ -24,4 +24,4 @@
 
 Timeline, attribution notes, defences and FAQ: **[8Base on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/8base/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

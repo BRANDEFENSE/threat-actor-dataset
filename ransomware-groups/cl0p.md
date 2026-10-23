@@ -4,7 +4,7 @@ Cl0p is a ransomware operation first seen in February 2019 and, per a joint FBI 
 
 | Field | Value |
 |---|---|
-| Also known as | CL0P, Clop, TA505 |
+| Also known as | Clop |
 | Status | active |
 | First seen | 2019 |
 | Model | Ransomware as a service, and data theft campaigns (per the advisory) |
@@ -28,4 +28,4 @@ Cl0p is a ransomware operation first seen in February 2019 and, per a joint FBI 
 
 Timeline, attribution notes, defences and FAQ: **[Cl0p on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/cl0p/)**
 
-_Last updated 2026-10-07. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

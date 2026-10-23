@@ -4,7 +4,7 @@ CyberAv3ngers (also called Shahid Kaveh Group in a 2026 advisory) is attributed 
 
 | Field | Value |
 |---|---|
-| Also known as | CyberAveng3rs, Cyber Avengers, Shahid Kaveh Group, Soldiers of Soloman, Soldiers of Solomon, Hydro Kitten, Storm-0784, APT Iran, Bauxite, UNC5691, Mr. Soul, IRGC Cyber-Electronic Command (IRGC-CEC) |
+| Also known as | CyberAveng3rs, Cyber Avengers, Shahid Kaveh Group, Hydro Kitten, Storm-0784, APT Iran, Bauxite, UNC5691 |
 | Suspected origin | Iran |
 | Attributed by | the US, Israeli, Canadian and UK governments, and MITRE ATT&CK |
 | MITRE ATT&CK ID | G1027 |

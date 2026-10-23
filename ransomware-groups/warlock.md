@@ -4,7 +4,6 @@ Warlock is a ransomware family that Microsoft says a China-based actor it tracks
 
 | Field | Value |
 |---|---|
-| Also known as | Storm-2603 |
 | First seen | 2025 |
 | Model | Not stated by the sources |
 | Targets | Financial services, Education, Energy and utilities, Healthcare |
@@ -24,4 +23,4 @@ Warlock is a ransomware family that Microsoft says a China-based actor it tracks
 
 Timeline, attribution notes, defences and FAQ: **[Warlock on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/warlock/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

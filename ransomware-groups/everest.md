@@ -4,7 +4,6 @@ Everest is a financially motivated ransomware and data extortion group. The US D
 
 | Field | Value |
 |---|---|
-| Also known as | Everest ransomware group, EverBe 2.0 (earlier family, per HHS HC3) |
 | Status | active |
 | First seen | 2020 |
 | Model | Extortion group with ransomware and initial access broker activity |
@@ -25,4 +24,4 @@ Everest is a financially motivated ransomware and data extortion group. The US D
 
 Timeline, attribution notes, defences and FAQ: **[Everest on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/everest/)**
 
-_Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._

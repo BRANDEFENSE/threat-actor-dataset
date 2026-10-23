@@ -4,7 +4,7 @@ Attributed by the Dutch AIVD and MIVD (2025) and by US, UK, Canadian and other a
 
 | Field | Value |
 |---|---|
-| Also known as | Void Blizzard, CL-STA-1114, TA488, UNK_PitStop |
+| Also known as | Void Blizzard, CL-STA-1114, TA488 |
 | Suspected origin | Russia |
 | Attributed by | the Dutch AIVD and MIVD (2025) and the US, UK, Canadian and other allied agencies (2026) |
 | Targets | Defense, Government, Technology and digital services, Civil society and media, Energy and critical sectors, Telecoms, health and transport, EU and NATO states, East and Central Asia, Ukraine, United States, Organizations running Zimbra |

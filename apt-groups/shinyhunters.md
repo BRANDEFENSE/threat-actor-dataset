@@ -4,7 +4,7 @@ The FBI describes ShinyHunters as a cyber criminal group that specializes in lar
 
 | Field | Value |
 |---|---|
-| Also known as | ShinyCorp, UNC6240, Bling Libra, The Community (The Com), Scattered Lapsus Hunters, Scattered Lapsus Shiny Hunters, SLSH |
+| Also known as | UNC6240, Bling Libra |
 | Status | active |
 | Suspected origin | Not stated in the sources opened |
 | Attributed by | MITRE ATT&CK, the FBI, the US Department of Justice, the Dutch National Police and Europol |

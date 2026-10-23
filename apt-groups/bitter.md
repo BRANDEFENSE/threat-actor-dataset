@@ -4,7 +4,7 @@ MITRE ATT&CK describes BITTER as a suspected South Asian cyber espionage group, 
 
 | Field | Value |
 |---|---|
-| Also known as | T-APT-17, Bitter |
+| Also known as | T-APT-17 |
 | Status | active |
 | Motivation | espionage |
 | Attributed by | MITRE ATT&CK, which describes it as a suspected South Asian group |

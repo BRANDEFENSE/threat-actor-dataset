@@ -58,6 +58,8 @@ Attributed by MITRE ATT&CK and by the US Department of Justice (5 March 2025) to
 - [China: Declaration by the Minister for Foreign Affairs on behalf of the Belgian Government](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities), FPS Foreign Affairs, Belgium
 - [JP-23-01 Sustained activity by specific threat actors](https://cert.europa.eu/static/files/TLP-CLEAR-JointPublication-23-01.pdf), CERT-EU and ENISA
 - [Cyber Brief 24-07 June 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-07/), CERT-EU
+- [HAFNIUM, Group G0125](https://attack.mitre.org/groups/G0125/), MITRE ATT&CK
+- [ARMORY CASTLE Exploits BeyondTrust](https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust), Google Threat Intelligence Group
 
 ## Full profile
 

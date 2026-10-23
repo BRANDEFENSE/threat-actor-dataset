@@ -4,7 +4,7 @@ Attributed by the US and UK governments to Russia's FSB Center 16 (Military Unit
 
 | Field | Value |
 |---|---|
-| Also known as | TEMP.Isotope, DYMALLOY, Berserk Bear, Berzerk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE, TeamSpy, Koala, Havex, Dragonfly 2.0, CASSTLE, Static Tundra |
+| Also known as | TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE, TeamSpy, Koala |
 | Status | active |
 | Motivation | a:1:{i:0;s:9:"espionage";} |
 | Suspected origin | Russia |

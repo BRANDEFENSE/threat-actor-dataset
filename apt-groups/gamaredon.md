@@ -4,7 +4,7 @@ Attributed by Ukraine's Security Service (SSU, 2021) to Russia's FSB, and descri
 
 | Field | Value |
 |---|---|
-| Also known as | Gamaredon Group, IRON TILDEN, Primitive Bear, ACTINIUM, Armageddon, ARMAGEDON, Shuckworm, DEV-0157, Aqua Blizzard, NastyShrew, UAC-0010, Winterflouder, BlueAlpha, BlueOtso, IronTiden, SectorC08, Callisto |
+| Also known as | Gamaredon Group, IRON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Aqua Blizzard, NastyShrew, UAC-0010 |
 | Status | active |
 | Suspected origin | Russia |
 | Attributed by | the Ukrainian government (SSU, CERT-UA, NSDC and Prosecutor General), as recorded by MITRE ATT&CK |
@@ -43,11 +43,6 @@ Attributed by Ukraine's Security Service (SSU, 2021) to Russia's FSB, and descri
 ## Sources
 
 - [Gamaredon Group, Group G0047](https://attack.mitre.org/groups/G0047/), MITRE ATT&CK
-- [SSU identifies FSB hackers responsible for over 5,000 cyber attacks against Ukraine](https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy), Security Service of Ukraine (SSU), 4 November 2021, English
-- [СБУ встановила хакерів ФСБ, які здійснили понад 5 тис. кібератак на державні органи України](https://ssu.gov.ua/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy), Security Service of Ukraine (SSU), 4 November 2021, Ukrainian
-- [Technical report on the activity of the hacker group Armageddon](https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf), Security Service of Ukraine (SSU), 2021
-- [Following SSU and SBI's investigation, russian FSB officer to be tried for cyberattacks on Ukrainian government websites](https://ssu.gov.ua/en/novyny/za-materialamy-sbu-i-dbr-sudytymut-spivrobitnyka-fsb-rf-yakyi-zdiisniuvav-kiberataky-na-derzhavni-orhany-ukrainy), Security Service of Ukraine (SSU), 12 September 2023
-- [Following SSU investigation, FSB hackers sentenced in absentia for over 5,000 cyberattacks on Ukrainian authorities](https://ssu.gov.ua/en/novyny/za-materialamy-sbu-zaochni-tiuremni-vyroky-otrymaly-khakery-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy), Security Service of Ukraine (SSU), 8 October 2024
 - [Здійснювали хакерські атаки на державні органи України: до 15 років позбавлення волі засуджено двох співробітників фсб рф](https://gp.gov.ua/ua/posts/zdiisnyuvali-xakerski-ataki-na-derzavni-organi-ukrayini-do-15-rokiv-pozbavlennya-voli-zasudzeno-dvox-spivrobitnikiv-fsb-rf), Office of the Prosecutor General of Ukraine, 8 October 2024
 - [Зведена інформація щодо діяльності угрупування UAC-0010 станом на липень 2023 року](https://cert.gov.ua/article/5160737), CERT-UA (Ukraine), July 2023
 - [Кібератака групи UAC-0010 (Armageddon) на державні інституції країн Європейського Союзу (CERT-UA#4334)](https://cert.gov.ua/article/39086), CERT-UA (Ukraine), April 2022
@@ -66,6 +61,8 @@ Attributed by Ukraine's Security Service (SSU, 2021) to Russia's FSB, and descri
 - [PowerPunch, Software S0685](https://attack.mitre.org/software/S0685/), MITRE ATT&CK
 - [QuietSieve, Software S0686](https://attack.mitre.org/software/S0686/), MITRE ATT&CK
 - [Remcos, Software S0332](https://attack.mitre.org/software/S0332/), MITRE ATT&CK
+- [IRON TILDEN threat profile](https://www.sophos.com/en-us/threat-profiles/iron-tilden), Sophos
+- [BlueAlpha abuses Cloudflare Tunneling service](https://www.recordedfuture.com/research/bluealpha-abuses-cloudflare-tunneling-service), Recorded Future Insikt Group
 
 ## Full profile
 

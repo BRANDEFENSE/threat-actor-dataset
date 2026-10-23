@@ -4,7 +4,7 @@ The US, UK, EU and Estonian governments attribute this activity to GRU Unit 2915
 
 | Field | Value |
 |---|---|
-| Also known as | Cadet Blizzard, UAC-0056, UNC2589, Bleeding Bear, DEV-0586, Frozenvista, STORM-0587, STORM-0711, GRU Unit 29155 (161st Specialist Training Center, TsPS), Saint Bear |
+| Also known as | Cadet Blizzard, UAC-0056, UNC2589, Bleeding Bear, DEV-0586, Frozenvista |
 | Status | dormant |
 | Motivation | a:2:{i:0;s:9:"espionage";i:1;s:8:"sabotage";} |
 | Suspected origin | Russia |

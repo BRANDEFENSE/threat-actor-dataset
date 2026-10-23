@@ -4,7 +4,7 @@ MITRE describes APT41 as a Chinese state-sponsored espionage group, as researche
 
 | Field | Value |
 |---|---|
-| Also known as | Wicked Panda, Brass Typhoon, BARIUM, Winnti, Wicked Spider |
+| Also known as | Wicked Panda, Brass Typhoon, BARIUM, Wicked Spider |
 | Status | active |
 | Motivation | espionage, financial |
 | Suspected origin | China |

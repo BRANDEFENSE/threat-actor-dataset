@@ -4,7 +4,6 @@ LockBit is a ransomware as a service operation first seen in January 2020. A joi
 
 | Field | Value |
 |---|---|
-| Also known as | LockBit 2.0 (LockBit Red), LockBit 3.0 (LockBit Black), LockBit Green |
 | Status | disrupted |
 | First seen | 2020 |
 | Model | Ransomware as a service |
@@ -28,4 +27,4 @@ LockBit is a ransomware as a service operation first seen in January 2020. A joi
 
 Timeline, attribution notes, defences and FAQ: **[LockBit on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/lockbit/)**
 
-_Last updated 2026-10-07. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-23. Data: CC BY 4.0, Brandefense._
