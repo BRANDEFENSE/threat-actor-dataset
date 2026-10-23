@@ -2,9 +2,9 @@
 
 # Threat Actor Dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques
 
-An open, machine-readable dataset of **51 APT groups, 26 ransomware groups, 57 malware families and 41 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
+An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 57 malware families and 41 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
 
-![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--23-brightgreen) ![Entries](https://img.shields.io/badge/entries-175-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--23-brightgreen) ![Entries](https://img.shields.io/badge/entries-176-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
 
 Maintained by the [Brandefense](https://brandefense.io) Research Team. Every entry is written from public primary sources (government advisories, MITRE ATT&CK, vendor research) and links to them.
 
@@ -12,7 +12,7 @@ Maintained by the [Brandefense](https://brandefense.io) Research Team. Every ent
 
 | Dataset | Entries | Files |
 |---|---:|---|
-| APT groups | 51 | [`data/apt-groups.json`](data/apt-groups.json) · [`data/apt-groups.csv`](data/apt-groups.csv) |
+| APT groups | 52 | [`data/apt-groups.json`](data/apt-groups.json) · [`data/apt-groups.csv`](data/apt-groups.csv) |
 | Ransomware groups | 26 | [`data/ransomware-groups.json`](data/ransomware-groups.json) · [`data/ransomware-groups.csv`](data/ransomware-groups.csv) |
 | Malware families | 57 | [`data/malware.json`](data/malware.json) · [`data/malware.csv`](data/malware.csv) |
 | MITRE ATT&CK techniques | 41 | [`data/attack-techniques.json`](data/attack-techniques.json) · [`data/attack-techniques.csv`](data/attack-techniques.csv) |
@@ -101,6 +101,7 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [HAFNIUM](apt-groups/hafnium.md) | Silk Typhoon | China | G0125 |
 | [Handala](apt-groups/handala.md) | Handala Hack, Handala Hack Team | Iran | G1055 |
 | [Indrik Spider](apt-groups/indrik-spider.md) | Evil Corp, Manatee Tempest, DEV-0243, … | Russia | G0119 |
+| [k0t Threat Actor: Edge Device Campaign Against FortiGate and GlobalProtect](apt-groups/k0t.md) | k0t, CryptoFeel, Member19 | Not stated in the sources |  |
 | [Kimsuky](apt-groups/kimsuky.md) | Black Banshee, Velvet Chollima, Emerald Sleet, … | North Korea | G0094 |
 | [LAPSUS$](apt-groups/lapsus.md) | DEV-0537, Strawberry Tempest, Lapsus Group | Based mainly in the United Kingdom and Brazil, per the US Cyber Safety Review Board | G1004 |
 | [LAUNDRY BEAR](apt-groups/laundry-bear.md) | Void Blizzard, CL-STA-1114, TA488 | Russia |  |

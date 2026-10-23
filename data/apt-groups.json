@@ -6,7 +6,7 @@
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
     "generated": "2026-10-23",
-    "count": 51
+    "count": 52
   },
   "items": [
     {
@@ -7257,6 +7257,245 @@
           "title": "Cobalt Strike, Software S0154",
           "publisher": "MITRE ATT&CK",
           "url": "https://attack.mitre.org/software/S0154/"
+        }
+      ]
+    },
+    {
+      "name": "k0t Threat Actor: Edge Device Campaign Against FortiGate and GlobalProtect",
+      "slug": "k0t",
+      "url": "https://brandefense.io/knowledge-hub/apt-groups/k0t/",
+      "last_updated": "2026-10-23",
+      "aliases": [
+        {
+          "name": "k0t",
+          "source": "Group-IB and NyxLab name for the actor; the report calls it likely to be one of the main operators of the campaign"
+        },
+        {
+          "name": "CryptoFeel",
+          "source": "Group-IB and NyxLab: potentially an alias of k0t"
+        },
+        {
+          "name": "Member19",
+          "source": "Group-IB and NyxLab: alias under which the intruder left reviews of a service that provides IP lists of network devices (Figure 3 of the report)"
+        }
+      ],
+      "summary": "k0t is a threat actor that Group-IB and NyxLab, in a joint report of 21 October 2026, describe as likely one of the main operators of a large campaign. The campaign targets exposed FortiGate, FortiWeb and Palo Alto GlobalProtect devices. They say current evidence suggests the operators are likely acting as initial access brokers, a role they have not confirmed.",
+      "status": "",
+      "motivation": "",
+      "suspected_origin": "Not stated in the sources",
+      "attributed_by": "Group-IB and NyxLab (joint report, 21 October 2026)",
+      "mitre_attack_id": "",
+      "target_sectors": [
+        "Any industry",
+        "Exposed network devices",
+        "Other devices of interest",
+        "United States and Canada",
+        "Asia Pacific",
+        "Latin America"
+      ],
+      "target_regions": [],
+      "attack_techniques": [
+        {
+          "tactic": "Reconnaissance",
+          "id": "T1596.005",
+          "name": "Search Open Technical Databases: Scan Databases"
+        },
+        {
+          "tactic": "Initial Access",
+          "id": "T1190",
+          "name": "Exploit Public-Facing Application"
+        },
+        {
+          "tactic": "Credential Access",
+          "id": "T1110.003",
+          "name": "Brute Force: Password Spraying"
+        },
+        {
+          "tactic": "Initial Access",
+          "id": "T1133",
+          "name": "External Remote Services"
+        },
+        {
+          "tactic": "Lateral Movement",
+          "id": "T1550.004",
+          "name": "Use Alternate Authentication Material: Web Session Cookie"
+        },
+        {
+          "tactic": "Persistence",
+          "id": "T1136.001",
+          "name": "Create Account: Local Account"
+        },
+        {
+          "tactic": "Collection",
+          "id": "T1602.002",
+          "name": "Data from Configuration Repository: Network Device Configuration Dump"
+        },
+        {
+          "tactic": "Command and Control",
+          "id": "T1219",
+          "name": "Remote Access Tools"
+        },
+        {
+          "tactic": "Execution",
+          "id": "T1059.001",
+          "name": "Command and Scripting Interpreter: PowerShell"
+        },
+        {
+          "tactic": "Credential Access",
+          "id": "T1003.001",
+          "name": "OS Credential Dumping: LSASS Memory"
+        },
+        {
+          "tactic": "Credential Access",
+          "id": "T1558.003",
+          "name": "Steal or Forge Kerberos Tickets: Kerberoasting"
+        },
+        {
+          "tactic": "Credential Access",
+          "id": "T1187",
+          "name": "Forced Authentication"
+        },
+        {
+          "tactic": "Privilege Escalation",
+          "id": "T1068",
+          "name": "Exploitation for Privilege Escalation"
+        },
+        {
+          "tactic": "Exfiltration",
+          "id": "T1567.002",
+          "name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage"
+        }
+      ],
+      "tools": [
+        {
+          "name": "FortiGate Security Scanner",
+          "type": "Custom attack script"
+        },
+        {
+          "name": "CVE-2026-0257 PAN-OS GlobalProtect Scanner + VPN Connect",
+          "type": "Custom exploit tool"
+        },
+        {
+          "name": "OpenConnect",
+          "type": "VPN client"
+        },
+        {
+          "name": "MeshCentral and MeshAgent",
+          "type": "Remote management platform"
+        },
+        {
+          "name": "AdaptixC2",
+          "type": "Open source C2 framework"
+        },
+        {
+          "name": "Atera, Teramind, AnyDesk and ngrok",
+          "type": "Remote access and tunneling tools"
+        },
+        {
+          "name": "NetExec",
+          "type": "Post-exploitation tool"
+        },
+        {
+          "name": "Impacket",
+          "type": "Python toolkit"
+        },
+        {
+          "name": "Mimikatz",
+          "type": "Credential dumping tool"
+        },
+        {
+          "name": "noPac, Kerbrute and PetitPotam",
+          "type": "Active Directory attack tools"
+        },
+        {
+          "name": "SoftPerfect",
+          "type": "Network scanner"
+        },
+        {
+          "name": "Rclone",
+          "type": "Cloud storage utility"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stray Cat, Open Doors: How k0t Wanders Through the Network Edge",
+          "publisher": "Group-IB with NyxLab",
+          "url": "https://www.group-ib.com/blog/stray-cat-network-edge/"
+        },
+        {
+          "title": "Groups",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/groups/"
+        },
+        {
+          "title": "Search Open Technical Databases: Scan Databases, T1596.005",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1596/005/"
+        },
+        {
+          "title": "Exploit Public-Facing Application, T1190",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1190/"
+        },
+        {
+          "title": "Brute Force: Password Spraying, T1110.003",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1110/003/"
+        },
+        {
+          "title": "External Remote Services, T1133",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1133/"
+        },
+        {
+          "title": "Use Alternate Authentication Material: Web Session Cookie, T1550.004",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1550/004/"
+        },
+        {
+          "title": "Create Account: Local Account, T1136.001",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1136/001/"
+        },
+        {
+          "title": "Data from Configuration Repository: Network Device Configuration Dump, T1602.002",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1602/002/"
+        },
+        {
+          "title": "Remote Access Tools, T1219",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1219/"
+        },
+        {
+          "title": "Command and Scripting Interpreter: PowerShell, T1059.001",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1059/001/"
+        },
+        {
+          "title": "OS Credential Dumping: LSASS Memory, T1003.001",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1003/001/"
+        },
+        {
+          "title": "Steal or Forge Kerberos Tickets: Kerberoasting, T1558.003",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1558/003/"
+        },
+        {
+          "title": "Forced Authentication, T1187",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1187/"
+        },
+        {
+          "title": "Exploitation for Privilege Escalation, T1068",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1068/"
+        },
+        {
+          "title": "Exfiltration Over Web Service: Exfiltration to Cloud Storage, T1567.002",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1567/002/"
         }
       ]
     },

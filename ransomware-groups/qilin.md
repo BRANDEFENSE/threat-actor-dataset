@@ -21,6 +21,7 @@ Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE AT
 - [Cyber incident involving Synnovis system within two NHS England Trusts](https://cavuhb.nhs.wales/news/latest-news/cyber-incident-involving-synnovis-system-within-some-nhs-england-trust/), Cardiff and Vale University Health Board (NHS Wales)
 - [#StopRansomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide), CISA
 - [Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups](https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/), Cyber Security Agency of Singapore
+- [Stray Cat, Open Doors: How k0t Wanders Through the Network Edge](https://www.group-ib.com/blog/stray-cat-network-edge/), Group-IB with NyxLab
 
 ## Full profile
 

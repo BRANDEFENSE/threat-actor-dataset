@@ -855,6 +855,11 @@
           "title": "Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups",
           "publisher": "Cyber Security Agency of Singapore",
           "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/"
+        },
+        {
+          "title": "Stray Cat, Open Doors: How k0t Wanders Through the Network Edge",
+          "publisher": "Group-IB with NyxLab",
+          "url": "https://www.group-ib.com/blog/stray-cat-network-edge/"
         }
       ]
     },
