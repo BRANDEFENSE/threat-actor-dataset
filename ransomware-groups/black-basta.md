@@ -1,4 +1,4 @@
-# Black Basta ransomware group
+# Black Basta
 
 Black Basta is a ransomware as a service operation, first identified in April 2022. The FBI, CISA, HHS and MS-ISAC reported in a joint advisory (AA24-131A, first published May 10, 2024) that its affiliates had hit over 500 organizations worldwide by May 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates, who carry out the attacks.
 
@@ -24,6 +24,6 @@ Black Basta is a ransomware as a service operation, first identified in April 20
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[Black Basta ransomware group on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/)**
+Timeline, attribution notes, defences and FAQ: **[Black Basta on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._

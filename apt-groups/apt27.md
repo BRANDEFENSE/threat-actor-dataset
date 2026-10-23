@@ -1,10 +1,10 @@
-# APT27 threat group profile
+# APT27
 
 Attributed by MITRE ATT&CK and by the US Department of Justice (5 March 2025) to a Chinese group, also called Threat Group-3390 and Emissary Panda, that targets governments and companies. The Justice Department charged two men it calls APT27 actors, alleging profit-driven hacking from 2013 to 2024.
 
 | Field | Value |
 |---|---|
-| Also known as | APT27, Threat Group-3390, TG-3390, Emissary Panda, BRONZE UNION, Iron Tiger, LuckyMouse, Earth Smilodon, Linen Typhoon, Silk Typhoon, UTA0178, UNC 5221, ZipToken, Group 35, TEMP.Hippo |
+| Also known as | Threat Group-3390, TG-3390, Emissary Panda, BRONZE UNION, Iron Tiger, LuckyMouse, Earth Smilodon, Linen Typhoon, Silk Typhoon, UTA0178, UNC 5221, ZipToken, Group 35, TEMP.Hippo |
 | Status | active |
 | Motivation | a:2:{i:0;s:9:"espionage";i:1;s:9:"financial";} |
 | Suspected origin | China |
@@ -61,6 +61,6 @@ Attributed by MITRE ATT&CK and by the US Department of Justice (5 March 2025) to
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[APT27 threat group profile on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/apt27/)**
+Timeline, attribution notes, defences and FAQ: **[APT27 on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/apt27/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._

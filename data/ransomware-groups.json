@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "Akira ransomware group",
+      "name": "Akira",
       "slug": "akira",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/akira/",
       "last_updated": "2026-10-10",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "Black Basta ransomware group",
+      "name": "Black Basta",
       "slug": "black-basta",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/black-basta/",
       "last_updated": "2026-10-10",
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "name": "Conti ransomware group",
+      "name": "Conti",
       "slug": "conti",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/conti/",
       "last_updated": "2026-10-10",
@@ -932,7 +932,7 @@
       ]
     },
     {
-      "name": "REvil ransomware group",
+      "name": "REvil",
       "slug": "revil",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/revil/",
       "last_updated": "2026-10-10",
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "name": "SafePay Ransomware Group",
+      "name": "SafePay",
       "slug": "safepay",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/safepay/",
       "last_updated": "2026-10-21",

@@ -1,4 +1,4 @@
-# REvil ransomware group
+# REvil
 
 REvil, also called Sodinokibi, is a ransomware as a service operation that MITRE ATT&CK says ran since at least April 2019. The U.S. Department of Justice says it was used in thousands of attacks, including the July 2021 attack on Kaseya, an IT software company, that reached its customers. Between November 2021 and May 2024 the United States sanctioned, charged, extradited and sentenced people tied to it.
 
@@ -27,6 +27,6 @@ REvil, also called Sodinokibi, is a ransomware as a service operation that MITRE
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[REvil ransomware group on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/revil/)**
+Timeline, attribution notes, defences and FAQ: **[REvil on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/revil/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._

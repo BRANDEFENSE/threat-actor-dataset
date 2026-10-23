@@ -1,4 +1,4 @@
-# SafePay Ransomware Group
+# SafePay
 
 SafePay is a ransomware group that the FBI, CISA and partners say has been highly active since August 2024. A joint advisory published on 20 October 2026 counts at least 600 separate victims, from multiple critical infrastructure sectors.
 
@@ -20,6 +20,6 @@ SafePay is a ransomware group that the FBI, CISA and partners say has been highl
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[SafePay Ransomware Group on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/safepay/)**
+Timeline, attribution notes, defences and FAQ: **[SafePay on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/safepay/)**
 
 _Last updated 2026-10-21. Data: CC BY 4.0, Brandefense._

@@ -1027,15 +1027,11 @@
       ]
     },
     {
-      "name": "APT27 threat group profile",
+      "name": "APT27",
       "slug": "apt27",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/apt27/",
       "last_updated": "2026-10-10",
       "aliases": [
-        {
-          "name": "APT27",
-          "source": "MITRE ATT&CK associated-group name; also used by the US Department of Justice (5 March 2025), Germany BfV (2022), Belgium (2022) and CERT-EU with ENISA (2023)"
-        },
         {
           "name": "Threat Group-3390",
           "source": "Main name on the MITRE ATT&CK group page G0027"
@@ -3908,15 +3904,11 @@
       ]
     },
     {
-      "name": "APT40 threat group profile",
+      "name": "APT40",
       "slug": "apt40",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/apt40/",
       "last_updated": "2026-10-10",
       "aliases": [
-        {
-          "name": "APT40",
-          "source": "MITRE ATT&CK Associated Groups; CISA and FBI advisory AA21-200A; 2021 US indictment; UK government statement of 19 July 2021; 2024 joint advisory"
-        },
         {
           "name": "Leviathan",
           "source": "MITRE ATT&CK group name; AA21-200A; 2021 US indictment; UK government table; 2024 joint advisory"
@@ -5110,15 +5102,11 @@
       ]
     },
     {
-      "name": "BlackTech threat group profile",
+      "name": "BlackTech",
       "slug": "blacktech",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/blacktech/",
       "last_updated": "2026-10-10",
       "aliases": [
-        {
-          "name": "BlackTech",
-          "source": "MITRE ATT&CK G0098 (group name) and the joint advisory AA23-270A"
-        },
         {
           "name": "Palmerworm",
           "source": "MITRE ATT&CK Associated Groups and the joint advisory AA23-270A"

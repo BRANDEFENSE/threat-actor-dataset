@@ -530,10 +530,9 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "APT27 threat group profile",
+   "name": "APT27",
    "description": "Attributed by MITRE ATT&CK and by the US Department of Justice (5 March 2025) to a Chinese group, also called Threat Group-3390 and Emissary Panda, that targets governments and companies. The Justice Department charged two men it calls APT27 actors, alleging profit-driven hacking from 2013 to 2024.",
    "aliases": [
-    "APT27",
     "Threat Group-3390",
     "TG-3390",
     "Emissary Panda",
@@ -1857,10 +1856,9 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "APT40 threat group profile",
+   "name": "APT40",
    "description": "APT40 (tracked by MITRE as Leviathan) is attributed by the US and UK governments (2021) and by agencies in eight countries (2024) to China's Ministry of State Security. The US charged four people in 2021, three of them named as officers of its Hainan State Security Department.",
    "aliases": [
-    "APT40",
     "Leviathan",
     "MUDCARP",
     "Kryptonite Panda",
@@ -2410,10 +2408,9 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "BlackTech threat group profile",
+   "name": "BlackTech",
    "description": "Attributed by the US and Japanese governments (joint advisory, 27 September 2023) to cyber actors linked to the People's Republic of China, BlackTech is described as targeting government, technology, media, electronics and telecommunication organizations in East Asia and the US. It steals information, and the advisory details how it hides in router firmware to keep access.",
    "aliases": [
-    "BlackTech",
     "Palmerworm",
     "Temp.Overboard",
     "Circuit Panda",
@@ -6090,7 +6087,7 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "Akira ransomware group",
+   "name": "Akira",
    "description": "Akira is a ransomware group active since March 2023. A joint advisory (AA24-109A, first published April 18, 2024, revised 13 November 2025) from the FBI, CISA, Europol and agencies in France, Germany and the Netherlands says it has hit businesses and critical infrastructure in North America, Europe and Australia. As of late September 2025 it had claimed about 244.17 million US dollars in proceeds, per the advisory.",
    "aliases": [
     "Storm-1567",
@@ -6197,7 +6194,7 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "Black Basta ransomware group",
+   "name": "Black Basta",
    "description": "Black Basta is a ransomware as a service operation, first identified in April 2022. The FBI, CISA, HHS and MS-ISAC reported in a joint advisory (AA24-131A, first published May 10, 2024) that its affiliates had hit over 500 organizations worldwide by May 2024. Ransomware as a service means the core team rents its malware to partner criminals, called affiliates, who carry out the attacks.",
    "aliases": [
     "Basta"
@@ -6292,7 +6289,7 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "Conti ransomware group",
+   "name": "Conti",
    "description": "Conti was a ransomware as a service operation first observed in December 2019, per MITRE ATT&CK. A joint advisory (AA21-265A) from CISA, the FBI and the NSA, first published September 22, 2021, says it hit U.S. and international organizations in more than 400 attacks at first and above 1,000 by March 2022. The U.S. Department of Justice says the conspiracy ran until about June 2022.",
    "aliases": [
     "Wizard Spider (per Rewards for Justice and the UK government)"
@@ -6809,7 +6806,7 @@
    "created": "2026-10-10T00:00:00.000Z",
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "REvil ransomware group",
+   "name": "REvil",
    "description": "REvil, also called Sodinokibi, is a ransomware as a service operation that MITRE ATT&CK says ran since at least April 2019. The U.S. Department of Justice says it was used in thousands of attacks, including the July 2021 attack on Kaseya, an IT software company, that reached its customers. Between November 2021 and May 2024 the United States sanctioned, charged, extradited and sentenced people tied to it.",
    "aliases": [
     "Sodinokibi",
@@ -6942,7 +6939,7 @@
    "created": "2026-10-21T00:00:00.000Z",
    "modified": "2026-10-21T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "SafePay Ransomware Group",
+   "name": "SafePay",
    "description": "SafePay is a ransomware group that the FBI, CISA and partners say has been highly active since August 2024. A joint advisory published on 20 October 2026 counts at least 600 separate victims, from multiple critical infrastructure sectors.",
    "external_references": [
     {

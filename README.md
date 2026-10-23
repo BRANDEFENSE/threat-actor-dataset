@@ -76,7 +76,7 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [APT1](apt-groups/apt1.md) | Comment Crew, Comment Group, Comment Panda, … | China | G0006 |
 | [APT18](apt-groups/apt18.md) | TG-0416, Dynamite Panda, Threat Group-0416, … |  | G0026 |
 | [APT19](apt-groups/apt19.md) | Codoso, C0d0so0, Codoso Team, … | China | G0073 |
-| [APT27 threat group profile](apt-groups/apt27.md) | APT27, Threat Group-3390, TG-3390, … | China | G0027 |
+| [APT27](apt-groups/apt27.md) | Threat Group-3390, TG-3390, Emissary Panda, … | China | G0027 |
 | [APT28](apt-groups/apt28.md) | Fancy Bear, Forest Blizzard, Sofacy, … | Russia | G0007 |
 | [APT29](apt-groups/apt29.md) | Cozy Bear, The Dukes, Midnight Blizzard, … | Russia | G0016 |
 | [APT32](apt-groups/apt32.md) | OceanLotus, SeaLotus, APT-C-00, … | Vietnam | G0050 |
@@ -87,12 +87,12 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [APT37](apt-groups/apt37.md) | ScarCruft, InkySquid, Reaper, … | North Korea | G0067 |
 | [APT38](apt-groups/apt38.md) | BeagleBoyz, Bluenoroff, Stardust Chollima, … | North Korea | G0082 |
 | [APT39](apt-groups/apt39.md) | Advanced Persistent Threat 39, Chafer, ITG07, … | Iran | G0087 |
-| [APT40 threat group profile](apt-groups/apt40.md) | APT40, Leviathan, MUDCARP, … | China | G0065 |
+| [APT40](apt-groups/apt40.md) | Leviathan, MUDCARP, Kryptonite Panda, … | China | G0065 |
 | [APT41](apt-groups/apt41.md) | Wicked Panda, Brass Typhoon, BARIUM, … | China | G0096 |
 | [APT42](apt-groups/apt42.md) | TA453, Mint Sandstorm, Educated Manticore, … | Iran | G1044 |
 | [ARMORY CASTLE](apt-groups/armory-castle.md) | UNC5221, UNC5337 | China (suspected) |  |
 | [BITTER](apt-groups/bitter.md) | T-APT-17, Bitter |  | G1002 |
-| [BlackTech threat group profile](apt-groups/blacktech.md) | BlackTech, Palmerworm, Temp.Overboard, … | China | G0098 |
+| [BlackTech](apt-groups/blacktech.md) | Palmerworm, Temp.Overboard, Circuit Panda, … | China | G0098 |
 | [CyberAv3ngers](apt-groups/cyberav3ngers.md) | CyberAveng3rs, Cyber Avengers, Shahid Kaveh Group, … | Iran | G1027 |
 | [Dragonfly](apt-groups/dragonfly.md) | TEMP.Isotope, DYMALLOY, Berserk Bear, … | Russia | G0035 |
 | [Ember Bear](apt-groups/ember-bear.md) | Cadet Blizzard, UAC-0056, UNC2589, … | Russia | G1003 |
@@ -128,12 +128,12 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | Group | Also known as | Status | First seen |
 |---|---|---|---|
 | [8Base](ransomware-groups/8base.md) | Affiliate 2803, Phobos affiliate group | disrupted | 2019 |
-| [Akira ransomware group](ransomware-groups/akira.md) | Storm-1567, Howling Scorpius, Punk Spider, … | active | 2023 |
+| [Akira](ransomware-groups/akira.md) | Storm-1567, Howling Scorpius, Punk Spider, … | active | 2023 |
 | [ALPHV / BlackCat](ransomware-groups/alphv-blackcat.md) | ALPHV, BlackCat, Noberus | disrupted | 2021 |
 | [BianLian](ransomware-groups/bianlian.md) | BianLian group | active | 2022 |
-| [Black Basta ransomware group](ransomware-groups/black-basta.md) | Basta |  | 2022 |
+| [Black Basta](ransomware-groups/black-basta.md) | Basta |  | 2022 |
 | [Cl0p](ransomware-groups/cl0p.md) | CL0P, Clop, TA505 | active | 2019 |
-| [Conti ransomware group](ransomware-groups/conti.md) | Wizard Spider (per Rewards for Justice and the UK government) | inactive | 2019 |
+| [Conti](ransomware-groups/conti.md) | Wizard Spider (per Rewards for Justice and the UK government) | inactive | 2019 |
 | [DarkSide](ransomware-groups/darkside.md) | Darkside, BlackMatter (possible rebrand) | inactive | 2020 |
 | [DearCry](ransomware-groups/dearcry.md) |  |  | March 2021 |
 | [DragonForce](ransomware-groups/dragonforce.md) |  | active | Not dated in official sources |
@@ -147,10 +147,10 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [Play](ransomware-groups/play.md) | Playcrypt | active | 2022 |
 | [Qilin](ransomware-groups/qilin.md) | Agenda, Water Galura (operators) | active | 2022 |
 | [RansomHub](ransomware-groups/ransomhub.md) | Cyclops, Knight |  | 2024 |
-| [REvil ransomware group](ransomware-groups/revil.md) | Sodinokibi, Sodin | disrupted | 2019 |
+| [REvil](ransomware-groups/revil.md) | Sodinokibi, Sodin | disrupted | 2019 |
 | [Rhysida](ransomware-groups/rhysida.md) | Rhysida ransomware | active | 2023 |
 | [Royal](ransomware-groups/royal.md) | BlackSuit | rebranded | 2022 |
-| [SafePay Ransomware Group](ransomware-groups/safepay.md) |  | active | 2024 |
+| [SafePay](ransomware-groups/safepay.md) |  | active | 2024 |
 | [Vice Society](ransomware-groups/vice-society.md) |  |  | 2021 |
 | [Warlock](ransomware-groups/warlock.md) | Storm-2603 |  | 2025 |
 
@@ -169,19 +169,19 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | [CaddyWiper](malware/caddywiper.md) | wiper | Windows | Sandworm |
 | [Candiru spyware](malware/candiru.md) |  | Windows |  |
 | [CanisterWorm](malware/canisterworm.md) | infostealer | Containers, Linux | TeamPCP |
-| [China Chopper](malware/china-chopper.md) | abused-tool | Windows | APT40 threat group profile, APT41, Mustang Panda |
+| [China Chopper](malware/china-chopper.md) | abused-tool | Windows | APT40, APT41, Mustang Panda |
 | [Clop](malware/clop.md) | ransomware | Windows | Cl0p |
-| [Cobalt Strike](malware/cobalt-strike.md) | abused-tool | Linux, macOS, Windows | APT29, APT40 threat group profile, APT41, … |
+| [Cobalt Strike](malware/cobalt-strike.md) | abused-tool | Linux, macOS, Windows | APT29, APT40, APT41, … |
 | [Conti](malware/conti.md) | ransomware | Windows |  |
 | [Crimson RAT](malware/crimson-rat.md) | rat | Windows | APT36 |
 | [CROSSROAD downloader](malware/crossroad.md) | loader | Windows |  |
 | [Cyclops Blink](malware/cyclops-blink.md) | botnet | Network Devices | Sandworm |
-| [Derusbi](malware/derusbi.md) | rat | Windows, Linux | APT40 threat group profile, APT41 |
+| [Derusbi](malware/derusbi.md) | rat | Windows, Linux | APT40, APT41 |
 | [Dtrack](malware/dtrack.md) | rat | Windows | Lazarus Group |
 | [Emotet](malware/emotet.md) | loader | Windows |  |
 | [Evilginx](malware/evilginx.md) | abused-tool | IaaS, Identity Provider, Office Suite, SaaS | LAUNDRY BEAR |
 | [FASTCash](malware/fastcash.md) | rat | AIX, Windows | APT38, Lazarus Group |
-| [Gh0st RAT](malware/gh0st-rat.md) | rat | Windows, macOS | Andariel, APT40 threat group profile, APT41, … |
+| [Gh0st RAT](malware/gh0st-rat.md) | rat | Windows, macOS | Andariel, APT40, APT41, … |
 | [HOOKEDGE Backdoor](malware/hookedge.md) | rat | Windows | APT28 |
 | [HOPLIGHT](malware/hoplight.md) | rat | Windows | APT38, Lazarus Group |
 | [Impacket](malware/impacket.md) | abused-tool | Linux, macOS, Windows | APT29, APT35, APT41, … |

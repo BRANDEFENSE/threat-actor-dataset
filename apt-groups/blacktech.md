@@ -1,10 +1,10 @@
-# BlackTech threat group profile
+# BlackTech
 
 Attributed by the US and Japanese governments (joint advisory, 27 September 2023) to cyber actors linked to the People's Republic of China, BlackTech is described as targeting government, technology, media, electronics and telecommunication organizations in East Asia and the US. It steals information, and the advisory details how it hides in router firmware to keep access.
 
 | Field | Value |
 |---|---|
-| Also known as | BlackTech, Palmerworm, Temp.Overboard, Circuit Panda, Radio Panda |
+| Also known as | Palmerworm, Temp.Overboard, Circuit Panda, Radio Panda |
 | Status | dormant |
 | Motivation | espionage |
 | Suspected origin | China |
@@ -69,6 +69,6 @@ Attributed by the US and Japanese governments (joint advisory, 27 September 2023
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[BlackTech threat group profile on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/blacktech/)**
+Timeline, attribution notes, defences and FAQ: **[BlackTech on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/blacktech/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._

@@ -1,4 +1,4 @@
-# Conti ransomware group
+# Conti
 
 Conti was a ransomware as a service operation first observed in December 2019, per MITRE ATT&CK. A joint advisory (AA21-265A) from CISA, the FBI and the NSA, first published September 22, 2021, says it hit U.S. and international organizations in more than 400 attacks at first and above 1,000 by March 2022. The U.S. Department of Justice says the conspiracy ran until about June 2022.
 
@@ -30,6 +30,6 @@ Conti was a ransomware as a service operation first observed in December 2019, p
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[Conti ransomware group on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/conti/)**
+Timeline, attribution notes, defences and FAQ: **[Conti on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/conti/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._

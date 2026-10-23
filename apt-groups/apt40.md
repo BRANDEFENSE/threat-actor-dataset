@@ -1,10 +1,10 @@
-# APT40 threat group profile
+# APT40
 
 APT40 (tracked by MITRE as Leviathan) is attributed by the US and UK governments (2021) and by agencies in eight countries (2024) to China's Ministry of State Security. The US charged four people in 2021, three of them named as officers of its Hainan State Security Department.
 
 | Field | Value |
 |---|---|
-| Also known as | APT40, Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, TEMP.Periscope, Gingham Typhoon, Periscope, FEVERDREAM, GreenCrash, Hellsing |
+| Also known as | Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, TEMP.Periscope, Gingham Typhoon, Periscope, FEVERDREAM, GreenCrash, Hellsing |
 | Status | dormant |
 | Motivation | a:1:{i:0;s:10:"espionage";} |
 | Suspected origin | China |
@@ -67,6 +67,6 @@ APT40 (tracked by MITRE as Leviathan) is attributed by the US and UK governments
 
 ## Full profile
 
-Timeline, attribution notes, defences and FAQ: **[APT40 threat group profile on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/apt40/)**
+Timeline, attribution notes, defences and FAQ: **[APT40 on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/apt40/)**
 
 _Last updated 2026-10-10. Data: CC BY 4.0, Brandefense._
