@@ -1,6 +1,6 @@
 # SideWinder
 
-Attributed by MITRE ATT&CK as a suspected Indian threat actor group active since at least 2012, SideWinder is reported by the national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA to send spearphishing emails to government, military and diplomatic bodies, mainly in South Asia. Sources differ on how sure they are about the India link, and none names a sponsor.
+MITRE ATT&CK describes SideWinder as a suspected Indian threat actor group active since at least 2012. The national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA report that it sends spearphishing emails to government, military and diplomatic bodies, mainly in South Asia. Sources differ on how sure they are about the India link, and none names a sponsor.
 
 | Field | Value |
 |---|---|

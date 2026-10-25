@@ -1,6 +1,6 @@
 # MuddyWater
 
-Attributed by MITRE ATT&CK, the FBI, CISA, NCSC-UK and the US Treasury to Iran's Ministry of Intelligence and Security (MOIS), this group is described as running cyber espionage against telecommunications, defense, local government and oil and gas organizations. The 2022 joint advisory says it gets in by spearphishing and known software flaws, and shares access with other actors.
+MITRE ATT&CK, the FBI, CISA, NCSC-UK and the US Treasury attribute this group to Iran's Ministry of Intelligence and Security (MOIS). It is described as running cyber espionage against telecommunications, defense, local government and oil and gas organizations. The 2022 joint advisory says it gets in by spearphishing and known software flaws. It says the group shares access with other actors.
 
 | Field | Value |
 |---|---|

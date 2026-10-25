@@ -1,6 +1,6 @@
 # Handala
 
-Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), a group assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled, and the FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.
+Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055). The group is assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled. The FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.
 
 | Field | Value |
 |---|---|

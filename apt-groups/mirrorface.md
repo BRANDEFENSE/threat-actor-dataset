@@ -1,6 +1,6 @@
 # MirrorFace
 
-Attributed by Japan's National Police Agency (NPA) and NISC (8 January 2025) as an organized group with suspected Chinese involvement, MirrorFace (also called Earth Kasha) is reported to target Japanese think tanks, government, politicians, media, academia, and semiconductor, manufacturing and aerospace firms. It uses phishing emails and flaws in internet-facing devices to steal information on national security and advanced technology.
+Japan's National Police Agency (NPA) and NISC (8 January 2025) describe MirrorFace (also called Earth Kasha) as an organized group with suspected Chinese involvement. It is reported to target Japanese think tanks, government, politicians, media, academia, and semiconductor, manufacturing and aerospace firms. It uses phishing emails and flaws in internet-facing devices to steal information on national security and advanced technology.
 
 | Field | Value |
 |---|---|

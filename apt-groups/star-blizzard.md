@@ -1,6 +1,6 @@
 # Star Blizzard
 
-Attributed by the UK, US, Australian, Canadian and New Zealand governments to Russia's Federal Security Service (FSB) Center 18, this group is linked to long phishing campaigns against politicians, researchers, journalists and government staff in the UK, US and other NATO countries. It steals email logins and reads the victims' mail.
+The UK, US, Australian, Canadian and New Zealand governments attribute this group to Russia's Federal Security Service (FSB) Center 18. It is linked to long phishing campaigns against politicians, researchers, journalists and government staff in the UK, US and other NATO countries. It steals email logins and reads the victims' mail.
 
 | Field | Value |
 |---|---|

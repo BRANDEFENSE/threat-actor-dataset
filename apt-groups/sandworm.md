@@ -1,6 +1,6 @@
 # Sandworm
 
-Attributed by the US, UK and EU governments to Russian military intelligence (GRU Unit 74455), this group is linked to the 2015 and 2016 power grid attacks in Ukraine, the 2017 NotPetya attack and the 2018 Winter Olympics attack. Its work is destructive: wipers and attacks on industrial control systems.
+The US, UK and EU governments attribute this group to Russian military intelligence (GRU Unit 74455). It is linked to the 2015 and 2016 power grid attacks in Ukraine, the 2017 NotPetya attack and the 2018 Winter Olympics attack. Its work is destructive: wipers and attacks on industrial control systems.
 
 | Field | Value |
 |---|---|

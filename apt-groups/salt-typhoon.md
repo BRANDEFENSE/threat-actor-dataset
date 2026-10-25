@@ -1,6 +1,6 @@
 # Salt Typhoon
 
-Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt Typhoon compromised network equipment at major US telecommunications and internet providers. A joint advisory by 13 countries (27 August 2025) says PRC state-sponsored actors with partly overlapping activity mostly exploit known flaws in routers and edge devices; patch and lock down those devices first.
+MITRE ATT&CK attributes Salt Typhoon to the PRC state and says it has been active since at least 2019. Salt Typhoon compromised network equipment at major US telecommunications and internet providers. A joint advisory by 13 countries (27 August 2025) says PRC state-sponsored actors with partly overlapping activity mostly exploit known flaws in routers and edge devices. Patch and lock down those devices first.
 
 | Field | Value |
 |---|---|

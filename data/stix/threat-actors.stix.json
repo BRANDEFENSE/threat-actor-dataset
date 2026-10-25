@@ -1269,7 +1269,7 @@
    "modified": "2026-10-10T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "APT42",
-   "description": "MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts cyber espionage and surveillance, active since at least 2015. Israel's National Digital Agency says it works in line with the IRGC Intelligence Organization, and the UK NCSC warned in 2023 about its patient spear-phishing of academics, officials, journalists and NGOs.",
+   "description": "MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts cyber espionage and surveillance, active since at least 2015. Israel's National Digital Agency says it works in line with the IRGC Intelligence Organization. The UK NCSC warned in 2023 about its patient spear-phishing of academics, officials, journalists and NGOs.",
    "aliases": [
     "TA453",
     "Mint Sandstorm",
@@ -1937,7 +1937,7 @@
    "modified": "2026-10-09T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Handala",
-   "description": "Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), a group assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled, and the FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.",
+   "description": "Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055). The group is assessed to operate on behalf of Iran's Ministry of Intelligence and Security (MOIS). The US Department of Justice (19 March 2026) says the Handala domains were MOIS-controlled. The FBI (20 March 2026) assesses Handala Hack is linked to the Homeland Justice persona, also operated by MOIS cyber actors.",
    "aliases": [
     "Handala Hack",
     "Handala Hack Team"
@@ -2330,7 +2330,7 @@
    "modified": "2026-10-23T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Lazarus Group",
-   "description": "Lazarus Group is the name used by MITRE, the US Treasury and the US Department of Justice for North Korean hacking units that, they say, work for the Reconnaissance General Bureau. The US charged three RGB members in 2020 and 2021 with attempts to steal or extort more than $1.3 billion, and the FBI attributed the 2025 Bybit theft to North Korean actors it tracks as TraderTraitor.",
+   "description": "Lazarus Group is the name used by MITRE, the US Treasury and the US Department of Justice for North Korean hacking units. They say these units work for the Reconnaissance General Bureau. The US charged three RGB members in 2020 and 2021 with attempts to steal or extort more than $1.3 billion. The FBI attributed the 2025 Bybit theft to North Korean actors it tracks as TraderTraitor.",
    "aliases": [
     "HIDDEN COBRA",
     "Guardians of Peace",
@@ -2470,7 +2470,7 @@
    "modified": "2026-10-09T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "MirrorFace",
-   "description": "Attributed by Japan's National Police Agency (NPA) and NISC (8 January 2025) as an organized group with suspected Chinese involvement, MirrorFace (also called Earth Kasha) is reported to target Japanese think tanks, government, politicians, media, academia, and semiconductor, manufacturing and aerospace firms. It uses phishing emails and flaws in internet-facing devices to steal information on national security and advanced technology.",
+   "description": "Japan's National Police Agency (NPA) and NISC (8 January 2025) describe MirrorFace (also called Earth Kasha) as an organized group with suspected Chinese involvement. It is reported to target Japanese think tanks, government, politicians, media, academia, and semiconductor, manufacturing and aerospace firms. It uses phishing emails and flaws in internet-facing devices to steal information on national security and advanced technology.",
    "aliases": [
     "Earth Kasha"
    ],
@@ -2534,7 +2534,7 @@
    "modified": "2026-10-08T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "MuddyWater",
-   "description": "Attributed by MITRE ATT&CK, the FBI, CISA, NCSC-UK and the US Treasury to Iran's Ministry of Intelligence and Security (MOIS), this group is described as running cyber espionage against telecommunications, defense, local government and oil and gas organizations. The 2022 joint advisory says it gets in by spearphishing and known software flaws, and shares access with other actors.",
+   "description": "MITRE ATT&CK, the FBI, CISA, NCSC-UK and the US Treasury attribute this group to Iran's Ministry of Intelligence and Security (MOIS). It is described as running cyber espionage against telecommunications, defense, local government and oil and gas organizations. The 2022 joint advisory says it gets in by spearphishing and known software flaws. It says the group shares access with other actors.",
    "aliases": [
     "Earth Vetala",
     "MERCURY",
@@ -2684,7 +2684,7 @@
    "modified": "2026-10-08T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Salt Typhoon",
-   "description": "Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt Typhoon compromised network equipment at major US telecommunications and internet providers. A joint advisory by 13 countries (27 August 2025) says PRC state-sponsored actors with partly overlapping activity mostly exploit known flaws in routers and edge devices; patch and lock down those devices first.",
+   "description": "MITRE ATT&CK attributes Salt Typhoon to the PRC state and says it has been active since at least 2019. Salt Typhoon compromised network equipment at major US telecommunications and internet providers. A joint advisory by 13 countries (27 August 2025) says PRC state-sponsored actors with partly overlapping activity mostly exploit known flaws in routers and edge devices. Patch and lock down those devices first.",
    "aliases": [
     "OPERATOR PANDA",
     "RedMike",
@@ -2751,7 +2751,7 @@
    "modified": "2026-10-07T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Sandworm",
-   "description": "Attributed by the US, UK and EU governments to Russian military intelligence (GRU Unit 74455), this group is linked to the 2015 and 2016 power grid attacks in Ukraine, the 2017 NotPetya attack and the 2018 Winter Olympics attack. Its work is destructive: wipers and attacks on industrial control systems.",
+   "description": "The US, UK and EU governments attribute this group to Russian military intelligence (GRU Unit 74455). It is linked to the 2015 and 2016 power grid attacks in Ukraine, the 2017 NotPetya attack and the 2018 Winter Olympics attack. Its work is destructive: wipers and attacks on industrial control systems.",
    "aliases": [
     "Sandworm Team",
     "Telebots",
@@ -2961,7 +2961,7 @@
    "modified": "2026-10-08T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "SideWinder",
-   "description": "Attributed by MITRE ATT&CK as a suspected Indian threat actor group active since at least 2012, SideWinder is reported by the national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA to send spearphishing emails to government, military and diplomatic bodies, mainly in South Asia. Sources differ on how sure they are about the India link, and none names a sponsor.",
+   "description": "MITRE ATT&CK describes SideWinder as a suspected Indian threat actor group active since at least 2012. The national CERTs of Pakistan and Bangladesh, CERT-EU and ENISA report that it sends spearphishing emails to government, military and diplomatic bodies, mainly in South Asia. Sources differ on how sure they are about the India link, and none names a sponsor.",
    "aliases": [
     "Sidewinder",
     "T-APT-04",
@@ -3091,7 +3091,7 @@
    "modified": "2026-10-09T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Star Blizzard",
-   "description": "Attributed by the UK, US, Australian, Canadian and New Zealand governments to Russia's Federal Security Service (FSB) Center 18, this group is linked to long phishing campaigns against politicians, researchers, journalists and government staff in the UK, US and other NATO countries. It steals email logins and reads the victims' mail.",
+   "description": "The UK, US, Australian, Canadian and New Zealand governments attribute this group to Russia's Federal Security Service (FSB) Center 18. It is linked to long phishing campaigns against politicians, researchers, journalists and government staff in the UK, US and other NATO countries. It steals email logins and reads the victims' mail.",
    "aliases": [
     "SEABORGIUM",
     "Callisto Group",

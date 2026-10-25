@@ -1,6 +1,6 @@
 # Lazarus Group
 
-Lazarus Group is the name used by MITRE, the US Treasury and the US Department of Justice for North Korean hacking units that, they say, work for the Reconnaissance General Bureau. The US charged three RGB members in 2020 and 2021 with attempts to steal or extort more than $1.3 billion, and the FBI attributed the 2025 Bybit theft to North Korean actors it tracks as TraderTraitor.
+Lazarus Group is the name used by MITRE, the US Treasury and the US Department of Justice for North Korean hacking units. They say these units work for the Reconnaissance General Bureau. The US charged three RGB members in 2020 and 2021 with attempts to steal or extort more than $1.3 billion. The FBI attributed the 2025 Bybit theft to North Korean actors it tracks as TraderTraitor.
 
 | Field | Value |
 |---|---|

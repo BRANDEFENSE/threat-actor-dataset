@@ -1,6 +1,6 @@
 # APT42
 
-MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts cyber espionage and surveillance, active since at least 2015. Israel's National Digital Agency says it works in line with the IRGC Intelligence Organization, and the UK NCSC warned in 2023 about its patient spear-phishing of academics, officials, journalists and NGOs.
+MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts cyber espionage and surveillance, active since at least 2015. Israel's National Digital Agency says it works in line with the IRGC Intelligence Organization. The UK NCSC warned in 2023 about its patient spear-phishing of academics, officials, journalists and NGOs.
 
 | Field | Value |
 |---|---|
