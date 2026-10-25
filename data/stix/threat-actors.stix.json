@@ -5816,6 +5816,61 @@
   {
    "type": "malware",
    "spec_version": "2.1",
+   "id": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "created": "2026-10-25T00:00:00.000Z",
+   "modified": "2026-10-25T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "GlassWorm Malware: From VS Code Extensions to the OVHcloud CLI Swap",
+   "description": "GlassWorm is a worm that targets developer tools. MITRE says it compromises repository credentials and adds malicious payloads to those accounts. It was first reported in October 2025 in VS Code extensions. In October 2026 StepSecurity tied its loader to a swapped release of the OVHcloud command line tool.",
+   "is_family": true,
+   "aliases": [
+    "GlassWorm"
+   ],
+   "external_references": [
+    {
+     "source_name": "brandefense",
+     "url": "https://brandefense.io/knowledge-hub/malware/glassworm/"
+    },
+    {
+     "source_name": "MITRE ATT&CK",
+     "description": "GlassWorm, Software S9010",
+     "url": "https://attack.mitre.org/software/S9010/"
+    },
+    {
+     "source_name": "StepSecurity",
+     "description": "OVHcloud CLI Compromised via GitHub Release Swap: Detonating the Real GlassWorm Loader and What We Found",
+     "url": "https://www.stepsecurity.io/blog/ovhcloud-cli-github-release-swap-glassworm"
+    },
+    {
+     "source_name": "OVHcloud, GitHub Advisory",
+     "description": "ovhcloud-cli security incident, October 19th, 2026 (GHSA-862f-55f5-vmvw)",
+     "url": "https://github.com/ovh/ovhcloud-cli/security/advisories/GHSA-862f-55f5-vmvw"
+    },
+    {
+     "source_name": "Veracode Threat Research",
+     "description": "GlassWorm: The First Self-Propagating VS Code Extension Worm",
+     "url": "https://www.veracode.com/?p=23731"
+    },
+    {
+     "source_name": "Aikido Security",
+     "description": "GitHub User Compromised with Invisible Malware",
+     "url": "https://www.aikido.dev/blog/the-return-of-the-invisible-threat-hidden-pua-unicode-hits-github-repositorties"
+    },
+    {
+     "source_name": "Socket",
+     "description": "GlassWorm Loader Hits Open VSX via Developer Account Compromise",
+     "url": "https://socket.dev/blog/glassworm-loader-hits-open-vsx-via-suspected-developer-account-compromise"
+    },
+    {
+     "source_name": "Palo Alto Networks",
+     "description": "Supply Chain Under Siege: GlassWorm's Native Rust Loaders Target VS Code",
+     "url": "https://www.paloaltonetworks.com/blog/security-operations/glassworm-goes-native-rust-loader-vscode-openvsx/"
+    }
+   ]
+  },
+  {
+   "type": "malware",
+   "spec_version": "2.1",
    "id": "malware--1c02716a-0559-51b5-ae1c-08aae5c3acb0",
    "created": "2026-10-23T00:00:00.000Z",
    "modified": "2026-10-23T00:00:00.000Z",
@@ -12708,6 +12763,69 @@
   {
    "type": "attack-pattern",
    "spec_version": "2.1",
+   "id": "attack-pattern--60a7aabe-5c1a-5e22-8788-e3ec97101309",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Obfuscated Files or Information: Invisible Unicode",
+   "external_references": [
+    {
+     "source_name": "mitre-attack",
+     "external_id": "T1027.018",
+     "url": "https://attack.mitre.org/techniques/T1027/018/"
+    }
+   ]
+  },
+  {
+   "type": "attack-pattern",
+   "spec_version": "2.1",
+   "id": "attack-pattern--06898709-4355-558a-8640-2ed72c1ff7a9",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-08T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Masquerading",
+   "external_references": [
+    {
+     "source_name": "mitre-attack",
+     "external_id": "T1036",
+     "url": "https://attack.mitre.org/techniques/T1036/"
+    },
+    {
+     "source_name": "brandefense",
+     "url": "https://brandefense.io/knowledge-hub/techniques/t1036-masquerading/"
+    },
+    {
+     "source_name": "MITRE",
+     "description": "MITRE ATT&CK T1036: Masquerading",
+     "url": "https://attack.mitre.org/techniques/T1036/"
+    },
+    {
+     "source_name": "MITRE",
+     "description": "MITRE ATT&CK T1036.005: Masquerading: Match Legitimate Resource Name or Location",
+     "url": "https://attack.mitre.org/techniques/T1036/005/"
+    }
+   ],
+   "description": "Masquerading is when an attacker changes how a file, program, service or account looks so it seems legitimate. They may change its name, where it sits or its descriptive details. The aim is to avoid being noticed by people and by security tools."
+  },
+  {
+   "type": "attack-pattern",
+   "spec_version": "2.1",
+   "id": "attack-pattern--2f3bb316-9746-5d5d-8995-cd0a0706dab3",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Create or Modify System Process: Launch Agent",
+   "external_references": [
+    {
+     "source_name": "mitre-attack",
+     "external_id": "T1543.001",
+     "url": "https://attack.mitre.org/techniques/T1543/001/"
+    }
+   ]
+  },
+  {
+   "type": "attack-pattern",
+   "spec_version": "2.1",
    "id": "attack-pattern--b1f51463-3a62-5e5b-8c2b-eb5b1f65073b",
    "created": "2026-10-23T00:00:00.000Z",
    "modified": "2026-10-23T00:00:00.000Z",
@@ -13197,37 +13315,6 @@
     }
    ],
    "description": "Python Startup Hooks let an attacker run code every time Python starts. A file dropped into the Python packages folder is processed by the interpreter itself, so the code runs even if the program never imports anything from it. MITRE tracks this as T1546.018."
-  },
-  {
-   "type": "attack-pattern",
-   "spec_version": "2.1",
-   "id": "attack-pattern--06898709-4355-558a-8640-2ed72c1ff7a9",
-   "created": "2026-10-23T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
-   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "Masquerading",
-   "external_references": [
-    {
-     "source_name": "mitre-attack",
-     "external_id": "T1036",
-     "url": "https://attack.mitre.org/techniques/T1036/"
-    },
-    {
-     "source_name": "brandefense",
-     "url": "https://brandefense.io/knowledge-hub/techniques/t1036-masquerading/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK T1036: Masquerading",
-     "url": "https://attack.mitre.org/techniques/T1036/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK T1036.005: Masquerading: Match Legitimate Resource Name or Location",
-     "url": "https://attack.mitre.org/techniques/T1036/005/"
-    }
-   ],
-   "description": "Masquerading is when an attacker changes how a file, program, service or account looks so it seems legitimate. They may change its name, where it sits or its descriptive details. The aim is to avoid being noticed by people and by security tools."
   },
   {
    "type": "attack-pattern",
@@ -26130,6 +26217,171 @@
    "relationship_type": "uses",
    "source_ref": "malware--f9da8a2e-8137-5390-9b36-558b5f13ad39",
    "target_ref": "attack-pattern--4e16eed5-d2fb-5fed-b2b0-996798d4b460"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--944ec5a5-7b5a-5b2c-9eb1-424f688a3e92",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--085208a1-2828-5a44-af0f-99be4aab7b5f"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--ea7e742d-cbc9-5cd7-aa19-4c681d92296d",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--60a7aabe-5c1a-5e22-8788-e3ec97101309"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--79a7ab32-c444-52c3-aabe-dc276d85ab21",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--75ef125c-3298-53dc-b195-875cc56fd09a"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--5a312132-7b08-5aeb-8d09-86597c21dcd9",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--06898709-4355-558a-8640-2ed72c1ff7a9"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--f828245c-80d8-5a29-b5fd-2d9a3be64c33",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--2f2652c4-cd58-5986-ae24-c0a7c365a8b8"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--4d57a42f-dd85-5956-b520-4d3d4fb9ec51",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--2ce3e519-5dcf-5fa7-9286-dfe817b63c84"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--b2344612-f8d9-57b0-ab05-4ec0dc290b57",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--d5609c7e-ad09-53b4-81fc-dfdace645a44"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--31a3b595-1547-5ce6-8924-3090c04d3789",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--90dcb621-0acb-594b-a296-f4de430d4fe8"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--ee64576c-8486-5ba9-952b-d487f05737d4",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--ddf20af8-6830-5bfc-ba51-981e0ba1e5f2"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--7bc32a7c-57e3-5ddc-b293-93f1b39c895f",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--6fac5d19-c157-5a9c-8b69-f93be3011f35"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--270cca30-b994-53df-8457-6805072fec90",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--666a1da8-9834-5912-a373-dcefc5ea5ed6"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--ae51a048-a86a-5723-8e83-a07c6fa678a8",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--55623f11-4837-5aac-82f6-5c4a547c7e08"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--d03a21bb-97eb-56e0-9e11-d7359a8a55ed",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--331b7a0a-70c1-58ac-a545-53557475a0d0"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--e31678b3-fd5d-5ca1-ae6e-1387444fae8a",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--2f3bb316-9746-5d5d-8995-cd0a0706dab3"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--f519318a-e713-51d9-b05b-2648f81870e1",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--3b5bee1e-9d3c-56e1-a159-17c963940712",
+   "target_ref": "attack-pattern--d198ec9a-ac3e-5f3f-86b7-b960e621f4ff"
   },
   {
    "type": "relationship",
