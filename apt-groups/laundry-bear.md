@@ -46,11 +46,8 @@ Attributed by the Dutch AIVD and MIVD (2025) and by US, UK, Canadian and other a
 - [UK and partners expose Russian state-supported actors for new 'zero-click' phishing campaign targeting Western organisations](https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign), NCSC-UK
 - [Joint cyber security advisory on Russian state-sponsored phishing campaign targeting Zimbra webmail](https://www.cyber.gc.ca/en/news-events/joint-cyber-security-advisory-russian-state-sponsored-phishing-campaign-targeting-zimbra-webmail), Canadian Centre for Cyber Security
 - [Publicatie van AIVD en MIVD over Laundry Bear](https://www.ncsc.nl/actueel/nieuws/2025/05/27/publicatie-van-aivd-en-mivd-over-laundry-bear), NCSC, Netherlands
-- [Learn from Laundry Bear: tips for digital resilience](https://www.nldigitalgovernment.nl/news/learn-from-laundry-bear-tips-for-digital-resilience/), Digital Government, Netherlands
 - [Cyber Brief 26-08, July 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-08), CERT-EU
 - [Russian bears in cyberspace (Cyber Security in Estonia 2026)](https://www.ria.ee/en/russian-bears-cyberspace), Information System Authority (RIA), Estonia
-- [evilginx2 (S9003)](https://attack.mitre.org/software/S9003/), MITRE ATT&CK
-- [CVE-2025-66376](https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2025-66376), NIST National Vulnerability Database
 - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
 
 ## Full profile

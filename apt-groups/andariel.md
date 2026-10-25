@@ -44,8 +44,6 @@ Attributed by the US, UK and South Korean governments to North Korea's Reconnais
 ## Sources
 
 - [Andariel, Silent Chollima, PLUTONIUM, Onyx Sleet, Group G0138](https://attack.mitre.org/groups/G0138/), MITRE ATT&CK
-- [gh0st RAT, Software S0032](https://attack.mitre.org/software/S0032/), MITRE ATT&CK
-- [Rifdoor, Software S0433](https://attack.mitre.org/software/S0433/), MITRE ATT&CK
 - [North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime's Military and Nuclear Programs (AA24-207A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-207a), FBI, CNMF, CISA, DC3, NSA, South Korea NIS and NPA, UK NCSC
 - [NCSC and partners issue warning over North Korean state-sponsored cyber campaign to steal military and nuclear secrets](https://www.ncsc.gov.uk/news/ncsc-partners-vigilant-dprk-sponsored-cyber-campaign), UK National Cyber Security Centre
 - [United States v. Rim Jong Hyok, Indictment, Case 2:24-cr-20061 (D. Kansas), filed 24 July 2024](https://justice.gov/d9/2024-07/hyok_filed_indictment.pdf), US Department of Justice (court filing)
@@ -53,9 +51,6 @@ Attributed by the US, UK and South Korean governments to North Korea's Reconnais
 - [Rim Jong Hyok, Rewards for Justice](https://rewardsforjustice.net/rewards/rim-jong-hyok/), US Department of State, Rewards for Justice
 - [Sanctions Imposed on DPRK IT Workers Generating Revenue for the Kim Regime](https://home.treasury.gov/news/press-releases/sb0190), US Department of the Treasury
 - [North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector (AA22-187A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-187a), FBI, CISA, Treasury
-- [StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities (AA23-040A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a), NSA, FBI, CISA, HHS, South Korea NIS and DSA
-- [Stonefly: Extortion Attacks Continue Against U.S. Targets](https://www.security.com/threat-intelligence/stonefly-north-korea-extortion), Symantec
-- [Clasiopa: New Group Targets Materials Research](https://www.security.com/threat-intelligence/clasiopa-materials-research), Symantec
 
 ## Full profile
 

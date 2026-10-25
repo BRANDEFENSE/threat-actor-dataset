@@ -47,12 +47,6 @@ MITRE ATT&CK describes Transparent Tribe, also called APT36, as a suspected Paki
 - [DarkComet, Software S0334](https://attack.mitre.org/software/S0334/), MITRE ATT&CK
 - [Phishing: Spearphishing Attachment, Sub-technique T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
 - [Phishing: Spearphishing Link, Sub-technique T1566.002](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [User Execution: Malicious Link, Sub-technique T1204.001](https://attack.mitre.org/techniques/T1204/001/), MITRE ATT&CK
-- [User Execution: Malicious File, Sub-technique T1204.002](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
-- [Drive-by Compromise, Technique T1189](https://attack.mitre.org/techniques/T1189/), MITRE ATT&CK
-- [Exploitation for Client Execution, Technique T1203](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
-- [Acquire Infrastructure: Domains, Sub-technique T1583.001](https://attack.mitre.org/techniques/T1583/001/), MITRE ATT&CK
-- [Hide Artifacts: Hidden Files and Directories, Sub-technique T1564.001](https://attack.mitre.org/techniques/T1564/001/), MITRE ATT&CK
 
 ## Full profile
 

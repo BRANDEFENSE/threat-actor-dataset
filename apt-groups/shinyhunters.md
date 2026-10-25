@@ -47,18 +47,9 @@ The FBI describes ShinyHunters as a cyber criminal group that specializes in lar
 - [Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion (FLASH-20250912-001)](https://www.ic3.gov/CSA/2025/250912.pdf), FBI, coordinated with DHS/CISA
 - [Alleged French cybercriminal to appear in Seattle on indictment for conspiracy, computer intrusion, wire fraud and aggravated identity theft](https://www.justice.gov/usao-wdwa/pr/alleged-french-cybercriminal-appear-seattle-indictment-conspiracy-computer-intrusion), US Attorney's Office, Western District of Washington
 - [French cybercriminal pleads guilty to fraud and aggravated identity theft for hacking private information](https://www.justice.gov/usao-wdwa/pr/french-cybercriminal-pleads-guilty-fraud-and-aggravated-identity-theft-hacking-private), US Attorney's Office, Western District of Washington
-- [Member of notorious international hacking crew sentenced to prison](https://www.justice.gov/usao-wdwa/pr/member-notorious-international-hacking-crew-sentenced-prison), US Attorney's Office, Western District of Washington
 - [Internet Organised Crime Threat Assessment (IOCTA) 2026, section 3.3 New hacking coalitions](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA-2026.pdf), Europol
 - [Verdachte aangehouden in onderzoek naar hackersgroep ShinyHunters](https://www.politie.nl/nieuws/2026/september/29/11-verdachte-aangehouden-in-onderzoek-naar-hackersgroep-shinyhunters.html), Politie (Dutch National Police)
 - [FBI Announces ShinyHunters Arrest](https://www.fbi.gov/video-repository/shinyhunters-arrested-092926.mp4/view), FBI
-- [Tor (Software S0183)](https://attack.mitre.org/software/S0183/), MITRE ATT&CK
-- [Scattered Spider (Group G1015)](https://attack.mitre.org/groups/G1015/), MITRE ATT&CK
-- [LAPSUS$ (Group G1004)](https://attack.mitre.org/groups/G1004/), MITRE ATT&CK
-- [Steal Application Access Token, Technique T1528](https://attack.mitre.org/techniques/T1528/), MITRE ATT&CK
-- [Use Alternate Authentication Material: Application Access Token, Sub-technique T1550.001](https://attack.mitre.org/techniques/T1550/001/), MITRE ATT&CK
-- [Financial Theft, Technique T1657](https://attack.mitre.org/techniques/T1657/), MITRE ATT&CK
-- [Social Engineering, Technique T1684](https://attack.mitre.org/techniques/T1684/), MITRE ATT&CK
-- [Supply Chain Compromise: Compromise Software Dependencies and Development Tools, Sub-technique T1195.001](https://attack.mitre.org/techniques/T1195/001/), MITRE ATT&CK
 
 ## Full profile
 

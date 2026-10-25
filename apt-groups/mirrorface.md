@@ -50,23 +50,11 @@ Attributed by Japan's National Police Agency (NPA) and NISC (8 January 2025) as 
 - [MirrorFace, Earth Kasha (G1054)](https://attack.mitre.org/groups/G1054/), MITRE ATT&CK
 - [MirrorFaceによるサイバー攻撃について（注意喚起） (alert, Japanese PDF)](https://www.npa.go.jp/bureau/cyber/pdf/20250108_caution.pdf), National Police Agency and NISC
 - [Alert: Cyberattacks by MirrorFace (Provisional Translation)](https://www.npa.go.jp/bureau/cyber/pdf/20250204_mf.pdf), National Police Agency
-- [MirrorFaceによるサイバー攻撃について（注意喚起） (web page)](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20250108.html), National Police Agency
-- [Annex: Windows Sandbox technique, traces and detection](https://www.npa.go.jp/bureau/cyber/pdf/20250108_windowssandbox.pdf), National Police Agency
 - [Annex: VS Code technique, traces and detection](https://www.npa.go.jp/bureau/cyber/pdf/20250108_vscode.pdf), National Police Agency
-- [Alert: Cyberattacks by MirrorFace (Provisional Translation)](https://www.cyber.go.jp/eng/pdf/Alert_MirrorFace.pdf), NISC (Japan)
 - [Public security focus, chapter 5 cyber situation (R7)](https://www.npa.go.jp/bureau/security/publications/syouten/296/R7syouten-5.pdf), National Police Agency
 - [Cybersecurity 2025 (annual report 2024 and plan 2025)](https://www.cyber.go.jp/pdf/policy/kihon-s/250627cs2025.pdf), Cybersecurity Strategic Headquarters, NISC
 - [Cybersecurity Strategy, 23 December 2025 (tentative translation)](https://www.cyber.go.jp/eng/pdf/policy/kihon-s/cs_strategy2025_english.pdf), Government of Japan, NISC
 - [Threats in Cyberspace in 2025 and Police Efforts](https://www.npa.go.jp/english/bureau/cyber/document/Threats_in_cyberspace_in_2025.pdf), National Police Agency
-- [LODEINFO (S9020)](https://attack.mitre.org/software/S9020/), MITRE ATT&CK
-- [HiddenFace (S9023)](https://attack.mitre.org/software/S9023/), MITRE ATT&CK
-- [UPPERCUT (S0275)](https://attack.mitre.org/software/S0275/), MITRE ATT&CK
-- [MirrorStealer (S9022)](https://attack.mitre.org/software/S9022/), MITRE ATT&CK
-- [NOOPLDR (S9025)](https://attack.mitre.org/software/S9025/), MITRE ATT&CK
-- [DOWNIISSA (S9021)](https://attack.mitre.org/software/S9021/), MITRE ATT&CK
-- [ROAMINGHOUSE (S9026)](https://attack.mitre.org/software/S9026/), MITRE ATT&CK
-- [ANELLDR (S9027)](https://attack.mitre.org/software/S9027/), MITRE ATT&CK
-- [Cobalt Strike (S0154)](https://attack.mitre.org/software/S0154/), MITRE ATT&CK
 
 ## Full profile
 

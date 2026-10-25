@@ -43,17 +43,6 @@ APT18 (MITRE G0026) is described by MITRE ATT&CK as a threat group active since 
 - [gh0st RAT, Software S0032](https://attack.mitre.org/software/S0032/), MITRE ATT&CK
 - [cmd, Software S0106](https://attack.mitre.org/software/S0106/), MITRE ATT&CK
 - [External Remote Services, Technique T1133](https://attack.mitre.org/techniques/T1133/), MITRE ATT&CK
-- [Valid Accounts, Technique T1078](https://attack.mitre.org/techniques/T1078/), MITRE ATT&CK
-- [Application Layer Protocol: Web Protocols, Sub-technique T1071.001](https://attack.mitre.org/techniques/T1071/001/), MITRE ATT&CK
-- [Application Layer Protocol: DNS, Sub-technique T1071.004](https://attack.mitre.org/techniques/T1071/004/), MITRE ATT&CK
-- [Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Sub-technique T1547.001](https://attack.mitre.org/techniques/T1547/001/), MITRE ATT&CK
-- [Command and Scripting Interpreter: Windows Command Shell, Sub-technique T1059.003](https://attack.mitre.org/techniques/T1059/003/), MITRE ATT&CK
-- [File and Directory Discovery, Technique T1083](https://attack.mitre.org/techniques/T1083/), MITRE ATT&CK
-- [Indicator Removal: File Deletion, Sub-technique T1070.004](https://attack.mitre.org/techniques/T1070/004/), MITRE ATT&CK
-- [Ingress Tool Transfer, Technique T1105](https://attack.mitre.org/techniques/T1105/), MITRE ATT&CK
-- [Obfuscated Files or Information: Encrypted/Encoded File, Sub-technique T1027.013](https://attack.mitre.org/techniques/T1027/013/), MITRE ATT&CK
-- [Scheduled Task/Job: At, Sub-technique T1053.002](https://attack.mitre.org/techniques/T1053/002/), MITRE ATT&CK
-- [System Information Discovery, Technique T1082](https://attack.mitre.org/techniques/T1082/), MITRE ATT&CK
 - [Chinese State-Sponsored Cyber Activity (Report 202011191030, TLP:WHITE)](https://www.aha.org/system/files/media/file/2020/11/hc3-threat-briefing-tlp-white-chinese-state-sponsored-cyber-activity-november-19-2020.pdf), US Department of Health and Human Services, Health Sector Cybersecurity Coordination Center (HC3); copy opened on the American Hospital Association website
 
 ## Full profile

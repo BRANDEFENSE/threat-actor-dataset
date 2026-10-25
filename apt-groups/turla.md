@@ -48,18 +48,12 @@ Attributed by MITRE ATT&CK to Russia's FSB, Turla has run espionage against gove
 
 - [MITRE ATT&CK: Turla, Group G0010](https://attack.mitre.org/groups/G0010/), MITRE
 - [Hunting Russian Intelligence "Snake" Malware (AA23-129A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a), CISA
-- [Advisory: Turla group exploits Iranian APT to expand coverage of victims](https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims), UK NCSC
 - [UK NCSC updates on the Turla Group](https://www.ncsc.gov.uk/news/turla-group-behind-cyber-attack), UK NCSC
 - [Cyber / Russia: Statement by the High Representative on behalf of the European Union denouncing Russia's malicious cyber ecosystem targeting the EU, its member states and international partners](https://www.eeas.europa.eu/delegations/ukraine/cyber-russia-statement-high-representative-behalf-european-union-denouncing-russia%E2%80%99s-malicious-cyber_en), EEAS
 - [UK and EU strike Russian cyber networks with new sanctions](https://www.gov.uk/government/news/uk-and-eu-strike-russian-cyber-networks-with-new-sanctions), GOV.UK
-- [MITRE ATT&CK: Uroburos, Software S0022](https://attack.mitre.org/software/S0022/), MITRE
-- [MITRE ATT&CK: Kazuar, Software S0265](https://attack.mitre.org/software/S0265/), MITRE
 - [MITRE ATT&CK: ComRAT, Software S0126](https://attack.mitre.org/software/S0126/), MITRE
 - [MITRE ATT&CK: TinyTurla, Software S0668](https://attack.mitre.org/software/S0668/), MITRE
 - [MITRE ATT&CK: LightNeuron, Software S0395](https://attack.mitre.org/software/S0395/), MITRE
-- [MITRE ATT&CK: Penquin, Software S0587](https://attack.mitre.org/software/S0587/), MITRE
-- [MITRE ATT&CK: Drive-by Compromise, T1189](https://attack.mitre.org/techniques/T1189/), MITRE
-- [MITRE ATT&CK: Compromise Infrastructure: Web Services, T1584.006](https://attack.mitre.org/techniques/T1584/006/), MITRE
 
 ## Full profile
 

@@ -22,7 +22,6 @@ Conti was a ransomware as a service operation first observed in December 2019, p
 - [Conti, Software S0575](https://attack.mitre.org/software/S0575/), MITRE ATT&CK
 - [Conti reward offer](https://rewardsforjustice.net/rewards/conti/), Rewards for Justice
 - [UK cracks down on ransomware actors](https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors), UK Government
-- [United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang](https://home.treasury.gov/news/press-releases/jy1256), U.S. Department of the Treasury
 - [Multiple foreign nationals charged in connection with Trickbot malware and Conti ransomware](https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware), U.S. Department of Justice
 - [Ukrainian National Extradited from Ireland in Connection with Conti Ransomware](https://www.justice.gov/opa/pr/ukrainian-national-extradited-ireland-connection-conti-ransomware), U.S. Department of Justice
 - [Financial Trend Analysis: Ransomware](https://www.fincen.gov/sites/default/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf), FinCEN

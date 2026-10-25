@@ -46,14 +46,6 @@ MITRE ATT&CK describes APT19 (also Codoso) as a Chinese-based group that has tar
 - [Drive-by Compromise, Technique T1189](https://attack.mitre.org/techniques/T1189/), MITRE ATT&CK
 - [Command and Scripting Interpreter: PowerShell, Sub-technique T1059.001](https://attack.mitre.org/techniques/T1059/001/), MITRE ATT&CK
 - [System Binary Proxy Execution: Regsvr32, Sub-technique T1218.010](https://attack.mitre.org/techniques/T1218/010/), MITRE ATT&CK
-- [Hijack Execution Flow: DLL, Sub-technique T1574.001](https://attack.mitre.org/techniques/T1574/001/), MITRE ATT&CK
-- [Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Sub-technique T1547.001](https://attack.mitre.org/techniques/T1547/001/), MITRE ATT&CK
-- [Application Layer Protocol: Web Protocols, Sub-technique T1071.001](https://attack.mitre.org/techniques/T1071/001/), MITRE ATT&CK
-- [User Execution: Malicious File, Sub-technique T1204.002](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
-- [Obfuscated Files or Information: Encrypted/Encoded File, Sub-technique T1027.013](https://attack.mitre.org/techniques/T1027/013/), MITRE ATT&CK
-- [Hide Artifacts: Hidden Window, Sub-technique T1564.003](https://attack.mitre.org/techniques/T1564/003/), MITRE ATT&CK
-- [Create or Modify System Process: Windows Service, Sub-technique T1543.003](https://attack.mitre.org/techniques/T1543/003/), MITRE ATT&CK
-- [Obtain Capabilities: Tool, Sub-technique T1588.002](https://attack.mitre.org/techniques/T1588/002/), MITRE ATT&CK
 
 ## Full profile
 

@@ -45,24 +45,13 @@ Attributed by MITRE ATT&CK as a suspected Indian threat actor group active since
 ## Sources
 
 - [SideWinder, Group G0121](https://attack.mitre.org/groups/G0121/), MITRE ATT&CK
-- [Koadic, Software S0250](https://attack.mitre.org/software/S0250/), MITRE ATT&CK
 - [Cyber Security Advisory, Cyber Attacks Against Pakistan by Sidewinder APT Group (Advisory No. 54)](https://download1.fbr.gov.pk/Docs/202359145475751AdvisoryNo54.pdf), Pakistan NTISB, copy hosted by the Federal Board of Revenue
-- [NCERT Advisory NCA-08.051324, Sidewinder APT Campaign Targeting Government Organizations](https://pkcert.gov.pk/advisory/24-8.pdf), Pakistan National CERT
 - [Cyber Threat Alert, Ongoing Phishing Campaign Targeting Bangladesh (4 January 2024)](https://cirt.gov.bd/alerts/%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%9A%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AB%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%82-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%87%E0%A6%A8), BGD e-GOV CIRT, Bangladesh
 - [SideWinder Spear-Phishing Campaign Against Bangladesh Leveraging Dual-Format Weaponized Documents](https://www.cirt.gov.bd/advisories/sidewinder-spear-campaign), BGD e-GOV CIRT, Bangladesh
 - [SideWinder-Associated Campaign Targeting South Asian Government and Financial Infrastructure](https://www.cirt.gov.bd/advisories/sidewinder-associated-campaign), BGD e-GOV CIRT, Bangladesh
 - [CERT-EU Cyber Security Brief, October 2022](https://cert.europa.eu/publications/threat-intelligence/cb22-11/), CERT-EU
-- [CERT-EU Cyber Security Brief 24-08, July 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-08/), CERT-EU
 - [ENISA annual EU threat report, October 2025](https://www.enisa.europa.eu/sites/default/files/2025-11/ENISA%20Threat%20Landscape%202025.pdf), ENISA
 - [Active APT groups in Germany](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen.html), BSI, Germany
-- [Phishing: Spearphishing Attachment (T1566.001)](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Phishing: Spearphishing Link (T1566.002)](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [Phishing for Information: Spearphishing Link (T1598.003)](https://attack.mitre.org/techniques/T1598/003/), MITRE ATT&CK
-- [Exploitation for Client Execution (T1203)](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
-- [User Execution: Malicious File (T1204.002)](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
-- [Hijack Execution Flow: DLL (T1574.001)](https://attack.mitre.org/techniques/T1574/001/), MITRE ATT&CK
-- [System Binary Proxy Execution: Mshta (T1218.005)](https://attack.mitre.org/techniques/T1218/005/), MITRE ATT&CK
-- [Command and Scripting Interpreter: JavaScript (T1059.007)](https://attack.mitre.org/techniques/T1059/007/), MITRE ATT&CK
 
 ## Full profile
 

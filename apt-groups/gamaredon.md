@@ -48,21 +48,6 @@ Attributed by Ukraine's Security Service (SSU, 2021) to Russia's FSB, and descri
 - [Кібератака групи UAC-0010 (Armageddon) на державні інституції країн Європейського Союзу (CERT-UA#4334)](https://cert.gov.ua/article/39086), CERT-UA (Ukraine), April 2022
 - [Gamaredon activity amid Ukraine's counteroffensive](https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/Gamaredon_activity.pdf), National Security and Defense Council of Ukraine, 2023
 - [Cyber threat bulletin: Cyber threat activity related to the Russian invasion of Ukraine](https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-threat-activity-related-russian-invasion-ukraine), Canadian Centre for Cyber Security, June 2022
-- [Cyber Brief 25-05 - April 2025](https://cert.europa.eu/publications/threat-intelligence/cb25-05/), CERT-EU
-- [Cyber Brief 25-10 - September 2025](https://cert.europa.eu/publications/threat-intelligence/cb25-10/), CERT-EU
-- [Fast Flux: A National Security Threat (AA25-093A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-093a), CISA with NSA, FBI, ASD's ACSC, Canadian Cyber Centre and NCSC-NZ
-- [GoldenJackal: new attack vector using a USB drive on air-gapped systems](https://medien.bsi.bund.de/lagebericht/en/goldenjackal-neuer-angriffsvektor-mittels-usb-stick-auf-air-gapped/), German Federal Office for Information Security (BSI), situation report
-- [Ukraina vastased küberründed ja võimalik mõju Eestis (täiendatud), threat note of 11 February 2022](https://www.ria.ee/sites/default/files/documents/2022-11/Ukraina-vastased-kuberrunded-ja-voimalik-moju-Eestis-11.02.2022.pdf), Estonian Information System Authority (RIA, CERT-EE)
-- [Кібератаки групи UAC-0010 (Armageddon): шкідливі програми GammaLoad, GammaSteel (CERT-UA#5134)](https://cert.gov.ua/article/1229152), CERT-UA (Ukraine), August 2022
-- [Кібератака групи UAC-0010: розсилання електронних листів, начебто, від імені Держспецзв'язку (CERT-UA#5570)](https://cert.gov.ua/article/2681855), CERT-UA (Ukraine), November 2022
-- [Template Injection, Technique T1221](https://attack.mitre.org/techniques/T1221/), MITRE ATT&CK
-- [Replication Through Removable Media, Technique T1091](https://attack.mitre.org/techniques/T1091/), MITRE ATT&CK
-- [Pteranodon, Software S0147](https://attack.mitre.org/software/S0147/), MITRE ATT&CK
-- [PowerPunch, Software S0685](https://attack.mitre.org/software/S0685/), MITRE ATT&CK
-- [QuietSieve, Software S0686](https://attack.mitre.org/software/S0686/), MITRE ATT&CK
-- [Remcos, Software S0332](https://attack.mitre.org/software/S0332/), MITRE ATT&CK
-- [IRON TILDEN threat profile](https://www.sophos.com/en-us/threat-profiles/iron-tilden), Sophos
-- [BlueAlpha abuses Cloudflare Tunneling service](https://www.recordedfuture.com/research/bluealpha-abuses-cloudflare-tunneling-service), Recorded Future Insikt Group
 
 ## Full profile
 

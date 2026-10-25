@@ -52,12 +52,6 @@ The US Cyber Safety Review Board describes Lapsus$ as a loosely organized, extor
 - [PF prende brasileiro suspeito de integrar organização criminosa internacional](https://web.archive.org/web/20221126103358/https://www.gov.br/pf/pt-br/assuntos/noticias/2022/10/pf-prende-brasileiro-suspeito-de-integrar-organizacao-criminosa-internacional), Polícia Federal (Brazil)
 - [PF realiza operação para apurar ataques a sites do Governo Federal](https://www.gov.br/pf/pt-br/assuntos/noticias/2022/08/pf-realiza-operacao-para-apurar-ataques-a-sites-do-governo-federal), Polícia Federal (Brazil)
 - [Commissioner's Update, Pol 12-24](https://democracy.cityoflondon.gov.uk/documents/s197472/Pol_12-24_Commissioners_Update_PAB%20Feb%2024%20vFINAL.pdf), City of London Corporation, Police Authority Board
-- [Mimikatz (S0002)](https://attack.mitre.org/software/S0002/), MITRE ATT&CK
-- [SIM Card Swap, Technique T1451 (Mobile)](https://attack.mitre.org/techniques/T1451/), MITRE ATT&CK
-- [Multi-Factor Authentication Request Generation, Technique T1621](https://attack.mitre.org/techniques/T1621/), MITRE ATT&CK
-- [Social Engineering: Impersonation, Sub-technique T1684.001](https://attack.mitre.org/techniques/T1684/001/), MITRE ATT&CK
-- [Phishing for Information: Spearphishing Voice, Sub-technique T1598.004](https://attack.mitre.org/techniques/T1598/004/), MITRE ATT&CK
-- [Create Account: Cloud Account, Sub-technique T1136.003](https://attack.mitre.org/techniques/T1136/003/), MITRE ATT&CK
 
 ## Full profile
 

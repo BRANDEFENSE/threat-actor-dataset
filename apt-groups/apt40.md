@@ -47,23 +47,13 @@ APT40 (tracked by MITRE as Leviathan) is attributed by the US and UK governments
 ## Sources
 
 - [Leviathan, Group G0065](https://attack.mitre.org/groups/G0065/), MITRE ATT&CK
-- [Leviathan Australian Intrusions, Campaign C0049](https://attack.mitre.org/campaigns/C0049/), MITRE ATT&CK
 - [BADFLICK, Software S0642](https://attack.mitre.org/software/S0642/), MITRE ATT&CK
-- [China Chopper, Software S0020](https://attack.mitre.org/software/S0020/), MITRE ATT&CK
-- [Derusbi, Software S0021](https://attack.mitre.org/software/S0021/), MITRE ATT&CK
-- [MURKYTOP, Software S0233](https://attack.mitre.org/software/S0233/), MITRE ATT&CK
-- [HOMEFRY, Software S0232](https://attack.mitre.org/software/S0232/), MITRE ATT&CK
-- [NanHaiShu, Software S0228](https://attack.mitre.org/software/S0228/), MITRE ATT&CK
 - [Orz, Software S0229](https://attack.mitre.org/software/S0229/), MITRE ATT&CK
-- [gh0st RAT, Software S0032](https://attack.mitre.org/software/S0032/), MITRE ATT&CK
 - [Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China's MSS Hainan State Security Department (AA21-200A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-200a), CISA and FBI
 - [Indictment, United States v. Ding Xiaoyang, Cheng Qingmin, Zhu Yunmin and Wu Shurong (Southern District of California, filed 28 May 2021)](https://www.justice.gov/archives/opa/press-release/file/1412916/dl), US Department of Justice
-- [UK and allies hold Chinese state responsible for pervasive pattern of hacking](https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking), National Cyber Security Centre (UK)
 - [UK and allies hold Chinese state responsible for a pervasive pattern of hacking](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking), Foreign, Commonwealth & Development Office and NCSC (GOV.UK)
 - [Latvia raises its concern about irresponsible behavior in cyberspace](https://www.mfa.gov.lv/en/article/latvia-raises-its-concern-about-irresponsible-behavior-cyberspace), Ministry of Foreign Affairs of Latvia
-- [People's Republic of China (PRC) Ministry of State Security APT40 Tradecraft in Action (AA24-190A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-190a), ASD's ACSC, CISA, NSA, FBI and partner agencies of Canada, Germany, Japan, New Zealand, South Korea and the UK
 - [APT40 Advisory, PRC MSS tradecraft in action (PDF)](https://www.ncsc.govt.nz/assets/alerts/Joint-advisories/APT40-Advisory-20240709_FA-v2.pdf), NCSC New Zealand
-- [Taiwan accuses China of hacking government data (Reuters)](https://www.taipeitimes.com/News/taiwan/archives/2020/08/20/2003741991), Taipei Times
 
 ## Full profile
 

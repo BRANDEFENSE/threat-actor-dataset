@@ -45,28 +45,12 @@ Attributed by the US, UK and EU governments to a China-based group working with 
 
 - [menuPass, Group G0045](https://attack.mitre.org/groups/G0045/), MITRE ATT&CK
 - [Two Chinese Hackers Associated With the Ministry of State Security Charged With Global Computer Intrusion Campaigns (press release, 20 December 2018)](https://www.justice.gov/usao-sdny/page/file/1122721/dl), US Attorney's Office, Southern District of New York, with the US Department of Justice
-- [Sealed indictment, United States v. Zhu Hua and Zhang Shilong (18 Cr., Southern District of New York)](https://www.justice.gov/opa/press-release/file/1121706/download), US District Court, via the US Department of Justice
 - [UK and allies reveal global scale of Chinese cyber campaign (20 December 2018)](https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign), UK Foreign and Commonwealth Office and National Cyber Security Centre, on GOV.UK
 - [APT10 continuing to target UK organisations (20 December 2018)](https://www.ncsc.gov.uk/news/apt10-continuing-target-uk-organisations), UK National Cyber Security Centre
 - [APT10 continues to target UK organisations across wide range of sectors (Alert, version 2.0, NCSC-Ops/25-18)](https://www.ncsc.gov.uk/files/APT10%20advisory%20v2.pdf), UK National Cyber Security Centre
 - [Intrusions Affecting Multiple Victims Across Multiple Sectors (TA17-117A, last revised 20 December 2018)](https://www.cisa.gov/news-events/alerts/2017/04/27/intrusions-affecting-multiple-victims-across-multiple-sectors), CISA
 - [Potential for China Cyber Response to Heightened U.S.-China Tensions (AA20-275A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-275a), CISA
-- [Publicly Available Tools Seen in Cyber Incidents Worldwide (AA18-284A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa18-284a), CISA
-- [Joint report on publicly available hacking tools](https://www.cyber.gc.ca/en/guidance/joint-report-publicly-available-hacking-tools), Canadian Centre for Cyber Security
 - [Council Decision (CFSP) 2020/1127 of 30 July 2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127), Council of the European Union, via EUR-Lex
-- [Council Implementing Regulation (EU) 2020/1125 of 30 July 2020](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020R1125), Council of the European Union, via EUR-Lex
-- [Trusted Relationship (T1199)](https://attack.mitre.org/techniques/T1199/), MITRE ATT&CK
-- [Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/), MITRE ATT&CK
-- [Phishing: Spearphishing Attachment (T1566.001)](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Exploit Public-Facing Application (T1190)](https://attack.mitre.org/techniques/T1190/), MITRE ATT&CK
-- [Hijack Execution Flow: DLL (T1574.001)](https://attack.mitre.org/techniques/T1574/001/), MITRE ATT&CK
-- [Remote Services: Remote Desktop Protocol (T1021.001)](https://attack.mitre.org/techniques/T1021/001/), MITRE ATT&CK
-- [RedLeaves (S0153)](https://attack.mitre.org/software/S0153/), MITRE ATT&CK
-- [PlugX (S0013)](https://attack.mitre.org/software/S0013/), MITRE ATT&CK
-- [QuasarRAT (S0262)](https://attack.mitre.org/software/S0262/), MITRE ATT&CK
-- [UPPERCUT (S0275)](https://attack.mitre.org/software/S0275/), MITRE ATT&CK
-- [EvilGrab (S0152)](https://attack.mitre.org/software/S0152/), MITRE ATT&CK
-- [PoisonIvy (S0012)](https://attack.mitre.org/software/S0012/), MITRE ATT&CK
 
 ## Full profile
 

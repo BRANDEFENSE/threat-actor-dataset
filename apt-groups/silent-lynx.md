@@ -46,9 +46,6 @@ Silent Lynx is a cyber espionage group that targets government bodies in Central
 - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), CISA
 - [CVE-2025-8088](https://nvd.nist.gov/vuln/detail/CVE-2025-8088), NIST NVD
 - [WinRAR release notes, version 7.13](https://www.rarlab.com/rarnew.htm), RARLAB
-- [Phishing: Spearphishing Attachment (T1566.001)](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Exploitation for Client Execution (T1203)](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
-- [Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder (T1547.001)](https://attack.mitre.org/techniques/T1547/001/), MITRE ATT&CK
 - [Break the silence: tracking Silent Lynx through exposed infrastructure](https://www.virusbulletin.com/conference/vb2026/abstracts/break-silence-tracking-silent-lynx-through-exposed-infrastructure/), Virus Bulletin
 
 ## Full profile

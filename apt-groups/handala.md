@@ -53,13 +53,7 @@ Handala Hack is a persona that MITRE ATT&CK lists under VOID MANTICORE (G1055), 
 - [Iranian State Actors Conduct Cyber Operations Against the Government of Albania (AA22-264A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a), CISA and FBI
 - [CERT-EU Cyber Brief 26-04, March 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-04), CERT-EU
 - [ROADSWEEP, Software S1150](https://attack.mitre.org/software/S1150/), MITRE ATT&CK
-- [ZeroCleare, Software S1151](https://attack.mitre.org/software/S1151/), MITRE ATT&CK
 - [CHIMNEYSWEEP, Software S1149](https://attack.mitre.org/software/S1149/), MITRE ATT&CK
-- [RawDisk, Software S0364](https://attack.mitre.org/software/S0364/), MITRE ATT&CK
-- [Impacket, Software S0357](https://attack.mitre.org/software/S0357/), MITRE ATT&CK
-- [Mimikatz, Software S0002](https://attack.mitre.org/software/S0002/), MITRE ATT&CK
-- [Cloud Administration Command, Technique T1651](https://attack.mitre.org/techniques/T1651/), MITRE ATT&CK
-- [Software Deployment Tools, Technique T1072](https://attack.mitre.org/techniques/T1072/), MITRE ATT&CK
 
 ## Full profile
 

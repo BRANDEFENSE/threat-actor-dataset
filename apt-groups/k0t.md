@@ -53,14 +53,6 @@ k0t is a threat actor that Group-IB and NyxLab, in a joint report of 21 October 
 - [External Remote Services, T1133](https://attack.mitre.org/techniques/T1133/), MITRE ATT&CK
 - [Use Alternate Authentication Material: Web Session Cookie, T1550.004](https://attack.mitre.org/techniques/T1550/004/), MITRE ATT&CK
 - [Create Account: Local Account, T1136.001](https://attack.mitre.org/techniques/T1136/001/), MITRE ATT&CK
-- [Data from Configuration Repository: Network Device Configuration Dump, T1602.002](https://attack.mitre.org/techniques/T1602/002/), MITRE ATT&CK
-- [Remote Access Tools, T1219](https://attack.mitre.org/techniques/T1219/), MITRE ATT&CK
-- [Command and Scripting Interpreter: PowerShell, T1059.001](https://attack.mitre.org/techniques/T1059/001/), MITRE ATT&CK
-- [OS Credential Dumping: LSASS Memory, T1003.001](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
-- [Steal or Forge Kerberos Tickets: Kerberoasting, T1558.003](https://attack.mitre.org/techniques/T1558/003/), MITRE ATT&CK
-- [Forced Authentication, T1187](https://attack.mitre.org/techniques/T1187/), MITRE ATT&CK
-- [Exploitation for Privilege Escalation, T1068](https://attack.mitre.org/techniques/T1068/), MITRE ATT&CK
-- [Exfiltration Over Web Service: Exfiltration to Cloud Storage, T1567.002](https://attack.mitre.org/techniques/T1567/002/), MITRE ATT&CK
 
 ## Full profile
 

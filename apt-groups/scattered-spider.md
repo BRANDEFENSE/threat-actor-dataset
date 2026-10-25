@@ -46,16 +46,12 @@ Scattered Spider is described by MITRE ATT&CK and by the FBI, CISA and partner a
 
 - [Scattered Spider, Group G1015](https://attack.mitre.org/groups/G1015/), MITRE ATT&CK
 - [Scattered Spider (AA23-320A, updated 29 July 2025)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a), CISA with the FBI, RCMP, ASD's ACSC, AFP, Canadian Cyber Centre and UK NCSC
-- [FBI and CISA Release Advisory on Scattered Spider Group](https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group), CISA
-- [Joint cyber security advisory on Scattered Spider](https://www.cyber.gc.ca/en/news-events/joint-cyber-security-advisory-scattered-spider), Canadian Centre for Cyber Security
 - [Incidents impacting retailers: recommendations from the NCSC](https://www.ncsc.gov.uk/blog-post/incidents-impacting-retailers), UK National Cyber Security Centre
 - [Retail cyber attacks: NCA arrest four for attacks on M&S, Co-op and Harrods](https://www.nationalcrimeagency.gov.uk/news/retail-cyber-attacks-nca-arrest-four-for-attacks-on-m-s-co-op-and-harrods), UK National Crime Agency
 - [Cyber criminals who hacked into Transport for London's computer network are convicted](https://www.nationalcrimeagency.gov.uk/news/cyber-criminals-who-hacked-into-transport-for-londons-computer-network-are-convicted), UK National Crime Agency
 - [Two sentenced for hacking Transport for London in UK's biggest ever cyber crime case](https://www.nationalcrimeagency.gov.uk/news/two-sentenced-for-hacking-transport-for-london-in-uk-s-biggest-ever-cyber-crime-case), UK National Crime Agency
 - [United Kingdom National Charged in Connection with Multiple Cyber Attacks, Including on Critical Infrastructure](https://www.justice.gov/opa/pr/united-kingdom-national-charged-connection-multiple-cyber-attacks-including-critical), US Department of Justice
 - [Alleged Member of Criminal Cyber Hacking Group "Scattered Spider" Arrested in Finland and Extradited to the United States](https://www.justice.gov/opa/pr/alleged-member-criminal-cyber-hacking-group-scattered-spider-arrested-finland-and-extradited), US Department of Justice
-- [ShinyHunters (Group G1057)](https://attack.mitre.org/groups/G1057/), MITRE ATT&CK
-- [Internet Organised Crime Threat Assessment (IOCTA) 2026, section 3.3 New hacking coalitions](https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA-2026.pdf), Europol
 
 ## Full profile
 

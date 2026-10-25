@@ -51,17 +51,11 @@ Attributed by the US, UK and EU governments to Russian military intelligence (GR
 - [United States of America v. Yuriy Sergeyevich Andrienko et al. (indictment)](https://www.justice.gov/opa/press-release/file/1328521/download), US Department of Justice
 - [Sandworm Team (G0034)](https://attack.mitre.org/groups/G0034/), MITRE ATT&CK
 - [UK exposes series of Russian cyber attacks against Olympic and Paralympic Games](https://www.gov.uk/government/news/uk-exposes-series-of-russian-cyber-attacks-against-olympic-and-paralympic-games), UK Foreign, Commonwealth and Development Office
-- [Foreign Office Minister condemns Russia for NotPetya attacks](https://www.gov.uk/government/news/foreign-office-minister-condemns-russia-for-notpetya-attacks), UK Foreign and Commonwealth Office and NCSC
-- [UK condemns Russia's GRU over Georgia cyber-attacks](https://www.gov.uk/government/news/uk-condemns-russias-gru-over-georgia-cyber-attacks), UK Foreign and Commonwealth Office and NCSC
-- [NCSC supports US advisory regarding GRU intrusion set Sandworm](https://www.ncsc.gov.uk/news/ncsc-supports-sandworm-advisory), UK National Cyber Security Centre
 - [New Sandworm Malware Cyclops Blink Replaces VPNFilter (AA22-054A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-054a), CISA, NCSC, NSA, FBI
 - [Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure (AA22-110A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-110a), CISA, with Australia, Canada, New Zealand, UK
 - [UK and allies support Ukraine calling out Russia's GRU for new malware campaign](https://www.ncsc.gov.uk/news/uk-allies-support-ukraine-calling-out-russia-gru-malware-campaign), UK National Cyber Security Centre
-- [Council Implementing Regulation (EU) 2020/1125 of 30 July 2020 (Official Journal L 246)](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2020.246.01.0004.01.ENG), Council of the European Union via EUR-Lex
 - [Sandworm intrusion set campaign targeting Centreon systems (CERTFR-2021-CTI-005)](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-005.pdf), ANSSI (France)
 - [Profile: GRU cyber and hybrid threat operations](https://www.gov.uk/government/publications/profile-gru-cyber-and-hybrid-threat-operations/profile-gru-cyber-and-hybrid-threat-operations), UK Government
-- [Cyber-Attack Against Ukrainian Critical Infrastructure (IR-ALERT-H-16-056-01)](https://www.cisa.gov/news-events/ics-alerts/ir-alert-h-16-056-01), CISA
-- [UK boosts Ukraine's cyber defences with 6 million pound support package](https://www.gov.uk/government/news/uk-boosts-ukraines-cyber-defences-with-6-million-support-package), UK Government
 
 ## Full profile
 

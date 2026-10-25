@@ -50,16 +50,9 @@ MITRE ATT&CK describes APT32 (OceanLotus) as a suspected Vietnam-based threat gr
 - [CERT-EU Cyber Security Brief, November 2022](https://cert.europa.eu/publications/threat-intelligence/cb22-12/), CERT-EU
 - [CERT-EU Cyber Brief 25-02, January 2025](https://cert.europa.eu/publications/threat-intelligence/cb25-02/), CERT-EU
 - [Denis, Software S0354](https://attack.mitre.org/software/S0354/), MITRE ATT&CK
-- [Goopy, Software S0477](https://attack.mitre.org/software/S0477/), MITRE ATT&CK
 - [OSX_OCEANLOTUS.D, Software S0352](https://attack.mitre.org/software/S0352/), MITRE ATT&CK
 - [RotaJakiro, Software S1078](https://attack.mitre.org/software/S1078/), MITRE ATT&CK
 - [Kerrdown, Software S0585](https://attack.mitre.org/software/S0585/), MITRE ATT&CK
-- [Cobalt Strike, Software S0154](https://attack.mitre.org/software/S0154/), MITRE ATT&CK
-- [Mimikatz, Software S0002](https://attack.mitre.org/software/S0002/), MITRE ATT&CK
-- [Phishing: Spearphishing Link, Sub-technique T1566.002](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [Drive-by Compromise, Technique T1189](https://attack.mitre.org/techniques/T1189/), MITRE ATT&CK
-- [Hijack Execution Flow: DLL, Sub-technique T1574.001](https://attack.mitre.org/techniques/T1574/001/), MITRE ATT&CK
-- [Office Application Startup, Technique T1137](https://attack.mitre.org/techniques/T1137/), MITRE ATT&CK
 
 ## Full profile
 

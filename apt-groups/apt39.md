@@ -55,11 +55,7 @@ The US Treasury, FBI and Department of Justice attributed APT39, also called Cha
 - [Counter Terrorism Designations; Iran/Cyber-related Designations (17 September 2020)](https://ofac.treasury.gov/recent-actions/20200917), US Treasury Office of Foreign Assets Control
 - [Treasury Sanctions Iranian Ministry of Intelligence and Minister for Malign Cyber Activities](https://home.treasury.gov/news/press-releases/jy0941), US Department of the Treasury
 - [Remexi, Software S0375](https://attack.mitre.org/software/S0375/), MITRE ATT&CK
-- [Cadelspy, Software S0454](https://attack.mitre.org/software/S0454/), MITRE ATT&CK
 - [MechaFlounder, Software S0459](https://attack.mitre.org/software/S0459/), MITRE ATT&CK
-- [BITS Jobs, Technique T1197](https://attack.mitre.org/techniques/T1197/), MITRE ATT&CK
-- [Phishing: Spearphishing Attachment, Sub-technique T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Exploit Public-Facing Application, Technique T1190](https://attack.mitre.org/techniques/T1190/), MITRE ATT&CK
 
 ## Full profile
 

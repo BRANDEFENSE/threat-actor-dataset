@@ -50,28 +50,11 @@ Wizard Spider is a Russia-based criminal group behind the Trickbot malware, attr
 - [Wizard Spider, Group G0102](https://attack.mitre.org/groups/G0102/), MITRE ATT&CK
 - [Ransomware Activity Targeting the Healthcare and Public Health Sector (AA20-302A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-302a), CISA, FBI and HHS
 - [Conti Ransomware (AA21-265A)](https://www.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf), CISA, FBI and NSA, with US Secret Service from March 2022
-- [Conti Ransomware Attacks Impact Healthcare and First Responder Networks (FLASH CP-000147-MW)](https://www.ic3.gov/CSA/2021/210521.pdf), FBI
-- [TrickBot Malware (AA21-076A)](https://cisa.gov/uscert/ncas/alerts/aa21-076a), CISA and FBI
 - [United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang](https://home.treasury.gov/news/press-releases/jy1256), US Department of the Treasury
 - [UK cracks down on ransomware actors](https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors), UK Foreign, Commonwealth and Development Office, Home Office and National Crime Agency
-- [United States and United Kingdom Sanction Additional Members of the Russia-Based Trickbot Cybercrime Gang](https://home.treasury.gov/news/press-releases/jy1714), US Department of the Treasury
-- [UK sanctions members of Russian cybercrime gang](https://www.gov.uk/government/news/uk-sanctions-members-of-russian-cybercrime-gang), UK Foreign, Commonwealth and Development Office and National Crime Agency
 - [Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies](https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware), US Department of Justice
-- [Russian National Pleads Guilty to Trickbot Malware Conspiracy](https://www.justice.gov/usao-ndoh/pr/russian-national-pleads-guilty-trickbot-malware-conspiracy), US Department of Justice, Northern District of Ohio
 - [Russian National Sentenced for Involvement in Development and Deployment of Trickbot Malware](https://justice.gov/opa/pr/russian-national-sentenced-involvement-development-and-deployment-trickbot-malware), US Department of Justice
-- [Conti](https://rewardsforjustice.net/rewards/conti/), Rewards for Justice, US Department of State
 - [Formation of a foreign criminal organisation KOVALEV, Vitalii Nikolaevich <stern>](https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Endgame_2/KVN/Englisch.pdf?__blob=publicationFile&v=1), Bundeskriminalamt (BKA), Germany
-- [Updated: Conti Ransomware](https://www.cisa.gov/news-events/news/updated-conti-ransomware), CISA
-- [NCSC statement following US advisory on ransomware targeting of US health sector](https://www.ncsc.gov.uk/news/statement-ransomware-targeting-us-health-sector), UK National Cyber Security Centre
-- [Advisory: Trickbot](https://www.ncsc.gov.uk/news/trickbot-advisory), UK National Cyber Security Centre
-- [NCSC Releases Advisory on Ryuk Ransomware](https://www.cisa.gov/news-events/alerts/2019/06/28/ncsc-releases-advisory-ryuk-ransomware), CISA
-- [TrickBot, software S0266](https://attack.mitre.org/software/S0266/), MITRE ATT&CK
-- [Ryuk, software S0446](https://attack.mitre.org/software/S0446/), MITRE ATT&CK
-- [Conti, software S0575](https://attack.mitre.org/software/S0575/), MITRE ATT&CK
-- [Bazar, software S0534](https://attack.mitre.org/software/S0534/), MITRE ATT&CK
-- [Anchor, software S0504](https://attack.mitre.org/software/S0504/), MITRE ATT&CK
-- [Diavol, software S0659](https://attack.mitre.org/software/S0659/), MITRE ATT&CK
-- [Emotet, software S0367](https://attack.mitre.org/software/S0367/), MITRE ATT&CK
 
 ## Full profile
 

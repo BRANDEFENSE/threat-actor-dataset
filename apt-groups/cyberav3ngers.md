@@ -44,7 +44,6 @@ CyberAv3ngers (also called Shahid Kaveh Group in a 2026 advisory) is attributed 
 - [CISA Urges Water and Wastewater Systems Sector to Protect OT Against Activity Targeting PLCs](https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs), CISA
 - [CISA and Partners Release Joint Advisory on IRGC-Affiliated Cyber Actors Exploiting PLCs](https://www.cisa.gov/news-events/alerts/2023/12/01/cisa-and-partners-release-joint-advisory-irgc-affiliated-cyber-actors-exploiting-plcs), CISA
 - [Exploitation of Unitronics PLCs used in Water and Wastewater Systems](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems), CISA
-- [NCSC statement following exploitation of Unitronics programmable logic controllers](https://www.ncsc.gov.uk/news/ncsc-statement-following-exploitation-of-unitronics-programmable-logic-controllers), UK National Cyber Security Centre
 
 ## Full profile
 

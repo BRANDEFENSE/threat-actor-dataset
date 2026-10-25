@@ -52,23 +52,11 @@ Lazarus Group is the name used by MITRE, the US Treasury and the US Department o
 - [MITRE ATT&CK: Lazarus Group (G0032)](https://attack.mitre.org/groups/G0032/), MITRE
 - [United States of America v. Jon Chang Hyok, Kim Il, Park Jin Hyok (Indictment, CR 2:20-cr-00614-DMG)](https://www.justice.gov/opa/press-release/file/1367701/dl), US District Court, Central District of California, via US DOJ
 - [Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups](https://home.treasury.gov/news/press-releases/sm774), US Treasury
-- [Treasury Imposes Sanctions Against the Government of The Democratic People's Republic Of Korea](https://home.treasury.gov/news/press-releases/jl9733), US Treasury
-- [Treasury Sanctions Individuals Laundering Cryptocurrency for Lazarus Group](https://home.treasury.gov/news/press-releases/sm924), US Treasury
-- [U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats](https://home.treasury.gov/news/press-releases/jy0768), US Treasury
-- [Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency](https://home.treasury.gov/news/press-releases/jy1933), US Treasury
 - [TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (AA22-108A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a), CISA, FBI, Treasury
 - [AppleJeus: Analysis of North Korea's Cryptocurrency Malware (AA21-048A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a), CISA, FBI, Treasury
 - [North Korea Responsible for $1.5 Billion Bybit Hack (PSA250226)](https://www.ic3.gov/psa/2025/psa250226), FBI / IC3
 - [Council Implementing Regulation (EU) 2020/1125 of 30 July 2020 (Official Journal L 246)](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2020.246.01.0004.01.ENG), Council of the EU
-- [Report of the Panel of Experts established pursuant to resolution 1874 (2009), S/2019/691](https://documents.un.org/doc/undoc/gen/n19/243/04/pdf/n1924304.pdf), UN Security Council
-- [Joint Statement of the Multilateral Sanctions Monitoring Team (MSMT) on the Report Covering DPRK Cyber and IT Worker Activities](https://www.gov.uk/government/news/joint-statement-of-the-multilateral-sanctions-monitoring-team-msmt-on-the-report-covering-dprk-cyber-and-it-worker-activities), UK Government, with 10 other states
-- [TraderTraitor advisory, full PDF (AA22-108A)](https://www.ic3.gov/CSA/2022/220418.pdf), CISA, FBI, Treasury
-- [Bankshot, Software S0239](https://attack.mitre.org/software/S0239/), MITRE ATT&CK
-- [Foreign Office Minister condemns North Korean actor for WannaCry attacks](https://www.gov.uk/government/news/foreign-office-minister-condemns-north-korean-actor-for-wannacry-attacks), Foreign & Commonwealth Office (GOV.UK)
-- [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks (AA20-239A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a), CISA
-- [Alert: Cyberattack by North Korean Cyber Actors, TraderTraitor](https://www.npa.go.jp/bureau/cyber/pdf/20250204_tt.pdf), National Police Agency, Japan
 - [Operation FlashHole: Lazarus breaks security, defies control](https://securelist.com/lazarus-operation-flashhole/121541/), Kaspersky Securelist
-- [Kaspersky identifies new Lazarus APT campaign utilizing AI and post-quantum encryption](https://www.kaspersky.com/about/press-releases/kaspersky-identifies-new-lazarus-apt-campaign-utilizing-ai-and-post-quantum-encryption), Kaspersky
 
 ## Full profile
 

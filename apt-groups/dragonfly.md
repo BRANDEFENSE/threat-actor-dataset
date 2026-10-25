@@ -48,23 +48,10 @@ Attributed by the US and UK governments to Russia's FSB Center 16 (Military Unit
 - [Four Russian Government Employees Charged in Two Historical Hacking Campaigns Targeting Critical Infrastructure Worldwide](https://www.justice.gov/archives/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical), US Department of Justice
 - [Tactics, Techniques, and Procedures of Indicted State-Sponsored Russian Cyber Actors Targeting the Energy Sector (AA22-083A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-083a), CISA, FBI and Department of Energy
 - [Russian State-Sponsored Advanced Persistent Threat Actor Compromises U.S. Government Targets (AA20-296A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-296a), CISA and FBI
-- [Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors (TA18-074A)](https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors), US DHS and FBI
 - [Russia's FSB malign activity: factsheet](https://www.gov.uk/government/publications/russias-fsb-malign-cyber-activity-factsheet/russias-fsb-malign-activity-factsheet), UK Government
 - [UK exposes Russian spy agency behind cyber incidents](https://www.gov.uk/government/news/uk-exposes-russian-spy-agency-behind-cyber-incidents), UK Foreign, Commonwealth and Development Office and NCSC
-- [Marat Valeryevich Tyukov](https://rewardsforjustice.net/rewards/marat-valeryevich-tyukov/), US State Department Rewards for Justice
 - [Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure (PSA I-082025-PSA)](https://www.ic3.gov/PSA/2025/PSA250820), FBI
 - [Improve Router Hygiene to Protect Against Russian State-Sponsored Targeting (joint advisory)](https://www.ic3.gov/CSA/2026/260713.pdf), NSA, CISA, FBI, DC3 and partner agencies
-- [UK and Allies urge critical sectors to improve defences against Russian intelligence targeting](https://www.ncsc.gov.uk/sites/default/files/2026-07/UK-and-Allies-urge-critical-sectors-to-improve-defences-against-Russian-intelligence-targeting.pdf), UK National Cyber Security Centre
-- [UK and EU strike Russian cyber networks with new sanctions](https://www.gov.uk/government/news/uk-and-eu-strike-russian-cyber-networks-with-new-sanctions), UK Foreign, Commonwealth and Development Office
-- [Cyber / Russia: Statement by the High Representative on behalf of the European Union](https://www.eeas.europa.eu/delegations/ukraine/cyber-russia-statement-high-representative-behalf-european-union-denouncing-russia%E2%80%99s-malicious-cyber_en), European Union External Action Service
-- [Exposing Russia's malicious cyber ecosystem: the EU adopts its biggest cyber sanctions package](https://www.eeas.europa.eu/eeas/exposing-russias-malicious-cyber-ecosystem-eu-adopts-its-biggest-cyber-sanctions-package_en), European Union External Action Service
-- [ICS Focused Malware (ICS-ALERT-14-176-02A)](https://www.cisa.gov/news-events/ics-alerts/ics-alert-14-176-02a), CISA ICS-CERT
-- [Backdoor.Oldrea (S0093)](https://attack.mitre.org/software/S0093/), MITRE ATT&CK
-- [Trojan.Karagany (S0094)](https://attack.mitre.org/software/S0094/), MITRE ATT&CK
-- [MCMD (S0500)](https://attack.mitre.org/software/S0500/), MITRE ATT&CK
-- [CrackMapExec (S0488)](https://attack.mitre.org/software/S0488/), MITRE ATT&CK
-- [Mimikatz (S0002)](https://attack.mitre.org/software/S0002/), MITRE ATT&CK
-- [Energy Sector Incident Report, 29 December 2025](https://cert.pl/en/posts/2026/01/incident-report-energy-sector-2025/), CERT Polska
 
 ## Full profile
 

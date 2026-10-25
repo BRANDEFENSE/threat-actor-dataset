@@ -44,33 +44,13 @@ Attributed by MITRE ATT&CK to the PRC state and active since at least 2019, Salt
 ## Sources
 
 - [Salt Typhoon, Group G1045](https://attack.mitre.org/groups/G1045/), MITRE ATT&CK
-- [JumbledPath, Software S1206](https://attack.mitre.org/software/S1206/), MITRE ATT&CK
 - [Treasury Sanctions Company Associated with Salt Typhoon and Hacker Associated with Treasury Compromise](https://home.treasury.gov/news/press-releases/jy2792), US Department of the Treasury
 - [Joint Statement from FBI and CISA on the People's Republic of China (PRC) Targeting of Commercial Telecommunications Infrastructure](https://www.cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications), CISA and FBI
 - [FBI Seeking Tips about PRC-Targeting of US Telecommunications (I-042425-2-PSA)](https://www.ic3.gov/PSA/2025/PSA250424-2), FBI, Internet Crime Complaint Center
-- [Enhanced Visibility and Hardening Guidance for Communications Infrastructure](https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure), CISA with NSA, FBI, ACSC, Canadian Cyber Centre, NCSC-NZ
 - [Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System (AA25-239A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a), CISA with NSA, FBI, DC3 and partner agencies of 12 other countries
-- [CISA and Partners Release Joint Advisory on Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide](https://www.cisa.gov/news-events/news/cisa-and-partners-release-joint-advisory-countering-chinese-state-sponsored-actors-compromise), CISA
 - [Cyber threat bulletin: PRC cyber actors target telecommunications companies as part of a global cyberespionage campaign](https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-prc-cyber-actors-target-telecommunications-companies-global-cyberespionage-campaign), Canadian Centre for Cyber Security with FBI
-- [People's Republic of China activity targeting network edge routers: observations and mitigation strategies](https://www.cyber.gc.ca/en/news-events/peoples-republic-china-activity-targeting-network-edge-routers-observations-mitigation-strategies), Canadian Centre for Cyber Security
-- [UK and allies expose China-based technology companies for enabling global cyber campaign against critical networks](https://www.ncsc.gov.uk/news/uk-allies-expose-china-tech-companies-enabling-cyber-campaign), NCSC-UK
-- [NÚKIB, NSA, and Other U.S. Agencies Warn of Chinese Actor Salt Typhoon Compromising Networks Worldwide](https://nukib.gov.cz/en/infoservis-en/news/2293-nukib-nsa-and-other-u-s-agencies-warn-of-chinese-actor-salt-typhoon-compromising-networks-worldwide/), NÚKIB, Czech Republic
-- [Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/countering-chinese-state-sponsored-actors-compromise-of-networks-worldwide-to-feed-global-espionage-system), ACSC, Australian Signals Directorate
-- [NCSC joins international partners to release guidance about Salt Typhoon activity](https://www.ncsc.govt.nz/news/guidance-about-salt-typhoon-activity/), NCSC-NZ
-- [Cyber Threat Report 2026, Judgement 2](https://www.ncsc.govt.nz/insights-and-research/cyber-threat-reports/cyber-threat-report-2026/judgement-2/), NCSC-NZ
 - [Nederlandse providers doelwit van Salt Typhoon](https://www.rijksoverheid.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon), Dutch government, MIVD and AIVD
-- [Gemeinsamer Sicherheitshinweis zu Cyber-Akteur SALT TYPHOON](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2025/2025-08-27-joint-cybersecurity-advisory.html), Bundesamt für Verfassungsschutz (BfV), Germany
 - [Joint Cybersecurity Advisory, Salt Typhoon](https://www.bnd.bund.de/DE/Service/Public-Intelligence/joint-cybersecurity-advisory/20250827-cyber-salt-typhoon-node.html), Bundesnachrichtendienst (BND), Germany
-- [Joint Cybersecurity advisory (CSA) about SALT TYPHOON](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Cyber-Security/CSA_Salt-Typhoon.html), Bundesamt für Sicherheit in der Informationstechnik (BSI), Germany
-- [「ソルトタイフーン(Salt Typhoon)」に関する国際アドバイザリーへの共同署名について](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20250827.html), National Police Agency, Japan
-- [UK clamps down on China-based companies for reckless and irresponsible activity in cyberspace](https://www.gov.uk/government/news/uk-clamps-down-on-china-based-companies-for-reckless-and-irresponsible-activity-in-cyberspace), UK Foreign, Commonwealth and Development Office
-- [Chairwoman Rosenworcel Announces Agency Action to Require Telecom Carriers to Secure Their Networks](https://docs.fcc.gov/public/attachments/DOC-408013A1.pdf), US Federal Communications Commission
-- [Protecting the Nation's Communications Systems from Cybersecurity Threats, Declaratory Ruling and Notice of Proposed Rulemaking (FCC 25-9)](https://docs.fcc.gov/public/attachments/FCC-25-9A1.pdf), US Federal Communications Commission
-- [FCC Corrects Course, Outlines Improved Cybersecurity Measures](https://docs.fcc.gov/public/attachments/DOC-415455A1.pdf), US Federal Communications Commission
-- [Order on Reconsideration (FCC 25-81)](https://docs.fcc.gov/public/attachments/FCC-25-81A1.pdf), US Federal Communications Commission
-- [Nederlandse providers doelwit van Salt Typhoon](https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon), AIVD
-- [OPERATOR PANDA adversary page](https://www.crowdstrike.com/adversaries/operator-panda/), CrowdStrike
-- [You will always remember this as the day you finally caught FamousSparrow](https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/), ESET
 
 ## Full profile
 

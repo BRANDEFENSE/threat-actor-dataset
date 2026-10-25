@@ -49,26 +49,8 @@ Attributed by the US and UK governments (19 July 2021) to the Chinese state, and
 - [Zhang Yu (SSSB)](https://rewardsforjustice.net/rewards/zhang-yu/), US State Department, Rewards for Justice
 - [The United States, Joined by Allies and Partners, Attributes Malicious Cyber Activity and Irresponsible State Behavior to the People's Republic of China](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/19/the-united-states-joined-by-allies-and-partners-attributes-malicious-cyber-activity-and-irresponsible-state-behavior-to-the-peoples-republic-of-china/), The White House
 - [Mitigate Microsoft Exchange Server Vulnerabilities (AA21-062A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-062a), CISA
-- [ED 21-02: Mitigate Microsoft Exchange On-Premises Product Vulnerabilities](https://www.cisa.gov/news-events/directives/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities), CISA
 - [UK and allies hold Chinese state responsible for a pervasive pattern of hacking](https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking), GOV.UK
-- [UK and allies hold Chinese state responsible for pervasive pattern of hacking](https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking), UK National Cyber Security Centre
-- [NCSC Annual Review 2021, Microsoft Exchange](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2021/the-threat/microsoft-exchange), UK National Cyber Security Centre
 - [Statement by the North Atlantic Council on malicious cyber activities including the Microsoft Exchange Server compromise](https://www.nato.int/cps/en/natohq/official_texts_185863.htm), NATO
-- [China Chopper, Software S0020](https://attack.mitre.org/software/S0020/), MITRE ATT&CK
-- [Covenant, Software S1155](https://attack.mitre.org/software/S1155/), MITRE ATT&CK
-- [PsExec, Software S0029](https://attack.mitre.org/software/S0029/), MITRE ATT&CK
-- [Tarrask, Software S1011](https://attack.mitre.org/software/S1011/), MITRE ATT&CK
-- [Exploit Public-Facing Application, T1190](https://attack.mitre.org/techniques/T1190/), MITRE ATT&CK
-- [Server Software Component: Web Shell, T1505.003](https://attack.mitre.org/techniques/T1505/003/), MITRE ATT&CK
-- [OS Credential Dumping: LSASS Memory, T1003.001](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
-- [OS Credential Dumping: NTDS, T1003.003](https://attack.mitre.org/techniques/T1003/003/), MITRE ATT&CK
-- [Email Collection: Remote Email Collection, T1114.002](https://attack.mitre.org/techniques/T1114/002/), MITRE ATT&CK
-- [Archive Collected Data: Archive via Utility, T1560.001](https://attack.mitre.org/techniques/T1560/001/), MITRE ATT&CK
-- [Exfiltration Over Web Service: Exfiltration to Cloud Storage, T1567.002](https://attack.mitre.org/techniques/T1567/002/), MITRE ATT&CK
-- [Brute Force: Password Spraying, T1110.003](https://attack.mitre.org/techniques/T1110/003/), MITRE ATT&CK
-- [Trusted Relationship, T1199](https://attack.mitre.org/techniques/T1199/), MITRE ATT&CK
-- [Valid Accounts: Cloud Accounts, T1078.004](https://attack.mitre.org/techniques/T1078/004/), MITRE ATT&CK
-- [Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global), US Department of Justice
 
 ## Full profile
 

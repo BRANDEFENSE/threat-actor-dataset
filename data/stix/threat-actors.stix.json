@@ -45,16 +45,6 @@
      "url": "https://attack.mitre.org/groups/G0138/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "gh0st RAT, Software S0032",
-     "url": "https://attack.mitre.org/software/S0032/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Rifdoor, Software S0433",
-     "url": "https://attack.mitre.org/software/S0433/"
-    },
-    {
      "source_name": "FBI, CNMF, CISA, DC3, NSA, South Korea NIS and NPA, UK NCSC",
      "description": "North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime's Military and Nuclear Programs (AA24-207A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-207a"
@@ -88,21 +78,6 @@
      "source_name": "FBI, CISA, Treasury",
      "description": "North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector (AA22-187A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-187a"
-    },
-    {
-     "source_name": "NSA, FBI, CISA, HHS, South Korea NIS and DSA",
-     "description": "StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities (AA23-040A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a"
-    },
-    {
-     "source_name": "Symantec",
-     "description": "Stonefly: Extortion Attacks Continue Against U.S. Targets",
-     "url": "https://www.security.com/threat-intelligence/stonefly-north-korea-extortion"
-    },
-    {
-     "source_name": "Symantec",
-     "description": "Clasiopa: New Group Targets Materials Research",
-     "url": "https://www.security.com/threat-intelligence/clasiopa-materials-research"
     }
    ]
   },
@@ -159,41 +134,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Event Triggered Execution: Component Object Model Hijacking, T1546.015",
      "url": "https://attack.mitre.org/techniques/T1546/015/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Web Service, T1102",
-     "url": "https://attack.mitre.org/techniques/T1102/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "System Binary Proxy Execution: Mshta, T1218.005",
-     "url": "https://attack.mitre.org/techniques/T1218/005/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Ingress Tool Transfer, T1105",
-     "url": "https://attack.mitre.org/techniques/T1105/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Screen Capture, T1113",
-     "url": "https://attack.mitre.org/techniques/T1113/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Deobfuscate/Decode Files or Information, T1140",
-     "url": "https://attack.mitre.org/techniques/T1140/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: JavaScript, T1059.007",
-     "url": "https://attack.mitre.org/techniques/T1059/007/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Application Layer Protocol: Web Protocols, T1071.001",
-     "url": "https://attack.mitre.org/techniques/T1071/001/"
     }
    ]
   },
@@ -260,46 +200,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "CALENDAR, Software S0025",
      "url": "https://attack.mitre.org/software/S0025/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "GLOOXMAIL, Software S0026",
-     "url": "https://attack.mitre.org/software/S0026/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PoisonIvy, Software S0012",
-     "url": "https://attack.mitre.org/software/S0012/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment, T1566.001",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Use Alternate Authentication Material: Pass the Hash, T1550.002",
-     "url": "https://attack.mitre.org/techniques/T1550/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory, T1003.001",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Services: Remote Desktop Protocol, T1021.001",
-     "url": "https://attack.mitre.org/techniques/T1021/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Acquire Infrastructure: Domains, T1583.001",
-     "url": "https://attack.mitre.org/techniques/T1583/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Archive Collected Data: Archive via Utility, T1560.001",
-     "url": "https://attack.mitre.org/techniques/T1560/001/"
     }
    ]
   },
@@ -362,61 +262,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "External Remote Services, Technique T1133",
      "url": "https://attack.mitre.org/techniques/T1133/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts, Technique T1078",
-     "url": "https://attack.mitre.org/techniques/T1078/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Application Layer Protocol: Web Protocols, Sub-technique T1071.001",
-     "url": "https://attack.mitre.org/techniques/T1071/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Application Layer Protocol: DNS, Sub-technique T1071.004",
-     "url": "https://attack.mitre.org/techniques/T1071/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Sub-technique T1547.001",
-     "url": "https://attack.mitre.org/techniques/T1547/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: Windows Command Shell, Sub-technique T1059.003",
-     "url": "https://attack.mitre.org/techniques/T1059/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "File and Directory Discovery, Technique T1083",
-     "url": "https://attack.mitre.org/techniques/T1083/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Indicator Removal: File Deletion, Sub-technique T1070.004",
-     "url": "https://attack.mitre.org/techniques/T1070/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Ingress Tool Transfer, Technique T1105",
-     "url": "https://attack.mitre.org/techniques/T1105/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Obfuscated Files or Information: Encrypted/Encoded File, Sub-technique T1027.013",
-     "url": "https://attack.mitre.org/techniques/T1027/013/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Scheduled Task/Job: At, Sub-technique T1053.002",
-     "url": "https://attack.mitre.org/techniques/T1053/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "System Information Discovery, Technique T1082",
-     "url": "https://attack.mitre.org/techniques/T1082/"
     },
     {
      "source_name": "US Department of Health and Human Services, Health Sector Cybersecurity Coordination Center (HC3); copy opened on the…",
@@ -489,46 +334,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "System Binary Proxy Execution: Regsvr32, Sub-technique T1218.010",
      "url": "https://attack.mitre.org/techniques/T1218/010/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hijack Execution Flow: DLL, Sub-technique T1574.001",
-     "url": "https://attack.mitre.org/techniques/T1574/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder, Sub-technique T1547.001",
-     "url": "https://attack.mitre.org/techniques/T1547/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Application Layer Protocol: Web Protocols, Sub-technique T1071.001",
-     "url": "https://attack.mitre.org/techniques/T1071/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File, Sub-technique T1204.002",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Obfuscated Files or Information: Encrypted/Encoded File, Sub-technique T1027.013",
-     "url": "https://attack.mitre.org/techniques/T1027/013/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hide Artifacts: Hidden Window, Sub-technique T1564.003",
-     "url": "https://attack.mitre.org/techniques/T1564/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Create or Modify System Process: Windows Service, Sub-technique T1543.003",
-     "url": "https://attack.mitre.org/techniques/T1543/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Obtain Capabilities: Tool, Sub-technique T1588.002",
-     "url": "https://attack.mitre.org/techniques/T1588/002/"
     }
    ]
   },
@@ -574,33 +379,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "HyperBro, Software S0398",
-     "url": "https://attack.mitre.org/software/S0398/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PlugX, Software S0013",
-     "url": "https://attack.mitre.org/software/S0013/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "SysUpdate, Software S0663",
-     "url": "https://attack.mitre.org/software/S0663/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "RCSession, Software S0662",
      "url": "https://attack.mitre.org/software/S0662/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "China Chopper, Software S0020",
-     "url": "https://attack.mitre.org/software/S0020/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Clambling, Software S0660",
-     "url": "https://attack.mitre.org/software/S0660/"
     },
     {
      "source_name": "US Department of Justice",
@@ -623,11 +403,6 @@
      "url": "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2022/2022-01-26-cyberbrief.html"
     },
     {
-     "source_name": "Bundesamt fuer Verfassungsschutz (BfV, Germany)",
-     "description": "BfV Cyber-Brief Nr. 01/2022",
-     "url": "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2022-01-bfv-cyber-brief.html"
-    },
-    {
      "source_name": "FPS Foreign Affairs, Belgium",
      "description": "China: Declaration by the Minister for Foreign Affairs on behalf of the Belgian Government",
      "url": "https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities"
@@ -636,21 +411,6 @@
      "source_name": "CERT-EU and ENISA",
      "description": "JP-23-01 Sustained activity by specific threat actors",
      "url": "https://cert.europa.eu/static/files/TLP-CLEAR-JointPublication-23-01.pdf"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Cyber Brief 24-07 June 2024",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-07/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "HAFNIUM, Group G0125",
-     "url": "https://attack.mitre.org/groups/G0125/"
-    },
-    {
-     "source_name": "Google Threat Intelligence Group",
-     "description": "ARMORY CASTLE Exploits BeyondTrust",
-     "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust"
     }
    ]
   },
@@ -706,19 +466,9 @@
      "url": "https://www.justice.gov/archives/opa/pr/us-charges-russian-gru-officers-international-hacking-and-related-influence-and"
     },
     {
-     "source_name": "US Department of the Treasury",
-     "description": "Treasury Targets Russian Operatives over Election Interference, World Anti-Doping Agency Hacking, and Other Malign Activities",
-     "url": "https://home.treasury.gov/news/press-releases/sm577"
-    },
-    {
      "source_name": "UK Foreign Office and NCSC (GOV.UK)",
      "description": "UK exposes Russian cyber attacks",
      "url": "https://www.gov.uk/government/news/uk-exposes-russian-cyber-attacks"
-    },
-    {
-     "source_name": "UK Government (GOV.UK)",
-     "description": "UK statement on attempted hacking of the OPCW by Russian military intelligence",
-     "url": "https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence"
     },
     {
      "source_name": "Council of the European Union (EUR-Lex)",
@@ -726,39 +476,9 @@
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1537"
     },
     {
-     "source_name": "CISA",
-     "description": "Joint NSA and FBI Cybersecurity Advisory Discloses Russian Malware Drovorub",
-     "url": "https://www.cisa.gov/news-events/alerts/2020/08/13/joint-nsa-and-fbi-cybersecurity-advisory-discloses-russian-malware"
-    },
-    {
-     "source_name": "CISA",
-     "description": "NSA, CISA, NCSC, FBI joint advisory on Russian GRU brute force campaign",
-     "url": "https://www.cisa.gov/news-events/alerts/2021/07/01/nsa-cisa-ncsc-fbi-joint-cybersecurity-advisory-russian-gru-brute"
-    },
-    {
      "source_name": "UK NCSC",
      "description": "NCSC joins US partners to expose global brute force campaign by Russian Intelligence Services",
      "url": "https://www.ncsc.gov.uk/news/global-brute-force-campaign-advisory"
-    },
-    {
-     "source_name": "UK NCSC",
-     "description": "UK and US issue warning about APT28 actors exploiting poorly maintained Cisco routers",
-     "url": "https://www.ncsc.gov.uk/news/uk-and-us-issue-warning-about-apt28-actors-exploiting-poorly-maintained-cisco-routers"
-    },
-    {
-     "source_name": "US Department of Justice",
-     "description": "Justice Department Conducts Court-Authorized Disruption of Botnet Controlled by the Russian Federation's Main Intelligence Directorate of the General Staff (GRU)",
-     "url": "https://www.justice.gov/archives/opa/pr/justice-department-conducts-court-authorized-disruption-botnet-controlled-russian"
-    },
-    {
-     "source_name": "UK Foreign, Commonwealth and Development Office",
-     "description": "UK joins partners in condemnation of malicious cyber activity by Russian Intelligence Services: UK government statement",
-     "url": "https://www.gov.uk/government/news/united-kingdom-joins-partners-in-condemnation-of-malicious-cyber-activity-by-russian-intelligence-services-uk-government-statement"
-    },
-    {
-     "source_name": "Czech Ministry of Foreign Affairs",
-     "description": "Statement of the MFA on the Cyberattacks Carried by Russian Actor APT28 on Czechia",
-     "url": "https://mzv.gov.cz/jnp/en/issues_and_press/press_releases/statement_of_the_mfa_on_the_cyberattacks.html"
     },
     {
      "source_name": "ANSSI, CERT-FR",
@@ -769,71 +489,6 @@
      "source_name": "CISA with NSA, FBI, NCSC-UK and partner agencies",
      "description": "Russian GRU Targeting Western Logistics Entities and Technology Companies (AA25-141A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a"
-    },
-    {
-     "source_name": "UK NCSC",
-     "description": "UK calls out Russian military intelligence for use of espionage tool",
-     "url": "https://www.ncsc.gov.uk/news/uk-call-out-russian-military-intelligence-use-espionage-tool"
-    },
-    {
-     "source_name": "UK NCSC",
-     "description": "APT28 exploit routers to enable DNS hijacking operations",
-     "url": "https://www.ncsc.gov.uk/news/apt28-exploit-routers-to-enable-dns-hijacking-operations"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "CHOPSTICK (S0023)",
-     "url": "https://attack.mitre.org/software/S0023/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Drovorub (S0502)",
-     "url": "https://attack.mitre.org/software/S0502/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "LoJax (S0397)",
-     "url": "https://attack.mitre.org/software/S0397/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Zebrocy (S0251)",
-     "url": "https://attack.mitre.org/software/S0251/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "XTunnel (S0117)",
-     "url": "https://attack.mitre.org/software/S0117/"
-    },
-    {
-     "source_name": "UK Government (FCDO)",
-     "description": "UK sanctions Russian spies at the heart of Putin's malicious regime",
-     "url": "https://www.gov.uk/government/news/uk-sanctions-russian-spies-at-the-heart-of-putins-malicious-regime"
-    },
-    {
-     "source_name": "Federal Government of Germany",
-     "description": "Attribution of a Russian cyber campaign",
-     "url": "https://www.bundesregierung.de/resource/blob/998352/2279650/00a4f87bfc79d222b30677db8e79066b/2024-05-03-attribution-of-a-russian-cyber-campaign-en-data.pdf"
-    },
-    {
-     "source_name": "Ministry for Europe and Foreign Affairs of France",
-     "description": "Russia - Attribution of cyber attacks on France to the Russian military intelligence service (APT28)",
-     "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/russie-attribution-de-cyberattaques-contre-la-france-au-service-de-renseignement-militaire-russe"
-    },
-    {
-     "source_name": "Romanian Intelligence Service (SRI)",
-     "description": "SRI a contribuit alaturi de comunitatea internationala la stoparea unor atacuri cibernetice atribuite GRU",
-     "url": "https://www.sri.ro/articole/SRI-a-contribuit-alaturi-de-comunitatea-internationala-la-stoparea-unor-atacuri-cibernetice-atribuite-GRU.html"
-    },
-    {
-     "source_name": "Symantec (Broadcom)",
-     "description": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-     "url": "https://www.security.com/blog-post/swallowtail-russia-nato-targets"
-    },
-    {
-     "source_name": "Recorded Future Insikt Group",
-     "description": "BlueDelta Targets Defense and Diplomacy with HOOKEDGE",
-     "url": "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge"
     }
    ]
   },
@@ -883,16 +538,6 @@
      "url": "https://attack.mitre.org/campaigns/C0024/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "SUNBURST (S0559)",
-     "url": "https://attack.mitre.org/software/S0559/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "WellMess (S0514)",
-     "url": "https://attack.mitre.org/software/S0514/"
-    },
-    {
      "source_name": "UK National Cyber Security Centre",
      "description": "Advisory: APT29 targets COVID-19 vaccine development",
      "url": "https://www.ncsc.gov.uk/news/advisory-apt29-targets-covid-19-vaccine-development"
@@ -908,21 +553,6 @@
      "url": "https://www.cisa.gov/news-events/news/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure-security-agency-0"
     },
     {
-     "source_name": "CISA",
-     "description": "ED 21-01: Mitigate SolarWinds Orion Code Compromise",
-     "url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise"
-    },
-    {
-     "source_name": "US Department of the Treasury",
-     "description": "Treasury Sanctions Russia with Sweeping New Sanctions Authority",
-     "url": "https://home.treasury.gov/news/press-releases/jy0127"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK and US call out Russia for SolarWinds compromise",
-     "url": "https://www.ncsc.gov.uk/news/uk-and-us-call-out-russia-for-solarwinds-compromise"
-    },
-    {
      "source_name": "UK Government (gov.uk)",
      "description": "Russia: UK and US expose global campaign of malign activity by Russian intelligence services",
      "url": "https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services"
@@ -936,16 +566,6 @@
      "source_name": "CISA, NSA, FBI, UK NCSC and partners",
      "description": "SVR Cyber Actors Adapt Tactics for Initial Cloud Access (AA24-057A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a"
-    },
-    {
-     "source_name": "CISA",
-     "description": "ED 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System",
-     "url": "https://www.cisa.gov/news-events/directives/ed-24-02-mitigating-significant-risk-nation-state-compromise-microsoft-corporate-email-system-closed"
-    },
-    {
-     "source_name": "Trend News Agency (reporting the Parliamentary Commission hearing)",
-     "description": "Russian-linked APT29 behind recent cyberattacks on Azerbaijani media",
-     "url": "https://www.trend.az/azerbaijan/politics/4038980.html"
     }
    ]
   },
@@ -1002,11 +622,6 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Goopy, Software S0477",
-     "url": "https://attack.mitre.org/software/S0477/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "OSX_OCEANLOTUS.D, Software S0352",
      "url": "https://attack.mitre.org/software/S0352/"
     },
@@ -1019,36 +634,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Kerrdown, Software S0585",
      "url": "https://attack.mitre.org/software/S0585/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cobalt Strike, Software S0154",
-     "url": "https://attack.mitre.org/software/S0154/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz, Software S0002",
-     "url": "https://attack.mitre.org/software/S0002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link, Sub-technique T1566.002",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Drive-by Compromise, Technique T1189",
-     "url": "https://attack.mitre.org/techniques/T1189/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hijack Execution Flow: DLL, Sub-technique T1574.001",
-     "url": "https://attack.mitre.org/techniques/T1574/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Office Application Startup, Technique T1137",
-     "url": "https://attack.mitre.org/techniques/T1137/"
     }
    ]
   },
@@ -1104,11 +689,6 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Ruler (S0358)",
-     "url": "https://attack.mitre.org/software/S0358/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "LaZagne (S0349)",
      "url": "https://attack.mitre.org/software/S0349/"
     },
@@ -1118,49 +698,9 @@
      "url": "https://attack.mitre.org/software/S0002/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Empire (S0363)",
-     "url": "https://attack.mitre.org/software/S0363/"
-    },
-    {
      "source_name": "CERT-EU",
      "description": "CERT-EU Cyber Security Brief 24-04, March 2024",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-04/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Brute Force: Password Spraying (T1110.003)",
-     "url": "https://attack.mitre.org/techniques/T1110/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts (T1078)",
-     "url": "https://attack.mitre.org/techniques/T1078/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link (T1566.002)",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious Link (T1204.001)",
-     "url": "https://attack.mitre.org/techniques/T1204/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Privilege Escalation (T1068)",
-     "url": "https://attack.mitre.org/techniques/T1068/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory (T1003.001)",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: PowerShell (T1059.001)",
-     "url": "https://attack.mitre.org/techniques/T1059/001/"
     }
    ]
   },
@@ -1217,19 +757,9 @@
      "url": "https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims"
     },
     {
-     "source_name": "CISA",
-     "description": "NSA and NCSC Release Joint Advisory on Turla Group Activity",
-     "url": "https://www.cisa.gov/news-events/alerts/2019/10/21/nsa-and-ncsc-release-joint-advisory-turla-group-activity"
-    },
-    {
      "source_name": "MITRE ATT&CK",
      "description": "Outer Space, Campaign C0042",
      "url": "https://attack.mitre.org/campaigns/C0042/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Juicy Mix, Campaign C0044",
-     "url": "https://attack.mitre.org/campaigns/C0044/"
     },
     {
      "source_name": "MITRE ATT&CK",
@@ -1238,93 +768,13 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "OilBooster, Software S1172",
-     "url": "https://attack.mitre.org/software/S1172/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "PowerExchange, Software S1173",
      "url": "https://attack.mitre.org/software/S1173/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Helminth, Software S0170",
-     "url": "https://attack.mitre.org/software/S0170/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "QUADAGENT, Software S0269",
-     "url": "https://attack.mitre.org/software/S0269/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OopsIE, Software S0264",
-     "url": "https://attack.mitre.org/software/S0264/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RGDoor, Software S0258",
-     "url": "https://attack.mitre.org/software/S0258/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Solar, Software S1166",
-     "url": "https://attack.mitre.org/software/S1166/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mango, Software S1169",
-     "url": "https://attack.mitre.org/software/S1169/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment, T1566.001",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "External Remote Services, T1133",
-     "url": "https://attack.mitre.org/techniques/T1133/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory, T1003.001",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell, T1505.003",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Office Application Startup: Outlook Home Page, T1137.004",
-     "url": "https://attack.mitre.org/techniques/T1137/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Application Layer Protocol: DNS, T1071.004",
-     "url": "https://attack.mitre.org/techniques/T1071/004/"
     },
     {
      "source_name": "National Cyber Security Center, Bahrain",
      "description": "A new .NET-based DNS Backdoor Used by Lyceum (advisory NCSC-TAD-2206-003, 15 June 2022)",
      "url": "https://www.ncsc.gov.bh/assets/images/51_Advisory_A_New_NET_based_DNS_Backdoor_Used_by_Lyceum_de90408416.pdf"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Threat Landscape Report, The 10 Years Edition",
-     "url": "https://cert.europa.eu/publications/tlr-10-years/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "LaZagne, Software S0349",
-     "url": "https://attack.mitre.org/software/S0349/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ngrok, Software S0508",
-     "url": "https://attack.mitre.org/software/S0508/"
     }
    ]
   },
@@ -1373,11 +823,6 @@
      "url": "https://home.treasury.gov/news/press-releases/jy0948"
     },
     {
-     "source_name": "US Department of the Treasury",
-     "description": "Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections",
-     "url": "https://home.treasury.gov/news/press-releases/jy2621"
-    },
-    {
      "source_name": "Canadian Centre for Cyber Security with CISA, FBI and partner agencies",
      "description": "Mitigating cyber threats with limited resources: Guidance for civil society",
      "url": "https://www.cyber.gc.ca/en/news-events/mitigating-cyber-threats-with-limited-resources-guidance-civil-society"
@@ -1394,11 +839,6 @@
     },
     {
      "source_name": "CERT-EU",
-     "description": "Cyber Security Brief 24-03, February 2024",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-03/"
-    },
-    {
-     "source_name": "CERT-EU",
      "description": "Cyber Brief 25-05, April 2025",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-05/"
     },
@@ -1406,76 +846,6 @@
      "source_name": "Israel National Digital Agency",
      "description": "SpearSpecter: Unmasking Iran's IRGC Cyber Operations Targeting High-Profile Individuals",
      "url": "https://govextra.gov.il/national-digital-agency/cyber/research/spearspecter/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "CharmPower (S0674)",
-     "url": "https://attack.mitre.org/software/S0674/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PowerLess (S1012)",
-     "url": "https://attack.mitre.org/software/S1012/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "DownPaper (S0186)",
-     "url": "https://attack.mitre.org/software/S0186/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Pupy (S0192)",
-     "url": "https://attack.mitre.org/software/S0192/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "FRP (S1144)",
-     "url": "https://attack.mitre.org/software/S1144/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz (S0002)",
-     "url": "https://attack.mitre.org/software/S0002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Impacket (S0357)",
-     "url": "https://attack.mitre.org/software/S0357/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link (T1566.002)",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application (T1190)",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell (T1505.003)",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory (T1003.001)",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Services: Remote Desktop Protocol (T1021.001)",
-     "url": "https://attack.mitre.org/techniques/T1021/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Email Collection: Remote Email Collection (T1114.002)",
-     "url": "https://attack.mitre.org/techniques/T1114/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK, APT42 group page G1044",
-     "description": "Magic Hound and APT42",
-     "url": "https://attack.mitre.org/groups/G1044/"
     }
    ]
   },
@@ -1543,36 +913,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Phishing: Spearphishing Link, Sub-technique T1566.002",
      "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious Link, Sub-technique T1204.001",
-     "url": "https://attack.mitre.org/techniques/T1204/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File, Sub-technique T1204.002",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Drive-by Compromise, Technique T1189",
-     "url": "https://attack.mitre.org/techniques/T1189/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Client Execution, Technique T1203",
-     "url": "https://attack.mitre.org/techniques/T1203/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Acquire Infrastructure: Domains, Sub-technique T1583.001",
-     "url": "https://attack.mitre.org/techniques/T1583/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hide Artifacts: Hidden Files and Directories, Sub-technique T1564.001",
-     "url": "https://attack.mitre.org/techniques/T1564/001/"
     }
    ]
   },
@@ -1642,41 +982,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Phishing: Spearphishing Attachment, Sub-technique T1566.001",
      "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Drive-by Compromise, Technique T1189",
-     "url": "https://attack.mitre.org/techniques/T1189/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Client Execution, Technique T1203",
-     "url": "https://attack.mitre.org/techniques/T1203/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Web Service: Bidirectional Communication, Sub-technique T1102.002",
-     "url": "https://attack.mitre.org/techniques/T1102/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File, Sub-technique T1204.002",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Obfuscated Files or Information: Steganography, Sub-technique T1027.003",
-     "url": "https://attack.mitre.org/techniques/T1027/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Disk Wipe: Disk Structure Wipe, Sub-technique T1561.002",
-     "url": "https://attack.mitre.org/techniques/T1561/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Peripheral Device Discovery, Technique T1120",
-     "url": "https://attack.mitre.org/techniques/T1120/"
     }
    ]
   },
@@ -1712,11 +1017,6 @@
      "url": "https://attack.mitre.org/groups/G0082/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Lazarus Group, Group G0032",
-     "url": "https://attack.mitre.org/groups/G0032/"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups",
      "url": "https://home.treasury.gov/news/press-releases/sm774"
@@ -1727,29 +1027,14 @@
      "url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200513"
     },
     {
-     "source_name": "DHS, Treasury and FBI, via CISA",
-     "description": "HIDDEN COBRA: FASTCash Campaign (TA18-275A)",
-     "url": "https://www.cisa.gov/news-events/alerts/2018/10/02/hidden-cobra-fastcash-campaign"
-    },
-    {
      "source_name": "CISA, Treasury, FBI and US Cyber Command",
      "description": "FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks (AA20-239A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a"
     },
     {
      "source_name": "FBI, CISA and Treasury, via CISA",
-     "description": "AppleJeus: Analysis of North Korea's Cryptocurrency Malware (AA21-048A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a"
-    },
-    {
-     "source_name": "FBI, CISA and Treasury, via CISA",
      "description": "TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (AA22-108A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a"
-    },
-    {
-     "source_name": "FBI Internet Crime Complaint Center",
-     "description": "North Korea Aggressively Targeting Crypto Industry with Well-Disguised Social Engineering Attacks",
-     "url": "https://www.ic3.gov/PSA/2024/PSA240903"
     },
     {
      "source_name": "FBI Internet Crime Complaint Center",
@@ -1760,16 +1045,6 @@
      "source_name": "US Department of Justice",
      "description": "Justice Department Announces Nationwide Actions to Combat Illicit North Korean Government Revenue Generation",
      "url": "https://www.justice.gov/opa/pr/justice-department-announces-nationwide-actions-combat-illicit-north-korean-government"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ECCENTRICBANDWAGON, Software S0593",
-     "url": "https://attack.mitre.org/software/S0593/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "HOPLIGHT, Software S0376",
-     "url": "https://attack.mitre.org/software/S0376/"
     },
     {
      "source_name": "CISA",
@@ -1840,28 +1115,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Cadelspy, Software S0454",
-     "url": "https://attack.mitre.org/software/S0454/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "MechaFlounder, Software S0459",
      "url": "https://attack.mitre.org/software/S0459/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "BITS Jobs, Technique T1197",
-     "url": "https://attack.mitre.org/techniques/T1197/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment, Sub-technique T1566.001",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application, Technique T1190",
-     "url": "https://attack.mitre.org/techniques/T1190/"
     }
    ]
   },
@@ -1904,48 +1159,13 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Leviathan Australian Intrusions, Campaign C0049",
-     "url": "https://attack.mitre.org/campaigns/C0049/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "BADFLICK, Software S0642",
      "url": "https://attack.mitre.org/software/S0642/"
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "China Chopper, Software S0020",
-     "url": "https://attack.mitre.org/software/S0020/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Derusbi, Software S0021",
-     "url": "https://attack.mitre.org/software/S0021/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MURKYTOP, Software S0233",
-     "url": "https://attack.mitre.org/software/S0233/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "HOMEFRY, Software S0232",
-     "url": "https://attack.mitre.org/software/S0232/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "NanHaiShu, Software S0228",
-     "url": "https://attack.mitre.org/software/S0228/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Orz, Software S0229",
      "url": "https://attack.mitre.org/software/S0229/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "gh0st RAT, Software S0032",
-     "url": "https://attack.mitre.org/software/S0032/"
     },
     {
      "source_name": "CISA and FBI",
@@ -1958,11 +1178,6 @@
      "url": "https://www.justice.gov/archives/opa/press-release/file/1412916/dl"
     },
     {
-     "source_name": "National Cyber Security Centre (UK)",
-     "description": "UK and allies hold Chinese state responsible for pervasive pattern of hacking",
-     "url": "https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking"
-    },
-    {
      "source_name": "Foreign, Commonwealth & Development Office and NCSC (GOV.UK)",
      "description": "UK and allies hold Chinese state responsible for a pervasive pattern of hacking",
      "url": "https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking"
@@ -1973,19 +1188,9 @@
      "url": "https://www.mfa.gov.lv/en/article/latvia-raises-its-concern-about-irresponsible-behavior-cyberspace"
     },
     {
-     "source_name": "ASD's ACSC, CISA, NSA, FBI and partner agencies of Canada, Germany, Japan, New Zealand, South Korea and the UK",
-     "description": "People's Republic of China (PRC) Ministry of State Security APT40 Tradecraft in Action (AA24-190A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-190a"
-    },
-    {
      "source_name": "NCSC New Zealand",
      "description": "APT40 Advisory, PRC MSS tradecraft in action (PDF)",
      "url": "https://www.ncsc.govt.nz/assets/alerts/Joint-advisories/APT40-Advisory-20240709_FA-v2.pdf"
-    },
-    {
-     "source_name": "Taipei Times",
-     "description": "Taiwan accuses China of hacking government data (Reuters)",
-     "url": "https://www.taipeitimes.com/News/taiwan/archives/2020/08/20/2003741991"
     }
    ]
   },
@@ -1993,8 +1198,8 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--b2c5977b-a2d2-5339-815d-a5cc733b8fd7",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-25T00:00:00.000Z",
+   "modified": "2026-10-25T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "APT41",
    "description": "MITRE describes APT41 as a Chinese state-sponsored espionage group, as researchers have assessed it, that also runs financially motivated operations. The US Department of Justice charged five Chinese nationals in 2019 and 2020 and said the hacking reached more than 100 victims.",
@@ -2021,33 +1226,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Campaign C0017",
-     "url": "https://attack.mitre.org/campaigns/C0017/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Campaign APT41 DUST (C0040)",
      "url": "https://attack.mitre.org/campaigns/C0040/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ShadowPad (S0596)",
-     "url": "https://attack.mitre.org/software/S0596/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Winnti for Linux (S0430)",
-     "url": "https://attack.mitre.org/software/S0430/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "KEYPLUG (S1051)",
-     "url": "https://attack.mitre.org/software/S1051/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "DUSTTRAP (S1159)",
-     "url": "https://attack.mitre.org/software/S1159/"
     },
     {
      "source_name": "FBI",
@@ -2075,34 +1255,9 @@
      "url": "https://www.justice.gov/opa/media/1093431/dl"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Supply Chain Compromise: Compromise Software Supply Chain (T1195.002)",
-     "url": "https://attack.mitre.org/techniques/T1195/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application (T1190)",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell (T1505.003)",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment (T1566.001)",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping (T1003)",
-     "url": "https://attack.mitre.org/techniques/T1003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts (T1078)",
-     "url": "https://attack.mitre.org/techniques/T1078/"
+     "source_name": "Kaspersky Securelist",
+     "description": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia",
+     "url": "https://securelist.com/uefi-bootkit-blackx/121539/"
     }
    ]
   },
@@ -2144,11 +1299,6 @@
      "url": "https://www.ncsc.gov.uk/news/spear-phishing-campaigns-targets-of-interest"
     },
     {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK cyber experts warn of targeted phishing attacks from actors based in Russia and Iran",
-     "url": "https://www.ncsc.gov.uk/news/uk-cyber-experts-warn-of-targeted-phishing-attacks-from-actors-based-in-russia-and-iran"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections",
      "url": "https://home.treasury.gov/news/press-releases/jy2621"
@@ -2177,36 +1327,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "NICECURL, Software S1192",
      "url": "https://attack.mitre.org/software/S1192/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "TAMECAT, Software S1193",
-     "url": "https://attack.mitre.org/software/S1193/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Magic Hound, Group G0059",
-     "url": "https://attack.mitre.org/groups/G0059/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link, Sub-technique T1566.002",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Steal Web Session Cookie, Technique T1539",
-     "url": "https://attack.mitre.org/techniques/T1539/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Data from Cloud Storage, Technique T1530",
-     "url": "https://attack.mitre.org/techniques/T1530/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Multi-Factor Authentication Interception, Technique T1111",
-     "url": "https://attack.mitre.org/techniques/T1111/"
     }
    ]
   },
@@ -2266,56 +1386,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Exploit Public-Facing Application, Technique T1190",
      "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell, Sub-technique T1505.003",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Abuse Elevation Control Mechanism: Setuid and Setgid, Sub-technique T1548.001",
-     "url": "https://attack.mitre.org/techniques/T1548/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Abuse Elevation Control Mechanism: Sudo and Sudo Caching, Sub-technique T1548.003",
-     "url": "https://attack.mitre.org/techniques/T1548/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Credentials from Password Stores, Technique T1555",
-     "url": "https://attack.mitre.org/techniques/T1555/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Boot or Logon Initialization Scripts, Technique T1037",
-     "url": "https://attack.mitre.org/techniques/T1037/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Indicator Removal: File Deletion, Sub-technique T1070.004",
-     "url": "https://attack.mitre.org/techniques/T1070/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Account Manipulation, Technique T1098",
-     "url": "https://attack.mitre.org/techniques/T1098/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Access Tools, Technique T1219",
-     "url": "https://attack.mitre.org/techniques/T1219/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Protocol Tunneling, Technique T1572",
-     "url": "https://attack.mitre.org/techniques/T1572/"
-    },
-    {
-     "source_name": "US Department of Justice",
-     "description": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
-     "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
     }
    ]
   },
@@ -2373,48 +1443,13 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Privilege Escalation, T1068",
-     "url": "https://attack.mitre.org/techniques/T1068/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File, T1204.002",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Phishing, T1660 (Mobile)",
      "url": "https://attack.mitre.org/techniques/T1660/"
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Ingress Tool Transfer, T1105",
-     "url": "https://attack.mitre.org/techniques/T1105/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Inter-Process Communication: Dynamic Data Exchange, T1559.002",
      "url": "https://attack.mitre.org/techniques/T1559/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Masquerading: Masquerade Task or Service, T1036.004",
-     "url": "https://attack.mitre.org/techniques/T1036/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Scheduled Task/Job: Scheduled Task, T1053.005",
-     "url": "https://attack.mitre.org/techniques/T1053/005/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Acquire Infrastructure: Domains, T1583.001",
-     "url": "https://attack.mitre.org/techniques/T1583/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Dynamic Resolution, T1568",
-     "url": "https://attack.mitre.org/techniques/T1568/"
     }
    ]
   },
@@ -2459,11 +1494,6 @@
      "url": "https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity"
     },
     {
-     "source_name": "CISA",
-     "description": "NSA, FBI, CISA, and Japanese Partners Release Advisory on PRC-Linked Cyber Actors",
-     "url": "https://www.cisa.gov/news-events/alerts/2023/09/27/nsa-fbi-cisa-and-japanese-partners-release-advisory-prc-linked-cyber-actors"
-    },
-    {
      "source_name": "Japan National Police Agency and NISC",
      "description": "中国を背景とするサイバー攻撃グループBlackTechによるサイバー攻撃について（注意喚起）",
      "url": "https://www.npa.go.jp/bureau/cyber/pdf/20230927press.pdf"
@@ -2484,54 +1514,9 @@
      "url": "https://blogs.jpcert.or.jp/en/2021/10/gh0sttimes.html"
     },
     {
-     "source_name": "JPCERT Coordination Center",
-     "description": "ELF_PLEAD - Linux Malware Used by BlackTech",
-     "url": "https://blogs.jpcert.or.jp/en/2020/11/elf-plead.html"
-    },
-    {
-     "source_name": "JPCERT Coordination Center",
-     "description": "IconDown - Downloader Used by BlackTech",
-     "url": "https://blogs.jpcert.or.jp/en/2019/11/icondown-downloader-used-by-blacktech.html"
-    },
-    {
      "source_name": "MITRE ATT&CK",
      "description": "Flagpro, Software S0696",
      "url": "https://attack.mitre.org/software/S0696/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PLEAD, Software S0435",
-     "url": "https://attack.mitre.org/software/S0435/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "TSCookie, Software S0436",
-     "url": "https://attack.mitre.org/software/S0436/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Waterbear, Software S0579",
-     "url": "https://attack.mitre.org/software/S0579/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Kivars, Software S0437",
-     "url": "https://attack.mitre.org/software/S0437/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Pre-OS Boot: ROMMONkit, Technique T1542.004",
-     "url": "https://attack.mitre.org/techniques/T1542/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Modify System Image: Patch System Image, Technique T1601.001",
-     "url": "https://attack.mitre.org/techniques/T1601/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Trusted Relationship, Technique T1199",
-     "url": "https://attack.mitre.org/techniques/T1199/"
     }
    ]
   },
@@ -2603,11 +1588,6 @@
      "source_name": "CISA",
      "description": "Exploitation of Unitronics PLCs used in Water and Wastewater Systems",
      "url": "https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "NCSC statement following exploitation of Unitronics programmable logic controllers",
-     "url": "https://www.ncsc.gov.uk/news/ncsc-statement-following-exploitation-of-unitronics-programmable-logic-controllers"
     }
    ]
   },
@@ -2664,11 +1644,6 @@
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-296a"
     },
     {
-     "source_name": "US DHS and FBI",
-     "description": "Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors (TA18-074A)",
-     "url": "https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors"
-    },
-    {
      "source_name": "UK Government",
      "description": "Russia's FSB malign activity: factsheet",
      "url": "https://www.gov.uk/government/publications/russias-fsb-malign-cyber-activity-factsheet/russias-fsb-malign-activity-factsheet"
@@ -2679,11 +1654,6 @@
      "url": "https://www.gov.uk/government/news/uk-exposes-russian-spy-agency-behind-cyber-incidents"
     },
     {
-     "source_name": "US State Department Rewards for Justice",
-     "description": "Marat Valeryevich Tyukov",
-     "url": "https://rewardsforjustice.net/rewards/marat-valeryevich-tyukov/"
-    },
-    {
      "source_name": "FBI",
      "description": "Russian Government Cyber Actors Targeting Networking Devices, Critical Infrastructure (PSA I-082025-PSA)",
      "url": "https://www.ic3.gov/PSA/2025/PSA250820"
@@ -2692,61 +1662,6 @@
      "source_name": "NSA, CISA, FBI, DC3 and partner agencies",
      "description": "Improve Router Hygiene to Protect Against Russian State-Sponsored Targeting (joint advisory)",
      "url": "https://www.ic3.gov/CSA/2026/260713.pdf"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK and Allies urge critical sectors to improve defences against Russian intelligence targeting",
-     "url": "https://www.ncsc.gov.uk/sites/default/files/2026-07/UK-and-Allies-urge-critical-sectors-to-improve-defences-against-Russian-intelligence-targeting.pdf"
-    },
-    {
-     "source_name": "UK Foreign, Commonwealth and Development Office",
-     "description": "UK and EU strike Russian cyber networks with new sanctions",
-     "url": "https://www.gov.uk/government/news/uk-and-eu-strike-russian-cyber-networks-with-new-sanctions"
-    },
-    {
-     "source_name": "European Union External Action Service",
-     "description": "Cyber / Russia: Statement by the High Representative on behalf of the European Union",
-     "url": "https://www.eeas.europa.eu/delegations/ukraine/cyber-russia-statement-high-representative-behalf-european-union-denouncing-russia%E2%80%99s-malicious-cyber_en"
-    },
-    {
-     "source_name": "European Union External Action Service",
-     "description": "Exposing Russia's malicious cyber ecosystem: the EU adopts its biggest cyber sanctions package",
-     "url": "https://www.eeas.europa.eu/eeas/exposing-russias-malicious-cyber-ecosystem-eu-adopts-its-biggest-cyber-sanctions-package_en"
-    },
-    {
-     "source_name": "CISA ICS-CERT",
-     "description": "ICS Focused Malware (ICS-ALERT-14-176-02A)",
-     "url": "https://www.cisa.gov/news-events/ics-alerts/ics-alert-14-176-02a"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Backdoor.Oldrea (S0093)",
-     "url": "https://attack.mitre.org/software/S0093/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Trojan.Karagany (S0094)",
-     "url": "https://attack.mitre.org/software/S0094/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MCMD (S0500)",
-     "url": "https://attack.mitre.org/software/S0500/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "CrackMapExec (S0488)",
-     "url": "https://attack.mitre.org/software/S0488/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz (S0002)",
-     "url": "https://attack.mitre.org/software/S0002/"
-    },
-    {
-     "source_name": "CERT Polska",
-     "description": "Energy Sector Incident Report, 29 December 2025",
-     "url": "https://cert.pl/en/posts/2026/01/incident-report-energy-sector-2025/"
     }
    ]
   },
@@ -2793,16 +1708,6 @@
      "url": "https://www.ncsc.gov.uk/news/uk-allies-uncover-russian-military-carrying-out-cyber-attacks-digital-sabotage"
     },
     {
-     "source_name": "Estonian Ministry of Foreign Affairs",
-     "description": "Estonia names Russia's military intelligence in a first-ever attribution of cyberattacks",
-     "url": "https://vm.ee/en/news/estonia-names-russias-military-intelligence-first-ever-attribution-cyberattacks"
-    },
-    {
-     "source_name": "Estonian Office of the Prosecutor General",
-     "description": "A GRU military unit launched cyberattacks against Estonian authorities",
-     "url": "https://www.prokuratuur.ee/en/news/gru-military-unit-launched-cyberattacks-against-estonian-authorities"
-    },
-    {
      "source_name": "US State Department, Rewards for Justice",
      "description": "GRU Officers, Unit 29155",
      "url": "https://rewardsforjustice.net/rewards/gru-officers-unit-29155/"
@@ -2818,11 +1723,6 @@
      "url": "https://www.gov.uk/government/news/uk-sanctions-russian-spies-at-the-heart-of-putins-malicious-regime"
     },
     {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK calls out Russian military intelligence for use of espionage tool",
-     "url": "https://www.ncsc.gov.uk/news/uk-call-out-russian-military-intelligence-use-espionage-tool"
-    },
-    {
      "source_name": "UK Government",
      "description": "Profile: GRU cyber and hybrid threat operations",
      "url": "https://www.gov.uk/government/publications/profile-gru-cyber-and-hybrid-threat-operations/profile-gru-cyber-and-hybrid-threat-operations"
@@ -2831,31 +1731,6 @@
      "source_name": "Council of the European Union",
      "description": "Council Implementing Regulation (EU) 2025/2568 of 15 December 2025",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568"
-    },
-    {
-     "source_name": "Council of the European Union",
-     "description": "Council Decision (CFSP) 2025/2572 of 15 December 2025",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32025D2572"
-    },
-    {
-     "source_name": "CISA and FBI",
-     "description": "Update: Destructive Malware Targeting Organizations in Ukraine (AA22-057A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-057a"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "WhisperGate, Software S0689",
-     "url": "https://attack.mitre.org/software/S0689/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Saint Bot, Software S1018",
-     "url": "https://attack.mitre.org/software/S1018/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Rclone, Software S1040",
-     "url": "https://attack.mitre.org/software/S1040/"
     }
    ]
   },
@@ -2917,43 +1792,13 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Carbanak (S0030)",
-     "url": "https://attack.mitre.org/software/S0030/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cobalt Strike (S0154)",
-     "url": "https://attack.mitre.org/software/S0154/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "GRIFFON (S0417)",
-     "url": "https://attack.mitre.org/software/S0417/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "JSS Loader (S0648)",
      "url": "https://attack.mitre.org/software/S0648/"
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Lizar (S0681)",
-     "url": "https://attack.mitre.org/software/S0681/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Pillowmint (S0517)",
      "url": "https://attack.mitre.org/software/S0517/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Replication Through Removable Media (T1091)",
-     "url": "https://attack.mitre.org/techniques/T1091/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Input Injection (T1674)",
-     "url": "https://attack.mitre.org/techniques/T1674/"
     }
    ]
   },
@@ -3017,81 +1862,6 @@
      "source_name": "Canadian Centre for Cyber Security, June 2022",
      "description": "Cyber threat bulletin: Cyber threat activity related to the Russian invasion of Ukraine",
      "url": "https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-cyber-threat-activity-related-russian-invasion-ukraine"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Cyber Brief 25-05 - April 2025",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-05/"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Cyber Brief 25-10 - September 2025",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-10/"
-    },
-    {
-     "source_name": "CISA with NSA, FBI, ASD's ACSC, Canadian Cyber Centre and NCSC-NZ",
-     "description": "Fast Flux: A National Security Threat (AA25-093A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-093a"
-    },
-    {
-     "source_name": "German Federal Office for Information Security (BSI), situation report",
-     "description": "GoldenJackal: new attack vector using a USB drive on air-gapped systems",
-     "url": "https://medien.bsi.bund.de/lagebericht/en/goldenjackal-neuer-angriffsvektor-mittels-usb-stick-auf-air-gapped/"
-    },
-    {
-     "source_name": "Estonian Information System Authority (RIA, CERT-EE)",
-     "description": "Ukraina vastased küberründed ja võimalik mõju Eestis (täiendatud), threat note of 11 February 2022",
-     "url": "https://www.ria.ee/sites/default/files/documents/2022-11/Ukraina-vastased-kuberrunded-ja-voimalik-moju-Eestis-11.02.2022.pdf"
-    },
-    {
-     "source_name": "CERT-UA (Ukraine), August 2022",
-     "description": "Кібератаки групи UAC-0010 (Armageddon): шкідливі програми GammaLoad, GammaSteel (CERT-UA#5134)",
-     "url": "https://cert.gov.ua/article/1229152"
-    },
-    {
-     "source_name": "CERT-UA (Ukraine), November 2022",
-     "description": "Кібератака групи UAC-0010: розсилання електронних листів, начебто, від імені Держспецзв'язку (CERT-UA#5570)",
-     "url": "https://cert.gov.ua/article/2681855"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Template Injection, Technique T1221",
-     "url": "https://attack.mitre.org/techniques/T1221/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Replication Through Removable Media, Technique T1091",
-     "url": "https://attack.mitre.org/techniques/T1091/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Pteranodon, Software S0147",
-     "url": "https://attack.mitre.org/software/S0147/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PowerPunch, Software S0685",
-     "url": "https://attack.mitre.org/software/S0685/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "QuietSieve, Software S0686",
-     "url": "https://attack.mitre.org/software/S0686/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remcos, Software S0332",
-     "url": "https://attack.mitre.org/software/S0332/"
-    },
-    {
-     "source_name": "Sophos",
-     "description": "IRON TILDEN threat profile",
-     "url": "https://www.sophos.com/en-us/threat-profiles/iron-tilden"
-    },
-    {
-     "source_name": "Recorded Future Insikt Group",
-     "description": "BlueAlpha abuses Cloudflare Tunneling service",
-     "url": "https://www.recordedfuture.com/research/bluealpha-abuses-cloudflare-tunneling-service"
     }
    ]
   },
@@ -3148,104 +1918,14 @@
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-062a"
     },
     {
-     "source_name": "CISA",
-     "description": "ED 21-02: Mitigate Microsoft Exchange On-Premises Product Vulnerabilities",
-     "url": "https://www.cisa.gov/news-events/directives/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities"
-    },
-    {
      "source_name": "GOV.UK",
      "description": "UK and allies hold Chinese state responsible for a pervasive pattern of hacking",
      "url": "https://www.gov.uk/government/news/uk-and-allies-hold-chinese-state-responsible-for-a-pervasive-pattern-of-hacking"
     },
     {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK and allies hold Chinese state responsible for pervasive pattern of hacking",
-     "url": "https://www.ncsc.gov.uk/news/uk-allies-hold-chinese-state-responsible-for-pervasive-pattern-of-hacking"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "NCSC Annual Review 2021, Microsoft Exchange",
-     "url": "https://www.ncsc.gov.uk/collection/ncsc-annual-review-2021/the-threat/microsoft-exchange"
-    },
-    {
      "source_name": "NATO",
      "description": "Statement by the North Atlantic Council on malicious cyber activities including the Microsoft Exchange Server compromise",
      "url": "https://www.nato.int/cps/en/natohq/official_texts_185863.htm"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "China Chopper, Software S0020",
-     "url": "https://attack.mitre.org/software/S0020/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Covenant, Software S1155",
-     "url": "https://attack.mitre.org/software/S1155/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PsExec, Software S0029",
-     "url": "https://attack.mitre.org/software/S0029/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Tarrask, Software S1011",
-     "url": "https://attack.mitre.org/software/S1011/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application, T1190",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell, T1505.003",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory, T1003.001",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: NTDS, T1003.003",
-     "url": "https://attack.mitre.org/techniques/T1003/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Email Collection: Remote Email Collection, T1114.002",
-     "url": "https://attack.mitre.org/techniques/T1114/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Archive Collected Data: Archive via Utility, T1560.001",
-     "url": "https://attack.mitre.org/techniques/T1560/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exfiltration Over Web Service: Exfiltration to Cloud Storage, T1567.002",
-     "url": "https://attack.mitre.org/techniques/T1567/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Brute Force: Password Spraying, T1110.003",
-     "url": "https://attack.mitre.org/techniques/T1110/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Trusted Relationship, T1199",
-     "url": "https://attack.mitre.org/techniques/T1199/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts: Cloud Accounts, T1078.004",
-     "url": "https://attack.mitre.org/techniques/T1078/004/"
-    },
-    {
-     "source_name": "US Department of Justice",
-     "description": "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns",
-     "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
     }
    ]
   },
@@ -3309,38 +1989,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "ZeroCleare, Software S1151",
-     "url": "https://attack.mitre.org/software/S1151/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "CHIMNEYSWEEP, Software S1149",
      "url": "https://attack.mitre.org/software/S1149/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RawDisk, Software S0364",
-     "url": "https://attack.mitre.org/software/S0364/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Impacket, Software S0357",
-     "url": "https://attack.mitre.org/software/S0357/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz, Software S0002",
-     "url": "https://attack.mitre.org/software/S0002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cloud Administration Command, Technique T1651",
-     "url": "https://attack.mitre.org/techniques/T1651/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Software Deployment Tools, Technique T1072",
-     "url": "https://attack.mitre.org/techniques/T1072/"
     }
    ]
   },
@@ -3390,24 +2040,9 @@
      "url": "https://nca-newsroom.prgloo.com/news/international-law-enforcement-operation-exposes-the-worlds-most-harmful-cyber-crime-group"
     },
     {
-     "source_name": "CISA (archived alert)",
-     "description": "Dridex P2P Malware (TA15-286A)",
-     "url": "https://www.cisa.gov/news-events/alerts/2015/10/13/dridex-p2p-malware"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia",
      "url": "https://home.treasury.gov/news/press-releases/jy2623"
-    },
-    {
-     "source_name": "US Department of Justice",
-     "description": "Russian National Indicted for Series of Ransomware Attacks",
-     "url": "https://www.justice.gov/archives/opa/pr/russian-national-indicted-series-ransomware-attacks"
-    },
-    {
-     "source_name": "UK Foreign, Commonwealth and Development Office and National Crime Agency",
-     "description": "UK sanctions members of notorious 'Evil Corp' cyber-crime gang, after Lammy calls out Putin's mafia state",
-     "url": "https://www.gov.uk/government/news/uk-sanctions-members-of-notorious-evil-corp-cyber-crime-gang-after-lammy-calls-out-putins-mafia-state"
     },
     {
      "source_name": "UK National Crime Agency",
@@ -3423,36 +2058,6 @@
      "source_name": "German Federal Criminal Police Office (BKA)",
      "description": "Cyber attacks: Igor Olegovich TURASHEV (public search appeal)",
      "url": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Cybercrime_NRW/IOT/SV_englisch.pdf?__blob=publicationFile&v=3"
-    },
-    {
-     "source_name": "US Department of the Treasury (OFAC)",
-     "description": "Updated Advisory on Potential Sanctions Risks for Facilitating Ransomware Payments",
-     "url": "https://ofac.treasury.gov/media/912981/download?inline"
-    },
-    {
-     "source_name": "UK government",
-     "description": "UK smashes Russian cybercrime networks responsible for attacks on UK businesses",
-     "url": "https://www.gov.uk/government/news/uk-smashes-russian-cybercrime-networks-responsible-for-attacks-on-uk-businesses"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "BitPaymer, Software S0570",
-     "url": "https://attack.mitre.org/software/S0570/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "WastedLocker, Software S0612",
-     "url": "https://attack.mitre.org/software/S0612/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Dridex, Software S0384",
-     "url": "https://attack.mitre.org/software/S0384/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cobalt Strike, Software S0154",
-     "url": "https://attack.mitre.org/software/S0154/"
     }
    ]
   },
@@ -3514,46 +2119,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Create Account: Local Account, T1136.001",
      "url": "https://attack.mitre.org/techniques/T1136/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Data from Configuration Repository: Network Device Configuration Dump, T1602.002",
-     "url": "https://attack.mitre.org/techniques/T1602/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Access Tools, T1219",
-     "url": "https://attack.mitre.org/techniques/T1219/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: PowerShell, T1059.001",
-     "url": "https://attack.mitre.org/techniques/T1059/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "OS Credential Dumping: LSASS Memory, T1003.001",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Steal or Forge Kerberos Tickets: Kerberoasting, T1558.003",
-     "url": "https://attack.mitre.org/techniques/T1558/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Forced Authentication, T1187",
-     "url": "https://attack.mitre.org/techniques/T1187/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Privilege Escalation, T1068",
-     "url": "https://attack.mitre.org/techniques/T1068/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exfiltration Over Web Service: Exfiltration to Cloud Storage, T1567.002",
-     "url": "https://attack.mitre.org/techniques/T1567/002/"
     }
    ]
   },
@@ -3609,11 +2174,6 @@
      "url": "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/EN/2023/2023-03-20-joint-cyber-security-advisory.html"
     },
     {
-     "source_name": "BfV and South Korea's National Intelligence Service",
-     "description": "Warning on KIMSUKY Cyber Actor's Recent Cyber Campaigns against Google's Browser and App Store Services",
-     "url": "https://www.verfassungsschutz.de/SharedDocs/publikationen/EN/economic-and-scientific-protection/2023-03-20-joint-cyber-security-advisory.pdf?__blob=publicationFile&v=2"
-    },
-    {
      "source_name": "FBI, US State Department and NSA with South Korea's NIS, National Police Agency and Foreign Ministry",
      "description": "North Korea Using Social Engineering to Enable Hacking of Think Tanks, Academia, and Media (CSA-20230601-1)",
      "url": "https://www.ic3.gov/Media/News/2023/230601.pdf"
@@ -3632,51 +2192,6 @@
      "source_name": "FBI",
      "description": "FBI FLASH AC-000001-MW: North Korean Kimsuky actors and malicious QR codes in spearphishing campaigns",
      "url": "https://www.ic3.gov/CSA/2026/260108.pdf"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "BabyShark (S0414)",
-     "url": "https://attack.mitre.org/software/S0414/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "AppleSeed (S0622)",
-     "url": "https://attack.mitre.org/software/S0622/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "TRANSLATEXT (S1201)",
-     "url": "https://attack.mitre.org/software/S1201/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "KGH_SPY (S0526)",
-     "url": "https://attack.mitre.org/software/S0526/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Troll Stealer (S1196)",
-     "url": "https://attack.mitre.org/software/S1196/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "GoBear (S1197)",
-     "url": "https://attack.mitre.org/software/S1197/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Gomir (S1198)",
-     "url": "https://attack.mitre.org/software/S1198/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "HTTPTroy (S9007)",
-     "url": "https://attack.mitre.org/software/S9007/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz (S0002)",
-     "url": "https://attack.mitre.org/software/S0002/"
     }
    ]
   },
@@ -3743,36 +2258,6 @@
      "source_name": "City of London Corporation, Police Authority Board",
      "description": "Commissioner's Update, Pol 12-24",
      "url": "https://democracy.cityoflondon.gov.uk/documents/s197472/Pol_12-24_Commissioners_Update_PAB%20Feb%2024%20vFINAL.pdf"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mimikatz (S0002)",
-     "url": "https://attack.mitre.org/software/S0002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "SIM Card Swap, Technique T1451 (Mobile)",
-     "url": "https://attack.mitre.org/techniques/T1451/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Multi-Factor Authentication Request Generation, Technique T1621",
-     "url": "https://attack.mitre.org/techniques/T1621/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Social Engineering: Impersonation, Sub-technique T1684.001",
-     "url": "https://attack.mitre.org/techniques/T1684/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing for Information: Spearphishing Voice, Sub-technique T1598.004",
-     "url": "https://attack.mitre.org/techniques/T1598/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Create Account: Cloud Account, Sub-technique T1136.003",
-     "url": "https://attack.mitre.org/techniques/T1136/003/"
     }
    ]
   },
@@ -3821,11 +2306,6 @@
      "url": "https://www.ncsc.nl/actueel/nieuws/2025/05/27/publicatie-van-aivd-en-mivd-over-laundry-bear"
     },
     {
-     "source_name": "Digital Government, Netherlands",
-     "description": "Learn from Laundry Bear: tips for digital resilience",
-     "url": "https://www.nldigitalgovernment.nl/news/learn-from-laundry-bear-tips-for-digital-resilience/"
-    },
-    {
      "source_name": "CERT-EU",
      "description": "Cyber Brief 26-08, July 2026",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-08"
@@ -3834,16 +2314,6 @@
      "source_name": "Information System Authority (RIA), Estonia",
      "description": "Russian bears in cyberspace (Cyber Security in Estonia 2026)",
      "url": "https://www.ria.ee/en/russian-bears-cyberspace"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "evilginx2 (S9003)",
-     "url": "https://attack.mitre.org/software/S9003/"
-    },
-    {
-     "source_name": "NIST National Vulnerability Database",
-     "description": "CVE-2025-66376",
-     "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?cveId=CVE-2025-66376"
     },
     {
      "source_name": "CISA",
@@ -3895,26 +2365,6 @@
      "url": "https://home.treasury.gov/news/press-releases/sm774"
     },
     {
-     "source_name": "US Treasury",
-     "description": "Treasury Imposes Sanctions Against the Government of The Democratic People's Republic Of Korea",
-     "url": "https://home.treasury.gov/news/press-releases/jl9733"
-    },
-    {
-     "source_name": "US Treasury",
-     "description": "Treasury Sanctions Individuals Laundering Cryptocurrency for Lazarus Group",
-     "url": "https://home.treasury.gov/news/press-releases/sm924"
-    },
-    {
-     "source_name": "US Treasury",
-     "description": "U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats",
-     "url": "https://home.treasury.gov/news/press-releases/jy0768"
-    },
-    {
-     "source_name": "US Treasury",
-     "description": "Treasury Sanctions Mixer Used by the DPRK to Launder Stolen Virtual Currency",
-     "url": "https://home.treasury.gov/news/press-releases/jy1933"
-    },
-    {
      "source_name": "CISA, FBI, Treasury",
      "description": "TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (AA22-108A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a"
@@ -3935,49 +2385,9 @@
      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2020.246.01.0004.01.ENG"
     },
     {
-     "source_name": "UN Security Council",
-     "description": "Report of the Panel of Experts established pursuant to resolution 1874 (2009), S/2019/691",
-     "url": "https://documents.un.org/doc/undoc/gen/n19/243/04/pdf/n1924304.pdf"
-    },
-    {
-     "source_name": "UK Government, with 10 other states",
-     "description": "Joint Statement of the Multilateral Sanctions Monitoring Team (MSMT) on the Report Covering DPRK Cyber and IT Worker Activities",
-     "url": "https://www.gov.uk/government/news/joint-statement-of-the-multilateral-sanctions-monitoring-team-msmt-on-the-report-covering-dprk-cyber-and-it-worker-activities"
-    },
-    {
-     "source_name": "CISA, FBI, Treasury",
-     "description": "TraderTraitor advisory, full PDF (AA22-108A)",
-     "url": "https://www.ic3.gov/CSA/2022/220418.pdf"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Bankshot, Software S0239",
-     "url": "https://attack.mitre.org/software/S0239/"
-    },
-    {
-     "source_name": "Foreign & Commonwealth Office (GOV.UK)",
-     "description": "Foreign Office Minister condemns North Korean actor for WannaCry attacks",
-     "url": "https://www.gov.uk/government/news/foreign-office-minister-condemns-north-korean-actor-for-wannacry-attacks"
-    },
-    {
-     "source_name": "CISA",
-     "description": "FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks (AA20-239A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a"
-    },
-    {
-     "source_name": "National Police Agency, Japan",
-     "description": "Alert: Cyberattack by North Korean Cyber Actors, TraderTraitor",
-     "url": "https://www.npa.go.jp/bureau/cyber/pdf/20250204_tt.pdf"
-    },
-    {
      "source_name": "Kaspersky Securelist",
      "description": "Operation FlashHole: Lazarus breaks security, defies control",
      "url": "https://securelist.com/lazarus-operation-flashhole/121541/"
-    },
-    {
-     "source_name": "Kaspersky",
-     "description": "Kaspersky identifies new Lazarus APT campaign utilizing AI and post-quantum encryption",
-     "url": "https://www.kaspersky.com/about/press-releases/kaspersky-identifies-new-lazarus-apt-campaign-utilizing-ai-and-post-quantum-encryption"
     }
    ]
   },
@@ -4021,11 +2431,6 @@
      "url": "https://www.justice.gov/usao-sdny/page/file/1122721/dl"
     },
     {
-     "source_name": "US District Court, via the US Department of Justice",
-     "description": "Sealed indictment, United States v. Zhu Hua and Zhang Shilong (18 Cr., Southern District of New York)",
-     "url": "https://www.justice.gov/opa/press-release/file/1121706/download"
-    },
-    {
      "source_name": "UK Foreign and Commonwealth Office and National Cyber Security Centre, on GOV.UK",
      "description": "UK and allies reveal global scale of Chinese cyber campaign (20 December 2018)",
      "url": "https://www.gov.uk/government/news/uk-and-allies-reveal-global-scale-of-chinese-cyber-campaign"
@@ -4051,84 +2456,9 @@
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-275a"
     },
     {
-     "source_name": "CISA",
-     "description": "Publicly Available Tools Seen in Cyber Incidents Worldwide (AA18-284A)",
-     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa18-284a"
-    },
-    {
-     "source_name": "Canadian Centre for Cyber Security",
-     "description": "Joint report on publicly available hacking tools",
-     "url": "https://www.cyber.gc.ca/en/guidance/joint-report-publicly-available-hacking-tools"
-    },
-    {
      "source_name": "Council of the European Union, via EUR-Lex",
      "description": "Council Decision (CFSP) 2020/1127 of 30 July 2020",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127"
-    },
-    {
-     "source_name": "Council of the European Union, via EUR-Lex",
-     "description": "Council Implementing Regulation (EU) 2020/1125 of 30 July 2020",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020R1125"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Trusted Relationship (T1199)",
-     "url": "https://attack.mitre.org/techniques/T1199/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts (T1078)",
-     "url": "https://attack.mitre.org/techniques/T1078/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment (T1566.001)",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application (T1190)",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hijack Execution Flow: DLL (T1574.001)",
-     "url": "https://attack.mitre.org/techniques/T1574/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Services: Remote Desktop Protocol (T1021.001)",
-     "url": "https://attack.mitre.org/techniques/T1021/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RedLeaves (S0153)",
-     "url": "https://attack.mitre.org/software/S0153/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PlugX (S0013)",
-     "url": "https://attack.mitre.org/software/S0013/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "QuasarRAT (S0262)",
-     "url": "https://attack.mitre.org/software/S0262/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "UPPERCUT (S0275)",
-     "url": "https://attack.mitre.org/software/S0275/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "EvilGrab (S0152)",
-     "url": "https://attack.mitre.org/software/S0152/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PoisonIvy (S0012)",
-     "url": "https://attack.mitre.org/software/S0012/"
     }
    ]
   },
@@ -4171,23 +2501,8 @@
     },
     {
      "source_name": "National Police Agency",
-     "description": "MirrorFaceによるサイバー攻撃について（注意喚起） (web page)",
-     "url": "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20250108.html"
-    },
-    {
-     "source_name": "National Police Agency",
-     "description": "Annex: Windows Sandbox technique, traces and detection",
-     "url": "https://www.npa.go.jp/bureau/cyber/pdf/20250108_windowssandbox.pdf"
-    },
-    {
-     "source_name": "National Police Agency",
      "description": "Annex: VS Code technique, traces and detection",
      "url": "https://www.npa.go.jp/bureau/cyber/pdf/20250108_vscode.pdf"
-    },
-    {
-     "source_name": "NISC (Japan)",
-     "description": "Alert: Cyberattacks by MirrorFace (Provisional Translation)",
-     "url": "https://www.cyber.go.jp/eng/pdf/Alert_MirrorFace.pdf"
     },
     {
      "source_name": "National Police Agency",
@@ -4208,51 +2523,6 @@
      "source_name": "National Police Agency",
      "description": "Threats in Cyberspace in 2025 and Police Efforts",
      "url": "https://www.npa.go.jp/english/bureau/cyber/document/Threats_in_cyberspace_in_2025.pdf"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "LODEINFO (S9020)",
-     "url": "https://attack.mitre.org/software/S9020/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "HiddenFace (S9023)",
-     "url": "https://attack.mitre.org/software/S9023/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "UPPERCUT (S0275)",
-     "url": "https://attack.mitre.org/software/S0275/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MirrorStealer (S9022)",
-     "url": "https://attack.mitre.org/software/S9022/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "NOOPLDR (S9025)",
-     "url": "https://attack.mitre.org/software/S9025/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "DOWNIISSA (S9021)",
-     "url": "https://attack.mitre.org/software/S9021/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ROAMINGHOUSE (S9026)",
-     "url": "https://attack.mitre.org/software/S9026/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ANELLDR (S9027)",
-     "url": "https://attack.mitre.org/software/S9027/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cobalt Strike (S0154)",
-     "url": "https://attack.mitre.org/software/S0154/"
     }
    ]
   },
@@ -4306,11 +2576,6 @@
      "url": "https://www.cisa.gov/news-events/analysis-reports/ar22-055a"
     },
     {
-     "source_name": "CISA",
-     "description": "Iran Cyber Threat Overview and Advisories",
-     "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/iran/publications"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "Treasury Sanctions Iranian Ministry of Intelligence and Minister for Malign Cyber Activities",
      "url": "https://home.treasury.gov/news/press-releases/jy0941"
@@ -4322,43 +2587,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "POWERSTATS, Software S0223",
-     "url": "https://attack.mitre.org/software/S0223/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PowGoop, Software S1046",
-     "url": "https://attack.mitre.org/software/S1046/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Small Sieve, Software S1035",
      "url": "https://attack.mitre.org/software/S1035/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mori, Software S1047",
-     "url": "https://attack.mitre.org/software/S1047/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "STARWHALE, Software S1037",
-     "url": "https://attack.mitre.org/software/S1037/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MuddyViper, Software S9032",
-     "url": "https://attack.mitre.org/software/S9032/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RustyWater, Software S9037",
-     "url": "https://attack.mitre.org/software/S9037/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "DCHSpy, Software S1243",
-     "url": "https://attack.mitre.org/software/S1243/"
     },
     {
      "source_name": "MITRE ATT&CK",
@@ -4410,11 +2640,6 @@
      "url": "https://attack.mitre.org/groups/G0129/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "RedDelta Modified PlugX Infection Chain Operations, Campaign C0047",
-     "url": "https://attack.mitre.org/campaigns/C0047/"
-    },
-    {
      "source_name": "US Department of Justice (archived page)",
      "description": "Justice Department and FBI Conduct International Operation to Delete Malware Used by China-Backed Hackers",
      "url": "https://www.justice.gov/archives/opa/pr/justice-department-and-fbi-conduct-international-operation-delete-malware-used-china-backed"
@@ -4428,16 +2653,6 @@
      "source_name": "CISA, FBI, DHS I&A and agencies from Canada, Estonia, Finland, Japan and the UK",
      "description": "Mitigating Cyber Threats with Limited Resources: Guidance for Civil Society",
      "url": "https://www.cisa.gov/sites/default/files/2024-05/joint-guide-mitigating-cyber-threats-with-limited-resources-guidance-for-civil-society-508c_3.pdf"
-    },
-    {
-     "source_name": "Canadian Centre for Cyber Security",
-     "description": "Mitigating cyber threats with limited resources: Guidance for civil society",
-     "url": "https://www.cyber.gc.ca/en/news-events/mitigating-cyber-threats-with-limited-resources-guidance-civil-society"
-    },
-    {
-     "source_name": "National Police Agency, Japan",
-     "description": "Mitigating Cyber Threats with Limited Resources (English edition)",
-     "url": "https://www.npa.go.jp/bureau/cyber/pdf/20240515_english.pdf"
     },
     {
      "source_name": "ENISA and CERT-EU",
@@ -4456,78 +2671,8 @@
     },
     {
      "source_name": "CERT-EU",
-     "description": "Cyber Security Brief 23-04 (March 2023)",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb23-04/"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Cyber Security Brief 24-03 (February 2024)",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-03/"
-    },
-    {
-     "source_name": "CERT-EU",
-     "description": "Cyber Brief 25-02 (January 2025)",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-02/"
-    },
-    {
-     "source_name": "CERT-EU",
      "description": "Cyber Brief 26-07 (June 2026)",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-07/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PlugX, Software S0013",
-     "url": "https://attack.mitre.org/software/S0013/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "TONESHELL, Software S1239",
-     "url": "https://attack.mitre.org/software/S1239/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "PUBLOAD, Software S1228",
-     "url": "https://attack.mitre.org/software/S1228/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RCSession, Software S0662",
-     "url": "https://attack.mitre.org/software/S0662/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "BOOKWORM, Software S1226",
-     "url": "https://attack.mitre.org/software/S1226/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment (T1566.001)",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hijack Execution Flow: DLL (T1574.001)",
-     "url": "https://attack.mitre.org/techniques/T1574/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Replication Through Removable Media (T1091)",
-     "url": "https://attack.mitre.org/techniques/T1091/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exfiltration Over Web Service: Exfiltration to Cloud Storage (T1567.002)",
-     "url": "https://attack.mitre.org/techniques/T1567/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Remote Access Tools: IDE Tunneling (T1219.001)",
-     "url": "https://attack.mitre.org/techniques/T1219/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Archive Collected Data: Archive via Utility (T1560.001)",
-     "url": "https://attack.mitre.org/techniques/T1560/001/"
     }
    ]
   },
@@ -4562,11 +2707,6 @@
      "url": "https://attack.mitre.org/groups/G1045/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "JumbledPath, Software S1206",
-     "url": "https://attack.mitre.org/software/S1206/"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "Treasury Sanctions Company Associated with Salt Typhoon and Hacker Associated with Treasury Compromise",
      "url": "https://home.treasury.gov/news/press-releases/jy2792"
@@ -4582,19 +2722,9 @@
      "url": "https://www.ic3.gov/PSA/2025/PSA250424-2"
     },
     {
-     "source_name": "CISA with NSA, FBI, ACSC, Canadian Cyber Centre, NCSC-NZ",
-     "description": "Enhanced Visibility and Hardening Guidance for Communications Infrastructure",
-     "url": "https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure"
-    },
-    {
      "source_name": "CISA with NSA, FBI, DC3 and partner agencies of 12 other countries",
      "description": "Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System (AA25-239A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a"
-    },
-    {
-     "source_name": "CISA",
-     "description": "CISA and Partners Release Joint Advisory on Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide",
-     "url": "https://www.cisa.gov/news-events/news/cisa-and-partners-release-joint-advisory-countering-chinese-state-sponsored-actors-compromise"
     },
     {
      "source_name": "Canadian Centre for Cyber Security with FBI",
@@ -4602,99 +2732,14 @@
      "url": "https://www.cyber.gc.ca/en/guidance/cyber-threat-bulletin-prc-cyber-actors-target-telecommunications-companies-global-cyberespionage-campaign"
     },
     {
-     "source_name": "Canadian Centre for Cyber Security",
-     "description": "People's Republic of China activity targeting network edge routers: observations and mitigation strategies",
-     "url": "https://www.cyber.gc.ca/en/news-events/peoples-republic-china-activity-targeting-network-edge-routers-observations-mitigation-strategies"
-    },
-    {
-     "source_name": "NCSC-UK",
-     "description": "UK and allies expose China-based technology companies for enabling global cyber campaign against critical networks",
-     "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-china-tech-companies-enabling-cyber-campaign"
-    },
-    {
-     "source_name": "NÚKIB, Czech Republic",
-     "description": "NÚKIB, NSA, and Other U.S. Agencies Warn of Chinese Actor Salt Typhoon Compromising Networks Worldwide",
-     "url": "https://nukib.gov.cz/en/infoservis-en/news/2293-nukib-nsa-and-other-u-s-agencies-warn-of-chinese-actor-salt-typhoon-compromising-networks-worldwide/"
-    },
-    {
-     "source_name": "ACSC, Australian Signals Directorate",
-     "description": "Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System",
-     "url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/countering-chinese-state-sponsored-actors-compromise-of-networks-worldwide-to-feed-global-espionage-system"
-    },
-    {
-     "source_name": "NCSC-NZ",
-     "description": "NCSC joins international partners to release guidance about Salt Typhoon activity",
-     "url": "https://www.ncsc.govt.nz/news/guidance-about-salt-typhoon-activity/"
-    },
-    {
-     "source_name": "NCSC-NZ",
-     "description": "Cyber Threat Report 2026, Judgement 2",
-     "url": "https://www.ncsc.govt.nz/insights-and-research/cyber-threat-reports/cyber-threat-report-2026/judgement-2/"
-    },
-    {
      "source_name": "Dutch government, MIVD and AIVD",
      "description": "Nederlandse providers doelwit van Salt Typhoon",
      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon"
     },
     {
-     "source_name": "Bundesamt für Verfassungsschutz (BfV), Germany",
-     "description": "Gemeinsamer Sicherheitshinweis zu Cyber-Akteur SALT TYPHOON",
-     "url": "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2025/2025-08-27-joint-cybersecurity-advisory.html"
-    },
-    {
      "source_name": "Bundesnachrichtendienst (BND), Germany",
      "description": "Joint Cybersecurity Advisory, Salt Typhoon",
      "url": "https://www.bnd.bund.de/DE/Service/Public-Intelligence/joint-cybersecurity-advisory/20250827-cyber-salt-typhoon-node.html"
-    },
-    {
-     "source_name": "Bundesamt für Sicherheit in der Informationstechnik (BSI), Germany",
-     "description": "Joint Cybersecurity advisory (CSA) about SALT TYPHOON",
-     "url": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Cyber-Security/CSA_Salt-Typhoon.html"
-    },
-    {
-     "source_name": "National Police Agency, Japan",
-     "description": "「ソルトタイフーン(Salt Typhoon)」に関する国際アドバイザリーへの共同署名について",
-     "url": "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20250827.html"
-    },
-    {
-     "source_name": "UK Foreign, Commonwealth and Development Office",
-     "description": "UK clamps down on China-based companies for reckless and irresponsible activity in cyberspace",
-     "url": "https://www.gov.uk/government/news/uk-clamps-down-on-china-based-companies-for-reckless-and-irresponsible-activity-in-cyberspace"
-    },
-    {
-     "source_name": "US Federal Communications Commission",
-     "description": "Chairwoman Rosenworcel Announces Agency Action to Require Telecom Carriers to Secure Their Networks",
-     "url": "https://docs.fcc.gov/public/attachments/DOC-408013A1.pdf"
-    },
-    {
-     "source_name": "US Federal Communications Commission",
-     "description": "Protecting the Nation's Communications Systems from Cybersecurity Threats, Declaratory Ruling and Notice of Proposed Rulemaking (FCC 25-9)",
-     "url": "https://docs.fcc.gov/public/attachments/FCC-25-9A1.pdf"
-    },
-    {
-     "source_name": "US Federal Communications Commission",
-     "description": "FCC Corrects Course, Outlines Improved Cybersecurity Measures",
-     "url": "https://docs.fcc.gov/public/attachments/DOC-415455A1.pdf"
-    },
-    {
-     "source_name": "US Federal Communications Commission",
-     "description": "Order on Reconsideration (FCC 25-81)",
-     "url": "https://docs.fcc.gov/public/attachments/FCC-25-81A1.pdf"
-    },
-    {
-     "source_name": "AIVD",
-     "description": "Nederlandse providers doelwit van Salt Typhoon",
-     "url": "https://www.aivd.nl/actueel/nieuws/2025/08/28/nederlandse-providers-doelwit-van-salt-typhoon"
-    },
-    {
-     "source_name": "CrowdStrike",
-     "description": "OPERATOR PANDA adversary page",
-     "url": "https://www.crowdstrike.com/adversaries/operator-panda/"
-    },
-    {
-     "source_name": "ESET",
-     "description": "You will always remember this as the day you finally caught FamousSparrow",
-     "url": "https://www.welivesecurity.com/en/eset-research/you-will-always-remember-this-as-the-day-you-finally-caught-famoussparrow/"
     }
    ]
   },
@@ -4746,21 +2791,6 @@
      "url": "https://www.gov.uk/government/news/uk-exposes-series-of-russian-cyber-attacks-against-olympic-and-paralympic-games"
     },
     {
-     "source_name": "UK Foreign and Commonwealth Office and NCSC",
-     "description": "Foreign Office Minister condemns Russia for NotPetya attacks",
-     "url": "https://www.gov.uk/government/news/foreign-office-minister-condemns-russia-for-notpetya-attacks"
-    },
-    {
-     "source_name": "UK Foreign and Commonwealth Office and NCSC",
-     "description": "UK condemns Russia's GRU over Georgia cyber-attacks",
-     "url": "https://www.gov.uk/government/news/uk-condemns-russias-gru-over-georgia-cyber-attacks"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "NCSC supports US advisory regarding GRU intrusion set Sandworm",
-     "url": "https://www.ncsc.gov.uk/news/ncsc-supports-sandworm-advisory"
-    },
-    {
      "source_name": "CISA, NCSC, NSA, FBI",
      "description": "New Sandworm Malware Cyclops Blink Replaces VPNFilter (AA22-054A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-054a"
@@ -4776,11 +2806,6 @@
      "url": "https://www.ncsc.gov.uk/news/uk-allies-support-ukraine-calling-out-russia-gru-malware-campaign"
     },
     {
-     "source_name": "Council of the European Union via EUR-Lex",
-     "description": "Council Implementing Regulation (EU) 2020/1125 of 30 July 2020 (Official Journal L 246)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2020.246.01.0004.01.ENG"
-    },
-    {
      "source_name": "ANSSI (France)",
      "description": "Sandworm intrusion set campaign targeting Centreon systems (CERTFR-2021-CTI-005)",
      "url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-005.pdf"
@@ -4789,16 +2814,6 @@
      "source_name": "UK Government",
      "description": "Profile: GRU cyber and hybrid threat operations",
      "url": "https://www.gov.uk/government/publications/profile-gru-cyber-and-hybrid-threat-operations/profile-gru-cyber-and-hybrid-threat-operations"
-    },
-    {
-     "source_name": "CISA",
-     "description": "Cyber-Attack Against Ukrainian Critical Infrastructure (IR-ALERT-H-16-056-01)",
-     "url": "https://www.cisa.gov/news-events/ics-alerts/ir-alert-h-16-056-01"
-    },
-    {
-     "source_name": "UK Government",
-     "description": "UK boosts Ukraine's cyber defences with 6 million pound support package",
-     "url": "https://www.gov.uk/government/news/uk-boosts-ukraines-cyber-defences-with-6-million-support-package"
     }
    ]
   },
@@ -4842,16 +2857,6 @@
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a"
     },
     {
-     "source_name": "CISA",
-     "description": "FBI and CISA Release Advisory on Scattered Spider Group",
-     "url": "https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group"
-    },
-    {
-     "source_name": "Canadian Centre for Cyber Security",
-     "description": "Joint cyber security advisory on Scattered Spider",
-     "url": "https://www.cyber.gc.ca/en/news-events/joint-cyber-security-advisory-scattered-spider"
-    },
-    {
      "source_name": "UK National Cyber Security Centre",
      "description": "Incidents impacting retailers: recommendations from the NCSC",
      "url": "https://www.ncsc.gov.uk/blog-post/incidents-impacting-retailers"
@@ -4880,16 +2885,6 @@
      "source_name": "US Department of Justice",
      "description": "Alleged Member of Criminal Cyber Hacking Group \"Scattered Spider\" Arrested in Finland and Extradited to the United States",
      "url": "https://www.justice.gov/opa/pr/alleged-member-criminal-cyber-hacking-group-scattered-spider-arrested-finland-and-extradited"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ShinyHunters (Group G1057)",
-     "url": "https://attack.mitre.org/groups/G1057/"
-    },
-    {
-     "source_name": "Europol",
-     "description": "Internet Organised Crime Threat Assessment (IOCTA) 2026, section 3.3 New hacking coalitions",
-     "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA-2026.pdf"
     }
    ]
   },
@@ -4942,11 +2937,6 @@
      "url": "https://www.justice.gov/usao-wdwa/pr/french-cybercriminal-pleads-guilty-fraud-and-aggravated-identity-theft-hacking-private"
     },
     {
-     "source_name": "US Attorney's Office, Western District of Washington",
-     "description": "Member of notorious international hacking crew sentenced to prison",
-     "url": "https://www.justice.gov/usao-wdwa/pr/member-notorious-international-hacking-crew-sentenced-prison"
-    },
-    {
      "source_name": "Europol",
      "description": "Internet Organised Crime Threat Assessment (IOCTA) 2026, section 3.3 New hacking coalitions",
      "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/IOCTA-2026.pdf"
@@ -4960,46 +2950,6 @@
      "source_name": "FBI",
      "description": "FBI Announces ShinyHunters Arrest",
      "url": "https://www.fbi.gov/video-repository/shinyhunters-arrested-092926.mp4/view"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Tor (Software S0183)",
-     "url": "https://attack.mitre.org/software/S0183/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Scattered Spider (Group G1015)",
-     "url": "https://attack.mitre.org/groups/G1015/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "LAPSUS$ (Group G1004)",
-     "url": "https://attack.mitre.org/groups/G1004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Steal Application Access Token, Technique T1528",
-     "url": "https://attack.mitre.org/techniques/T1528/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Use Alternate Authentication Material: Application Access Token, Sub-technique T1550.001",
-     "url": "https://attack.mitre.org/techniques/T1550/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Financial Theft, Technique T1657",
-     "url": "https://attack.mitre.org/techniques/T1657/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Social Engineering, Technique T1684",
-     "url": "https://attack.mitre.org/techniques/T1684/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Supply Chain Compromise: Compromise Software Dependencies and Development Tools, Sub-technique T1195.001",
-     "url": "https://attack.mitre.org/techniques/T1195/001/"
     }
    ]
   },
@@ -5037,19 +2987,9 @@
      "url": "https://attack.mitre.org/groups/G0121/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Koadic, Software S0250",
-     "url": "https://attack.mitre.org/software/S0250/"
-    },
-    {
      "source_name": "Pakistan NTISB, copy hosted by the Federal Board of Revenue",
      "description": "Cyber Security Advisory, Cyber Attacks Against Pakistan by Sidewinder APT Group (Advisory No. 54)",
      "url": "https://download1.fbr.gov.pk/Docs/202359145475751AdvisoryNo54.pdf"
-    },
-    {
-     "source_name": "Pakistan National CERT",
-     "description": "NCERT Advisory NCA-08.051324, Sidewinder APT Campaign Targeting Government Organizations",
-     "url": "https://pkcert.gov.pk/advisory/24-8.pdf"
     },
     {
      "source_name": "BGD e-GOV CIRT, Bangladesh",
@@ -5072,11 +3012,6 @@
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb22-11/"
     },
     {
-     "source_name": "CERT-EU",
-     "description": "CERT-EU Cyber Security Brief 24-08, July 2024",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb24-08/"
-    },
-    {
      "source_name": "ENISA",
      "description": "ENISA annual EU threat report, October 2025",
      "url": "https://www.enisa.europa.eu/sites/default/files/2025-11/ENISA%20Threat%20Landscape%202025.pdf"
@@ -5085,46 +3020,6 @@
      "source_name": "BSI, Germany",
      "description": "Active APT groups in Germany",
      "url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen.html"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment (T1566.001)",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link (T1566.002)",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing for Information: Spearphishing Link (T1598.003)",
-     "url": "https://attack.mitre.org/techniques/T1598/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Client Execution (T1203)",
-     "url": "https://attack.mitre.org/techniques/T1203/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File (T1204.002)",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Hijack Execution Flow: DLL (T1574.001)",
-     "url": "https://attack.mitre.org/techniques/T1574/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "System Binary Proxy Execution: Mshta (T1218.005)",
-     "url": "https://attack.mitre.org/techniques/T1218/005/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: JavaScript (T1059.007)",
-     "url": "https://attack.mitre.org/techniques/T1059/007/"
     }
    ]
   },
@@ -5182,21 +3077,6 @@
      "url": "https://www.rarlab.com/rarnew.htm"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment (T1566.001)",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploitation for Client Execution (T1203)",
-     "url": "https://attack.mitre.org/techniques/T1203/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder (T1547.001)",
-     "url": "https://attack.mitre.org/techniques/T1547/001/"
-    },
-    {
      "source_name": "Virus Bulletin",
      "description": "Break the silence: tracking Silent Lynx through exposed infrastructure",
      "url": "https://www.virusbulletin.com/conference/vb2026/abstracts/break-silence-tracking-silent-lynx-through-exposed-infrastructure/"
@@ -5244,11 +3124,6 @@
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-341a"
     },
     {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "Russian FSB cyber actor Star Blizzard continues worldwide spear-phishing campaigns",
-     "url": "https://www.ncsc.gov.uk/news/star-blizzard-continues-spear-phishing-campaigns"
-    },
-    {
      "source_name": "UK Foreign, Commonwealth and Development Office, NCSC, NCA",
      "description": "UK exposes attempted Russian cyber interference in politics and democratic processes",
      "url": "https://www.gov.uk/government/news/uk-exposes-attempted-russian-cyber-interference-in-politics-and-democratic-processes"
@@ -5257,11 +3132,6 @@
      "source_name": "UK National Crime Agency",
      "description": "NCA cyber investigation leads to sanctions for hostile actors linked to Russia's FSB",
      "url": "https://www.nationalcrimeagency.gov.uk/news/nca-cyber-investigation-leads-to-sanctions-for-hostile-actors-linked-to-russia-s-fsb"
-    },
-    {
-     "source_name": "UK Office of Financial Sanctions Implementation, HM Treasury",
-     "description": "Financial Sanctions Notice, Cyber, 07/12/2023",
-     "url": "https://assets.publishing.service.gov.uk/media/657194c5809bc300133081f5/Notice_Cyber_071223.pdf"
     },
     {
      "source_name": "US Department of the Treasury",
@@ -5274,16 +3144,6 @@
      "url": "https://www.justice.gov/archives/opa/pr/two-russian-nationals-working-russias-federal-security-service-charged-global-computer"
     },
     {
-     "source_name": "US Department of State, Rewards for Justice",
-     "description": "Andrey Stanislavovich Korinets",
-     "url": "https://rewardsforjustice.net/rewards/andrey-stanislavovich-korinets/"
-    },
-    {
-     "source_name": "US Department of State, Rewards for Justice",
-     "description": "Ruslan Aleksandrovich Peretyatko",
-     "url": "https://rewardsforjustice.net/rewards/ruslan-aleksandrovich-peretyatko/"
-    },
-    {
      "source_name": "US Department of Justice",
      "description": "Justice Department Disrupts Russian Intelligence Spear-Phishing Efforts",
      "url": "https://www.justice.gov/opa/pr/justice-department-disrupts-russian-intelligence-spear-phishing-efforts"
@@ -5292,26 +3152,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Spica (S1140)",
      "url": "https://attack.mitre.org/software/S1140/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link (T1566.002)",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Use Alternate Authentication Material: Web Session Cookie (T1550.004)",
-     "url": "https://attack.mitre.org/techniques/T1550/004/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts (T1078)",
-     "url": "https://attack.mitre.org/techniques/T1078/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Linked Devices (T1676)",
-     "url": "https://attack.mitre.org/techniques/T1676/"
     }
    ]
   },
@@ -5381,111 +3221,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Clop, Software S0611",
      "url": "https://attack.mitre.org/software/S0611/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Get2, Software S0460",
-     "url": "https://attack.mitre.org/software/S0460/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "SDBbot, Software S0461",
-     "url": "https://attack.mitre.org/software/S0461/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "FlawedAmmyy, Software S0381",
-     "url": "https://attack.mitre.org/software/S0381/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "FlawedGrace, Software S0383",
-     "url": "https://attack.mitre.org/software/S0383/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Dridex, Software S0384",
-     "url": "https://attack.mitre.org/software/S0384/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application, T1190",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Attachment, T1566.001",
-     "url": "https://attack.mitre.org/techniques/T1566/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Data Encrypted for Impact, T1486",
-     "url": "https://attack.mitre.org/techniques/T1486/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Phishing: Spearphishing Link, T1566.002",
-     "url": "https://attack.mitre.org/techniques/T1566/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Disable or Modify Tools, T1685",
-     "url": "https://attack.mitre.org/techniques/T1685/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "User Execution: Malicious File, T1204.002",
-     "url": "https://attack.mitre.org/techniques/T1204/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Valid Accounts: Domain Accounts, T1078.002",
-     "url": "https://attack.mitre.org/techniques/T1078/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: PowerShell, T1059.001",
-     "url": "https://attack.mitre.org/techniques/T1059/001/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Cobalt Strike, Software S0154",
-     "url": "https://attack.mitre.org/software/S0154/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: Web Shell, T1505.003",
-     "url": "https://attack.mitre.org/techniques/T1505/003/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Subvert Trust Controls: Code Signing, T1553.002",
-     "url": "https://attack.mitre.org/techniques/T1553/002/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Ingress Tool Transfer, T1105",
-     "url": "https://attack.mitre.org/techniques/T1105/"
-    },
-    {
-     "source_name": "Sophos",
-     "description": "GOLD TAHOE threat profile",
-     "url": "https://www.sophos.com/en-us/threat-profiles/gold-tahoe"
-    },
-    {
-     "source_name": "Microsoft",
-     "description": "How Microsoft names threat actors",
-     "url": "https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming"
-    },
-    {
-     "source_name": "Mandiant",
-     "description": "FIN11: Widespread Email Campaigns as Precursor for Ransomware and Data Theft",
-     "url": "https://cloud.google.com/blog/topics/threat-intelligence/fin11-email-campaigns-precursor-for-ransomware-data-theft"
-    },
-    {
-     "source_name": "Thales",
-     "description": "ATK103",
-     "url": "https://web.archive.org/web/20260309122247/https://cds.thalesgroup.com/en/node/643"
     }
    ]
   },
@@ -5521,29 +3256,9 @@
      "url": "https://attack.mitre.org/groups/G1056/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "TeamPCP Cloud Stealer, Software S9041",
-     "url": "https://attack.mitre.org/software/S9041/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "CanisterWorm, Software S9042",
-     "url": "https://attack.mitre.org/software/S9042/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mini Shai-Hulud, Software S9043",
-     "url": "https://attack.mitre.org/software/S9043/"
-    },
-    {
      "source_name": "FBI, coordinated with DHS/CISA",
      "description": "Cyber Criminal Group TeamPCP (FLASH-20260702-01)",
      "url": "https://www.ic3.gov/CSA/2026/260702.pdf"
-    },
-    {
-     "source_name": "US Department of Justice, Northern District of California",
-     "description": "Australian Man Indicted For \"TeamPCP\" Cyberattacks On Software Supply Chain",
-     "url": "https://www.justice.gov/usao-ndca/pr/australian-man-indicted-teampcp-cyberattacks-software-supply-chain"
     },
     {
      "source_name": "Australian Federal Police",
@@ -5566,44 +3281,14 @@
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06"
     },
     {
-     "source_name": "CERT-EU",
-     "description": "Cyber Brief 26-09, August 2026",
-     "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-09"
-    },
-    {
      "source_name": "BSI",
      "description": "Trivy: Supply-Chain Angriff fuehrt zu Kompromittierungen in Deutschland (BITS-V 2026-237970-1032)",
      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-237970-1032.pdf?__blob=publicationFile&v=4"
     },
     {
      "source_name": "CISA",
-     "description": "CISA Adds One Known Exploited Vulnerability to Catalog (26 March 2026)",
-     "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
-    },
-    {
-     "source_name": "CISA",
      "description": "Known Exploited Vulnerabilities Catalog (data feed)",
      "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
-    },
-    {
-     "source_name": "Trivy project security advisory",
-     "description": "Trivy ecosystem supply chain temporarily compromised (GHSA-69fq-xp46-6x23)",
-     "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
-    },
-    {
-     "source_name": "LiteLLM project",
-     "description": "Security Update: Suspected Supply Chain Incident",
-     "url": "https://docs.litellm.ai/blog/security-update-march-2026"
-    },
-    {
-     "source_name": "Python Package Index (PyPI)",
-     "description": "Incident Report: LiteLLM/Telnyx supply-chain attacks, with guidance",
-     "url": "https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/"
-    },
-    {
-     "source_name": "TanStack project",
-     "description": "Postmortem: TanStack npm supply-chain compromise",
-     "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     }
    ]
   },
@@ -5648,11 +3333,6 @@
     },
     {
      "source_name": "UK NCSC",
-     "description": "Advisory: Turla group exploits Iranian APT to expand coverage of victims",
-     "url": "https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims"
-    },
-    {
-     "source_name": "UK NCSC",
      "description": "UK NCSC updates on the Turla Group",
      "url": "https://www.ncsc.gov.uk/news/turla-group-behind-cyber-attack"
     },
@@ -5668,16 +3348,6 @@
     },
     {
      "source_name": "MITRE",
-     "description": "MITRE ATT&CK: Uroburos, Software S0022",
-     "url": "https://attack.mitre.org/software/S0022/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK: Kazuar, Software S0265",
-     "url": "https://attack.mitre.org/software/S0265/"
-    },
-    {
-     "source_name": "MITRE",
      "description": "MITRE ATT&CK: ComRAT, Software S0126",
      "url": "https://attack.mitre.org/software/S0126/"
     },
@@ -5690,21 +3360,6 @@
      "source_name": "MITRE",
      "description": "MITRE ATT&CK: LightNeuron, Software S0395",
      "url": "https://attack.mitre.org/software/S0395/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK: Penquin, Software S0587",
-     "url": "https://attack.mitre.org/software/S0587/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK: Drive-by Compromise, T1189",
-     "url": "https://attack.mitre.org/techniques/T1189/"
-    },
-    {
-     "source_name": "MITRE",
-     "description": "MITRE ATT&CK: Compromise Infrastructure: Web Services, T1584.006",
-     "url": "https://attack.mitre.org/techniques/T1584/006/"
     }
    ]
   },
@@ -5743,11 +3398,6 @@
      "url": "https://www.csa.gov.sg/news-events/speeches/opening-speech-by-mr-k-shanmugam--coordinating-minister-for-national-security-and-minister-for-home-affairs--at-csa-10th-anniversary-dinner/"
     },
     {
-     "source_name": "Cyber Security Agency of Singapore",
-     "description": "Opening Speech by Minister Josephine Teo at the Operation CYBER GUARDIAN Engagement Event, 9 February 2026",
-     "url": "https://www.csa.gov.sg/news-events/speeches/opening-speech-by-minister-josephine-teo-at-the-operation-cyber-guardian-engagement-event-for-cyber-defenders-on-9-feb-2026/"
-    },
-    {
      "source_name": "Ministry of Digital Development and Information",
      "description": "MDDI's Response to PQ on Considerations Behind Government's Recent Announcement of UNC3886 Cyberattacks",
      "url": "https://www.mddi.gov.sg/newsroom/mddi-s-response-to-pq-on-considerations-behind-government-s-recent-announcement-of-unc3886-cyberattacks/"
@@ -5756,11 +3406,6 @@
      "source_name": "Cyber Security Agency of Singapore",
      "description": "A Decade of Strengthening Singapore's Cyber Defence Amid Escalating Threats",
      "url": "https://www.csa.gov.sg/news-events/press-releases/a-decade-of-strengthening-singapore-s-cyber-defence-amid-escalating-threats/"
-    },
-    {
-     "source_name": "Cyber Security Agency of Singapore",
-     "description": "Singapore Cyber Landscape 2024/2025",
-     "url": "https://www.csa.gov.sg/resources/publications/singapore-cyber-landscape-2024-2025/"
     },
     {
      "source_name": "Cyber Security Agency of Singapore",
@@ -5776,81 +3421,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "RedPenguin, Campaign C0056",
      "url": "https://attack.mitre.org/campaigns/C0056/"
-    },
-    {
-     "source_name": "US CISA",
-     "description": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-     "url": "https://www.cisa.gov/news-events/alerts/2025/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "VIRTUALPITA, Software S1217",
-     "url": "https://attack.mitre.org/software/S1217/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "VIRTUALPIE, Software S1218",
-     "url": "https://attack.mitre.org/software/S1218/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "REPTILE, Software S1219",
-     "url": "https://attack.mitre.org/software/S1219/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MEDUSA, Software S1220",
-     "url": "https://attack.mitre.org/software/S1220/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "MOPSLED, Software S1221",
-     "url": "https://attack.mitre.org/software/S1221/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "RIFLESPINE, Software S1222",
-     "url": "https://attack.mitre.org/software/S1222/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "THINCRUST, Software S1223",
-     "url": "https://attack.mitre.org/software/S1223/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "CASTLETAP, Software S1224",
-     "url": "https://attack.mitre.org/software/S1224/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Server Software Component: vSphere Installation Bundles, T1505.006",
-     "url": "https://attack.mitre.org/techniques/T1505/006/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Exploit Public-Facing Application, T1190",
-     "url": "https://attack.mitre.org/techniques/T1190/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Rootkit, T1014",
-     "url": "https://attack.mitre.org/techniques/T1014/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Compromise Host Software Binary, T1554",
-     "url": "https://attack.mitre.org/techniques/T1554/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "ESXi Administration Command, T1675",
-     "url": "https://attack.mitre.org/techniques/T1675/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Traffic Signaling: Port Knocking, T1205.001",
-     "url": "https://attack.mitre.org/techniques/T1205/001/"
     }
    ]
   },
@@ -5889,23 +3459,8 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "KV Botnet Activity, Campaign C0035",
-     "url": "https://attack.mitre.org/campaigns/C0035/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Versa Director Zero Day Exploitation, Campaign C0039",
      "url": "https://attack.mitre.org/campaigns/C0039/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "FRP, Software S1144",
-     "url": "https://attack.mitre.org/software/S1144/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "VersaMem, Software S1154",
-     "url": "https://attack.mitre.org/software/S1154/"
     },
     {
      "source_name": "CISA, NSA, FBI, ACSC, Canadian Cyber Centre, NCSC-NZ, NCSC-UK",
@@ -5919,38 +3474,8 @@
     },
     {
      "source_name": "CISA",
-     "description": "CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance",
-     "url": "https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land"
-    },
-    {
-     "source_name": "CISA",
-     "description": "U.S. and International Partners Publish Cybersecurity Advisory on People's Republic of China State-Sponsored Hacking of U.S. Critical Infrastructure",
-     "url": "https://www.cisa.gov/news-events/news/us-and-international-partners-publish-cybersecurity-advisory-peoples-republic-china-state-sponsored"
-    },
-    {
-     "source_name": "CISA, NSA, FBI, DOE, EPA, TSA, ACSC, Canadian Cyber Centre, NCSC-UK, NCSC-NZ",
-     "description": "Identifying and Mitigating Living Off the Land Techniques",
-     "url": "https://www.cisa.gov/resources-tools/resources/identifying-and-mitigating-living-land-techniques"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "NCSC and partners issue warning about state-sponsored cyber attackers hiding on critical infrastructure networks",
-     "url": "https://www.ncsc.gov.uk/news/ncsc-and-partners-issue-warning-about-state-sponsored-cyber-attackers-hiding-on-critical-infrastructure-networks"
-    },
-    {
-     "source_name": "CISA",
      "description": "CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity",
      "url": "https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity"
-    },
-    {
-     "source_name": "NCSC New Zealand",
-     "description": "Volt Typhoon activity",
-     "url": "https://www.ncsc.govt.nz/protect-your-organisation/volt-typhoon-activity/"
-    },
-    {
-     "source_name": "Canadian Centre for Cyber Security",
-     "description": "Joint guidance for executives and leaders of critical infrastructure organizations on protecting infrastructure and essential functions against PRC cyber activity",
-     "url": "https://www.cyber.gc.ca/en/news-events/joint-guidance-executives-and-leaders-critical-infrastructure-organizations-protecting-infrastructure-and-essential-functions-against-prc-cyber-activity"
     },
     {
      "source_name": "CISA and FBI",
@@ -5966,21 +3491,6 @@
      "source_name": "FBI, published by US Department of Justice",
      "description": "Statement of Christopher A. Wray, Director, FBI, before the House Judiciary Committee, Oversight of the Federal Bureau of Investigation (24 July 2024)",
      "url": "https://www.justice.gov/d9/2024-12/2024.07.24_christopher_wray.pdf"
-    },
-    {
-     "source_name": "CISA",
-     "description": "Strengthening America's Resilience Against the PRC Cyber Threats",
-     "url": "https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats"
-    },
-    {
-     "source_name": "CISA",
-     "description": "China Threat Overview and Advisories",
-     "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/china"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "System Binary Proxy Execution, Technique T1218",
-     "url": "https://attack.mitre.org/techniques/T1218/"
     }
    ]
   },
@@ -6032,16 +3542,6 @@
      "url": "https://www.cisa.gov/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf"
     },
     {
-     "source_name": "FBI",
-     "description": "Conti Ransomware Attacks Impact Healthcare and First Responder Networks (FLASH CP-000147-MW)",
-     "url": "https://www.ic3.gov/CSA/2021/210521.pdf"
-    },
-    {
-     "source_name": "CISA and FBI",
-     "description": "TrickBot Malware (AA21-076A)",
-     "url": "https://cisa.gov/uscert/ncas/alerts/aa21-076a"
-    },
-    {
      "source_name": "US Department of the Treasury",
      "description": "United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang",
      "url": "https://home.treasury.gov/news/press-releases/jy1256"
@@ -6052,24 +3552,9 @@
      "url": "https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors"
     },
     {
-     "source_name": "US Department of the Treasury",
-     "description": "United States and United Kingdom Sanction Additional Members of the Russia-Based Trickbot Cybercrime Gang",
-     "url": "https://home.treasury.gov/news/press-releases/jy1714"
-    },
-    {
-     "source_name": "UK Foreign, Commonwealth and Development Office and National Crime Agency",
-     "description": "UK sanctions members of Russian cybercrime gang",
-     "url": "https://www.gov.uk/government/news/uk-sanctions-members-of-russian-cybercrime-gang"
-    },
-    {
      "source_name": "US Department of Justice",
      "description": "Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies",
      "url": "https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware"
-    },
-    {
-     "source_name": "US Department of Justice, Northern District of Ohio",
-     "description": "Russian National Pleads Guilty to Trickbot Malware Conspiracy",
-     "url": "https://www.justice.gov/usao-ndoh/pr/russian-national-pleads-guilty-trickbot-malware-conspiracy"
     },
     {
      "source_name": "US Department of Justice",
@@ -6077,69 +3562,9 @@
      "url": "https://justice.gov/opa/pr/russian-national-sentenced-involvement-development-and-deployment-trickbot-malware"
     },
     {
-     "source_name": "Rewards for Justice, US Department of State",
-     "description": "Conti",
-     "url": "https://rewardsforjustice.net/rewards/conti/"
-    },
-    {
      "source_name": "Bundeskriminalamt (BKA), Germany",
      "description": "Formation of a foreign criminal organisation KOVALEV, Vitalii Nikolaevich <stern>",
      "url": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Endgame_2/KVN/Englisch.pdf?__blob=publicationFile&v=1"
-    },
-    {
-     "source_name": "CISA",
-     "description": "Updated: Conti Ransomware",
-     "url": "https://www.cisa.gov/news-events/news/updated-conti-ransomware"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "NCSC statement following US advisory on ransomware targeting of US health sector",
-     "url": "https://www.ncsc.gov.uk/news/statement-ransomware-targeting-us-health-sector"
-    },
-    {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "Advisory: Trickbot",
-     "url": "https://www.ncsc.gov.uk/news/trickbot-advisory"
-    },
-    {
-     "source_name": "CISA",
-     "description": "NCSC Releases Advisory on Ryuk Ransomware",
-     "url": "https://www.cisa.gov/news-events/alerts/2019/06/28/ncsc-releases-advisory-ryuk-ransomware"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "TrickBot, software S0266",
-     "url": "https://attack.mitre.org/software/S0266/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Ryuk, software S0446",
-     "url": "https://attack.mitre.org/software/S0446/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Conti, software S0575",
-     "url": "https://attack.mitre.org/software/S0575/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Bazar, software S0534",
-     "url": "https://attack.mitre.org/software/S0534/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Anchor, software S0504",
-     "url": "https://attack.mitre.org/software/S0504/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Diavol, software S0659",
-     "url": "https://attack.mitre.org/software/S0659/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Emotet, software S0367",
-     "url": "https://attack.mitre.org/software/S0367/"
     }
    ]
   },
@@ -6403,11 +3828,6 @@
      "source_name": "UK Government",
      "description": "UK cracks down on ransomware actors",
      "url": "https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors"
-    },
-    {
-     "source_name": "U.S. Department of the Treasury",
-     "description": "United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang",
-     "url": "https://home.treasury.gov/news/press-releases/jy1256"
     },
     {
      "source_name": "U.S. Department of Justice",
@@ -7124,11 +4544,6 @@
      "url": "https://attack.mitre.org/software/S1125/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Sandworm Team, Group G0034",
-     "url": "https://attack.mitre.org/groups/G0034/"
-    },
-    {
      "source_name": "UK NCSC",
      "description": "Russia behind cyber attack with Europe-wide impact an hour before Ukraine invasion",
      "url": "https://www.ncsc.gov.uk/news/russia-behind-cyber-attack-with-europe-wide-impact-hour-before-ukraine-invasion"
@@ -7137,11 +4552,6 @@
      "source_name": "UK Foreign, Commonwealth and Development Office",
      "description": "Russia behind cyber-attack with Europe-wide impact an hour before Ukraine invasion",
      "url": "https://www.gov.uk/government/news/russia-behind-cyber-attack-with-europe-wide-impact-an-hour-before-ukraine-invasion"
-    },
-    {
-     "source_name": "UK NCSC",
-     "description": "NCSC Annual Review 2023, Russia case study",
-     "url": "https://www.ncsc.gov.uk/collection/annual-review-2023/threats-risks/case-study-russia"
     },
     {
      "source_name": "CERT-EU",
@@ -7157,11 +4567,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Data Destruction, Technique T1485",
      "url": "https://attack.mitre.org/techniques/T1485/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Disk Content Wipe, Technique T1561.001",
-     "url": "https://attack.mitre.org/techniques/T1561/001/"
     },
     {
      "source_name": "UK NCSC",
@@ -7526,11 +4931,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "2015 Ukraine Electric Power Attack, Campaign C0028",
      "url": "https://attack.mitre.org/campaigns/C0028/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Sandworm Team, Group G0034",
-     "url": "https://attack.mitre.org/groups/G0034/"
     }
    ]
   },
@@ -7987,16 +5387,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Crimson, Software S0115",
      "url": "https://attack.mitre.org/software/S0115/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Transparent Tribe, Group G0134",
-     "url": "https://attack.mitre.org/groups/G0134/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "C0011",
-     "url": "https://attack.mitre.org/campaigns/C0011/"
     },
     {
      "source_name": "CERT-EU",
@@ -8480,11 +5870,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "T1572 Protocol Tunneling",
      "url": "https://attack.mitre.org/techniques/T1572/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "T1187 Forced Authentication",
-     "url": "https://attack.mitre.org/techniques/T1187/"
     }
    ]
   },
@@ -8577,12 +5962,12 @@
     },
     {
      "source_name": "CISA and FBI",
-     "description": "#StopRansomware: BianLian Ransomware Group (AA23-136A)",
+     "description": "StopRansomware: BianLian Ransomware Group (AA23-136A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a"
     },
     {
      "source_name": "CISA, FBI and partners",
-     "description": "#StopRansomware: Akira Ransomware (AA24-109A)",
+     "description": "StopRansomware: Akira Ransomware (AA24-109A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a"
     },
     {
@@ -8594,21 +5979,6 @@
      "source_name": "FBI, CISA and partners",
      "description": "North Korea Cyber Group Conducts Global Espionage Campaign (AA24-207A)",
      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-207a"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Volt Typhoon, Group G1017",
-     "url": "https://attack.mitre.org/groups/G1017/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Mustang Panda, Group G0129",
-     "url": "https://attack.mitre.org/groups/G0129/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Magic Hound, Group G0059",
-     "url": "https://attack.mitre.org/groups/G0059/"
     }
    ]
   },
@@ -8736,11 +6106,6 @@
      "url": "https://attack.mitre.org/software/S0265/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Turla, Group G0010",
-     "url": "https://attack.mitre.org/groups/G0010/"
-    },
-    {
      "source_name": "CERT-EU",
      "description": "CERT-EU Cyber Brief 25-01, December 2024",
      "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-01"
@@ -8769,11 +6134,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Obfuscated Files or Information, T1027",
      "url": "https://attack.mitre.org/techniques/T1027/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "Command and Scripting Interpreter: Windows Command Shell, T1059.003",
-     "url": "https://attack.mitre.org/techniques/T1059/003/"
     },
     {
      "source_name": "CISA",
@@ -9158,11 +6518,6 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Sandworm Team, Group G0034",
-     "url": "https://attack.mitre.org/groups/G0034/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "Data Destruction, T1485",
      "url": "https://attack.mitre.org/techniques/T1485/"
     },
@@ -9170,11 +6525,6 @@
      "source_name": "MITRE ATT&CK",
      "description": "Inhibit System Recovery, T1490",
      "url": "https://attack.mitre.org/techniques/T1490/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "LSASS Memory, T1003.001",
-     "url": "https://attack.mitre.org/techniques/T1003/001/"
     },
     {
      "source_name": "MITRE ATT&CK",
@@ -9726,11 +7076,6 @@
     },
     {
      "source_name": "MITRE ATT&CK",
-     "description": "Mustang Panda, Group G0129",
-     "url": "https://attack.mitre.org/groups/G0129/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
      "description": "RedDelta Modified PlugX Infection Chain Operations, Campaign C0047",
      "url": "https://attack.mitre.org/campaigns/C0047/"
     },
@@ -9923,24 +7268,9 @@
      "url": "https://home.treasury.gov/news/press-releases/jy0127"
     },
     {
-     "source_name": "UK National Cyber Security Centre",
-     "description": "UK and US call out Russia for SolarWinds compromise",
-     "url": "https://www.ncsc.gov.uk/news/uk-and-us-call-out-russia-for-solarwinds-compromise"
-    },
-    {
      "source_name": "UK Foreign, Commonwealth and Development Office",
      "description": "Russia: UK exposes Russian involvement in SolarWinds cyber compromise",
      "url": "https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-solarwinds-cyber-compromise"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "SolarWinds Compromise, Campaign C0024",
-     "url": "https://attack.mitre.org/campaigns/C0024/"
-    },
-    {
-     "source_name": "MITRE ATT&CK",
-     "description": "APT29, Group G0016",
-     "url": "https://attack.mitre.org/groups/G0016/"
     }
    ]
   },
@@ -10043,11 +7373,6 @@
      "source_name": "LiteLLM",
      "description": "Security Update: Suspected Supply Chain Incident",
      "url": "https://docs.litellm.ai/blog/security-update-march-2026"
-    },
-    {
-     "source_name": "PyPI blog",
-     "description": "Incident Report: LiteLLM/Telnyx supply-chain attacks, with guidance",
-     "url": "https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/"
     },
     {
      "source_name": "GitHub Advisory Database",
@@ -10160,11 +7485,6 @@
      "url": "https://attack.mitre.org/campaigns/C0039/"
     },
     {
-     "source_name": "MITRE ATT&CK",
-     "description": "Volt Typhoon, Group G1017",
-     "url": "https://attack.mitre.org/groups/G1017/"
-    },
-    {
      "source_name": "CISA",
      "description": "CISA Adds One Known Exploited Vulnerability to Catalog for Versa Networks Director",
      "url": "https://www.cisa.gov/news-events/alerts/2024/08/23/cisa-adds-one-known-exploited-vulnerability-catalog-versa-networks-director"
@@ -10173,11 +7493,6 @@
      "source_name": "CISA",
      "description": "Versa Networks Releases Advisory for a Vulnerability in Versa Director, CVE-2024-39717",
      "url": "https://www.cisa.gov/news-events/alerts/2024/08/27/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-39717"
-    },
-    {
-     "source_name": "CISA",
-     "description": "Known Exploited Vulnerabilities Catalog (JSON feed)",
-     "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
     },
     {
      "source_name": "NIST National Vulnerability Database",

@@ -53,13 +53,6 @@ MITRE ATT&CK describes APT37, also called ScarCruft, as a North Korean state-spo
 - [CORALDECK, Software S0212](https://attack.mitre.org/software/S0212/), MITRE ATT&CK
 - [CERT-EU Cyber Security Brief 24-02, January 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-02/), CERT-EU
 - [Phishing: Spearphishing Attachment, Sub-technique T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Drive-by Compromise, Technique T1189](https://attack.mitre.org/techniques/T1189/), MITRE ATT&CK
-- [Exploitation for Client Execution, Technique T1203](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
-- [Web Service: Bidirectional Communication, Sub-technique T1102.002](https://attack.mitre.org/techniques/T1102/002/), MITRE ATT&CK
-- [User Execution: Malicious File, Sub-technique T1204.002](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
-- [Obfuscated Files or Information: Steganography, Sub-technique T1027.003](https://attack.mitre.org/techniques/T1027/003/), MITRE ATT&CK
-- [Disk Wipe: Disk Structure Wipe, Sub-technique T1561.002](https://attack.mitre.org/techniques/T1561/002/), MITRE ATT&CK
-- [Peripheral Device Discovery, Technique T1120](https://attack.mitre.org/techniques/T1120/), MITRE ATT&CK
 
 ## Full profile
 

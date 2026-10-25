@@ -44,22 +44,13 @@ Attributed by MITRE ATT&CK and by the US Department of Justice (5 March 2025) to
 ## Sources
 
 - [Threat Group-3390 (APT27), Group G0027](https://attack.mitre.org/groups/G0027/), MITRE ATT&CK
-- [HyperBro, Software S0398](https://attack.mitre.org/software/S0398/), MITRE ATT&CK
-- [PlugX, Software S0013](https://attack.mitre.org/software/S0013/), MITRE ATT&CK
-- [SysUpdate, Software S0663](https://attack.mitre.org/software/S0663/), MITRE ATT&CK
 - [RCSession, Software S0662](https://attack.mitre.org/software/S0662/), MITRE ATT&CK
-- [China Chopper, Software S0020](https://attack.mitre.org/software/S0020/), MITRE ATT&CK
-- [Clambling, Software S0660](https://attack.mitre.org/software/S0660/), MITRE ATT&CK
 - [Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global), US Department of Justice
 - [Treasury Sanctions China-based Hacker Involved in the Compromise of Sensitive U.S. Victim Networks](https://home.treasury.gov/news/press-releases/sb0042), US Department of the Treasury
 - [Treasury Sanctions Company Associated with Salt Typhoon and Hacker Associated with Treasury Compromise](https://home.treasury.gov/news/press-releases/jy2792), US Department of the Treasury
 - [Cyberangriffskampagne gegen deutsche Wirtschaftsunternehmen](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2022/2022-01-26-cyberbrief.html), Bundesamt fuer Verfassungsschutz (BfV, Germany)
-- [BfV Cyber-Brief Nr. 01/2022](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2022-01-bfv-cyber-brief.html), Bundesamt fuer Verfassungsschutz (BfV, Germany)
 - [China: Declaration by the Minister for Foreign Affairs on behalf of the Belgian Government](https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities), FPS Foreign Affairs, Belgium
 - [JP-23-01 Sustained activity by specific threat actors](https://cert.europa.eu/static/files/TLP-CLEAR-JointPublication-23-01.pdf), CERT-EU and ENISA
-- [Cyber Brief 24-07 June 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-07/), CERT-EU
-- [HAFNIUM, Group G0125](https://attack.mitre.org/groups/G0125/), MITRE ATT&CK
-- [ARMORY CASTLE Exploits BeyondTrust](https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust), Google Threat Intelligence Group
 
 ## Full profile
 

@@ -42,19 +42,12 @@ MITRE ATT&CK describes APT42 as an Iranian-sponsored threat group that conducts 
 
 - [APT42, Group G1044](https://attack.mitre.org/groups/G1044/), MITRE ATT&CK
 - [SEABORGIUM and TA453 continue their respective spear-phishing campaigns against targets of interest](https://www.ncsc.gov.uk/news/spear-phishing-campaigns-targets-of-interest), UK National Cyber Security Centre
-- [UK cyber experts warn of targeted phishing attacks from actors based in Russia and Iran](https://www.ncsc.gov.uk/news/uk-cyber-experts-warn-of-targeted-phishing-attacks-from-actors-based-in-russia-and-iran), UK National Cyber Security Centre
 - [Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections](https://home.treasury.gov/news/press-releases/jy2621), US Department of the Treasury
 - [SpearSpecter: Unmasking Iran's IRGC Cyber Operations Targeting High-Profile Individuals](https://govextra.gov.il/national-digital-agency/cyber/research/spearspecter/), Israel National Digital Agency
 - [CERT-EU Cyber Security Brief 24-03, February 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-03/), CERT-EU
 - [CERT-EU Cyber Brief 24-06, May 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-06/), CERT-EU
 - [CERT-EU Cyber Brief 25-05, April 2025](https://cert.europa.eu/publications/threat-intelligence/cb25-05/), CERT-EU
 - [NICECURL, Software S1192](https://attack.mitre.org/software/S1192/), MITRE ATT&CK
-- [TAMECAT, Software S1193](https://attack.mitre.org/software/S1193/), MITRE ATT&CK
-- [Magic Hound, Group G0059](https://attack.mitre.org/groups/G0059/), MITRE ATT&CK
-- [Phishing: Spearphishing Link, Sub-technique T1566.002](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [Steal Web Session Cookie, Technique T1539](https://attack.mitre.org/techniques/T1539/), MITRE ATT&CK
-- [Data from Cloud Storage, Technique T1530](https://attack.mitre.org/techniques/T1530/), MITRE ATT&CK
-- [Multi-Factor Authentication Interception, Technique T1111](https://attack.mitre.org/techniques/T1111/), MITRE ATT&CK
 
 ## Full profile
 

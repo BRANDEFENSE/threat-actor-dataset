@@ -45,25 +45,13 @@ Attributed by the US government and its Five Eyes partners to a People's Republi
 ## Sources
 
 - [Volt Typhoon, Group G1017](https://attack.mitre.org/groups/G1017/), MITRE ATT&CK
-- [KV Botnet Activity, Campaign C0035](https://attack.mitre.org/campaigns/C0035/), MITRE ATT&CK
 - [Versa Director Zero Day Exploitation, Campaign C0039](https://attack.mitre.org/campaigns/C0039/), MITRE ATT&CK
-- [FRP, Software S1144](https://attack.mitre.org/software/S1144/), MITRE ATT&CK
-- [VersaMem, Software S1154](https://attack.mitre.org/software/S1154/), MITRE ATT&CK
 - [People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection (AA23-144A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a), CISA, NSA, FBI, ACSC, Canadian Cyber Centre, NCSC-NZ, NCSC-UK
 - [PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure (AA24-038A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a), CISA, NSA, FBI with DOE, EPA, TSA, ACSC, Canadian Cyber Centre, NCSC-UK, NCSC-NZ
-- [CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance](https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land), CISA
-- [U.S. and International Partners Publish Cybersecurity Advisory on People's Republic of China State-Sponsored Hacking of U.S. Critical Infrastructure](https://www.cisa.gov/news-events/news/us-and-international-partners-publish-cybersecurity-advisory-peoples-republic-china-state-sponsored), CISA
-- [Identifying and Mitigating Living Off the Land Techniques](https://www.cisa.gov/resources-tools/resources/identifying-and-mitigating-living-land-techniques), CISA, NSA, FBI, DOE, EPA, TSA, ACSC, Canadian Cyber Centre, NCSC-UK, NCSC-NZ
-- [NCSC and partners issue warning about state-sponsored cyber attackers hiding on critical infrastructure networks](https://www.ncsc.gov.uk/news/ncsc-and-partners-issue-warning-about-state-sponsored-cyber-attackers-hiding-on-critical-infrastructure-networks), UK National Cyber Security Centre
 - [CISA and Partners Release Joint Fact Sheet for Leaders on PRC-sponsored Volt Typhoon Cyber Activity](https://www.cisa.gov/news-events/alerts/2024/03/19/cisa-and-partners-release-joint-fact-sheet-leaders-prc-sponsored-volt-typhoon-cyber-activity), CISA
-- [Volt Typhoon activity](https://www.ncsc.govt.nz/protect-your-organisation/volt-typhoon-activity/), NCSC New Zealand
-- [Joint guidance for executives and leaders of critical infrastructure organizations on protecting infrastructure and essential functions against PRC cyber activity](https://www.cyber.gc.ca/en/news-events/joint-guidance-executives-and-leaders-critical-infrastructure-organizations-protecting-infrastructure-and-essential-functions-against-prc-cyber-activity), Canadian Centre for Cyber Security
 - [Secure by Design Alert: Security Design Improvements for SOHO Device Manufacturers](https://www.cisa.gov/resources-tools/resources/secure-design-alert-security-design-improvements-soho-device-manufacturers), CISA and FBI
 - [Affidavit in support of a search and seizure warrant, In the matter of the search of specified routers in the United States infected with KV Botnet malware (4:23-MC-5432)](https://www.justice.gov/opa/media/1336411/dl), US District Court, Southern District of Texas, via US Department of Justice
 - [Statement of Christopher A. Wray, Director, FBI, before the House Judiciary Committee, Oversight of the Federal Bureau of Investigation (24 July 2024)](https://www.justice.gov/d9/2024-12/2024.07.24_christopher_wray.pdf), FBI, published by US Department of Justice
-- [Strengthening America's Resilience Against the PRC Cyber Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats), CISA
-- [China Threat Overview and Advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/china), CISA
-- [System Binary Proxy Execution, Technique T1218](https://attack.mitre.org/techniques/T1218/), MITRE ATT&CK
 
 ## Full profile
 

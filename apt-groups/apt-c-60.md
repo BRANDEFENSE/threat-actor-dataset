@@ -40,13 +40,6 @@ APT-C-60 is the name JPCERT/CC uses for a threat group it says likely carried ou
 - [Phishing: Spearphishing Link, T1566.002](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
 - [User Execution: Malicious File, T1204.002](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
 - [Event Triggered Execution: Component Object Model Hijacking, T1546.015](https://attack.mitre.org/techniques/T1546/015/), MITRE ATT&CK
-- [Web Service, T1102](https://attack.mitre.org/techniques/T1102/), MITRE ATT&CK
-- [System Binary Proxy Execution: Mshta, T1218.005](https://attack.mitre.org/techniques/T1218/005/), MITRE ATT&CK
-- [Ingress Tool Transfer, T1105](https://attack.mitre.org/techniques/T1105/), MITRE ATT&CK
-- [Screen Capture, T1113](https://attack.mitre.org/techniques/T1113/), MITRE ATT&CK
-- [Deobfuscate/Decode Files or Information, T1140](https://attack.mitre.org/techniques/T1140/), MITRE ATT&CK
-- [Command and Scripting Interpreter: JavaScript, T1059.007](https://attack.mitre.org/techniques/T1059/007/), MITRE ATT&CK
-- [Application Layer Protocol: Web Protocols, T1071.001](https://attack.mitre.org/techniques/T1071/001/), MITRE ATT&CK
 
 ## Full profile
 

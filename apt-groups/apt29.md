@@ -48,19 +48,12 @@ The US, UK and other governments have attributed APT29 to Russia's Foreign Intel
 
 - [APT29 (G0016)](https://attack.mitre.org/groups/G0016/), MITRE ATT&CK
 - [SolarWinds Compromise (C0024)](https://attack.mitre.org/campaigns/C0024/), MITRE ATT&CK
-- [SUNBURST (S0559)](https://attack.mitre.org/software/S0559/), MITRE ATT&CK
-- [WellMess (S0514)](https://attack.mitre.org/software/S0514/), MITRE ATT&CK
 - [Advisory: APT29 targets COVID-19 vaccine development](https://www.ncsc.gov.uk/news/advisory-apt29-targets-covid-19-vaccine-development), UK National Cyber Security Centre
 - [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations (AA20-352A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-352a), CISA
 - [Joint Statement by the FBI, CISA, ODNI and NSA](https://www.cisa.gov/news-events/news/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure-security-agency-0), CISA
-- [ED 21-01: Mitigate SolarWinds Orion Code Compromise](https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise), CISA
-- [Treasury Sanctions Russia with Sweeping New Sanctions Authority](https://home.treasury.gov/news/press-releases/jy0127), US Department of the Treasury
-- [UK and US call out Russia for SolarWinds compromise](https://www.ncsc.gov.uk/news/uk-and-us-call-out-russia-for-solarwinds-compromise), UK National Cyber Security Centre
 - [Russia: UK and US expose global campaign of malign activity by Russian intelligence services](https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services), UK Government (gov.uk)
 - [Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders (AA21-116A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-116a), FBI, DHS, CISA
 - [SVR Cyber Actors Adapt Tactics for Initial Cloud Access (AA24-057A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a), CISA, NSA, FBI, UK NCSC and partners
-- [ED 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System](https://www.cisa.gov/news-events/directives/ed-24-02-mitigating-significant-risk-nation-state-compromise-microsoft-corporate-email-system-closed), CISA
-- [Russian-linked APT29 behind recent cyberattacks on Azerbaijani media](https://www.trend.az/azerbaijan/politics/4038980.html), Trend News Agency (reporting the Parliamentary Commission hearing)
 
 ## Full profile
 

@@ -50,14 +50,8 @@ Attributed by the US Department of Justice to a financially motivated criminal c
 - [Plea Agreement, United States v. Kolpakov, CR18-159RSM (Document 48, filed 16 November 2020)](https://www.justice.gov/usao-wdwa/page/file/1387506/dl), US Department of Justice, Western District of Washington
 - [Judgment in a Criminal Case, United States v. Hladyr, 2:17CR00276RSM (Document 94, 16 April 2021)](https://justice.gov/usao-wdwa/page/file/1387781/dl?inline=), US District Court, Western District of Washington, published by the US Department of Justice
 - [FIN7 Cyber Actors Target US Businesses Through USB Keystroke Injection Attacks (FLASH MU-000160-MW, 6 January 2022)](https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/asset_files/external/mu-000160-mw.pdf), FBI, coordinated with DHS/CISA (copy of the notice)
-- [Carbanak (S0030)](https://attack.mitre.org/software/S0030/), MITRE ATT&CK
-- [Cobalt Strike (S0154)](https://attack.mitre.org/software/S0154/), MITRE ATT&CK
-- [GRIFFON (S0417)](https://attack.mitre.org/software/S0417/), MITRE ATT&CK
 - [JSS Loader (S0648)](https://attack.mitre.org/software/S0648/), MITRE ATT&CK
-- [Lizar (S0681)](https://attack.mitre.org/software/S0681/), MITRE ATT&CK
 - [Pillowmint (S0517)](https://attack.mitre.org/software/S0517/), MITRE ATT&CK
-- [Replication Through Removable Media (T1091)](https://attack.mitre.org/techniques/T1091/), MITRE ATT&CK
-- [Input Injection (T1674)](https://attack.mitre.org/techniques/T1674/), MITRE ATT&CK
 
 ## Full profile
 

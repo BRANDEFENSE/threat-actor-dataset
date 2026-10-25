@@ -48,17 +48,9 @@ Attributed by MITRE ATT&CK, the FBI, CISA, NCSC-UK and the US Treasury to Iran's
 - [Iranian Government-Sponsored Actors Conduct Cyber Operations Against Global Government and Commercial Networks (AA22-055A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-055a), CISA with FBI, CNMF, NCSC-UK and NSA
 - [Iranian Government-Sponsored MuddyWater Actors Conducting Malicious Cyber Operations](https://cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting), CISA
 - [MAR-10369127-1.v1 MuddyWater (AR22-055A)](https://www.cisa.gov/news-events/analysis-reports/ar22-055a), CISA with FBI, CNMF, NCSC-UK and NSA
-- [Iran Cyber Threat Overview and Advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/iran/publications), CISA
 - [Treasury Sanctions Iranian Ministry of Intelligence and Minister for Malign Cyber Activities](https://home.treasury.gov/news/press-releases/jy0941), US Department of the Treasury
 - [Joint advisory on MuddyWater actor](https://www.ncsc.gov.uk/news/joint-advisory-observes-muddywater-actors-conducting-cyber-espionage), UK National Cyber Security Centre
-- [POWERSTATS, Software S0223](https://attack.mitre.org/software/S0223/), MITRE ATT&CK
-- [PowGoop, Software S1046](https://attack.mitre.org/software/S1046/), MITRE ATT&CK
 - [Small Sieve, Software S1035](https://attack.mitre.org/software/S1035/), MITRE ATT&CK
-- [Mori, Software S1047](https://attack.mitre.org/software/S1047/), MITRE ATT&CK
-- [STARWHALE, Software S1037](https://attack.mitre.org/software/S1037/), MITRE ATT&CK
-- [MuddyViper, Software S9032](https://attack.mitre.org/software/S9032/), MITRE ATT&CK
-- [RustyWater, Software S9037](https://attack.mitre.org/software/S9037/), MITRE ATT&CK
-- [DCHSpy, Software S1243](https://attack.mitre.org/software/S1243/), MITRE ATT&CK
 - [Tsundere Botnet, Software S9034](https://attack.mitre.org/software/S9034/), MITRE ATT&CK
 
 ## Full profile

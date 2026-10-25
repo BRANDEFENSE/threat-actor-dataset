@@ -52,16 +52,6 @@ Google Threat Intelligence Group attributes the zero-day exploitation of BeyondT
 - [Another BRICKSTORM: Stealthy Backdoor Enabling Espionage into Tech and Legal Sectors](https://cloud.google.com/blog/topics/threat-intelligence/brickstorm-espionage-campaign), Google Threat Intelligence Group (Mandiant)
 - [BRICKSTORM Backdoor (AR25-338A)](https://www.cisa.gov/news-events/analysis-reports/ar25-338a), CISA, NSA and Canadian Centre for Cyber Security
 - [Exploit Public-Facing Application, Technique T1190](https://attack.mitre.org/techniques/T1190/), MITRE ATT&CK
-- [Server Software Component: Web Shell, Sub-technique T1505.003](https://attack.mitre.org/techniques/T1505/003/), MITRE ATT&CK
-- [Abuse Elevation Control Mechanism: Setuid and Setgid, Sub-technique T1548.001](https://attack.mitre.org/techniques/T1548/001/), MITRE ATT&CK
-- [Abuse Elevation Control Mechanism: Sudo and Sudo Caching, Sub-technique T1548.003](https://attack.mitre.org/techniques/T1548/003/), MITRE ATT&CK
-- [Credentials from Password Stores, Technique T1555](https://attack.mitre.org/techniques/T1555/), MITRE ATT&CK
-- [Boot or Logon Initialization Scripts, Technique T1037](https://attack.mitre.org/techniques/T1037/), MITRE ATT&CK
-- [Indicator Removal: File Deletion, Sub-technique T1070.004](https://attack.mitre.org/techniques/T1070/004/), MITRE ATT&CK
-- [Account Manipulation, Technique T1098](https://attack.mitre.org/techniques/T1098/), MITRE ATT&CK
-- [Remote Access Tools, Technique T1219](https://attack.mitre.org/techniques/T1219/), MITRE ATT&CK
-- [Protocol Tunneling, Technique T1572](https://attack.mitre.org/techniques/T1572/), MITRE ATT&CK
-- [Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global), US Department of Justice
 
 ## Full profile
 

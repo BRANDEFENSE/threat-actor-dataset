@@ -5,7 +5,7 @@
     "publisher": "Brandefense",
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
-    "generated": "2026-10-23",
+    "generated": "2026-10-25",
     "count": 26
   },
   "items": [
@@ -350,11 +350,6 @@
           "title": "UK cracks down on ransomware actors",
           "publisher": "UK Government",
           "url": "https://www.gov.uk/government/news/uk-cracks-down-on-ransomware-actors"
-        },
-        {
-          "title": "United States and United Kingdom Sanction Members of Russia-Based Trickbot Cybercrime Gang",
-          "publisher": "U.S. Department of the Treasury",
-          "url": "https://home.treasury.gov/news/press-releases/jy1256"
         },
         {
           "title": "Multiple foreign nationals charged in connection with Trickbot malware and Conti ransomware",

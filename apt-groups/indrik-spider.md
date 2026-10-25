@@ -51,19 +51,10 @@ Attributed by MITRE ATT&CK to a Russia-based criminal group, which it also lists
 - [Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware](https://home.treasury.gov/news/press-releases/sm845), US Department of the Treasury
 - [Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of "Bugat" Malware](https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens), US Department of Justice
 - [International law enforcement operation exposes the world's most harmful cyber crime group](https://nca-newsroom.prgloo.com/news/international-law-enforcement-operation-exposes-the-worlds-most-harmful-cyber-crime-group), UK National Crime Agency
-- [Dridex P2P Malware (TA15-286A)](https://www.cisa.gov/news-events/alerts/2015/10/13/dridex-p2p-malware), CISA (archived alert)
 - [Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia](https://home.treasury.gov/news/press-releases/jy2623), US Department of the Treasury
-- [Russian National Indicted for Series of Ransomware Attacks](https://www.justice.gov/archives/opa/pr/russian-national-indicted-series-ransomware-attacks), US Department of Justice
-- [UK sanctions members of notorious 'Evil Corp' cyber-crime gang, after Lammy calls out Putin's mafia state](https://www.gov.uk/government/news/uk-sanctions-members-of-notorious-evil-corp-cyber-crime-gang-after-lammy-calls-out-putins-mafia-state), UK Foreign, Commonwealth and Development Office and National Crime Agency
 - [Further members of Evil Corp cyber crime group exposed, one unmasked as LockBit affiliate](https://nca-newsroom.prgloo.com/news/further-members-of-evil-corp-cyber-crime-group-exposed-one-unmasked-as-lockbit-affiliate), UK National Crime Agency
 - [Evil Corp: Behind the Screens](https://nationalcrimeagency.gov.uk/who-we-are/publications/732-evil-corp-behind-the-screens/file), UK National Crime Agency, with support from the FBI and Australian Federal Police
 - [Cyber attacks: Igor Olegovich TURASHEV (public search appeal)](https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/BekanntePersonen/Cybercrime_NRW/IOT/SV_englisch.pdf?__blob=publicationFile&v=3), German Federal Criminal Police Office (BKA)
-- [Updated Advisory on Potential Sanctions Risks for Facilitating Ransomware Payments](https://ofac.treasury.gov/media/912981/download?inline), US Department of the Treasury (OFAC)
-- [UK smashes Russian cybercrime networks responsible for attacks on UK businesses](https://www.gov.uk/government/news/uk-smashes-russian-cybercrime-networks-responsible-for-attacks-on-uk-businesses), UK government
-- [BitPaymer, Software S0570](https://attack.mitre.org/software/S0570/), MITRE ATT&CK
-- [WastedLocker, Software S0612](https://attack.mitre.org/software/S0612/), MITRE ATT&CK
-- [Dridex, Software S0384](https://attack.mitre.org/software/S0384/), MITRE ATT&CK
-- [Cobalt Strike, Software S0154](https://attack.mitre.org/software/S0154/), MITRE ATT&CK
 
 ## Full profile
 

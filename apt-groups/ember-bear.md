@@ -49,19 +49,11 @@ The US, UK, EU and Estonian governments attribute this activity to GRU Unit 2915
 - [Ember Bear, Group G1003](https://attack.mitre.org/groups/G1003/), MITRE ATT&CK
 - [Russian Military Cyber Actors Target US and Global Critical Infrastructure (AA24-249A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a), CISA with FBI, NSA and partner agencies
 - [UK and allies uncover Russian military unit carrying out cyber attacks and digital sabotage for the first time](https://www.ncsc.gov.uk/news/uk-allies-uncover-russian-military-carrying-out-cyber-attacks-digital-sabotage), UK National Cyber Security Centre
-- [Estonia names Russia's military intelligence in a first-ever attribution of cyberattacks](https://vm.ee/en/news/estonia-names-russias-military-intelligence-first-ever-attribution-cyberattacks), Estonian Ministry of Foreign Affairs
-- [A GRU military unit launched cyberattacks against Estonian authorities](https://www.prokuratuur.ee/en/news/gru-military-unit-launched-cyberattacks-against-estonian-authorities), Estonian Office of the Prosecutor General
 - [GRU Officers, Unit 29155](https://rewardsforjustice.net/rewards/gru-officers-unit-29155/), US State Department, Rewards for Justice
 - [GRU 29155 Cyber Actors wanted notice](https://www.fbi.gov/wanted/cyber/gru-29155-cyber-actors/gru-29155-cyber-actors3.pdf), FBI
 - [UK sanctions Russian spies at the heart of Putin's malicious regime](https://www.gov.uk/government/news/uk-sanctions-russian-spies-at-the-heart-of-putins-malicious-regime), UK Foreign, Commonwealth and Development Office
-- [UK calls out Russian military intelligence for use of espionage tool](https://www.ncsc.gov.uk/news/uk-call-out-russian-military-intelligence-use-espionage-tool), UK National Cyber Security Centre
 - [Profile: GRU cyber and hybrid threat operations](https://www.gov.uk/government/publications/profile-gru-cyber-and-hybrid-threat-operations/profile-gru-cyber-and-hybrid-threat-operations), UK Government
 - [Council Implementing Regulation (EU) 2025/2568 of 15 December 2025](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568), Council of the European Union
-- [Council Decision (CFSP) 2025/2572 of 15 December 2025](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32025D2572), Council of the European Union
-- [Update: Destructive Malware Targeting Organizations in Ukraine (AA22-057A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-057a), CISA and FBI
-- [WhisperGate, Software S0689](https://attack.mitre.org/software/S0689/), MITRE ATT&CK
-- [Saint Bot, Software S1018](https://attack.mitre.org/software/S1018/), MITRE ATT&CK
-- [Rclone, Software S1040](https://attack.mitre.org/software/S1040/), MITRE ATT&CK
 
 ## Full profile
 

@@ -46,18 +46,9 @@ MITRE ATT&CK describes APT33 as a suspected Iranian threat group active since at
 - [StoneDrill (S0380)](https://attack.mitre.org/software/S0380/), MITRE ATT&CK
 - [TURNEDUP (S0199)](https://attack.mitre.org/software/S0199/), MITRE ATT&CK
 - [DEADWOOD (S1134)](https://attack.mitre.org/software/S1134/), MITRE ATT&CK
-- [Ruler (S0358)](https://attack.mitre.org/software/S0358/), MITRE ATT&CK
 - [LaZagne (S0349)](https://attack.mitre.org/software/S0349/), MITRE ATT&CK
 - [Mimikatz (S0002)](https://attack.mitre.org/software/S0002/), MITRE ATT&CK
-- [Empire (S0363)](https://attack.mitre.org/software/S0363/), MITRE ATT&CK
 - [CERT-EU Cyber Security Brief 24-04, March 2024](https://cert.europa.eu/publications/threat-intelligence/cb24-04/), CERT-EU
-- [Brute Force: Password Spraying (T1110.003)](https://attack.mitre.org/techniques/T1110/003/), MITRE ATT&CK
-- [Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/), MITRE ATT&CK
-- [Phishing: Spearphishing Link (T1566.002)](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [User Execution: Malicious Link (T1204.001)](https://attack.mitre.org/techniques/T1204/001/), MITRE ATT&CK
-- [Exploitation for Privilege Escalation (T1068)](https://attack.mitre.org/techniques/T1068/), MITRE ATT&CK
-- [OS Credential Dumping: LSASS Memory (T1003.001)](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
-- [Command and Scripting Interpreter: PowerShell (T1059.001)](https://attack.mitre.org/techniques/T1059/001/), MITRE ATT&CK
 
 ## Full profile
 

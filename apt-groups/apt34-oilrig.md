@@ -52,28 +52,10 @@ MITRE ATT&CK describes OilRig, also tracked as APT34, as a suspected Iranian gro
 - [Earth Simnavaz Cyberattacks Targeting UAE and Gulf Regions (advisory, 14 October 2024)](https://assets.adgm.com/download/assets/20241014+Cyber+Security+Council+Alert+533.pdf/c371d4e88b9511ef80921e9e7d40b323), UAE Cyber Security Council
 - [OilRig Cyber Espionage Threat (advisory, 26 December 2024)](https://assets.adgm.com/download/assets/20241226+OilRig+Cyber+Espionage+Threat.pdf/7b866b00c41911efa87e7a47cee39348), UAE Cyber Security Council
 - [Advisory: Turla group exploits Iranian APT to expand coverage of victims (21 October 2019)](https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims), NCSC UK, with the US NSA
-- [NSA and NCSC Release Joint Advisory on Turla Group Activity](https://www.cisa.gov/news-events/alerts/2019/10/21/nsa-and-ncsc-release-joint-advisory-turla-group-activity), CISA
 - [Outer Space, Campaign C0042](https://attack.mitre.org/campaigns/C0042/), MITRE ATT&CK
-- [Juicy Mix, Campaign C0044](https://attack.mitre.org/campaigns/C0044/), MITRE ATT&CK
 - [BONDUPDATER, Software S0360](https://attack.mitre.org/software/S0360/), MITRE ATT&CK
-- [OilBooster, Software S1172](https://attack.mitre.org/software/S1172/), MITRE ATT&CK
 - [PowerExchange, Software S1173](https://attack.mitre.org/software/S1173/), MITRE ATT&CK
-- [Helminth, Software S0170](https://attack.mitre.org/software/S0170/), MITRE ATT&CK
-- [QUADAGENT, Software S0269](https://attack.mitre.org/software/S0269/), MITRE ATT&CK
-- [OopsIE, Software S0264](https://attack.mitre.org/software/S0264/), MITRE ATT&CK
-- [RGDoor, Software S0258](https://attack.mitre.org/software/S0258/), MITRE ATT&CK
-- [Solar, Software S1166](https://attack.mitre.org/software/S1166/), MITRE ATT&CK
-- [Mango, Software S1169](https://attack.mitre.org/software/S1169/), MITRE ATT&CK
-- [Phishing: Spearphishing Attachment, T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [External Remote Services, T1133](https://attack.mitre.org/techniques/T1133/), MITRE ATT&CK
-- [OS Credential Dumping: LSASS Memory, T1003.001](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
-- [Server Software Component: Web Shell, T1505.003](https://attack.mitre.org/techniques/T1505/003/), MITRE ATT&CK
-- [Office Application Startup: Outlook Home Page, T1137.004](https://attack.mitre.org/techniques/T1137/004/), MITRE ATT&CK
-- [Application Layer Protocol: DNS, T1071.004](https://attack.mitre.org/techniques/T1071/004/), MITRE ATT&CK
 - [A new .NET-based DNS Backdoor Used by Lyceum (advisory NCSC-TAD-2206-003, 15 June 2022)](https://www.ncsc.gov.bh/assets/images/51_Advisory_A_New_NET_based_DNS_Backdoor_Used_by_Lyceum_de90408416.pdf), National Cyber Security Center, Bahrain
-- [Threat Landscape Report, The 10 Years Edition](https://cert.europa.eu/publications/tlr-10-years/), CERT-EU
-- [LaZagne, Software S0349](https://attack.mitre.org/software/S0349/), MITRE ATT&CK
-- [ngrok, Software S0508](https://attack.mitre.org/software/S0508/), MITRE ATT&CK
 
 ## Full profile
 

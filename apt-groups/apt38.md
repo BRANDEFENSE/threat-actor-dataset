@@ -49,18 +49,12 @@ APT38 is a North Korean state-sponsored group focused on financial theft, attrib
 ## Sources
 
 - [APT38, Group G0082](https://attack.mitre.org/groups/G0082/), MITRE ATT&CK
-- [Lazarus Group, Group G0032](https://attack.mitre.org/groups/G0032/), MITRE ATT&CK
 - [Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups](https://home.treasury.gov/news/press-releases/sm774), US Department of the Treasury
 - [North Korea Administrative Designations Updates](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200513), US Department of the Treasury, Office of Foreign Assets Control
-- [HIDDEN COBRA: FASTCash Campaign (TA18-275A)](https://www.cisa.gov/news-events/alerts/2018/10/02/hidden-cobra-fastcash-campaign), DHS, Treasury and FBI, via CISA
 - [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks (AA20-239A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a), CISA, Treasury, FBI and US Cyber Command
-- [AppleJeus: Analysis of North Korea's Cryptocurrency Malware (AA21-048A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a), FBI, CISA and Treasury, via CISA
 - [TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (AA22-108A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a), FBI, CISA and Treasury, via CISA
-- [North Korea Aggressively Targeting Crypto Industry with Well-Disguised Social Engineering Attacks](https://www.ic3.gov/PSA/2024/PSA240903), FBI Internet Crime Complaint Center
 - [North Korea Responsible for $1.5 Billion Bybit Hack](https://www.ic3.gov/PSA/2025/PSA250226), FBI Internet Crime Complaint Center
 - [Justice Department Announces Nationwide Actions to Combat Illicit North Korean Government Revenue Generation](https://www.justice.gov/opa/pr/justice-department-announces-nationwide-actions-combat-illicit-north-korean-government), US Department of Justice
-- [ECCENTRICBANDWAGON, Software S0593](https://attack.mitre.org/software/S0593/), MITRE ATT&CK
-- [HOPLIGHT, Software S0376](https://attack.mitre.org/software/S0376/), MITRE ATT&CK
 - [North Korea State-Sponsored Cyber Threat: Advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors/north-korea/publications), CISA
 
 ## Full profile

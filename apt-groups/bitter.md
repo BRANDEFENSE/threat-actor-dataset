@@ -49,15 +49,8 @@ MITRE ATT&CK describes BITTER as a suspected South Asian cyber espionage group, 
 - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
 - [Phishing: Spearphishing Attachment, T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
 - [Exploitation for Client Execution, T1203](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
-- [Exploitation for Privilege Escalation, T1068](https://attack.mitre.org/techniques/T1068/), MITRE ATT&CK
-- [User Execution: Malicious File, T1204.002](https://attack.mitre.org/techniques/T1204/002/), MITRE ATT&CK
 - [Phishing, T1660 (Mobile)](https://attack.mitre.org/techniques/T1660/), MITRE ATT&CK
-- [Ingress Tool Transfer, T1105](https://attack.mitre.org/techniques/T1105/), MITRE ATT&CK
 - [Inter-Process Communication: Dynamic Data Exchange, T1559.002](https://attack.mitre.org/techniques/T1559/002/), MITRE ATT&CK
-- [Masquerading: Masquerade Task or Service, T1036.004](https://attack.mitre.org/techniques/T1036/004/), MITRE ATT&CK
-- [Scheduled Task/Job: Scheduled Task, T1053.005](https://attack.mitre.org/techniques/T1053/005/), MITRE ATT&CK
-- [Acquire Infrastructure: Domains, T1583.001](https://attack.mitre.org/techniques/T1583/001/), MITRE ATT&CK
-- [Dynamic Resolution, T1568](https://attack.mitre.org/techniques/T1568/), MITRE ATT&CK
 
 ## Full profile
 

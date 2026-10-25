@@ -49,14 +49,6 @@ Attributed by MITRE ATT&CK to PLA Unit 61398 in China, APT1 is the subject of a 
 - [WEBC2, Software S0109](https://attack.mitre.org/software/S0109/), MITRE ATT&CK
 - [Seasalt, Software S0345](https://attack.mitre.org/software/S0345/), MITRE ATT&CK
 - [CALENDAR, Software S0025](https://attack.mitre.org/software/S0025/), MITRE ATT&CK
-- [GLOOXMAIL, Software S0026](https://attack.mitre.org/software/S0026/), MITRE ATT&CK
-- [PoisonIvy, Software S0012](https://attack.mitre.org/software/S0012/), MITRE ATT&CK
-- [Phishing: Spearphishing Attachment, T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [Use Alternate Authentication Material: Pass the Hash, T1550.002](https://attack.mitre.org/techniques/T1550/002/), MITRE ATT&CK
-- [OS Credential Dumping: LSASS Memory, T1003.001](https://attack.mitre.org/techniques/T1003/001/), MITRE ATT&CK
-- [Remote Services: Remote Desktop Protocol, T1021.001](https://attack.mitre.org/techniques/T1021/001/), MITRE ATT&CK
-- [Acquire Infrastructure: Domains, T1583.001](https://attack.mitre.org/techniques/T1583/001/), MITRE ATT&CK
-- [Archive Collected Data: Archive via Utility, T1560.001](https://attack.mitre.org/techniques/T1560/001/), MITRE ATT&CK
 
 ## Full profile
 

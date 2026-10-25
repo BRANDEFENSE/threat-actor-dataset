@@ -48,26 +48,16 @@ MITRE describes APT41 as a Chinese state-sponsored espionage group, as researche
 ## Sources
 
 - [APT41, Group G0096](https://attack.mitre.org/groups/G0096/), MITRE ATT&CK
-- [Campaign C0017](https://attack.mitre.org/campaigns/C0017/), MITRE ATT&CK
 - [Campaign APT41 DUST (C0040)](https://attack.mitre.org/campaigns/C0040/), MITRE ATT&CK
-- [ShadowPad (S0596)](https://attack.mitre.org/software/S0596/), MITRE ATT&CK
-- [Winnti for Linux (S0430)](https://attack.mitre.org/software/S0430/), MITRE ATT&CK
-- [KEYPLUG (S1051)](https://attack.mitre.org/software/S1051/), MITRE ATT&CK
-- [DUSTTRAP (S1159)](https://attack.mitre.org/software/S1159/), MITRE ATT&CK
 - [APT 41 Group wanted notice](https://www.fbi.gov/wanted/cyber/apt-41-group/apt-41-group-cyber-wanted-web.pdf), FBI
 - [Indictment, United States v. Zhang Haoran and Tan Dailin (2019)](https://www.justice.gov/archives/opa/press-release/file/1317216/dl), US Department of Justice
 - [Indictment, United States v. Jiang Lizhi, Qian Chuan and Fu Qiang (2020)](https://www.justice.gov/archives/opa/press-release/file/1317206/dl), US Department of Justice
 - [Indictment of two Malaysian businessmen (2020)](https://www.justice.gov/archives/opa/press-release/file/1317211/dl), US Department of Justice
 - [National Security Division press conference transcript, 16 September 2020](https://www.justice.gov/opa/media/1093431/dl), US Department of Justice
-- [Supply Chain Compromise: Compromise Software Supply Chain (T1195.002)](https://attack.mitre.org/techniques/T1195/002/), MITRE ATT&CK
-- [Exploit Public-Facing Application (T1190)](https://attack.mitre.org/techniques/T1190/), MITRE ATT&CK
-- [Server Software Component: Web Shell (T1505.003)](https://attack.mitre.org/techniques/T1505/003/), MITRE ATT&CK
-- [Phishing: Spearphishing Attachment (T1566.001)](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
-- [OS Credential Dumping (T1003)](https://attack.mitre.org/techniques/T1003/), MITRE ATT&CK
-- [Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/), MITRE ATT&CK
+- [How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia](https://securelist.com/uefi-bootkit-blackx/121539/), Kaspersky Securelist
 
 ## Full profile
 
 Timeline, attribution notes, defences and FAQ: **[APT41 on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/apt41/)**
 
-_Last updated 2026-10-07. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-25. Data: CC BY 4.0, Brandefense._

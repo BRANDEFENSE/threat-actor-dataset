@@ -39,23 +39,13 @@ The US FBI (July 2026) describes TeamPCP as a cyber criminal group behind large-
 ## Sources
 
 - [TeamPCP, Group G1056](https://attack.mitre.org/groups/G1056/), MITRE ATT&CK
-- [TeamPCP Cloud Stealer, Software S9041](https://attack.mitre.org/software/S9041/), MITRE ATT&CK
-- [CanisterWorm, Software S9042](https://attack.mitre.org/software/S9042/), MITRE ATT&CK
-- [Mini Shai-Hulud, Software S9043](https://attack.mitre.org/software/S9043/), MITRE ATT&CK
 - [Cyber Criminal Group TeamPCP (FLASH-20260702-01)](https://www.ic3.gov/CSA/2026/260702.pdf), FBI, coordinated with DHS/CISA
-- [Australian Man Indicted For "TeamPCP" Cyberattacks On Software Supply Chain](https://www.justice.gov/usao-ndca/pr/australian-man-indicted-teampcp-cyberattacks-software-supply-chain), US Department of Justice, Northern District of California
 - [Two WA men charged following AFP-FBI-WAPF disruption of alleged global cybercrime syndicate](https://www.afp.gov.au/news-centre/media-release/two-wa-men-charged-following-afp-fbi-wapf-disruption-alleged-global), Australian Federal Police
 - [European Commission cloud breach: a supply-chain compromise](https://cert.europa.eu/blog/european-commission-cloud-breach-trivy-supply-chain), CERT-EU
 - [Cyber Brief 26-04, March 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-04), CERT-EU
 - [Cyber Brief 26-06, May 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-06), CERT-EU
-- [Cyber Brief 26-09, August 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-09), CERT-EU
 - [Trivy: Supply-Chain Angriff fuehrt zu Kompromittierungen in Deutschland (BITS-V 2026-237970-1032)](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-237970-1032.pdf?__blob=publicationFile&v=4), BSI
-- [CISA Adds One Known Exploited Vulnerability to Catalog (26 March 2026)](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog), CISA
 - [Known Exploited Vulnerabilities Catalog (data feed)](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
-- [Trivy ecosystem supply chain temporarily compromised (GHSA-69fq-xp46-6x23)](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23), Trivy project security advisory
-- [Security Update: Suspected Supply Chain Incident](https://docs.litellm.ai/blog/security-update-march-2026), LiteLLM project
-- [Incident Report: LiteLLM/Telnyx supply-chain attacks, with guidance](https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/), Python Package Index (PyPI)
-- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem), TanStack project
 
 ## Full profile
 

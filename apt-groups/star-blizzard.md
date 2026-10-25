@@ -44,20 +44,12 @@ Attributed by the UK, US, Australian, Canadian and New Zealand governments to Ru
 
 - [Star Blizzard (G1033)](https://attack.mitre.org/groups/G1033/), MITRE ATT&CK
 - [Russian FSB Cyber Actor Star Blizzard Continues Worldwide Spearphishing Campaigns (AA23-341A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-341a), CISA with FBI, NSA, CNMF, UK NCSC, ACSC, Canadian Cyber Centre, NCSC-NZ
-- [Russian FSB cyber actor Star Blizzard continues worldwide spear-phishing campaigns](https://www.ncsc.gov.uk/news/star-blizzard-continues-spear-phishing-campaigns), UK National Cyber Security Centre
 - [UK exposes attempted Russian cyber interference in politics and democratic processes](https://www.gov.uk/government/news/uk-exposes-attempted-russian-cyber-interference-in-politics-and-democratic-processes), UK Foreign, Commonwealth and Development Office, NCSC, NCA
 - [NCA cyber investigation leads to sanctions for hostile actors linked to Russia's FSB](https://www.nationalcrimeagency.gov.uk/news/nca-cyber-investigation-leads-to-sanctions-for-hostile-actors-linked-to-russia-s-fsb), UK National Crime Agency
-- [Financial Sanctions Notice, Cyber, 07/12/2023](https://assets.publishing.service.gov.uk/media/657194c5809bc300133081f5/Notice_Cyber_071223.pdf), UK Office of Financial Sanctions Implementation, HM Treasury
 - [United States and the United Kingdom Sanction Members of Russian State Intelligence-Sponsored Advanced Persistent Threat Group](https://home.treasury.gov/news/press-releases/jy1962), US Department of the Treasury
 - [Two Russian Nationals Working with Russia's Federal Security Service Charged with Global Computer Intrusion Campaign](https://www.justice.gov/archives/opa/pr/two-russian-nationals-working-russias-federal-security-service-charged-global-computer), US Department of Justice
-- [Andrey Stanislavovich Korinets](https://rewardsforjustice.net/rewards/andrey-stanislavovich-korinets/), US Department of State, Rewards for Justice
-- [Ruslan Aleksandrovich Peretyatko](https://rewardsforjustice.net/rewards/ruslan-aleksandrovich-peretyatko/), US Department of State, Rewards for Justice
 - [Justice Department Disrupts Russian Intelligence Spear-Phishing Efforts](https://www.justice.gov/opa/pr/justice-department-disrupts-russian-intelligence-spear-phishing-efforts), US Department of Justice
 - [Spica (S1140)](https://attack.mitre.org/software/S1140/), MITRE ATT&CK
-- [Phishing: Spearphishing Link (T1566.002)](https://attack.mitre.org/techniques/T1566/002/), MITRE ATT&CK
-- [Use Alternate Authentication Material: Web Session Cookie (T1550.004)](https://attack.mitre.org/techniques/T1550/004/), MITRE ATT&CK
-- [Valid Accounts (T1078)](https://attack.mitre.org/techniques/T1078/), MITRE ATT&CK
-- [Linked Devices (T1676)](https://attack.mitre.org/techniques/T1676/), MITRE ATT&CK
 
 ## Full profile
 
