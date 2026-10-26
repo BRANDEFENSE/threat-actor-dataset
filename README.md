@@ -2,9 +2,9 @@
 
 # Threat Actor Dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques
 
-An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 58 malware families and 41 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
+An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 58 malware families and 42 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
 
-![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--26-brightgreen) ![Entries](https://img.shields.io/badge/entries-177-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--26-brightgreen) ![Entries](https://img.shields.io/badge/entries-178-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
 
 Maintained by the [Brandefense](https://brandefense.io) Research Team. Every entry is written from public primary sources (government advisories, MITRE ATT&CK, vendor research) and links to them.
 
@@ -15,7 +15,7 @@ Maintained by the [Brandefense](https://brandefense.io) Research Team. Every ent
 | APT groups | 52 | [`data/apt-groups.json`](data/apt-groups.json) · [`data/apt-groups.csv`](data/apt-groups.csv) |
 | Ransomware groups | 26 | [`data/ransomware-groups.json`](data/ransomware-groups.json) · [`data/ransomware-groups.csv`](data/ransomware-groups.csv) |
 | Malware families | 58 | [`data/malware.json`](data/malware.json) · [`data/malware.csv`](data/malware.csv) |
-| MITRE ATT&CK techniques | 41 | [`data/attack-techniques.json`](data/attack-techniques.json) · [`data/attack-techniques.csv`](data/attack-techniques.csv) |
+| MITRE ATT&CK techniques | 42 | [`data/attack-techniques.json`](data/attack-techniques.json) · [`data/attack-techniques.csv`](data/attack-techniques.csv) |
 
 Each entry also has a readable page in this repository (linked in the tables below) and a full profile on [brandefense.io](https://brandefense.io/knowledge-hub/apt-groups/). A STIX 2.1 bundle of the whole dataset is in [`data/stix/threat-actors.stix.json`](data/stix/threat-actors.stix.json).
 
@@ -240,6 +240,7 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 | T1082 | [System Information Discovery](attack-techniques/t1082-system-information-discovery.md) | Discovery |
 | T1083 | [File and Directory Discovery](attack-techniques/t1083-file-and-directory-discovery.md) | Discovery |
 | T1087 | [Account Discovery](attack-techniques/t1087-account-discovery.md) | Discovery |
+| T1102.001 | [Dead Drop Resolver: Hiding C2 Addresses on Public Web Services (T1102.001)](attack-techniques/t1102-001-dead-drop-resolver.md) | Command and Control |
 | T1105 | [Ingress Tool Transfer](attack-techniques/t1105-ingress-tool-transfer.md) | Command and Control |
 | T1112 | [Modify Registry](attack-techniques/t1112-modify-registry.md) | Defense Impairment, Persistence |
 | T1133 | [External Remote Services](attack-techniques/t1133-external-remote-services.md) | Persistence, Initial Access |

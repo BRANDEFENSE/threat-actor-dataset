@@ -6,7 +6,7 @@
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
     "generated": "2026-10-26",
-    "count": 41
+    "count": 42
   },
   "items": [
     {
@@ -389,6 +389,32 @@
           "title": "MITRE ATT&CK Tactic: Discovery",
           "publisher": "MITRE",
           "url": "https://attack.mitre.org/tactics/TA0007/"
+        }
+      ]
+    },
+    {
+      "name": "Dead Drop Resolver: Hiding C2 Addresses on Public Web Services (T1102.001)",
+      "slug": "t1102-001-dead-drop-resolver",
+      "url": "https://brandefense.io/knowledge-hub/techniques/t1102-001-dead-drop-resolver/",
+      "last_updated": "2026-10-26",
+      "mitre_attack_id": "T1102.001",
+      "tactic": "Command and Control",
+      "summary": "A dead drop resolver is a page on a legitimate web service that holds the address of the attacker's real command and control server. Malware reads the page, learns where to connect and can be pointed elsewhere by changing the page. MITRE tracks this as T1102.001.",
+      "sources": [
+        {
+          "title": "Web Service: Dead Drop Resolver, T1102.001",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1102/001/"
+        },
+        {
+          "title": "Web Service, T1102",
+          "publisher": "MITRE ATT&CK",
+          "url": "https://attack.mitre.org/techniques/T1102/"
+        },
+        {
+          "title": "litellm 1.107.0 Compromised on PyPI and Docker: Credential Stealer and Hourly Remote Code Loader",
+          "publisher": "StepSecurity",
+          "url": "https://www.stepsecurity.io/blog/litellm-1-107-0-compromised-pypi-backdoored-wheels-credential-stealer"
         }
       ]
     },
