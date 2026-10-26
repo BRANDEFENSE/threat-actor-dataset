@@ -45,7 +45,7 @@ The US FBI (July 2026) describes TeamPCP as a cyber criminal group behind large-
 - [Cyber Brief 26-04, March 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-04), CERT-EU
 - [Cyber Brief 26-06, May 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-06), CERT-EU
 - [Trivy: Supply-Chain Angriff fuehrt zu Kompromittierungen in Deutschland (BITS-V 2026-237970-1032)](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-237970-1032.pdf?__blob=publicationFile&v=4), BSI
-- [Known Exploited Vulnerabilities Catalog (data feed)](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
+- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), CISA
 
 ## Full profile
 

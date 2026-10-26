@@ -1429,7 +1429,7 @@
     {
      "source_name": "CISA",
      "description": "Known Exploited Vulnerabilities Catalog",
-     "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     },
     {
      "source_name": "MITRE ATT&CK",
@@ -2318,7 +2318,7 @@
     {
      "source_name": "CISA",
      "description": "Known Exploited Vulnerabilities Catalog",
-     "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     }
    ]
   },
@@ -3287,8 +3287,8 @@
     },
     {
      "source_name": "CISA",
-     "description": "Known Exploited Vulnerabilities Catalog (data feed)",
-     "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+     "description": "Known Exploited Vulnerabilities Catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     }
    ]
   },
@@ -6628,8 +6628,8 @@
     },
     {
      "source_name": "CISA",
-     "description": "Known Exploited Vulnerabilities catalog (data file)",
-     "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+     "description": "Known Exploited Vulnerabilities catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     },
     {
      "source_name": "NIST NVD",

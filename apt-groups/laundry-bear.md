@@ -48,7 +48,7 @@ Attributed by the Dutch AIVD and MIVD (2025) and by US, UK, Canadian and other a
 - [Publicatie van AIVD en MIVD over Laundry Bear](https://www.ncsc.nl/actueel/nieuws/2025/05/27/publicatie-van-aivd-en-mivd-over-laundry-bear), NCSC, Netherlands
 - [Cyber Brief 26-08, July 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-08), CERT-EU
 - [Russian bears in cyberspace (Cyber Security in Estonia 2026)](https://www.ria.ee/en/russian-bears-cyberspace), Information System Authority (RIA), Estonia
-- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
+- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), CISA
 
 ## Full profile
 

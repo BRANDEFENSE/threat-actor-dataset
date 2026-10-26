@@ -5,7 +5,7 @@
     "publisher": "Brandefense",
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
-    "generated": "2026-10-25",
+    "generated": "2026-10-26",
     "count": 52
   },
   "items": [
@@ -4090,7 +4090,7 @@
         {
           "title": "Known Exploited Vulnerabilities Catalog",
           "publisher": "CISA",
-          "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
         },
         {
           "title": "Phishing: Spearphishing Attachment, T1566.001",
@@ -6650,7 +6650,7 @@
         {
           "title": "Known Exploited Vulnerabilities Catalog",
           "publisher": "CISA",
-          "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
         }
       ]
     },
@@ -9494,9 +9494,9 @@
           "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-237970-1032.pdf?__blob=publicationFile&v=4"
         },
         {
-          "title": "Known Exploited Vulnerabilities Catalog (data feed)",
+          "title": "Known Exploited Vulnerabilities Catalog",
           "publisher": "CISA",
-          "url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
         }
       ]
     },

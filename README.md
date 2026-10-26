@@ -4,7 +4,7 @@
 
 An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 58 malware families and 41 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
 
-![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--25-brightgreen) ![Entries](https://img.shields.io/badge/entries-177-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--26-brightgreen) ![Entries](https://img.shields.io/badge/entries-177-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
 
 Maintained by the [Brandefense](https://brandefense.io) Research Team. Every entry is written from public primary sources (government advisories, MITRE ATT&CK, vendor research) and links to them.
 

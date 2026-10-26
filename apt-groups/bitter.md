@@ -46,7 +46,7 @@ MITRE ATT&CK describes BITTER as a suspected South Asian cyber espionage group, 
 - [BITTER, T-APT-17, Group G1002](https://attack.mitre.org/groups/G1002/), MITRE ATT&CK
 - [ZxxZ, Software S1013](https://attack.mitre.org/software/S1013/), MITRE ATT&CK
 - [Cyber Brief 26-05 - April 2026](https://cert.europa.eu/publications/threat-intelligence/cb26-05), CERT-EU
-- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json), CISA
+- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), CISA
 - [Phishing: Spearphishing Attachment, T1566.001](https://attack.mitre.org/techniques/T1566/001/), MITRE ATT&CK
 - [Exploitation for Client Execution, T1203](https://attack.mitre.org/techniques/T1203/), MITRE ATT&CK
 - [Phishing, T1660 (Mobile)](https://attack.mitre.org/techniques/T1660/), MITRE ATT&CK
