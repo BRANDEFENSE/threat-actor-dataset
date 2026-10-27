@@ -22,6 +22,8 @@ Qilin, also tracked as Agenda, is a ransomware as a service family that MITRE AT
 - [#StopRansomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide), CISA
 - [Advisory on New Endpoint Detection and Response (EDR) Killer Tool Used by Multiple Ransomware Groups](https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2025-018/), Cyber Security Agency of Singapore
 - [Stray Cat, Open Doors: How k0t Wanders Through the Network Edge](https://www.group-ib.com/blog/stray-cat-network-edge/), Group-IB with NyxLab
+- [No Manners Here: The Ruthless Rise of The Gentlemen Ransomware](https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/), Unit 42 (Palo Alto Networks)
+- [GOLD SHERWOOD threat profile](https://www.sophos.com/en-us/threat-profiles/gold-sherwood), Sophos
 
 ## Full profile
 

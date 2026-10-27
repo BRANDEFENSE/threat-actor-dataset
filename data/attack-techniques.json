@@ -258,6 +258,11 @@
           "title": "MITRE ATT&CK Privilege Escalation (TA0004)",
           "publisher": "MITRE",
           "url": "https://attack.mitre.org/tactics/TA0004/"
+        },
+        {
+          "title": "GOLD SHERWOOD threat profile",
+          "publisher": "Sophos",
+          "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
         }
       ]
     },

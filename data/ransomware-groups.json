@@ -6,7 +6,7 @@
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
     "generated": "2026-10-27",
-    "count": 26
+    "count": 27
   },
   "items": [
     {
@@ -855,6 +855,16 @@
           "title": "Stray Cat, Open Doors: How k0t Wanders Through the Network Edge",
           "publisher": "Group-IB with NyxLab",
           "url": "https://www.group-ib.com/blog/stray-cat-network-edge/"
+        },
+        {
+          "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+          "publisher": "Unit 42 (Palo Alto Networks)",
+          "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+        },
+        {
+          "title": "GOLD SHERWOOD threat profile",
+          "publisher": "Sophos",
+          "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
         }
       ]
     },
@@ -1105,6 +1115,59 @@
           "title": "CVE-2024-40766 record",
           "publisher": "CVE Program",
           "url": "https://www.cve.org/CVERecord?id=CVE-2024-40766"
+        }
+      ]
+    },
+    {
+      "name": "The Gentlemen",
+      "slug": "the-gentlemen",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/the-gentlemen/",
+      "last_updated": "2026-10-27",
+      "aliases": [
+        "GOLD SHERWOOD"
+      ],
+      "summary": "The Gentlemen is a ransomware-as-a-service operation. Sophos says the scheme started in mid-2025 and posted its first victims to a leak site in September 2025. Unit 42 cites an outside count of 580 claimed victims in 77 countries through 7 July 2026. Check Point says entry is almost always through an unpatched internet-facing device such as a VPN or firewall.",
+      "status": "active",
+      "first_seen": "2025",
+      "model": "Ransomware as a service with double extortion; affiliates keep 90% of each ransom (per Unit 42, Sophos and Check Point)",
+      "extortion": "Double extortion in effect. Sophos and Trend Micro say the group steals data and encrypts files, then threatens to publish the data of victims who do not pay on its leak site. Check Point's DFIR report says the ransom note opens with \"Gentlemen, your network has been encrypted.\" It tells victims who get no reply within 36 hours to create another account and write again. Negotiation runs through Tox or Session.",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+          "publisher": "Palo Alto Networks Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+        },
+        {
+          "title": "Threat profile: GOLD SHERWOOD",
+          "publisher": "Sophos",
+          "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
+        },
+        {
+          "title": "Unmasking The Gentlemen Ransomware: Tactics, Techniques, and Procedures Revealed",
+          "publisher": "Trend Micro",
+          "url": "https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/unmasking-the-gentlemen-ransomware"
+        },
+        {
+          "title": "The Gentlemen: A New Ransomware Threat Climbing the Charts, Fast",
+          "publisher": "Check Point Research",
+          "url": "https://blog.checkpoint.com/research/the-gentlemen-a-new-ransomware-threat-climbing-the-charts-fast/"
+        },
+        {
+          "title": "DFIR Report: The Gentlemen & SystemBC: A Sneak Peek Behind the Proxy",
+          "publisher": "Check Point Research",
+          "url": "https://research.checkpoint.com/2026/dfir-report-the-gentlemen/"
+        },
+        {
+          "title": "When the Ransomware Gang Gets Hacked: What the Gentlemen Leak Reveals About Modern Ransomware Risk",
+          "publisher": "Check Point Research",
+          "url": "https://blog.checkpoint.com/research/when-the-ransomware-gang-gets-hacked-what-the-gentlemen-leak-reveals-about-modern-ransomware-risk/"
+        },
+        {
+          "title": "The State of Ransomware: Q1 2026",
+          "publisher": "Check Point Research",
+          "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/"
         }
       ]
     },

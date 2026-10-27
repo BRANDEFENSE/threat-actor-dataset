@@ -4246,6 +4246,16 @@
      "source_name": "Group-IB with NyxLab",
      "description": "Stray Cat, Open Doors: How k0t Wanders Through the Network Edge",
      "url": "https://www.group-ib.com/blog/stray-cat-network-edge/"
+    },
+    {
+     "source_name": "Unit 42 (Palo Alto Networks)",
+     "description": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+     "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+    },
+    {
+     "source_name": "Sophos",
+     "description": "GOLD SHERWOOD threat profile",
+     "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
     }
    ]
   },
@@ -4450,6 +4460,60 @@
      "source_name": "CVE Program",
      "description": "CVE-2024-40766 record",
      "url": "https://www.cve.org/CVERecord?id=CVE-2024-40766"
+    }
+   ]
+  },
+  {
+   "type": "intrusion-set",
+   "spec_version": "2.1",
+   "id": "intrusion-set--92c8aeb7-eaf3-56e6-acc9-411e30853269",
+   "created": "2026-10-27T00:00:00.000Z",
+   "modified": "2026-10-27T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "The Gentlemen",
+   "description": "The Gentlemen is a ransomware-as-a-service operation. Sophos says the scheme started in mid-2025 and posted its first victims to a leak site in September 2025. Unit 42 cites an outside count of 580 claimed victims in 77 countries through 7 July 2026. Check Point says entry is almost always through an unpatched internet-facing device such as a VPN or firewall.",
+   "aliases": [
+    "GOLD SHERWOOD"
+   ],
+   "external_references": [
+    {
+     "source_name": "brandefense",
+     "url": "https://brandefense.io/knowledge-hub/ransomware-groups/the-gentlemen/"
+    },
+    {
+     "source_name": "Palo Alto Networks Unit 42",
+     "description": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+     "url": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
+    },
+    {
+     "source_name": "Sophos",
+     "description": "Threat profile: GOLD SHERWOOD",
+     "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
+    },
+    {
+     "source_name": "Trend Micro",
+     "description": "Unmasking The Gentlemen Ransomware: Tactics, Techniques, and Procedures Revealed",
+     "url": "https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/unmasking-the-gentlemen-ransomware"
+    },
+    {
+     "source_name": "Check Point Research",
+     "description": "The Gentlemen: A New Ransomware Threat Climbing the Charts, Fast",
+     "url": "https://blog.checkpoint.com/research/the-gentlemen-a-new-ransomware-threat-climbing-the-charts-fast/"
+    },
+    {
+     "source_name": "Check Point Research",
+     "description": "DFIR Report: The Gentlemen & SystemBC: A Sneak Peek Behind the Proxy",
+     "url": "https://research.checkpoint.com/2026/dfir-report-the-gentlemen/"
+    },
+    {
+     "source_name": "Check Point Research",
+     "description": "When the Ransomware Gang Gets Hacked: What the Gentlemen Leak Reveals About Modern Ransomware Risk",
+     "url": "https://blog.checkpoint.com/research/when-the-ransomware-gang-gets-hacked-what-the-gentlemen-leak-reveals-about-modern-ransomware-risk/"
+    },
+    {
+     "source_name": "Check Point Research",
+     "description": "The State of Ransomware: Q1 2026",
+     "url": "https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/"
     }
    ]
   },
@@ -8720,6 +8784,11 @@
      "source_name": "MITRE",
      "description": "MITRE ATT&CK Privilege Escalation (TA0004)",
      "url": "https://attack.mitre.org/tactics/TA0004/"
+    },
+    {
+     "source_name": "Sophos",
+     "description": "GOLD SHERWOOD threat profile",
+     "url": "https://www.sophos.com/en-us/threat-profiles/gold-sherwood"
     }
    ],
    "description": "Exploitation for privilege escalation is when an attacker uses a flaw in software to gain higher permissions than they started with. For example, they may go from a normal user account to full control of the system. The flaw can be in the operating system, in software running with higher permissions, or in a signed driver. MITRE ATT&CK tracks it as T1068."
