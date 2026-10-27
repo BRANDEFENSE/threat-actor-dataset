@@ -2,9 +2,9 @@
 
 # Threat Actor Dataset: APT groups, ransomware groups, malware and MITRE ATT&CK techniques
 
-An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 58 malware families and 42 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
+An open, machine-readable dataset of **52 APT groups, 26 ransomware groups, 59 malware families and 42 MITRE ATT&CK techniques**: aliases, suspected origin, targets, tools, ATT&CK techniques (TTPs) and the public sources each entry is written from. Free to use under CC BY 4.0.
 
-![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--26-brightgreen) ![Entries](https://img.shields.io/badge/entries-178-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue) ![Updated](https://img.shields.io/badge/updated-2026--10--27-brightgreen) ![Entries](https://img.shields.io/badge/entries-179-informational) ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20STIX%202.1-lightgrey)
 
 Maintained by the [Brandefense](https://brandefense.io) Research Team. Every entry is written from public primary sources (government advisories, MITRE ATT&CK, vendor research) and links to them.
 
@@ -14,7 +14,7 @@ Maintained by the [Brandefense](https://brandefense.io) Research Team. Every ent
 |---|---:|---|
 | APT groups | 52 | [`data/apt-groups.json`](data/apt-groups.json) · [`data/apt-groups.csv`](data/apt-groups.csv) |
 | Ransomware groups | 26 | [`data/ransomware-groups.json`](data/ransomware-groups.json) · [`data/ransomware-groups.csv`](data/ransomware-groups.csv) |
-| Malware families | 58 | [`data/malware.json`](data/malware.json) · [`data/malware.csv`](data/malware.csv) |
+| Malware families | 59 | [`data/malware.json`](data/malware.json) · [`data/malware.csv`](data/malware.csv) |
 | MITRE ATT&CK techniques | 42 | [`data/attack-techniques.json`](data/attack-techniques.json) · [`data/attack-techniques.csv`](data/attack-techniques.csv) |
 
 Each entry also has a readable page in this repository (linked in the tables below) and a full profile on [brandefense.io](https://brandefense.io/knowledge-hub/apt-groups/). A STIX 2.1 bundle of the whole dataset is in [`data/stix/threat-actors.stix.json`](data/stix/threat-actors.stix.json).
@@ -161,6 +161,7 @@ Each JSON file has a `meta` block (`dataset`, `publisher`, `license`, `generated
 |---|---|---|---|
 | [AcidRain](malware/acidrain.md) | wiper | Network Devices, Linux | Sandworm |
 | [Akira](malware/akira.md) | ransomware | Windows |  |
+| [Amadey Malware: How the Loader Works and How to Find It](malware/amadey.md) | loader | Windows | Kimsuky, TA505 |
 | [Bad Rabbit](malware/bad-rabbit.md) | ransomware | Windows | Sandworm |
 | [BARECLAW tunneler](malware/bareclaw.md) |  | Linux (BeyondTrust Remote Support appliance) |  |
 | [Black Basta](malware/black-basta.md) | ransomware | Windows, ESXi |  |

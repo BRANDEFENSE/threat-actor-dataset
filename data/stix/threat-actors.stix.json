@@ -2126,8 +2126,8 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--3f57a09b-5266-5637-a961-0c53d9904d11",
-   "created": "2026-10-08T00:00:00.000Z",
-   "modified": "2026-10-08T00:00:00.000Z",
+   "created": "2026-10-27T00:00:00.000Z",
+   "modified": "2026-10-27T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Kimsuky",
    "description": "Attributed by the US and South Korean governments to North Korea's Reconnaissance General Bureau, Kimsuky sends convincing fake emails to think tanks, researchers, media and government staff to steal documents and email. South Korea and the US Treasury sanctioned it in 2023, and the FBI reported new QR code phishing from it in 2025.",
@@ -3159,8 +3159,8 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--271d36b7-f375-5581-9a92-b5616f721b6e",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-27T00:00:00.000Z",
+   "modified": "2026-10-27T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "TA505",
    "description": "CISA and the FBI say, \"according to open source information\", that the CL0P ransomware gang is also known as TA505, and MITRE ATT&CK describes TA505 as a cyber criminal group active since at least 2014. As attributed by those bodies, it steals data and runs ransomware, including through zero-day flaws in file transfer software such as MOVEit Transfer.",
@@ -3296,8 +3296,8 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--1bf9f541-0387-57ca-b2ea-3b0bf9abbc2a",
-   "created": "2026-10-07T00:00:00.000Z",
-   "modified": "2026-10-07T00:00:00.000Z",
+   "created": "2026-10-27T00:00:00.000Z",
+   "modified": "2026-10-27T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Turla",
    "description": "Attributed by MITRE ATT&CK to Russia's FSB, Turla has run espionage against governments, embassies and the military since at least 2004. In May 2023 the US and partners attributed the Snake malware to a unit in FSB Center 16, and on 14 July 2026 the EU named the FSB 16th Center as controlling groups including Turla.",
@@ -4632,6 +4632,56 @@
      "source_name": "MITRE ATT&CK",
      "description": "Akira, Group G1024",
      "url": "https://attack.mitre.org/groups/G1024/"
+    }
+   ]
+  },
+  {
+   "type": "malware",
+   "spec_version": "2.1",
+   "id": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "created": "2026-10-27T00:00:00.000Z",
+   "modified": "2026-10-27T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Amadey Malware: How the Loader Works and How to Find It",
+   "description": "Amadey is a Windows loader that downloads and runs other malware on infected PCs, and criminals buy it as a service. MITRE says it has been used since at least October 2018. In June 2026 Eurojust, Microsoft and ESET announced an action against its control servers as part of Operation Endgame.",
+   "is_family": true,
+   "aliases": [
+    "Amadey"
+   ],
+   "external_references": [
+    {
+     "source_name": "brandefense",
+     "url": "https://brandefense.io/knowledge-hub/malware/amadey/"
+    },
+    {
+     "source_name": "MITRE ATT&CK",
+     "description": "Amadey, Software S1025",
+     "url": "https://attack.mitre.org/software/S1025/"
+    },
+    {
+     "source_name": "Microsoft Security Blog",
+     "description": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+     "url": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/"
+    },
+    {
+     "source_name": "ESET Research",
+     "description": "ESET takes part in Operation Endgame to disrupt Amadey and Stealc",
+     "url": "https://www.welivesecurity.com/en/eset-research/eset-takes-part-operation-endgame-disrupt-amadey-stealc/"
+    },
+    {
+     "source_name": "Eurojust",
+     "description": "Operation Endgame continues: international coalition takes malware offline",
+     "url": "https://www.eurojust.europa.eu/news/operation-endgame-continues-international-coalition-takes-malware-offline"
+    },
+    {
+     "source_name": "Microsoft On the Issues",
+     "description": "Scaling cybercrime disruption through innovation and AI",
+     "url": "https://blogs.microsoft.com/on-the-issues/2026/06/24/scaling-cybercrime-disruption-through-innovation-and-ai/"
+    },
+    {
+     "source_name": "Cyber Swachhta Kendra",
+     "description": "Amadey Botnet",
+     "url": "https://www.csk.gov.in/alerts/Amadey-Botnet.html"
     }
    ]
   },
@@ -11816,6 +11866,38 @@
   {
    "type": "attack-pattern",
    "spec_version": "2.1",
+   "id": "attack-pattern--8a3ac527-4167-5e4e-b45f-5b21ad10f712",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Software Discovery: Security Software Discovery",
+   "external_references": [
+    {
+     "source_name": "mitre-attack",
+     "external_id": "T1518.001",
+     "url": "https://attack.mitre.org/techniques/T1518/001/"
+    }
+   ]
+  },
+  {
+   "type": "attack-pattern",
+   "spec_version": "2.1",
+   "id": "attack-pattern--ded60633-1550-5fc1-8bbd-1e90805c0fa7",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "System Location Discovery",
+   "external_references": [
+    {
+     "source_name": "mitre-attack",
+     "external_id": "T1614",
+     "url": "https://attack.mitre.org/techniques/T1614/"
+    }
+   ]
+  },
+  {
+   "type": "attack-pattern",
+   "spec_version": "2.1",
    "id": "attack-pattern--a020156a-9756-5271-b30a-8c68d63d9458",
    "created": "2026-10-23T00:00:00.000Z",
    "modified": "2026-10-23T00:00:00.000Z",
@@ -12347,22 +12429,6 @@
      "source_name": "mitre-attack",
      "external_id": "T1218.007",
      "url": "https://attack.mitre.org/techniques/T1218/007/"
-    }
-   ]
-  },
-  {
-   "type": "attack-pattern",
-   "spec_version": "2.1",
-   "id": "attack-pattern--8a3ac527-4167-5e4e-b45f-5b21ad10f712",
-   "created": "2026-10-23T00:00:00.000Z",
-   "modified": "2026-10-23T00:00:00.000Z",
-   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
-   "name": "Software Discovery: Security Software Discovery",
-   "external_references": [
-    {
-     "source_name": "mitre-attack",
-     "external_id": "T1518.001",
-     "url": "https://attack.mitre.org/techniques/T1518/001/"
     }
    ]
   },
@@ -23047,6 +23113,149 @@
    "relationship_type": "uses",
    "source_ref": "malware--11c9dab7-9cde-5781-b809-55869e8c581a",
    "target_ref": "attack-pattern--20a6144d-f291-5f55-9b54-ae1d43305e24"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--27d7a32d-c9b4-5f28-85fa-eaa8c2ca9a8a",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--2243ece7-d9fb-5b04-b76f-2cd9c8958c67"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--05599ef2-5d9c-59c1-9dbd-ea5fba240e07",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--d646e4e3-d74e-51e3-b1a9-fe1fa4faa1f1"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--d5a0f14b-6f49-59cc-ac53-dc4468880116",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--32e9cceb-072a-5fe3-bc4e-05d4f62bbc8d"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--b2dbb86e-16ce-549d-a49a-eeddd343705d",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--da143d81-560f-5594-b908-0e5bee841960"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--79c7595c-b06a-54b2-9f63-df40134ec454",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--90dcb621-0acb-594b-a296-f4de430d4fe8"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--78d478a5-f582-5094-9b14-53400cb57add",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--55623f11-4837-5aac-82f6-5c4a547c7e08"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--114dedc7-52ee-535e-bea0-2a4dc658bb53",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--f9bc8a46-8a35-5f58-b5e8-f0b942f29527"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--8cd99f31-a0d0-5a2d-88e1-27f0833e5fc0",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--8a3ac527-4167-5e4e-b45f-5b21ad10f712"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--3b0bd42f-9f5c-5d2e-8d83-5e8ad04a0be6",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--f7a7658a-cff5-5e95-9648-bfd59725a962"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--13ef5c30-d9e7-54bd-975e-107b21eeca22",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--ded60633-1550-5fc1-8bbd-1e90805c0fa7"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--419238b0-697b-5d43-a620-2076b1e48c8f",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--65ae34a5-7523-55a2-b034-a83e9045fd5c"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--b4e6c804-8fb8-5a81-9c88-59989ba46934",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--fb5ace8b-5603-5d14-b697-dec32575cfcf"
+  },
+  {
+   "type": "relationship",
+   "spec_version": "2.1",
+   "id": "relationship--24238bcb-ae59-5a04-af96-5da9ab30a836",
+   "created": "2026-10-23T00:00:00.000Z",
+   "modified": "2026-10-23T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "relationship_type": "uses",
+   "source_ref": "malware--0ef14e99-3aa7-54d6-ad31-5f702360462d",
+   "target_ref": "attack-pattern--ea6021fc-a77d-588a-a95f-441de49303a0"
   },
   {
    "type": "relationship",

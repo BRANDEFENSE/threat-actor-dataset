@@ -5,7 +5,7 @@
     "publisher": "Brandefense",
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
-    "generated": "2026-10-26",
+    "generated": "2026-10-27",
     "count": 52
   },
   "items": [
@@ -6068,7 +6068,7 @@
       "name": "Kimsuky",
       "slug": "kimsuky",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/kimsuky/",
-      "last_updated": "2026-10-08",
+      "last_updated": "2026-10-27",
       "aliases": [
         {
           "name": "Black Banshee",
@@ -6236,6 +6236,10 @@
         {
           "name": "Mimikatz",
           "type": "Credential dumping tool"
+        },
+        {
+          "name": "Amadey",
+          "type": "Trojan bot"
         }
       ],
       "sources": [
@@ -9129,7 +9133,7 @@
       "name": "TA505",
       "slug": "ta505",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/ta505/",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-27",
       "aliases": [
         {
           "name": "CL0P",
@@ -9273,6 +9277,10 @@
         {
           "name": "Truebot",
           "type": "Downloader"
+        },
+        {
+          "name": "Amadey",
+          "type": "Trojan bot"
         }
       ],
       "sources": [
@@ -9504,7 +9512,7 @@
       "name": "Turla",
       "slug": "turla",
       "url": "https://brandefense.io/knowledge-hub/apt-groups/turla/",
-      "last_updated": "2026-10-07",
+      "last_updated": "2026-10-27",
       "aliases": [
         {
           "name": "Waterbug",
@@ -9668,6 +9676,10 @@
         {
           "name": "Neuron and Nautilus",
           "type": "Implants of Iranian origin"
+        },
+        {
+          "name": "Amadey",
+          "type": "Malware-as-a-service loader"
         }
       ],
       "sources": [

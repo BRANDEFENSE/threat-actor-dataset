@@ -11,7 +11,7 @@ repository-code: "https://github.com/BRANDEFENSE/threat-actor-dataset"
 url: "https://brandefense.io/knowledge-hub/apt-groups/"
 license: CC-BY-4.0
 version: "2026.10"
-date-released: "2026-10-26"
+date-released: "2026-10-27"
 keywords:
   - threat-intelligence
   - cyber-threat-intelligence

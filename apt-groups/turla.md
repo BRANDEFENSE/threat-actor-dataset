@@ -25,6 +25,7 @@ Attributed by MITRE ATT&CK to Russia's FSB, Turla has run espionage against gove
 - Mimikatz (Credential tool)
 - Empire (Post-exploitation framework)
 - Neuron and Nautilus (Implants of Iranian origin)
+- Amadey (Malware-as-a-service loader)
 
 ## MITRE ATT&CK techniques
 
@@ -59,4 +60,4 @@ Attributed by MITRE ATT&CK to Russia's FSB, Turla has run espionage against gove
 
 Timeline, attribution notes, defences and FAQ: **[Turla on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/turla/)**
 
-_Last updated 2026-10-07. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-27. Data: CC BY 4.0, Brandefense._

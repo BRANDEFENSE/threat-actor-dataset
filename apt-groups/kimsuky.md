@@ -23,6 +23,7 @@ Attributed by the US and South Korean governments to North Korea's Reconnaissanc
 - Gomir (Linux backdoor)
 - HTTPTroy (Backdoor)
 - Mimikatz (Credential dumping tool)
+- Amadey (Trojan bot)
 
 ## MITRE ATT&CK techniques
 
@@ -57,4 +58,4 @@ Attributed by the US and South Korean governments to North Korea's Reconnaissanc
 
 Timeline, attribution notes, defences and FAQ: **[Kimsuky on Brandefense](https://brandefense.io/knowledge-hub/apt-groups/kimsuky/)**
 
-_Last updated 2026-10-08. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-27. Data: CC BY 4.0, Brandefense._
