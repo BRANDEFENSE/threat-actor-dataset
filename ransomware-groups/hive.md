@@ -13,9 +13,10 @@ Hive was a ransomware as a service operation active from June 2021. A joint advi
 
 - [#StopRansomware: Hive Ransomware (AA22-321A)](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a), CISA, FBI and HHS
 - [HIVE takedown: NCA in international operation to shut down $100m ransomware threat](https://www.nationalcrimeagency.gov.uk/news/hive-takedown-nca-in-international-operation-to-shut-down-100m-ransomware-threat), UK National Crime Agency
+- [Ukrainian National Sentenced to 70 Months in Prison for Multi-Million Dollar Ransomware Conspiracies](https://www.justice.gov/usao-edny/pr/ukrainian-national-sentenced-70-months-prison-multi-million-dollar-ransomware), U.S. Attorney's Office, Eastern District of New York
 
 ## Full profile
 
 Timeline, attribution notes, defences and FAQ: **[Hive on Brandefense](https://brandefense.io/knowledge-hub/ransomware-groups/hive/)**
 
-_Last updated 2026-10-09. Data: CC BY 4.0, Brandefense._
+_Last updated 2026-10-28. Data: CC BY 4.0, Brandefense._

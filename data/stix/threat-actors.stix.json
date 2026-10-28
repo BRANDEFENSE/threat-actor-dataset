@@ -3989,8 +3989,8 @@
    "type": "intrusion-set",
    "spec_version": "2.1",
    "id": "intrusion-set--19d559bb-fb6a-5e37-8604-b9085178dcf8",
-   "created": "2026-10-09T00:00:00.000Z",
-   "modified": "2026-10-09T00:00:00.000Z",
+   "created": "2026-10-28T00:00:00.000Z",
+   "modified": "2026-10-28T00:00:00.000Z",
    "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
    "name": "Hive",
    "description": "Hive was a ransomware as a service operation active from June 2021. A joint advisory (AA22-321A) from the FBI, CISA and HHS says it hit over 1,300 companies and received about 100 million US dollars in ransom. The UK National Crime Agency reports its servers were taken offline in an FBI and German-led operation on 26 January 2023.",
@@ -4008,6 +4008,11 @@
      "source_name": "UK National Crime Agency",
      "description": "HIVE takedown: NCA in international operation to shut down $100m ransomware threat",
      "url": "https://www.nationalcrimeagency.gov.uk/news/hive-takedown-nca-in-international-operation-to-shut-down-100m-ransomware-threat"
+    },
+    {
+     "source_name": "U.S. Attorney's Office, Eastern District of New York",
+     "description": "Ukrainian National Sentenced to 70 Months in Prison for Multi-Million Dollar Ransomware Conspiracies",
+     "url": "https://www.justice.gov/usao-edny/pr/ukrainian-national-sentenced-70-months-prison-multi-million-dollar-ransomware"
     }
    ]
   },
@@ -4168,6 +4173,47 @@
      "source_name": "CISA",
      "description": "Stop Ransomware",
      "url": "https://stopransomware.gov/"
+    }
+   ]
+  },
+  {
+   "type": "intrusion-set",
+   "spec_version": "2.1",
+   "id": "intrusion-set--0f3dff06-69d0-5f07-884a-3e215ab88a8d",
+   "created": "2026-10-28T00:00:00.000Z",
+   "modified": "2026-10-28T00:00:00.000Z",
+   "created_by_ref": "identity--aca20eaa-d689-5f0a-9ab0-02dee5881216",
+   "name": "Nefilim Ransomware: Profile, Tactics and the Stryzhak Case",
+   "description": "Nefilim was a ransomware-as-a-service operation that stole data, encrypted networks and threatened to publish what it took. The US Department of Justice says its administrators gave affiliates access in return for a percentage of ransom payments; affiliate Artem Stryzhak agreed to pay 20%. On 27 October 2026 a US court sentenced him to 70 months in prison.",
+   "external_references": [
+    {
+     "source_name": "brandefense",
+     "url": "https://brandefense.io/knowledge-hub/ransomware-groups/nefilim/"
+    },
+    {
+     "source_name": "US Department of Justice, EDNY",
+     "description": "Ukrainian National Sentenced to 70 Months in Prison for Multi-Million Dollar Ransomware Conspiracies",
+     "url": "https://www.justice.gov/usao-edny/pr/ukrainian-national-sentenced-70-months-prison-multi-million-dollar-ransomware"
+    },
+    {
+     "source_name": "US Department of Justice, EDNY",
+     "description": "Ransomware Administrator Charged with Cybercrimes for Deploying Lockergoga, Nefilim, and Megacortex Ransomware Strains Against Hundreds of Victims",
+     "url": "https://www.justice.gov/usao-edny/pr/ransomware-administrator-charged-cybercrimes-deploying-lockergoga-nefilim-and"
+    },
+    {
+     "source_name": "US Department of Justice",
+     "description": "Ukrainian National Pleads Guilty to Conspiracy to Use Nefilim Ransomware to Attack Companies in the United States",
+     "url": "https://www.justice.gov/opa/pr/ukrainian-national-pleads-guilty-conspiracy-use-nefilim-ransomware-attack-companies-united"
+    },
+    {
+     "source_name": "Trend Micro",
+     "description": "Nefilim Ransomware",
+     "url": "https://www.trendmicro.com/en_us/research/21/b/nefilim-ransomware.html"
+    },
+    {
+     "source_name": "Trend Micro",
+     "description": "Updated Analysis on Nefilim Ransomware's Behavior",
+     "url": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/updated-analysis-on-nefilim-ransomware-s-behavior"
     }
    ]
   },

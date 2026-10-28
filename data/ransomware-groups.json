@@ -5,8 +5,8 @@
     "publisher": "Brandefense",
     "homepage": "https://brandefense.io",
     "license": "CC-BY-4.0",
-    "generated": "2026-10-27",
-    "count": 27
+    "generated": "2026-10-28",
+    "count": 28
   },
   "items": [
     {
@@ -535,7 +535,7 @@
       "name": "Hive",
       "slug": "hive",
       "url": "https://brandefense.io/knowledge-hub/ransomware-groups/hive/",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-10-28",
       "aliases": [],
       "summary": "Hive was a ransomware as a service operation active from June 2021. A joint advisory (AA22-321A) from the FBI, CISA and HHS says it hit over 1,300 companies and received about 100 million US dollars in ransom. The UK National Crime Agency reports its servers were taken offline in an FBI and German-led operation on 26 January 2023.",
       "status": "disrupted",
@@ -560,6 +560,11 @@
           "title": "HIVE takedown: NCA in international operation to shut down $100m ransomware threat",
           "publisher": "UK National Crime Agency",
           "url": "https://www.nationalcrimeagency.gov.uk/news/hive-takedown-nca-in-international-operation-to-shut-down-100m-ransomware-threat"
+        },
+        {
+          "title": "Ukrainian National Sentenced to 70 Months in Prison for Multi-Million Dollar Ransomware Conspiracies",
+          "publisher": "U.S. Attorney's Office, Eastern District of New York",
+          "url": "https://www.justice.gov/usao-edny/pr/ukrainian-national-sentenced-70-months-prison-multi-million-dollar-ransomware"
         }
       ]
     },
@@ -756,6 +761,47 @@
           "title": "Stop Ransomware",
           "publisher": "CISA",
           "url": "https://stopransomware.gov/"
+        }
+      ]
+    },
+    {
+      "name": "Nefilim Ransomware: Profile, Tactics and the Stryzhak Case",
+      "slug": "nefilim",
+      "url": "https://brandefense.io/knowledge-hub/ransomware-groups/nefilim/",
+      "last_updated": "2026-10-28",
+      "aliases": [],
+      "summary": "Nefilim was a ransomware-as-a-service operation that stole data, encrypted networks and threatened to publish what it took. The US Department of Justice says its administrators gave affiliates access in return for a percentage of ransom payments; affiliate Artem Stryzhak agreed to pay 20%. On 27 October 2026 a US court sentenced him to 70 months in prison.",
+      "status": "inactive",
+      "first_seen": "2020",
+      "model": "Ransomware as a service with double extortion; affiliate Stryzhak agreed to pay the administrators 20% of ransom proceeds (per the US Department of Justice)",
+      "extortion": "Double extortion. The DOJ says Nefilim ransom notes typically threatened that, unless the victim came to an agreement, the stolen data would be published on public \"Corporate Leaks\" websites kept by the Nefilim administrators. The DOJ says victims who paid received a decryption key. In its plea release it adds that a unique ransomware file, with its own key and ransom note, was made for each victim.",
+      "target_sectors": [],
+      "malware": [],
+      "sources": [
+        {
+          "title": "Ukrainian National Sentenced to 70 Months in Prison for Multi-Million Dollar Ransomware Conspiracies",
+          "publisher": "US Department of Justice, EDNY",
+          "url": "https://www.justice.gov/usao-edny/pr/ukrainian-national-sentenced-70-months-prison-multi-million-dollar-ransomware"
+        },
+        {
+          "title": "Ransomware Administrator Charged with Cybercrimes for Deploying Lockergoga, Nefilim, and Megacortex Ransomware Strains Against Hundreds of Victims",
+          "publisher": "US Department of Justice, EDNY",
+          "url": "https://www.justice.gov/usao-edny/pr/ransomware-administrator-charged-cybercrimes-deploying-lockergoga-nefilim-and"
+        },
+        {
+          "title": "Ukrainian National Pleads Guilty to Conspiracy to Use Nefilim Ransomware to Attack Companies in the United States",
+          "publisher": "US Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/ukrainian-national-pleads-guilty-conspiracy-use-nefilim-ransomware-attack-companies-united"
+        },
+        {
+          "title": "Nefilim Ransomware",
+          "publisher": "Trend Micro",
+          "url": "https://www.trendmicro.com/en_us/research/21/b/nefilim-ransomware.html"
+        },
+        {
+          "title": "Updated Analysis on Nefilim Ransomware's Behavior",
+          "publisher": "Trend Micro",
+          "url": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/updated-analysis-on-nefilim-ransomware-s-behavior"
         }
       ]
     },
